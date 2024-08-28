@@ -94,14 +94,14 @@
         {
             "id": "13",
             "titulo": "Prayer for the Sick",
-            "imagen": "enfermos",
+            "imagen": "salud",
             "subtitulo": "Prayer to ask for healing and strength",
             "contenido": "Lord, I ask you to look with compassion<br>on those who are suffering.<br>Give them comfort, relief, and healing.<br>Strengthen their spirits<br>and give them the grace of recovery.<br>Be with them in their moments of pain and weakness,<br>and give them the courage to endure.<br>Amen."
         },
         {
             "id": "14",
             "titulo": "Prayer for Protection Against Evil",
-            "imagen": "proteccion",
+            "imagen": "fortaleza",
             "subtitulo": "Prayer for protection against any spiritual evil",
             "contenido": "Lord, protect us from all evil,<br>visible and invisible.<br>Keep us from all temptation<br>and from the snares of the enemy.<br>Guard our minds, our hearts, and our bodies.<br>Surround us with your light and peace,<br>and deliver us from all harm.<br>Amen."
         },
@@ -115,42 +115,42 @@
         {
             "id": "16",
             "titulo": "Prayer of Forgiveness",
-            "imagen": "forgiveness",
+            "imagen": "perdon",
             "subtitulo": "Prayer to ask for and offer forgiveness",
             "contenido": "Lord, I ask for forgiveness for my sins,<br>and thank You for Your mercy.<br>Help me to forgive those who have offended me,<br>and to live in peace with everyone.<br>Amen."
         },
         {
             "id": "17",
             "titulo": "Prayer for the Family",
-            "imagen": "family",
+            "imagen": "familia",
             "subtitulo": "Prayer to ask for blessings for the family",
             "contenido": "I ask You, Lord, to bless my family,<br>to protect each one of us,<br>and to grant us love, understanding, and unity.<br>May Your peace reign in our home.<br>Amen."
         },
         {
             "id": "18",
             "titulo": "Prayer of Trust",
-            "imagen": "trust",
+            "imagen": "confianza",
             "subtitulo": "Prayer to trust in God's will",
             "contenido": "I trust in You, Lord, and in Your plan for my life.<br>Help me to accept whatever comes with faith,<br>knowing that You are always by my side,<br>and that Your will is best for me.<br>Amen."
         },
         {
             "id": "19",
             "titulo": "Morning Prayer",
-            "imagen": "morning",
+            "imagen": "manana",
             "subtitulo": "Prayer to start the day with grace",
             "contenido": "Thank You, Lord, for this new day.<br>Guide me in each step and let my actions<br>reflect Your love and goodness.<br>Bless my work and my relationships,<br>and help me to live in Your presence.<br>Amen."
         },
         {
             "id": "20",
             "titulo": "Night Prayer",
-            "imagen": "night",
+            "imagen": "noche",
             "subtitulo": "Prayer to end the day in peace",
             "contenido": "Thank You, Lord, for this day that has passed.<br>I ask You to grant me a peaceful rest<br>and to protect me while I sleep.<br>Forgive my mistakes and strengthen me for the next day.<br>Amen."
         },
         {
             "id": "21",
             "titulo": "Prayer for Wisdom",
-            "imagen": "wisdom",
+            "imagen": "sabiduria",
             "subtitulo": "Prayer to ask for wisdom and discernment",
             "contenido": "Lord, I ask You to give me wisdom and discernment.<br>Help me to make right decisions and to understand Your will.<br>Guide me in my studies and in my daily life,<br>and give me clarity to follow the path You have set for me.<br>Amen."
         }
