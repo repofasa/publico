@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Vaterunser",
+            "imagen": "padrenuestro",
+            "subtitulo": "Das grundlegende Gebet der Katholiken",
+            "contenido": "Vater unser,<br>der du im Himmel bist,<br>geheiligt werde dein Name;<br>dein Reich komme;<br>dein Wille geschehe,<br>wie im Himmel, so auf Erden.<br><br>Unser tägliches Brot gib uns heute;<br>vergib uns unsere Schuld,<br>wie auch wir vergeben unseren Schuldigern;<br>führe uns nicht in Versuchung,<br>sondern erlöse uns von dem Bösen.<br>Amen."
+        },
+        {
+            "id": "1",
+            "titulo": "Gegrüßet seist du, Maria",
+            "imagen": "avemaria",
+            "subtitulo": "Gebet an die Mutter Gottes",
+            "contenido": "Gegrüßet seist du, Maria,<br>voller Gnade,<br>der Herr ist mit dir;<br>du bist die Gebenedeite unter allen Frauen,<br>und gesegnet ist die Frucht deines Leibes, Jesus.<br><br>Heilige Maria, Mutter Gottes,<br>bitte für uns Sünder,<br>jetzt und in der Stunde<br>unseres Todes. Amen."
+        },
+        {
+            "id": "2",
+            "titulo": "Ehre sei dem Vater",
+            "imagen": "gloria",
+            "subtitulo": "Lobpreis der heiligen Dreifaltigkeit",
+            "contenido": "Ehre sei dem Vater, und dem Sohn, und dem Heiligen<br>Geist. Wie es war im Anfang, so auch jetzt und<br>immer und von Ewigkeit zu Ewigkeit.<br>Amen."
+        },
+        {
+            "id": "3",
+            "titulo": "Salve Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Gebet zur Anrufung der Jungfrau Maria",
+            "contenido": "Gegrüßet seist du, Königin und Mutter der Barmherzigkeit,<br>Leben, Süße und Hoffnung unser:<br>Gegrüßet seist du.<br><br>Zu dir rufen wir die verbannte Kinder Evas;<br>zu dir seufzen wir, weinend und klagend,<br>in diesem Tal der Tränen.<br>Wende, o Frau, unsere Augen<br>von deinem barmherzigen Blick zu uns<br>und zeige uns nach diesem Exil Jesus,<br>die gesegnete Frucht deines Leibes.<br>O gnädige, o barmherzige, o süße Jungfrau Maria!<br><br>V. Bitte für uns, heilige Mutter Gottes,<br>R. Damit wir würdig werden, die Verheißungen<br>unseres Herrn Jesus Christus zu empfangen.<br>Amen."
+        },
+        {
+            "id": "4",
+            "titulo": "Akt der Weihe",
+            "imagen": "consagracion",
+            "subtitulo": "Persönliche Weihe an die Jungfrau Maria",
+            "contenido": "O meine Dame,<br>o meine Mutter!,<br>ich übergebe mich ganz dir,<br>und als Zeichen meiner Zuneigung,<br>weihe ich dich an diesem Tag:<br>alles was ich bin, alles was ich habe.<br>Bewahre und schütze,<br>und verteidige auch diesen deinen Sohn,<br>so sei es."
+        },
+        {
+            "id": "5",
+            "titulo": "Angelus",
+            "imagen": "angelus",
+            "subtitulo": "Gebet des Angelus zur Zeit der Inkarnation",
+            "contenido": "D: Der Engel des Herrn verkündete Maria.<br><br>T: Und sie empfing vom Heiligen Geist.<br><br>Gegrüßet seist du, Maria<br><br>D: Siehe, die Magd des Herrn.<br><br>T: Mir geschehe nach deinem Wort.<br><br>Gegrüßet seist du, Maria<br><br>D: Und das Wort wurde Fleisch.<br><br>T: Und wohnte unter uns.<br><br>Gegrüßet seist du, Maria<br><br>D: Bitte für uns, heilige Mutter Gottes.<br><br>T: Damit wir würdig werden, die Verheißungen unseres Herrn Jesus Christus zu empfangen.<br><br>Es werden drei Ehren für die Dreifaltigkeit gesprochen<br><br>D: Lasst uns beten<br>Gieße, Herr, deine Gnade in unsere Herzen und gewähre uns, die wir durch die Verkündigung des Engels die Menschwerdung deines Sohnes erkannt haben, dass wir durch sein Leiden und sein Kreuz zur Herrlichkeit der Auferstehung gelangen. Durch Christus, unseren Herrn, der mit dir lebt und herrscht in Einheit des Heiligen Geistes, und Gott ist, von Ewigkeit zu Ewigkeit.<br><br>T: Amen."
+        },
+        {
+            "id": "6",
+            "titulo": "Nicaenisches Glaubensbekenntnis",
+            "imagen": "credonicea",
+            "subtitulo": "Glaubensbekenntnis des Christentums",
+            "contenido": "Ich glaube an einen einzigen Gott,<br>den allmächtigen Vater,<br>Schöpfer des Himmels und der Erde,<br>aller sichtbaren und unsichtbaren Dinge.<br><br>Ich glaube an einen Herrn Jesus Christus,<br>den einzigen Sohn Gottes,<br>gezeugt vom Vater vor aller Zeit:<br>Gott vom Gott,<br>Licht vom Licht,<br>wahrer Gott vom wahren Gott,<br>gezeugt, nicht geschaffen,<br>einer Wesensart mit dem Vater,<br>durch den alles geschaffen wurde;<br>der für uns Menschen,<br>und um unseres Heils willen,<br>vom Himmel herabstieg,<br>und durch den Heiligen Geist<br>Fleisch wurde von der Jungfrau Maria,<br>und Mensch wurde;<br>und für uns gekreuzigt wurde<br>unter Pontius Pilatus;<br>hat gelitten und wurde begraben,<br>und ist am dritten Tage auferstanden, wie die Schrift sagt,<br>und ist aufgefahren in den Himmel,<br>und sitzt zur Rechten des Vaters;<br>und wird wiederkommen mit Herrlichkeit,<br>um die Lebenden und die Toten zu richten,<br>und sein Reich wird kein Ende haben.<br><br>Ich glaube an den Heiligen Geist,<br>den Herrn und Lebensspender,<br>der vom Vater und dem Sohn ausgeht,<br>der mit dem Vater und dem Sohn<br>gleich Verehrung und Herrlichkeit empfängt,<br>der durch die Propheten gesprochen hat.<br><br>Ich glaube an die eine, heilige, katholische und apostolische Kirche.<br>Ich bekenne ein einziges Taufe<br>zur Vergebung der Sünden.<br>Ich erwarte die Auferstehung der Toten<br>und das Leben der zukünftigen Welt.<br>Amen."
+        },
+        {
+            "id": "7",
+            "titulo": "Salve Regina",
+            "imagen": "salve",
+            "subtitulo": "Marianische Antiphon der Andacht",
+            "contenido": "Gegrüßet seist du, Königin und Mutter der Barmherzigkeit,<br>Leben, Süße und Hoffnung unser;<br>Gegrüßet seist du.<br><br>Zu dir rufen wir, die verbannten Kinder Evas;<br>zu dir seufzen wir, weinend und klagend,<br>in diesem Tal der Tränen.<br><br>Wende, o Frau, unsere Augen,<br>von deinem barmherzigen Blick zu uns,<br>und nach diesem Exil zeige uns Jesus,<br>die gesegnete Frucht deines Leibes.<br><br>O gnädige, o barmherzige, o süße Jungfrau Maria!<br><br>D: Bitte für uns, heilige Mutter Gottes.<br><br>T: Damit wir würdig werden, die Verheißungen<br>unseres Herrn Jesus Christus zu empfangen. Amen."
+        },
+        {
+            "id": "8",
+            "titulo": "Freue dich, Maria",
+            "imagen": "alegratemaria",
+            "subtitulo": "Gebet der Freude und marianischen Andacht",
+            "contenido": "Freue dich, Maria,<br>unbefleckt und heilig,<br>von Gott geliebt,<br>neue Eva erwählt,<br>Mitarbeiterin der Versöhnung.<br><br> Mutter Jesu und unsere,<br>unermüdliche Hilfe der Sünder,<br>mütterliche Fürsprecherin,<br>erinnere dich an diesen deinen Sohn.<br>Amen."
+        },
+        {
+            "id": "9",
+            "titulo": "Gebet des 'Fiat'",
+            "imagen": "fiat",
+            "subtitulo": "Gebet der Hingabe an den Willen Gottes",
+            "contenido": "Heilige Maria, hilf mir, mich anzustrengen<br>nach Kräften und Möglichkeiten,<br>um immer in der Tugend zu leben.<br>Ich übergebe mich dir völlig,<br>und möchte immer für dich leben,<br>damit deine Ehre<br>und die deines Sohnes Jesus<br>immer mein Hauptanliegen sind.<br>Amen."
+        },
+        {
+            "id": "10",
+            "titulo": "Gebet des Schutzes",
+            "imagen": "protecciondivina",
+            "subtitulo": "Gebet um göttlichen Schutz",
+            "contenido": "Herr, ich bitte dich, mich zu beschützen und zu führen,<br>jederzeit. Bewahre mich vor allem Bösen,<br>und befreie mich von jeglicher Gefahr. Möge deine Gegenwart<br>mich umgeben und stärken, heute und immer.<br>Amen."
+        },
+        {
+            "id": "11",
+            "titulo": "Dankgebet",
+            "imagen": "acciondegracias",
+            "subtitulo": "Gebet, um Gott zu danken",
+            "contenido": "Danke, Herr, für alle Segnungen, die du mir schenkst.<br>Ich danke dir für deine bedingungslose Liebe,<br>für deinen Schutz und für jeden Tag, den du mir gibst.<br>Ich lobe und preise dich, heute und immer.<br>Amen."
+        },
+        {
+            "id": "12",
+            "titulo": "Gebet für den Frieden",
+            "imagen": "paz",
+            "subtitulo": "Gebet für Frieden in der Welt",
+            "contenido": "Herr, ich bitte dich, Frieden für unsere Welt zu schenken,<br>dass Harmonie und Verständnis zwischen den Nationen herrschen,<br>und dass jedes Herz Frieden in dir findet.<br>Amen."
+        },
+        {
+            "id": "13",
+            "titulo": "Gebet für Gesundheit",
+            "imagen": "salud",
+            "subtitulo": "Gebet für Gesundheit und Wohlbefinden",
+            "contenido": "Ich bitte dich, Herr, die Kranken zu heilen,<br>ihnen Stärke und Trost in ihrem Leiden zu schenken.<br>Stelle die Gesundheit von Körper und Geist wieder her,<br>und gewähre allen, die es benötigen, Wohlbefinden.<br>Amen."
+        },
+        {
+            "id": "14",
+            "titulo": "Gebet um Stärke",
+            "imagen": "fortaleza",
+            "subtitulo": "Gebet um Stärke in schwierigen Zeiten",
+            "contenido": "Herr, gib mir die Stärke, um Schwierigkeiten zu begegnen,<br>die Weisheit, um weise Entscheidungen zu treffen,<br>und den Frieden, um in Zeiten der Prüfung ruhig zu bleiben.<br>Ich vertraue auf deine Unterstützung und Liebe.<br>Amen."
+        },
+        {
+            "id": "15",
+            "titulo": "Gebet zur Umwandlung",
+            "imagen": "conversion",
+            "subtitulo": "Gebet um die Umwandlung des Herzens",
+            "contenido": "Herr, verwandle mein Herz und meinen Verstand,<br>reinige mich und führe mich zu einem heiligeren Leben.<br>Hilf mir, gemäß deinem Willen zu leben,<br>und deine Liebe in allem, was ich tue, widerzuspiegeln.<br>Amen."
+        },
+        {
+            "id": "16",
+            "titulo": "Gebet um Vergebung",
+            "imagen": "perdon",
+            "subtitulo": "Gebet um Vergebung und um Vergebung zu gewähren",
+            "contenido": "Herr, ich bitte um Vergebung für meine Sünden,<br>und danke dir für deine Barmherzigkeit.<br>Hilf mir, denen zu vergeben, die mich verletzt haben,<br>und in Frieden mit allen zu leben.<br>Amen."
+        },
+        {
+            "id": "17",
+            "titulo": "Gebet für die Familie",
+            "imagen": "familia",
+            "subtitulo": "Gebet um Segen für die Familie",
+            "contenido": "Ich bitte dich, Herr, segne meine Familie,<br>schütze jeden von uns,<br>und schenke uns Liebe, Verständnis und Einheit.<br>Möge dein Frieden in unserem Zuhause herrschen.<br>Amen."
+        },
+        {
+            "id": "18",
+            "titulo": "Gebet des Vertrauens",
+            "imagen": "confianza",
+            "subtitulo": "Gebet um Vertrauen in den Willen Gottes",
+            "contenido": "Ich vertraue dir, Herr, und deinem Plan für mein Leben.<br>Hilf mir, alles mit Glauben zu akzeptieren,<br>wissend, dass du immer an meiner Seite bist,<br>und dass dein Wille das Beste für mich ist.<br>Amen."
+        },
+        {
+            "id": "19",
+            "titulo": "Morgengebet",
+            "imagen": "manana",
+            "subtitulo": "Gebet zum Beginn des Tages mit Gnade",
+            "contenido": "Ich danke dir, Herr, für diesen neuen Tag.<br>Führe mich in jedem Schritt und lasse meine Taten<br>deine Liebe und Güte widerspiegeln.<br>Segne meine Arbeit und meine Beziehungen,<br>und hilf mir, in deiner Gegenwart zu leben.<br>Amen."
+        },
+        {
+            "id": "20",
+            "titulo": "Abendgebet",
+            "imagen": "noche",
+            "subtitulo": "Gebet zum Abschluss des Tages in Frieden",
+            "contenido": "Danke, Herr, für diesen vergangenen Tag.<br>Ich bitte dich, mir eine ruhige Erholung zu schenken<br>und mich während des Schlafes zu schützen.<br>Vergib mir meine Fehler und stärke mich für den nächsten Tag.<br>Amen."
+        },
+        {
+            "id": "21",
+            "titulo": "Gebet um Weisheit",
+            "imagen": "sabiduria",
+            "subtitulo": "Gebet um Weisheit und Erkenntnis",
+            "contenido": "Herr, ich bitte dich um Weisheit und Erkenntnis.<br>Hilf mir, richtige Entscheidungen zu treffen und deinen Willen zu verstehen.<br>Führe mich in meinem Studium und meinem täglichen Leben,<br>und schenke mir Klarheit, um den Weg zu folgen, den du für mich bestimmt hast.<br>Amen."
+        }
+    ]
+}

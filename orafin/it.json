@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Padre Nostro",
+            "imagen": "padrenuestro",
+            "subtitulo": "La preghiera fondamentale dei Cattolici",
+            "contenido": "Padre nostro,<br>che sei nei cieli,<br>sia santificato il tuo Nome;<br>venga il tuo regno;<br>sia fatta la tua volontà<br>come in cielo così in terra.<br><br>Darci oggi il nostro pane quotidiano;<br>perdona le nostre offese,<br>come anche noi perdoniamo<br>quelli che ci offendono;<br>e non ci indurre in tentazione,<br>ma liberaci dal male.<br>Amen."
+        },
+        {
+            "id": "1",
+            "titulo": "Ave Maria",
+            "imagen": "avemaria",
+            "subtitulo": "Preghiera dedicata alla Madre di Dio",
+            "contenido": "Ave Maria,<br>piena di grazia,<br>il Signore è con te;<br>benedetta tu sei<br>fra tutte le donne,<br>e benedetto è il frutto<br>del tuo seno, Gesù.<br><br>Santa Maria, Madre di Dio,<br>prega per noi peccatori,<br>adesso e nell'ora<br>della nostra morte. Amen."
+        },
+        {
+            "id": "2",
+            "titulo": "Gloria",
+            "imagen": "gloria",
+            "subtitulo": "Lode alla Santa Trinità",
+            "contenido": "Gloria al Padre, al Figlio e allo Spirito<br>Santo. Come era nel principio, ora<br>e sempre, nei secoli dei secoli.<br>Amen."
+        },
+        {
+            "id": "3",
+            "titulo": "Salve Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Preghiera di invocazione alla Vergine Maria",
+            "contenido": "Salve, Regina, Madre di misericordia,<br>vita, dolcezza e speranza nostra:<br>Salve.<br><br>A te ricorriamo, esuli figli di Eva;<br>a te sospiriamo, gemendo e piangendo<br>in questo valle di lacrime.<br><br>Volgi a noi, dunque, gli occhi tuoi misericordiosi,<br>e dopo questo esilio, mostrateci Gesù,<br>frutto benedetto del tuo seno.<br><br>Oh clemente, oh pia, oh dolce Vergine Maria!<br><br>D: Prega per noi, Santa Madre di Dio.<br>T: Perché siamo resi degni delle promesse<br>del nostro Signore Gesù Cristo.<br>Amen."
+        },
+        {
+            "id": "4",
+            "titulo": "Atto di Consacrazione",
+            "imagen": "consagracion",
+            "subtitulo": "Consacrazione personale alla Vergine Maria",
+            "contenido": "Oh Signora mia,<br>oh Madre mia!,<br>mi consegno completamente a Te<br>e in segno del mio affetto,<br>con amore filiale,<br>ti consacro in questo giorno:<br>tutto ciò che sono, tutto ciò che ho.<br>Custodisci e proteggi,<br>e difendi anche questo tuo figlio,<br>così sia."
+        },
+        {
+            "id": "5",
+            "titulo": "Angelus",
+            "imagen": "angelus",
+            "subtitulo": "Preghiera dell'Angelus per il tempo dell'Incarnazione",
+            "contenido": "D: L'Angelo del Signore annunciò a Maria.<br><br>T: Ed Ella concepì per opera e grazia dello Spirito Santo.<br><br>Ave Maria<br><br>D: Ecco la serva del Signore.<br><br>T: Avvenga in me secondo la tua parola.<br><br>Ave Maria<br><br>D: E il Verbo si è fatto carne.<br><br>T: E abitò tra noi.<br><br>Ave Maria<br><br>D: Prega per noi Santa Madre di Dio.<br><br>T: Perché siamo resi degni di raggiungere le promesse del nostro Signore Gesù Cristo.<br><br>Si dicono tre Glorie<br><br>D: Preghiamo<br>O Signore, versa la tua grazia sui nostri cuori e concedi a noi che abbiamo conosciuto per l'annuncio dell'Angelo l'Incarnazione del tuo Figlio, che per la sua Passione e Croce raggiungiamo la gloria della Risurrezione. Per il Signore Gesù, tuo Figlio, che vive e regna con te, in unità dello Spirito Santo, e Dio, nei secoli dei secoli.<br><br>T: Amen."
+        },
+        {
+            "id": "6",
+            "titulo": "Credo di Nicea",
+            "imagen": "credonicea",
+            "subtitulo": "Simbolo della fede cristiana",
+            "contenido": "Credo in un solo Dio,<br>Padre onnipotente,<br>Creatore del cielo e della terra,<br>di tutto ciò che è visibile e invisibile.<br><br>Credo in un solo Signore, Gesù Cristo,<br>Figlio unico di Dio,<br>nato dal Padre prima di tutti i secoli:<br>Dio da Dio,<br>Luce da Luce,<br>Dio vero da Dio vero,<br>generato, non creato,<br>della stessa sostanza del Padre,<br>per mezzo del quale tutto è stato fatto;<br>che per noi uomini,<br>e per la nostra salvezza<br>scese dal cielo,<br>e per opera dello Spirito Santo<br>si incarnò dalla Vergine Maria,<br>e divenne uomo;<br>e per noi fu crocifisso<br>sotto Ponzio Pilato;<br>soffrì e fu sepolto,<br>e risuscitò il terzo giorno, secondo le Scritture,<br>e salì al cielo,<br>e siede alla destra del Padre;<br>e di nuovo verrà con gloria<br>per giudicare i vivi e i morti,<br>e il suo regno non avrà fine.<br><br>Credo nello Spirito Santo,<br>Signore e datore di vita,<br>che procede dal Padre e dal Figlio,<br>che con il Padre e il Figlio<br>riceve una stessa adorazione e gloria,<br>e che ha parlato per mezzo dei profeti.<br><br>Credo nella Chiesa,<br>che è una, santa, cattolica e apostolica.<br>Confesso un solo battesimo<br>per il perdono dei peccati.<br>Aspetto la risurrezione dei morti<br>e la vita del mondo futuro.<br>Amen."
+        },
+        {
+            "id": "7",
+            "titulo": "Salve",
+            "imagen": "salve",
+            "subtitulo": "Antifona mariana di devozione",
+            "contenido": "Salve, Regina, Madre di misericordia,<br>vita, dolcezza e speranza nostra;<br>Salve.<br><br>A te ricorriamo, esuli figli di Eva;<br>a te sospiriamo, gemendo e piangendo,<br>in questo valle di lacrime.<br><br>Volgi a noi, dunque, gli occhi tuoi misericordiosi,<br>e dopo questo esilio mostraci Gesù,<br>frutto benedetto del tuo seno.<br><br>Oh clemente, oh pia, oh dolce Vergine Maria!<br><br>D: Prega per noi Santa Madre di Dio.<br>T: Perché siamo resi degni di raggiungere<br>le promesse del nostro Signore Gesù Cristo. Amen."
+        },
+        {
+            "id": "8",
+            "titulo": "Rallegrati Maria",
+            "imagen": "alegratemaria",
+            "subtitulo": "Preghiera di gioia e devozione mariana",
+            "contenido": "Rallegrati Maria,<br>Immacolata e Santa,<br>amata di Dio,<br>nuova Eva scelta,<br>cooperatrice della riconciliazione.<br><br>Madre di Gesù e nostra,<br>instancabile aiuto dei peccatori,<br>interceditrice materna,<br>ricordati di questo tuo figlio.<br>Amen."
+        },
+        {
+            "id": "9",
+            "titulo": "Preghiera del 'Fiat'",
+            "imagen": "fiat",
+            "subtitulo": "Preghiera di consacrazione alla volontà di Dio",
+            "contenido": "Santa Maria, aiutami a sforzarmi<br>secondo il massimo delle mie capacità<br>e al massimo delle mie possibilità<br>per vivere sempre nella virtù.<br>Mi consacro totalmente a te,<br>e voglio vivere sempre per te,<br>in modo che la tua gloria<br>e quella di tuo Figlio Gesù<br>sia sempre la mia principale motivazione.<br>Amen."
+        },
+        {
+            "id": "10",
+            "titulo": "Preghiera di Protezione",
+            "imagen": "protecciondivina",
+            "subtitulo": "Preghiera per chiedere la protezione divina",
+            "contenido": "Signore, ti chiedo di proteggermi e guidarmi<br>in ogni momento. Difendimi da ogni male,<br>e liberami da qualsiasi pericolo. Che la tua presenza<br>mi circondi e mi fortifichi, oggi e sempre.<br>Amen."
+        },
+        {
+            "id": "11",
+            "titulo": "Preghiera di Ringraziamento",
+            "imagen": "acciondegracias",
+            "subtitulo": "Preghiera per ringraziare Dio",
+            "contenido": "Grazie, Signore, per tutte le benedizioni che mi dai.<br>Ti ringrazio per il tuo amore incondizionato,<br>per la tua protezione e per ogni giorno che mi concedi.<br>Ti lodo e ti benedico, oggi e sempre.<br>Amen."
+        },
+        {
+            "id": "12",
+            "titulo": "Preghiera per la Pace",
+            "imagen": "paz",
+            "subtitulo": "Preghiera per la pace nel mondo",
+            "contenido": "Signore, ti chiedo di concedere pace al nostro mondo,<br>che l'armonia e la comprensione prevalgano tra le nazioni,<br>e che ogni cuore trovi la pace in te.<br>Amen."
+        },
+        {
+            "id": "13",
+            "titulo": "Preghiera per la Salute",
+            "imagen": "salud",
+            "subtitulo": "Preghiera per chiedere salute e benessere",
+            "contenido": "Ti chiedo, Signore, di guarire i malati,<br>di dare loro forza e consolazione nella loro sofferenza.<br>Restituisci la salute ai corpi e alle menti,<br>e concede benessere a tutti coloro che ne hanno bisogno.<br>Amen."
+        },
+        {
+            "id": "14",
+            "titulo": "Preghiera di Forza",
+            "imagen": "fortaleza",
+            "subtitulo": "Preghiera per chiedere forza nei tempi difficili",
+            "contenido": "Signore, dammi la forza per affrontare le difficoltà,<br>la saggezza per prendere decisioni sagge,<br>e la pace per mantenere la calma nei momenti di prova.<br>Confido nel tuo sostegno e nel tuo amore.<br>Amen."
+        },
+        {
+            "id": "15",
+            "titulo": "Preghiera di Conversione",
+            "imagen": "conversion",
+            "subtitulo": "Preghiera per chiedere la conversione del cuore",
+            "contenido": "Signore, trasforma il mio cuore e la mia mente,<br>purificami e guidami verso una vita più santa.<br>Aiutami a vivere secondo la tua volontà,<br>e a riflettere il tuo amore in tutto ciò che faccio.<br> Amen."
+        },
+        {
+            "id": "16",
+            "titulo": "Preghiera di Perdono",
+            "imagen": "perdon",
+            "subtitulo": "Preghiera per chiedere e offrire perdono",
+            "contenido": "Signore, ti chiedo perdono per i miei peccati,<br>e ti ringrazio per la tua misericordia.<br>Aiutami a perdonare coloro che mi hanno offeso,<br>e a vivere in pace con tutti.<br> Amen."
+        },
+        {
+            "id": "17",
+            "titulo": "Preghiera per la Famiglia",
+            "imagen": "familia",
+            "subtitulo": "Preghiera per chiedere benedizioni per la famiglia",
+            "contenido": "Ti chiedo, Signore, di benedire la mia famiglia,<br>di proteggere ciascuno di noi,<br>e di darci amore, comprensione e unità.<br>Che la tua pace regni nella nostra casa.<br> Amen."
+        },
+        {
+            "id": "18",
+            "titulo": "Preghiera di Fiducia",
+            "imagen": "confianza",
+            "subtitulo": "Preghiera per fidarsi della volontà di Dio",
+            "contenido": "Confido in te, Signore, e nel tuo piano per la mia vita.<br>Aiutami ad accettare ciò che viene con fede,<br>sapendo che sei sempre al mio fianco,<br>e che la tua volontà è la cosa migliore per me.<br> Amen."
+        },
+        {
+            "id": "19",
+            "titulo": "Preghiera del Mattino",
+            "imagen": "manana",
+            "subtitulo": "Preghiera per iniziare la giornata con grazia",
+            "contenido": "Ti ringrazio, Signore, per questo nuovo giorno.<br>Guidami in ogni passo e fa sì che le mie azioni<br> riflettano il tuo amore e la tua bontà.<br>Benedici il mio lavoro e le mie relazioni,<br> e aiutami a vivere alla tua presenza.<br> Amen."
+        },
+        {
+            "id": "20",
+            "titulo": "Preghiera della Sera",
+            "imagen": "noche",
+            "subtitulo": "Preghiera per terminare la giornata in pace",
+            "contenido": "Grazie, Signore, per questa giornata trascorsa.<br>Ti chiedo di concedermi un riposo tranquillo<br> e di proteggermi mentre dormo.<br>Perdona i miei errori e rafforzami per il giorno successivo.<br> Amen."
+        },
+        {
+            "id": "21",
+            "titulo": "Preghiera per la Saggezza",
+            "imagen": "sabiduria",
+            "subtitulo": "Preghiera per chiedere saggezza e discernimento",
+            "contenido": "Signore, ti chiedo di darmi saggezza e discernimento.<br>Aiutami a prendere decisioni giuste e a comprendere la tua volontà.<br>Guidami nei miei studi e nella mia vita quotidiana,<br> e dammi chiarezza per seguire il cammino che hai tracciato per me.<br> Amen."
+        }
+    ]
+}

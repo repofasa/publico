@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Ojcze Nasz",
+            "imagen": "padrenuestro",
+            "subtitulo": "Podstawowa modlitwa katolików",
+            "contenido": "Ojcze nasz,<br>któryś jest w niebie,<br>święć się imię Twoje;<br>przyjdź królestwo Twoje;<br>bądź wola Twoja<br>jak w niebie, tak i na ziemi.<br><br>Chleba naszego powszedniego daj nam dzisiaj;<br>przebacz nam nasze winy,<br>jak i my przebaczamy<br>naszym winowajcom;<br>i nie wódź nas na pokuszenie,<br>ale nas zbaw ode złego.<br>Amen."
+        },
+        {
+            "id": "1",
+            "titulo": "Zdrowaś Maryjo",
+            "imagen": "avemaria",
+            "subtitulo": "Modlitwa dedykowana Matce Bożej",
+            "contenido": "Zdrowaś Maryjo,<br>łaski pełna,<br>Pan z Tobą;<br>błogosławionaś Ty<br>między niewiastami,<br>i błogosławiony owoc<br>łona Twojego, Jezus.<br><br>Święta Maryjo, Matko Boża,<br>módl się za nami grzesznymi,<br>teraz i w godzinę<br>naszej śmierci. Amen."
+        },
+        {
+            "id": "2",
+            "titulo": "Chwała",
+            "imagen": "gloria",
+            "subtitulo": "Chwała Trójcy Świętej",
+            "contenido": "Chwała Ojcu, i Synowi, i Duchowi<br>Świętemu. Jak była na początku, teraz<br>i zawsze, na wieki wieków.<br>Amen."
+        },
+        {
+            "id": "3",
+            "titulo": "Salve Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Modlitwa do Matki Bożej",
+            "contenido": "Zdrowaś, Królowo, Matko miłosierdzia,<br>życie, słodycz i nadziejo nasza:<br>Zdrowaś.<br><br>Do Ciebie wołamy, wygnani synowie Ewy;<br>do Ciebie wzdychamy, jęcząc i płacząc<br>w tej dolinie łez.<br><br>Przyjmij, więc, Pani, w nasz wzrok miłosierny,<br>a po tym wygnaniu, pokaż nam Jezusa,<br>owoc błogosławiony łona Twojego.<br><br>O czuła, o łaskawa, o słodka Panno Maryjo!<br><br>D: Módl się za nami, Święta Boża Rodzicielko.<br>T: Abyśmy się stali godnymi obietnic<br>naszego Pana Jezusa Chrystusa. Amen."
+        },
+        {
+            "id": "4",
+            "titulo": "Akt Oddania",
+            "imagen": "consagracion",
+            "subtitulo": "Osobiste oddanie Matce Bożej",
+            "contenido": "O Pani moja,<br>O Matko moja!,<br>całkowicie oddaję się Tobie<br>i w dowód mojego uczucia,<br>z miłością synowską,<br>poświęcam Ci w tym dniu:<br>wszystko, co jestem, wszystko, co posiadam.<br>Strzeż i chroń,<br>a także broń tego Twojego syna,<br>tak się stanie."
+        },
+        {
+            "id": "5",
+            "titulo": "Anioł Pański",
+            "imagen": "angelus",
+            "subtitulo": "Modlitwa Anioła Pańskiego w czasie Wcielenia",
+            "contenido": "D: Anioł Pański zwiastował Maryi.<br><br>T: A Ona poczęła z Ducha Świętego.<br><br>Zdrowaś Maryjo<br><br>D: Oto służebnica Pańska.<br><br>T: Niech Mi się stanie według słowa Twego.<br><br>Zdrowaś Maryjo<br><br>D: I Słowo ciałem się stało.<br><br>T: I zamieszkało między nami.<br><br>Zdrowaś Maryjo<br><br>D: Módl się za nami, Święta Boża Rodzicielko.<br><br>T: Abyśmy się stali godnymi obietnic Pana naszego Jezusa Chrystusa.<br><br>Ojcze nasz trzy razy<br><br>D: Módlmy się<br>Boże, wylej swoją łaskę na nasze serca i daj tym, którzy poznali przez zwiastowanie Anioła Wcielenie Twojego Syna, abyśmy przez Jego Mękę i Krzyż osiągnęli chwałę Zmartwychwstania. Przez Chrystusa Pana naszego, który z Tobą żyje i króluje, w jedności Ducha Świętego, Bóg, na wieki wieków.<br><br>T: Amen."
+        },
+        {
+            "id": "6",
+            "titulo": "Credo Nicejskie",
+            "imagen": "credonicea",
+            "subtitulo": "Symbol wiary chrześcijańskiej",
+            "contenido": "Wierzę w jednego Boga,<br>Ojca wszechmogącego,<br>Stwórcę nieba i ziemi,<br>wszystkiego, co widzialne i niewidzialne.<br><br>Wierzę w jednego Pana, Jezusa Chrystusa,<br>Jednorodzonego Syna Bożego,<br>narodzonego z Ojca przed wszystkimi wiekami:<br>Bóg z Boga,<br>Światłość ze Światłości,<br>Bóg prawdziwy z Boga prawdziwego,<br>zrodzony, a nie stworzony,<br>jednej substancji z Ojcem,<br>przez którego wszystko zostało uczynione;<br>który dla nas ludzi,<br>i dla naszego zbawienia<br>zstąpił z nieba,<br>i przez Ducha Świętego<br>przyjął ciało z Maryi Dziewicy,<br>i stał się człowiekiem;<br>i za nas został ukrzyżowany<br>w czasach Poncjusza Piłata;<br>cierpiał i został pogrzebany,<br>i zmartwychwstał trzeciego dnia, zgodnie z Pismem,<br>i wstąpił do nieba,<br>i siedzi po prawicy Ojca;<br>i znowu przyjdzie z chwałą<br>sądzić żywych i umarłych,<br>a Jego Królestwo nie będzie miało końca.<br><br>Wierzę w Ducha Świętego,<br>Pana i Ożywiciela,<br>który od Ojca i Syna pochodzi,<br>który z Ojcem i Synem<br>wspólnie odbiera adorację i chwałę,<br>i który mówił przez proroków.<br><br>Wierzę w jeden, święty, katolicki i apostolski Kościół.<br>Wyznaję jeden chrzest<br>dla odpuszczenia grzechów.<br>Oczekuję zmartwychwstania umarłych<br>i życia wiecznego. Amen."
+        },
+        {
+            "id": "7",
+            "titulo": "Zdrowaś",
+            "imagen": "salve",
+            "subtitulo": "Antyfona maryjna",
+            "contenido": "Zdrowaś, Królowo, Matko miłosierdzia,<br>życie, słodycz i nadziejo nasza;<br>Zdrowaś.<br><br>Do Ciebie wołamy, wygnani synowie Ewy;<br>do Ciebie wzdychamy, jęcząc i płacząc,<br>w tej dolinie łez.<br><br>Przyjmij, więc, Pani, w nasz wzrok miłosierny,<br>a po tym wygnaniu, pokaż nam Jezusa,<br>owoc błogosławiony łona Twojego.<br><br>O czuła, o łaskawa, o słodka Panno Maryjo!<br><br>D: Módl się za nami, Święta Boża Rodzicielko.<br>T: Abyśmy się stali godnymi<br>obietnic Pana naszego Jezusa Chrystusa. Amen."
+        },
+        {
+            "id": "8",
+            "titulo": "Raduj się Maryjo",
+            "imagen": "alegratemaria",
+            "subtitulo": "Modlitwa radości i oddania maryjnego",
+            "contenido": "Raduj się Maryjo,<br>Niepokalana i Święta,<br>umiłowana przez Boga,<br>nowa Ewo wybrana,<br>współpracowniczko w pojednaniu.<br><br>Matko Jezusa i nasza,<br>niezmordowana pomocnico grzeszników,<br>matczyna orędowniczko,<br>pamiętaj o tym Twoim synu.<br>Amen."
+        },
+        {
+            "id": "9",
+            "titulo": "Modlitwa Fiat",
+            "imagen": "fiat",
+            "subtitulo": "Modlitwa oddania się woli Bożej",
+            "contenido": "Święta Maryjo, pomóż mi dążyć<br>według mojej maksymalnej zdolności<br>i do maksimum moich możliwości<br>by żyć zawsze w cnocie.<br>Oddaję się Tobie całkowicie,<br>i chcę żyć zawsze dla Ciebie,<br>aby Twoja chwała<br>i chwała Twojego Syna Jezusa<br>były zawsze moją główną motywacją.<br>Amen."
+        },
+        {
+            "id": "10",
+            "titulo": "Modlitwa Ochrony",
+            "imagen": "protecciondivina",
+            "subtitulo": "Modlitwa o ochronę Bożą",
+            "contenido": "Panie, proszę Cię, abyś mnie chronił i prowadził<br>w każdej chwili. Broń mnie przed wszelkim złem,<br>i uwolnij mnie od wszelkiego niebezpieczeństwa. Niech Twoja obecność<br>otacza mnie i wzmacnia, dzisiaj i zawsze.<br>Amen."
+        },
+        {
+            "id": "11",
+            "titulo": "Modlitwa Dziękczynna",
+            "imagen": "acciondegracias",
+            "subtitulo": "Modlitwa dziękczynna",
+            "contenido": "Dziękuję Ci, Panie, za wszystkie błogosławieństwa, które mi dajesz.<br>Dziękuję Ci za Twoją bezwarunkową miłość,<br>za Twoją ochronę i każdy dzień, który mi dajesz.<br>Chwalę Cię i błogosławię, dzisiaj i zawsze.<br>Amen."
+        },
+        {
+            "id": "12",
+            "titulo": "Modlitwa o Pokój",
+            "imagen": "paz",
+            "subtitulo": "Modlitwa o pokój na świecie",
+            "contenido": "Panie, proszę Cię, abyś udzielił pokoju naszemu światu,<br>aby harmonia i zrozumienie dominowały między narodami,<br>a każde serce znalazło pokój w Tobie.<br>Amen."
+        },
+        {
+            "id": "13",
+            "titulo": "Modlitwa o Zdrowie",
+            "imagen": "salud",
+            "subtitulo": "Modlitwa o zdrowie i dobrostan",
+            "contenido": "Proszę Cię, Panie, abyś uzdrowił chorych,<br>abyś dał im siłę i pocieszenie w ich cierpieniu.<br>Przywróć zdrowie ciału i umysłowi,<br>i udziel dobrostanu wszystkim potrzebującym.<br>Amen."
+        },
+        {
+            "id": "14",
+            "titulo": "Modlitwa o Siłę",
+            "imagen": "fortaleza",
+            "subtitulo": "Modlitwa o siłę w trudnych czasach",
+            "contenido": "Panie, daj mi siłę, aby stawić czoła trudnościom,<br>mądrość, aby podejmować mądre decyzje,<br>i pokój, aby zachować spokój w chwilach próby.<br>Ufaję w Twoje wsparcie i Twoją miłość.<br>Amen."
+        },
+        {
+            "id": "15",
+            "titulo": "Modlitwa o Przemianę",
+            "imagen": "conversion",
+            "subtitulo": "Modlitwa o przemianę serca",
+            "contenido": "Panie, przekształć moje serce i umysł,<br>oczyść mnie i prowadź do bardziej świętego życia.<br>Pomóż mi żyć zgodnie z Twoją wolą,<br>i odzwierciedlać Twoją miłość we wszystkim, co robię.<br>Amen."
+        },
+        {
+            "id": "16",
+            "titulo": "Modlitwa o Przebaczenie",
+            "imagen": "perdon",
+            "subtitulo": "Modlitwa o przebaczenie i udzielenie przebaczenia",
+            "contenido": "Panie, proszę o przebaczenie moich grzechów,<br>i dziękuję za Twoje miłosierdzie.<br>Pomóż mi przebaczyć tym, którzy mnie zranili,<br>i żyć w pokoju ze wszystkimi.<br>Amen."
+        },
+        {
+            "id": "17",
+            "titulo": "Modlitwa za Rodzinę",
+            "imagen": "familia",
+            "subtitulo": "Modlitwa o błogosławieństwo dla rodziny",
+            "contenido": "Proszę, Panie, błogosław moją rodzinę,<br>chroń każdego z nas,<br>i obdarz nas miłością, zrozumieniem i jednością.<br>Niech Twoja pokój panuje w naszym domu.<br>Amen."
+        },
+        {
+            "id": "18",
+            "titulo": "Modlitwa o Zaufanie",
+            "imagen": "confianza",
+            "subtitulo": "Modlitwa o zaufanie do woli Bożej",
+            "contenido": "Ufaję Tobie, Panie, i Twojemu planowi dla mojego życia.<br>Pomóż mi zaakceptować wszystko, co przyniesie los,<br>wiedząc, że zawsze jesteś przy mnie,<br>i że Twoja wola jest najlepsza dla mnie.<br>Amen."
+        },
+        {
+            "id": "19",
+            "titulo": "Modlitwa poranna",
+            "imagen": "manana",
+            "subtitulo": "Modlitwa na rozpoczęcie dnia z łaską",
+            "contenido": "Dziękuję Ci, Panie, za ten nowy dzień.<br>Poprowadź mnie w każdym kroku i spraw, by moje działania<br>odzwierciedlały Twoją miłość i dobroć.<br>Błogosław moją pracę i moje relacje,<br>i pomóż mi żyć w Twojej obecności.<br>Amen."
+        },
+        {
+            "id": "20",
+            "titulo": "Modlitwa wieczorna",
+            "imagen": "noche",
+            "subtitulo": "Modlitwa na zakończenie dnia w pokoju",
+            "contenido": "Dziękuję Ci, Panie, za ten miniony dzień.<br>Proszę, daj mi spokojny odpoczynek<br>i chroń mnie podczas snu.<br>Przebacz moje błędy i umocnij mnie na następny dzień.<br>Amen."
+        },
+        {
+            "id": "21",
+            "titulo": "Modlitwa o Mądrość",
+            "imagen": "sabiduria",
+            "subtitulo": "Modlitwa o mądrość i rozeznanie",
+            "contenido": "Panie, proszę Cię o mądrość i rozeznanie.<br>Pomóż mi podejmować właściwe decyzje i zrozumieć Twoją wolę.<br>Poprowadź mnie w moich studiach i codziennym życiu,<br>i daj mi jasność, by podążać drogą, którą dla mnie wytyczyłeś.<br>Amen."
+        }
+    ]
+}

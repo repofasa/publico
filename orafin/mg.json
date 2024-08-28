@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Ray Mpanome Aina",
+            "imagen": "padrenuestro",
+            "subtitulo": "Ny fivavahana fototra ho an'ny Katolika",
+            "contenido": "Andriamanitra Rainay izay any an-danitra,<br>Ho masina anie ny Anaranao;<br>Aoka ho avy eto aminay ny Fanjakananao;<br>Aoka ho tanteraka ny sitraponao<br>eto an-tany, tahaka ny any an-danitra.<br><br>Omeo anay anio ny mofo ilainay isan'andro;<br>Mamelà ny helotsika,<br>tahaka ny fandraisana an-tanana ny<br>ny olona izay manan-kery aminay;<br>Aza avela izahay ho latsaka an-tranon'ny fakam-panahy,<br>fa avia manafaka anay amin'ny ratsy.<br>Amen."
+        },
+        {
+            "id": "1",
+            "titulo": "Arahaba Maria",
+            "imagen": "avemaria",
+            "subtitulo": "Fivavahana natokana ho an'ny Renin'Andriamanitra",
+            "contenido": "Ry Maria, feno ny fahasoavana,<br>ny Tompo miaraka aminao;<br>fisaorana ianao<br>eo anivon'ny vehivavy rehetra,<br>ary masina ny voan'ny kibonao, Jesosy.<br><br>Santa Maria, Renin'Andriamanitra,<br>mivavaha ho anay mpanota,<br>ankehitriny sy amin'ny ora<br>fahafatesantsika. Amen."
+        },
+        {
+            "id": "2",
+            "titulo": "Voninahitra",
+            "imagen": "gloria",
+            "subtitulo": "Fiderana ny Trinity Masina",
+            "contenido": "Voninahitra ho an'ny Ray, sy ny Zanaka, sy ny Fanahy Masina.<br>Tahaka ny tamin'ny voalohany, izao<br>sy mandrakizay, mandrakizay.<br>Amen."
+        },
+        {
+            "id": "3",
+            "titulo": "Arahaba Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Fivavahana mankalaza an'i Maria Virijiny",
+            "contenido": "Andriamanitra, Mpanjaka sy Renin'ny famindram-po,<br>fiainana, mamy sy fanantenana.<br>Andriamanitra, miankohoka amin'ny feo.<br>Manantena izahay ho anao, zanak'i Eva,<br>miantso aminao, misento sy mitomany,<br>amin'ity lohasaha eto an-tany.<br>Ka miangavy anao, mpiaro anay,<br>miverena aminao amin'ny maso feno famindram-po,<br>ary aorian'ity fiainana ity dia asehoy anay i Jesosy,<br>ny vokatra masina avy amin'ny kibonao.<br>Ry Mpanjaka, ry mahamenatra, ry mamy Maria!<br><br>V: Mivavaha ho anay, Masindahy Renin'Andriamanitra,<br>R: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br>Amen."
+        },
+        {
+            "id": "4",
+            "titulo": "Asa fanokanana",
+            "imagen": "consagracion",
+            "subtitulo": "Fanolorana manokana ho an'ny Renin'Andriamanitra",
+            "contenido": "Ry Ramako, ry Reniko,<br>manolotra tena amin'ny fo manontolo aho,<br>ary ho fanehoam-pitiavana,<br>amin'ny fitiavana zanaka,<br>manolotra amin'ity andro ity:<br>ny zavatra rehetra ataoko, ny zavatra rehetra ananako.<br>Mitandrema sy miaro,<br>ary miaro amin'ny fiainan'ity zanakao.<br>Ho an'ny Tanàna Masina."
+        },
+        {
+            "id": "5",
+            "titulo": "Angelus",
+            "imagen": "angelus",
+            "subtitulo": "Fivavahana ho an'ny fotoana nifanatrika",
+            "contenido": "D: Nampandre ny Anjely ny Maria.<br><br>T: Ary Izy nahateraka tamin'ny alalan'ny Fanahy Masina.<br><br>Ave Maria<br><br>D: Indro, ny mpanompon'Andriamanitra.<br><br>T: Aoka ho tanteraka araka ny teninao.<br><br>Ave Maria<br><br>D: Ary ny Teny dia tonga nofo.<br><br>T: Ary nipetraka teo aminay.<br><br>Ave Maria<br><br>D: Mivavaha ho anay, Masindahy Renin'Andriamanitra.<br><br>T: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br><br>Raha mivavaka ny voninahitra telo<br><br>D: Mivavaha<br>D: Mandraisa ny fahasoavana, Tompo, amin'ny fonay,<br>ary omeo izay nahafantatra ny fanambarana avy amin'ny Anjely<br>ny Fiantsoan'ny Zanaka amin'ny alalan'ny Fanahy Masina,<br>mba hahazoanay ny voninahitra amin'ny Fitsanganan'ny Maty. Ho an'ny Tompo Jesosy, zanakao,<br>miaraka amin'ny Ray sy ny Fanahy Masina,<br>ary Andriamanitra mandrakizay.<br><br>T: Amen."
+        },
+        {
+            "id": "6",
+            "titulo": "Nicene Creed",
+            "imagen": "credonicea",
+            "subtitulo": "Tombontsoa ny finoana kristiana",
+            "contenido": "Mino aho amin'ny Andriamanitra iray,<br>Ray mahery,<br>Mpamorona ny lanitra sy ny tany,<br>ny zavatra hita sy tsy hita.<br><br>Mino aho amin'ny Tompo iray, Jesosy Kristy,<br>Zanaka tokana Andriamanitra,<br>teraka avy amin'ny Ray talohan'ny vanim-potoana rehetra:<br>Andriamanitra avy amin'ny Andriamanitra,<br>Hazavana avy amin'ny Hazavana,<br>Andriamanitra marina avy amin'ny Andriamanitra marina,<br>teraka, tsy noforonina,<br>amin'ny toetra mitovy amin'ny Ray,<br>avy amin'izany rehetra izany;<br>izay ho antsika, olombelona,<br>sy ho amin'ny famonjena antsika<br>dia nidina avy any an-danitra,<br>ary tamin'ny alalan'ny Fanahy Masina<br>dia tonga nofo avy tamin'i Maria, Virijiny,<br>ary nanao olona;<br>ary noho ny antony tokony ho antsika dia natolotra<br>tamin'ny fotoana an'i Poncio Pilato;<br>nanaiky sy natsangana,<br>ary nitsangana tamin'ny andro fahatelo, araka ny Soratra Masina,<br>ary nandeha tany an-danitra,<br>ary nipetraka eo ankavanana ny Ray;<br>ary ho avy indray amin'ny voninahitra<br>mba hitsara ny velona sy ny maty,<br>ary ny fanjakany tsy ho tapitra.<br><br>Mino aho amin'ny Fanahy Masina,<br>Tompo sy Mpamokatra ny fiainana,<br>izay mivoaka avy amin'ny Ray sy ny Zanaka,<br>izay miaraka amin'ny Ray sy ny Zanaka<br>mankalaza sy voninahitra mitovy,<br>ary izay niresaka tamin'ny mpaminany.<br><br>Mino aho amin'ny Fiangonana,<br>izay iray, masina, katolika ary apostolika.<br>Miara-mivavaka amin'ny batisa iray<br>ho amin'ny famelan-keloka.<br>Manantena ny fitsanganan'ny maty<br>sy ny fiainana mandrakizay.<br>Amen."
+        },
+        {
+            "id": "7",
+            "titulo": "Ny Salve",
+            "imagen": "salve",
+            "subtitulo": "Antifona mankalaza an'i Maria",
+            "contenido": "Andriamanitra, Mpanjaka sy Renin'ny famindram-po,<br>fiainana, mamy sy fanantenana.<br>Andriamanitra, miankohoka amin'ny feo.<br>Manantena izahay ho anao, zanak'i Eva;<br>miantso aminao, misento sy mitomany,<br>amin'ity lohasaha eto an-tany.<br>Ka miangavy anao, mpiaro anay,<br>miverena aminao amin'ny maso feno famindram-po,<br>ary aorian'ity fiainana ity dia asehoy anay i Jesosy,<br>ny vokatra masina avy amin'ny kibonao.<br>Ry Mpanjaka, ry mahamenatra, ry mamy Maria!<br><br>V: Mivavaha ho anay, Masindahy Renin'Andriamanitra,<br>R: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br>Amen."
+        },
+        {
+            "id": "8",
+            "titulo": "Mankalaza an'i Maria",
+            "imagen": "alegratemaria",
+            "subtitulo": "Fivavahana amin'ny hafaliana sy fanoloran-tena ho an'i Maria",
+            "contenido": "Mankalaza an'i Maria,<br>Inoamana sy Masina,<br>tiana amin'ny Andriamanitra,<br>Eva vaovao voafidy,<br>mpanampy amin'ny famerenana.<br><br>Renin'i Jesosy sy ny anay,<br>mpanampy tsy mivadika ho an'ny mpanota,<br>mpivavaka an-trano,<br>miangavy aminao amin'ity zanakao.<br>Amen."
+        },
+        {
+            "id": "9",
+            "titulo": "Fivavahana 'Fiat'",
+            "imagen": "fiat",
+            "subtitulo": "Fivavahana fankatoavana ny sitrapon'Andriamanitra",
+            "contenido": "Santa Maria, ampiasao aho hiezaka<br>amin'ny tena fahaiza-manao sy ny fahaiza-manao rehetra<br>mba hiaina mandrakariva amin'ny virijiny.<br>Manolotra anao tanteraka aho,<br>ary tiako hiaina mandrakariva ho anao,<br>amin'ny fomba ahafahanao mankalaza<br>sy ny Zanakao Jesosy<br>mba ho tanjona lehibe indrindra ahy.<br>Amen."
+        },
+        {
+            "id": "10",
+            "titulo": "Fivavahana ho an'ny Fiarovana",
+            "imagen": "protecciondivina",
+            "subtitulo": "Fivavahana mangataka fiarovana avy amin'ny Andriamanitra",
+            "contenido": "Tompo, mangataka aminao aho mba hiaro sy hitari-dalana ahy<br>amin'ny fotoana rehetra. Miaro ahy amin'ny ratsy rehetra,<br>ary manafaka ahy amin'ny loza rehetra. Aoka ny fisianao<br>hanodidina ahy sy hanamafy ahy, anio sy mandrakariva.<br>Amen."
+        },
+        {
+            "id": "11",
+            "titulo": "Fivavahana Fisaorana",
+            "imagen": "acciondegracias",
+            "subtitulo": "Fivavahana hanomezam-boninahitra an'Andriamanitra",
+            "contenido": "Misaotra anao, Tompo, noho ny fitahiana rehetra omenanao.<br>Mankasitraka anao noho ny fitiavanao tsy misy fepetra,<br>noho ny fiarovana sy ny andro tsirairay omenanao.<br>Mankalaza sy mankalaza anao aho, anio sy mandrakariva.<br>Amen."
+        },
+        {
+            "id": "12",
+            "titulo": "Fivavahana ho an'ny Fandriampahalemana",
+            "imagen": "paz",
+            "subtitulo": "Fivavahana mangataka fandriampahalemana eto an-tany",
+            "contenido": "Tompo, mangataka aminao aho mba hanome fandriampahalemana ho an'izao tontolo izao,<br>mba hahatonga ny firenena rehetra hifandray amin'ny fahatoniana sy ny fifanarahana,<br>ary mba hahita fahatoniana ao am-pon'ny olona rehetra.<br>Amen."
+        },
+        {
+            "id": "13",
+            "titulo": "Fivavahana ho an'ny Fahasalamana",
+            "imagen": "salud",
+            "subtitulo": "Fivavahana mangataka fahasalamana sy tsara fiainana",
+            "contenido": "Mangataka aminao aho, Tompo, mba hanasitrana ny marary,<br>mba hanome hery sy fanampiana amin'ny fahasahiranana.<br>Manamboatra ny fahasalamana amin'ny vatana sy ny saina,<br>ary manome fahasalamana ho an'ny rehetra mila izany.<br>Amen."
+        },
+        {
+            "id": "14",
+            "titulo": "Fivavahana ho an'ny Herim-po",
+            "imagen": "fortaleza",
+            "subtitulo": "Fivavahana mangataka herim-po amin'ny fotoan-tsarotra",
+            "contenido": "Tompo, omeo ahy ny herim-po hiatrika ny fahasarotana,<br>ny fahendrena hanao fanapahan-kevitra manan-danja,<br>ary ny fandriampahalemana hitazona fahalemem-panahy amin'ny fotoana fitsapana.<br>Matoky ny fanohananao sy ny fitiavanao aho.<br>Amen."
+        },
+        {
+            "id": "15",
+            "titulo": "Fivavahana ho an'ny Fandaminana",
+            "imagen": "conversion",
+            "subtitulo": "Fivavahana mangataka ny fandaminan'ny fo",
+            "contenido": "Tompo, ovay ny foko sy ny saina,<br>fanadiovo ahy ary tariho aho amin'ny fiainana masina kokoa.<br>Manampy ahy hiaina araka ny sitraponao,<br>ary haneho ny fitiavanao amin'ny zavatra rehetra ataoko.<br>Amen."
+        },
+        {
+            "id": "16",
+            "titulo": "Fivavahana ho an'ny Famindram-po",
+            "imagen": "perdon",
+            "subtitulo": "Fivavahana mangataka sy manolotra famindram-po",
+            "contenido": "Tompo, mangataka aminao aho mba hanamaivana ny heloko,<br>ary misaotra anao noho ny famindram-ponao.<br>Manampy ahy havelanao ny olona izay nanompa ahy,<br>ary hiaina am-pilaminana amin'ny rehetra.<br>Amen."
+        },
+        {
+            "id": "17",
+            "titulo": "Fivavahana ho an'ny Fianakaviana",
+            "imagen": "familia",
+            "subtitulo": "Fivavahana mangataka ny fitahiana ho an'ny fianakaviana",
+            "contenido": "Mangataka aminao aho, Tompo, mba hitahy ny fianakaviako,<br>hiaro ny tsirairay aminay,<br>ary omeo anay fitiavana, fahatakarana, ary firaisankina.<br>Aoka ny fandriampahalemanao no hifehy ny tranonay.<br>Amen."
+        },
+        {
+            "id": "18",
+            "titulo": "Fivavahana ho an'ny Fitokisana",
+            "imagen": "confianza",
+            "subtitulo": "Fivavahana hiankina amin'ny sitrapon'Andriamanitra",
+            "contenido": "Matoky anao aho, Tompo, ary amin'ny drafitrao ho an'ny fiainako.<br>Manampy ahy handray ny zava-mitranga amin'ny finoana,<br>ary mahafantatra fa hatrany amiko ianao,<br>ary ny sitraponao no tsara indrindra ho ahy.<br>Amen."
+        },
+        {
+            "id": "19",
+            "titulo": "Fivavahana ho an'ny Maraina",
+            "imagen": "manana",
+            "subtitulo": "Fivavahana hanombohana ny andro amin'ny fahasoavana",
+            "contenido": "Misaotra anao, Tompo, noho ity andro vaovao ity.<br>Tarigao amin'ny dingana rehetra ary ataovy izay hahafeno ny fihetsiko<br>ny fitiavanao sy ny hatsaran'ny toetra.<br>Homboy ny asako sy ny fifandraisako,<br>ary manampy ahy hiaina ao amin'ny fisianao.<br>Amen."
+        },
+        {
+            "id": "20",
+            "titulo": "Fivavahana amin'ny Alina",
+            "imagen": "noche",
+            "subtitulo": "Fivavahana mba hifarana amin'ny alina am-pilaminana",
+            "contenido": "Misaotra anao, Tompo, noho ity andro efa lasa ity.<br>Mangataka aminao aho mba hanome ahy torimaso milamina<br>ary hiaro ahy mandritra ny torimaso.<br>Omena ny fahadisoako sy manamafy ahy ho amin'ny andro ho avy.<br>Amen."
+        },
+        {
+            "id": "21",
+            "titulo": "Fivavahana ho an'ny Fahendrena",
+            "imagen": "sabiduria",
+            "subtitulo": "Fivavahana mangataka fahendrena sy fanavahana",
+            "contenido": "Tompo, mangataka aminao aho mba hanome ahy fahendrena sy fanavahana.<br>Manampy ahy handray fanapahan-kevitra marina sy hahatakatra ny sitraponao.<br>Tarigao amin'ny fianarako sy ny fiainako andavanandro,<br>ary omeo ahy ny fahazavana hanarahana ny lalana napetrakao ho ahy.<br>Amen."
+        }
+    ]
+}

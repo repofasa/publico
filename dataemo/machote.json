@@ -1,0 +1,150 @@
+**** ALEMAN ****
+ {
+        "titulo": "Oktober",
+        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "contenido": "2022/octubre2022-ale",
+        "activo": "si",
+        "imagen": "octubre",
+        "id": "10"
+    }, {
+        "titulo": "November",
+        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "contenido": "2022/noviembre2022-ale",
+        "activo": "no",
+        "imagen": "noviembre",
+        "id": "11"
+    },
+
+**** INGLES ****
+}, {
+    "titulo": "October",
+    "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+    "contenido": "2022/octubre2022-eng",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "November",
+    "subtitulo": "<span class='miniemoji2'>💔 Not Available Yet</span>",
+    "contenido": "2022/noviembre2022-eng",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+
+**** ESPAÑOL MEXICO ****
+  }, {
+      "titulo": "Octubre de",
+      "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+      "contenido": "2022/octubre2022",
+      "activo": "si",
+      "imagen": "octubre",
+      "id": "10"
+  }, {
+      "titulo": "Noviembre de",
+      "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+      "contenido": "2022/noviembre2022",
+      "activo": "no",
+      "imagen": "noviembre",
+      "id": "11"
+  }, {
+**** ESPAÑOL ESPAÑA ****
+}, {
+    "titulo": "Octubre de",
+    "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+    "contenido": "2022/octubre2022-esp",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Noviembre de",
+    "subtitulo": "<span class='miniemoji2'>💔 No Disponible</span>",
+    "contenido": "2022/noviembre2022-esp",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+**** FRANCES ****
+}, {
+    "titulo": "Octobre",
+    "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+    "contenido": "2022/octubre2022-fra",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Novembre",
+    "subtitulo": "<span class='miniemoji2'>💔 Pas Disponible</span>",
+    "contenido": "2022/noviembre2022-fra",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+
+**** ITALIANO ****
+}, {
+    "titulo": "Ottobre",
+    "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+    "contenido": "2022/octubre2022-ita",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Novembre",
+    "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+    "contenido": "2022/noviembre2022-ita",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+
+**** MALAGUESO ****
+}, {
+    "titulo": "Oktobra",
+    "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+    "contenido": "2022/octubre2022-mal",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Novambra",
+    "subtitulo": "<span class='miniemoji2'>💔 Tsy Misy</span>",
+    "contenido": "2022/noviembre2022-mal",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+
+**** POLACO ****
+}, {
+    "titulo": "Października",
+    "subtitulo": "<span class='miniemoji'>💜 Dostępny</span>",
+    "contenido": "2022/octubre2022-pol",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Listopada",
+    "subtitulo": "<span class='miniemoji2'>💔 Niedostępne</span>",
+    "contenido": "2022/noviembre2022-pol",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {
+
+**** PORTUGUES ****
+}, {
+    "titulo": "Outubro",
+    "subtitulo": "<span class='miniemoji'>💜 Acessível</span>",
+    "contenido": "2022/octubre2022-por",
+    "activo": "si",
+    "imagen": "octubre",
+    "id": "10"
+}, {
+    "titulo": "Novembro",
+    "subtitulo": "<span class='miniemoji2'>💔 Não Disponível</span>",
+    "contenido": "2022/noviembre2022-por",
+    "activo": "no",
+    "imagen": "noviembre",
+    "id": "11"
+}, {

@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Notre Père",
+            "imagen": "padrenuestro",
+            "subtitulo": "La prière fondamentale des catholiques",
+            "contenido": "Notre Père,<br>qui es aux cieux,<br>que ton Nom soit sanctifié;<br>que ton Règne vienne;<br>que ta volonté soit faite<br>sur la terre comme au ciel.<br><br>Donne-nous aujourd'hui notre pain quotidien;<br>pardonne-nous nos offenses,<br>comme nous pardonnons<br>à ceux qui nous ont offensés;<br>ne nous laisse pas entrer en tentation,<br>mais délivre-nous du mal.<br>Amen."
+        },
+        {
+            "id": "1",
+            "titulo": "Je vous salue Marie",
+            "imagen": "avemaria",
+            "subtitulo": "Prière dédiée à la Mère de Dieu",
+            "contenido": "Je vous salue Marie,<br> pleine de grâce,<br> le Seigneur est avec vous;<br> vous êtes bénie entre toutes les femmes,<br> et Jésus, le fruit de vos entrailles, est béni.<br><br> Sainte Marie, Mère de Dieu,<br> priez pour nous, pécheurs,<br> maintenant et à l'heure<br> de notre mort. Amen."
+        },
+        {
+            "id": "2",
+            "titulo": "Gloire",
+            "imagen": "gloria",
+            "subtitulo": "Louange à la Sainte Trinité",
+            "contenido": "Gloire au Père, et au Fils, et au Saint-Esprit.<br> Comme il était au commencement, maintenant<br> et toujours, pour les siècles des siècles.<br> Amen."
+        },
+        {
+            "id": "3",
+            "titulo": "Salve Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Prière d'invocation à la Vierge Marie",
+            "contenido": "Je vous salue, Reine et Mère de miséricorde,<br> vie, douceur et espérance notre :<br> je vous salue.<br><br> Vers vous nous crions, fils d'Eve déportés ;<br> vers vous nous soupirons, gémissant et pleurant,<br> dans cette vallée de larmes.<br><br> Aussi, donc, avocate notre,<br> tournez vers nous vos yeux miséricordieux,<br> et après cet exil, montrez-nous Jésus,<br> fruit béni de vos entrailles.<br> Ô très clémence ! Ô pleine de miséricorde ! Ô douce Vierge Marie !<br><br> V. Priez pour nous, Sainte Mère de Dieu,<br> R. Afin que nous soyons dignes de parvenir aux promesses<br> de Notre Seigneur Jésus-Christ.<br> Amen."
+        },
+        {
+            "id": "4",
+            "titulo": "Acte de Consécration",
+            "imagen": "consagracion",
+            "subtitulo": "Consécration personnelle à la Vierge Marie",
+            "contenido": "Ô ma Dame,<br> ô ma Mère !<br> je me remets entièrement à vous,<br> et en témoignage de mon affection,<br> avec amour filial,<br> je vous consacre aujourd'hui :<br> tout ce que je suis, tout ce que j'ai.<br> Gardez et protégez,<br> et défendez aussi ce fils vôtre,<br> ainsi soit-il."
+        },
+        {
+            "id": "5",
+            "titulo": "Angelus",
+            "imagen": "angelus",
+            "subtitulo": "Prière de l'Angelus pour le temps de l'Incarnation",
+            "contenido": "D: L'Ange du Seigneur annonça à Marie.<br><br> T: Et elle conçut par l'œuvre du Saint-Esprit.<br><br> Je vous salue Marie<br><br> D: Voici la servante du Seigneur.<br><br> T: Qu'il me soit fait selon votre parole.<br><br> Je vous salue Marie<br><br> D: Et le Verbe s'est fait chair.<br><br> T: Et il a habité parmi nous.<br><br> Je vous salue Marie<br><br> D: Priez pour nous, Sainte Mère de Dieu.<br><br> T: Afin que nous soyons dignes de parvenir aux promesses de Notre Seigneur Jésus-Christ.<br><br> On récite trois gloires<br><br> D: Prions<br> Versez, Seigneur, votre grâce sur nos cœurs et accordez à ceux qui avons connu par l'annonce de l'Ange l'Incarnation de votre Fils, que par sa Passion et sa Croix nous parvenions à la gloire de la Résurrection. Par Notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous, dans l'unité du Saint-Esprit, Dieu, pour les siècles des siècles.<br><br> T: Amen."
+        },
+        {
+            "id": "6",
+            "titulo": "Credo de Nicée",
+            "imagen": "credonicea",
+            "subtitulo": "Symbole de la foi chrétienne",
+            "contenido": "Je crois en un seul Dieu,<br> Père tout-puissant,<br> Créateur du ciel et de la terre,<br> de tout ce qui est visible et invisible.<br><br> Je crois en un seul Seigneur, Jésus-Christ,<br> Fils unique de Dieu,<br> né du Père avant tous les siècles :<br> Dieu de Dieu,<br> Lumière de Lumière,<br> vrai Dieu de vrai Dieu,<br> engendré, non créé,<br> de même nature que le Père,<br> par qui tout a été fait ;<br> qui pour nous, les hommes,<br> et pour notre salut,<br> est descendu des cieux,<br> et par l'Esprit Saint<br> s'est incarné de Marie, la Vierge,<br> et s'est fait homme ;<br> et pour nous, il a été crucifié<br> sous Ponce Pilate ;<br> il a souffert et a été enseveli,<br> et le troisième jour il est ressuscité, selon les Écritures,<br> et il est monté aux cieux,<br> et il siège à la droite du Père ;<br> et il reviendra avec gloire<br> pour juger les vivants et les morts,<br> et son règne n'aura pas de fin.<br><br> Je crois en l'Esprit Saint,<br> Seigneur et donneur de vie,<br> qui procède du Père et du Fils,<br> qui avec le Père et le Fils<br> reçoit une même adoration et gloire,<br> et qui a parlé par les prophètes.<br><br> Je crois en l'Église,<br> qui est une, sainte, catholique et apostolique.<br> Je confesse un seul baptême<br> pour la rémission des péchés.<br> J'espère la résurrection des morts<br> et la vie du monde à venir.<br> Amen."
+        },
+        {
+            "id": "7",
+            "titulo": "Salve",
+            "imagen": "salve",
+            "subtitulo": "Antienne mariale de dévotion",
+            "contenido": "Je vous salue, Reine et Mère de miséricorde,<br> vie, douceur et espérance notre ;<br> je vous salue.<br><br> Vers vous nous crions, fils d'Eve déportés ;<br> vers vous nous soupirons, gémissant et pleurant,<br> dans cette vallée de larmes.<br><br> Aussi, donc, avocate notre,<br> tournez vers nous vos yeux miséricordieux,<br> et après cet exil, montrez-nous Jésus,<br> fruit béni de vos entrailles.<br><br> Ô clémence, ô miséricordieuse, ô douce Vierge Marie !<br><br> D: Priez pour nous, Sainte Mère de Dieu.<br><br> T: Afin que nous soyons dignes de parvenir aux promesses de Notre Seigneur Jésus-Christ. Amen."
+        },
+        {
+            "id": "8",
+            "titulo": "Réjouis-toi Marie",
+            "imagen": "alegratemaria",
+            "subtitulo": "Prière de joie et de dévotion mariale",
+            "contenido": "Réjouis-toi Marie,<br> Immaculée et Sainte,<br> aimée de Dieu,<br> nouvelle Ève choisie,<br> coopératrice de la réconciliation.<br><br> Mère de Jésus et notre,<br> secours inflexible des pécheurs,<br> intercesseur maternel,<br> souviens-toi de ce fils qui est le tien.<br> Amen."
+        },
+        {
+            "id": "9",
+            "titulo": "Prière du 'Fiat'",
+            "imagen": "fiat",
+            "subtitulo": "Prière de remise à la volonté de Dieu",
+            "contenido": "Sainte Marie, aide-moi à m'efforcer<br> selon le maximum de mes capacités<br> et au maximum de mes possibilités<br> pour vivre toujours dans la vertu.<br> Je me remets entièrement à toi,<br> et je veux vivre toujours pour toi,<br> de manière que ta gloire<br> et celle de ton Fils Jésus<br> soient toujours ma principale motivation.<br> Amen."
+        },
+        {
+            "id": "10",
+            "titulo": "Prière de Protection",
+            "imagen": "protecciondivina",
+            "subtitulo": "Prière pour demander la protection divine",
+            "contenido": "Seigneur, je Te demande de me protéger et de me guider<br> en tout temps. Défends-moi de tout mal,<br> et délivre-moi de tout danger. Que Ta présence<br> m'entoure et me fortifie, aujourd'hui et toujours.<br> Amen."
+        },
+        {
+            "id": "11",
+            "titulo": "Prière d'Action de Grâce",
+            "imagen": "acciondegracias",
+            "subtitulo": "Prière pour remercier Dieu",
+            "contenido": "Merci, Seigneur, pour toutes les bénédictions que Tu me donnes.<br> Je Te remercie pour Ton amour inconditionnel,<br> pour Ta protection et pour chaque jour que Tu me donnes.<br> Je Te loue et Te bénis, aujourd'hui et toujours.<br> Amen."
+        },
+        {
+            "id": "12",
+            "titulo": "Prière pour la Paix",
+            "imagen": "paz",
+            "subtitulo": "Prière pour la paix dans le monde",
+            "contenido": "Seigneur, je Te demande de donner la paix à notre monde,<br> que l'harmonie et la compréhension prévalent entre les nations,<br> et que chaque cœur trouve la paix en Toi.<br> Amen."
+        },
+        {
+            "id": "13",
+            "titulo": "Prière pour la Santé",
+            "imagen": "salud",
+            "subtitulo": "Prière pour demander la santé et le bien-être",
+            "contenido": "Je Te demande, Seigneur, de guérir les malades,<br> de leur donner force et réconfort dans leur souffrance.<br> Restaure la santé des corps et des esprits,<br> et accorde du bien-être à tous ceux qui en ont besoin.<br> Amen."
+        },
+        {
+            "id": "14",
+            "titulo": "Prière de Force",
+            "imagen": "fortaleza",
+            "subtitulo": "Prière pour demander la force dans les moments difficiles",
+            "contenido": "Seigneur, donne-moi la force pour affronter les difficultés,<br> la sagesse pour prendre des décisions éclairées,<br> et la paix pour garder le calme dans les moments d'épreuve.<br> Je fais confiance à Ton soutien et à Ton amour.<br> Amen."
+        },
+        {
+            "id": "15",
+            "titulo": "Prière de Conversion",
+            "imagen": "conversion",
+            "subtitulo": "Prière pour demander la conversion du cœur",
+            "contenido": "Seigneur, transforme mon cœur et mon esprit,<br>purifie-moi et guide-moi vers une vie plus sainte.<br>Aide-moi à vivre selon ta volonté,<br>et à refléter ton amour dans tout ce que je fais.<br> Amen."
+        },
+        {
+            "id": "16",
+            "titulo": "Prière de Pardon",
+            "imagen": "perdon",
+            "subtitulo": "Prière pour demander et offrir le pardon",
+            "contenido": "Seigneur, je te demande pardon pour mes péchés,<br>et je te remercie pour ta miséricorde.<br>Aide-moi à pardonner à ceux qui m'ont offensé,<br>et à vivre en paix avec tous.<br> Amen."
+        },
+        {
+            "id": "17",
+            "titulo": "Prière pour la Famille",
+            "imagen": "familia",
+            "subtitulo": "Prière pour demander des bénédictions pour la famille",
+            "contenido": "Je te demande, Seigneur, de bénir ma famille,<br>de protéger chacun d'entre nous,<br>et de nous donner amour, compréhension et unité.<br>Que ta paix règne dans notre foyer.<br> Amen."
+        },
+        {
+            "id": "18",
+            "titulo": "Prière de Confiance",
+            "imagen": "confianza",
+            "subtitulo": "Prière pour faire confiance à la volonté de Dieu",
+            "contenido": "Je confie en toi, Seigneur, et en ton plan pour ma vie.<br>Aide-moi à accepter ce qui vient avec foi,<br>sachant que tu es toujours à mes côtés,<br>et que ta volonté est ce qu'il y a de meilleur pour moi.<br> Amen."
+        },
+        {
+            "id": "19",
+            "titulo": "Prière du Matin",
+            "imagen": "manana",
+            "subtitulo": "Prière pour commencer la journée avec grâce",
+            "contenido": "Je te remercie, Seigneur, pour ce nouveau jour.<br>Guide-moi à chaque étape et fais que mes actions<br> reflètent ton amour et ta bonté.<br>Bénis mon travail et mes relations,<br> et aide-moi à vivre en ta présence.<br> Amen."
+        },
+        {
+            "id": "20",
+            "titulo": "Prière du Soir",
+            "imagen": "noche",
+            "subtitulo": "Prière pour terminer la journée en paix",
+            "contenido": "Merci, Seigneur, pour cette journée écoulée.<br>Je te demande de m'accorder un repos paisible<br> et de me protéger pendant mon sommeil.<br>Pardonne mes erreurs et fortifie-moi pour le jour suivant.<br> Amen."
+        },
+        {
+            "id": "21",
+            "titulo": "Prière pour la Sagesse",
+            "imagen": "sabiduria",
+            "subtitulo": "Prière pour demander sagesse et discernement",
+            "contenido": "Seigneur, je te demande de me donner sagesse et discernement.<br>Aide-moi à prendre des décisions correctes et à comprendre ta volonté.<br>Guide-moi dans mes études et dans ma vie quotidienne,<br> et donne-moi la clarté pour suivre le chemin que tu as tracé pour moi.<br> Amen."
+        }
+    ]
+}

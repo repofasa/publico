@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "titulo": "Pai Nosso",
+            "imagen": "padrenuestro",
+            "subtitulo": "A oração fundamental dos católicos",
+            "contenido": "Pai nosso,<br>que estais nos céus,<br> santificado seja o Vosso Nome;<br> venha o Vosso Reino;<br> seja feita a Vossa vontade<br> assim na terra como no céu.<br><br> Dai-nos hoje o nosso pão de cada dia;<br> perdoai as nossas ofensas,<br> assim como nós perdoamos<br> aos que nos ofendem;<br> não nos deixeis cair em tentação,<br> e livrai-nos do mal.<br> Amém."
+        },
+        {
+            "id": "1",
+            "titulo": "Ave Maria",
+            "imagen": "avemaria",
+            "subtitulo": "Oração dedicada à Mãe de Deus",
+            "contenido": "Ave Maria,<br> cheia de graça,<br> o Senhor é convosco;<br> bendita sois vós entre as mulheres,<br> e bendito é o fruto<br> do Vosso ventre, Jesus.<br><br> Santa Maria, Mãe de Deus,<br> rogai por nós, pecadores,<br> agora e na hora<br> da nossa morte. Amém."
+        },
+        {
+            "id": "2",
+            "titulo": "Glória",
+            "imagen": "gloria",
+            "subtitulo": "Louvor à Santíssima Trindade",
+            "contenido": "Glória ao Pai, e ao Filho, e ao Espírito Santo.<br> Como era no princípio, agora<br> e sempre, pelos séculos dos séculos.<br> Amém."
+        },
+        {
+            "id": "3",
+            "titulo": "Salve Regina",
+            "imagen": "salveregina",
+            "subtitulo": "Oração de invocação à Virgem Maria",
+            "contenido": "Salve, Rainha, Mãe de misericórdia,<br> vida, doçura e esperança nossa:<br> Salve.<br><br> A Vós clamamos, os degredados filhos de Eva;<br> a Vós suspiramos, gemendo e chorando,<br> neste vale de lágrimas.<br><br> Eia, portanto, advogada nossa,<br> voltai a nós esses Vossos olhos misericordiosos,<br> e depois deste desterro, mostrai-nos Jesus,<br> fruto bendito do Vosso ventre.<br> Ó clementíssima! Ó piedosa! Ó doce Virgem Maria!<br><br> V. Rogai por nós, Santa Mãe de Deus,<br> R. Para que sejamos dignos de alcançar as promessas<br> de Nosso Senhor Jesus Cristo.<br> Amém."
+        },
+        {
+            "id": "4",
+            "titulo": "Ato de Consagração",
+            "imagen": "consagracion",
+            "subtitulo": "Consagração pessoal à Virgem Maria",
+            "contenido": "Ó Senhora minha,<br> ó Mãe minha!,<br> eu me entrego completamente a Ti,<br> e em prova do meu afeto,<br> com amor filial,<br> Te consagro neste dia:<br> tudo o que sou, tudo o que tenho.<br> Guarda e protege,<br> e também defende este Teu filho,<br> assim seja."
+        },
+        {
+            "id": "5",
+            "titulo": "Angelus",
+            "imagen": "angelus",
+            "subtitulo": "Oração do Angelus para o tempo da Encarnação",
+            "contenido": "D: O Anjo do Senhor anunciou a Maria.<br><br> T: E Ela concebeu pelo poder do Espírito Santo.<br><br> Ave Maria<br><br> D: Eis a serva do Senhor.<br><br> T: Faça-se em mim segundo a Vossa palavra.<br><br> Ave Maria<br><br> D: E o Verbo se fez carne.<br><br> T: E habitou entre nós.<br><br> Ave Maria<br><br> D: Rogai por nós Santa Mãe de Deus.<br><br> T: Para que sejamos dignos de alcançar as promessas de Nosso Senhor Jesus Cristo.<br><br> Reza-se três Glórias<br><br> D: Oremos<br> Derramai, Senhor, a Vossa graça sobre nossos corações e concedei aos que conhecemos pelo anúncio do Anjo a Encarnação do Vosso Filho, que pela Sua Paixão e Cruz alcancemos a glória da Ressurreição. Por Nosso Senhor Jesus Cristo, Vosso Filho, que convosco vive e reina, na unidade do Espírito Santo, Deus, pelos séculos dos séculos.<br><br> T: Amém."
+        },
+        {
+            "id": "6",
+            "titulo": "Credo de Nicéia",
+            "imagen": "credonicea",
+            "subtitulo": "Símbolo da fé cristã",
+            "contenido": "Creio em um só Deus,<br> Pai todo-poderoso,<br> Criador do céu e da terra,<br> de tudo o que é visível e invisível.<br><br> Creio em um só Senhor, Jesus Cristo,<br> Filho unigênito de Deus,<br> nascido do Pai antes de todos os séculos:<br> Deus de Deus,<br> Luz de Luz,<br> Deus verdadeiro de Deus verdadeiro,<br> gerado, não criado,<br> da mesma substância do Pai,<br> por quem tudo foi feito;<br> que por nós, homens,<br> e pela nossa salvação,<br> desceu dos céus,<br> e, pelo Espírito Santo,<br> se encarnou de Maria, a Virgem,<br> e se fez homem;<br> e por nossa causa foi crucificado<br> sob Pôncio Pilatos;<br> padeceu e foi sepultado,<br> e ressuscitou ao terceiro dia, conforme as Escrituras,<br> e subiu ao céu,<br> e está sentado à direita do Pai;<br> e de novo virá com glória<br> para julgar os vivos e os mortos,<br> e o Seu Reino não terá fim.<br><br> Creio no Espírito Santo,<br> Senhor e dador de vida,<br> que procede do Pai e do Filho,<br> que com o Pai e o Filho<br> recebe a mesma adoração e glória,<br> e que falou pelos profetas.<br><br> Creio na Igreja,<br> que é uma, santa, católica e apostólica.<br> Confesso que há um só batismo<br> para a remissão dos pecados.<br> Espero a ressurreição dos mortos<br> e a vida do mundo futuro.<br> Amém."
+        },
+        {
+            "id": "7",
+            "titulo": "A Salve",
+            "imagen": "salve",
+            "subtitulo": "Antífona mariana de devoção",
+            "contenido": "Deus te salve, Rainha e Mãe de misericórdia,<br> vida, doçura e esperança nossa;<br> Deus te salve.<br><br> A Ti clamamos os degredados filhos de Eva;<br> a Ti suspiramos, gemendo e chorando,<br> neste vale de lágrimas.<br><br> Eia, pois, Senhora, advogada nossa,<br> voltai a nós esses Vossos olhos misericordiosos,<br> e depois deste desterro, mostrai-nos Jesus,<br> fruto bendito do Vosso ventre.<br><br> Ó clemente, ó piedosa, ó doce Virgem Maria!<br><br> D: Rogai por nós Santa Mãe de Deus.<br><br> T: Para que sejamos dignos de alcançar<br> as promessas de Nosso Senhor Jesus Cristo. Amém."
+        },
+        {
+            "id": "8",
+            "titulo": "Alegra-te Maria",
+            "imagen": "alegratemaria",
+            "subtitulo": "Oração de alegria e devoção mariana",
+            "contenido": "Alegra-te Maria,<br> Imaculada e Santa,<br> amada de Deus,<br> nova Eva escolhida,<br> cooperadora da reconciliação.<br><br> Mãe de Jesus e nossa,<br> incansável auxílio dos pecadores,<br> maternal intercessora,<br> lembra-te deste teu filho.<br> Amém."
+        },
+        {
+            "id": "9",
+            "titulo": "Oração do 'Fiat'",
+            "imagen": "fiat",
+            "subtitulo": "Oração de entrega à vontade de Deus",
+            "contenido": "Santa Maria, ajuda-me a me esforçar<br> ao máximo da minha capacidade<br> e ao máximo das minhas possibilidades<br> para viver sempre na virtude.<br> Entrego-me a Ti totalmente,<br> e quero viver sempre para Ti,<br> de modo que a Tua glória<br> e a de Teu Filho Jesus<br> sejam sempre a minha principal motivação.<br> Amém."
+        },
+        {
+            "id": "10",
+            "titulo": "Oração de Proteção",
+            "imagen": "protecciondivina",
+            "subtitulo": "Oração para pedir proteção divina",
+            "contenido": "Senhor, peço-Te que me protejas e guies<br> em todos os momentos. Defende-me de todo mal,<br> e livra-me de qualquer perigo. Que Tua presença<br> me rodeie e me fortaleça, hoje e sempre.<br> Amém."
+        },
+        {
+            "id": "11",
+            "titulo": "Oração de Ação de Graças",
+            "imagen": "acciondegracias",
+            "subtitulo": "Oração para dar graças a Deus",
+            "contenido": "Obrigado, Senhor, por todas as bênçãos que me dás.<br> Agradeço-Te por Teu amor incondicional,<br> por Tua proteção e por cada dia que me dás.<br> Te louvo e Te bendigo, hoje e sempre.<br> Amém."
+        },
+        {
+            "id": "12",
+            "titulo": "Oração pela Paz",
+            "imagen": "paz",
+            "subtitulo": "Oração pela paz no mundo",
+            "contenido": "Senhor, peço-Te que concedas paz ao nosso mundo,<br> que a harmonia e o entendimento prevaleçam entre as nações,<br> e que cada coração encontre a paz em Ti.<br> Amém."
+        },
+        {
+            "id": "13",
+            "titulo": "Oração pela Saúde",
+            "imagen": "salud",
+            "subtitulo": "Oração para pedir saúde e bem-estar",
+            "contenido": "Peço-Te, Senhor, que cures os enfermos,<br> que lhes dês força e consolo em seu sofrimento.<br> Restaura a saúde dos corpos e das mentes,<br> e concede bem-estar a todos os que precisam.<br> Amém."
+        },
+        {
+            "id": "14",
+            "titulo": "Oração de Fortaleza",
+            "imagen": "fortaleza",
+            "subtitulo": "Oração para pedir fortaleza em tempos difíceis",
+            "contenido": "Senhor, dá-me a fortaleza para enfrentar as dificuldades,<br> a sabedoria para tomar decisões sábias,<br> e a paz para manter a calma nos momentos de provação.<br> Confio no Teu apoio e no Teu amor.<br> Amém."
+        },
+        {
+            "id": "15",
+            "titulo": "Oração de Conversão",
+            "imagem": "conversion",
+            "subtitulo": "Oração para pedir a conversão do coração",
+            "contenido": "Senhor, transforma meu coração e minha mente,<br>purifica-me e guia-me para uma vida mais santa.<br>Ajuda-me a viver de acordo com a Tua vontade,<br>e a refletir o Teu amor em tudo o que faço.<br>Amém."
+        },
+        {
+            "id": "16",
+            "titulo": "Oração de Perdão",
+            "imagem": "forgiveness",
+            "subtitulo": "Oração para pedir e oferecer perdão",
+            "contenido": "Senhor, peço perdão pelos meus pecados,<br>e agradeço pela Tua misericórdia.<br>Ajuda-me a perdoar aqueles que me ofenderam,<br>e a viver em paz com todos.<br>Amém."
+        },
+        {
+            "id": "17",
+            "titulo": "Oração pela Família",
+            "imagem": "family",
+            "subtitulo": "Oração para pedir bênçãos para a família",
+            "contenido": "Peço-Te, Senhor, que abençoes minha família,<br>que protejas cada um de nós,<br>e que nos concedas amor, compreensão e unidade.<br>Que a Tua paz reine em nosso lar.<br>Amém."
+        },
+        {
+            "id": "18",
+            "titulo": "Oração de Confiança",
+            "imagem": "trust",
+            "subtitulo": "Oração para confiar na vontade de Deus",
+            "contenido": "Confio em Ti, Senhor, e em Teu plano para minha vida.<br>Ajuda-me a aceitar o que vier com fé,<br>saber que Tu estás sempre ao meu lado,<br>e que a Tua vontade é o melhor para mim.<br>Amém."
+        },
+        {
+            "id": "19",
+            "titulo": "Oração da Manhã",
+            "imagem": "morning",
+            "subtitulo": "Oração para começar o dia com graça",
+            "contenido": "Agradeço-Te, Senhor, por este novo dia.<br>Guia-me em cada passo e faz com que minhas ações<br>refletem Teu amor e bondade.<br>Bendize meu trabalho e meus relacionamentos,<br>e ajuda-me a viver em Tua presença.<br>Amém."
+        },
+        {
+            "id": "20",
+            "titulo": "Oração da Noite",
+            "imagem": "night",
+            "subtitulo": "Oração para terminar o dia em paz",
+            "contenido": "Obrigado, Senhor, por este dia que passou.<br>Peço-Te que me concedas um descanso tranquilo<br>e que me protejas enquanto durmo.<br>Perdoa meus erros e fortalece-me para o dia seguinte.<br>Amém."
+        },
+        {
+            "id": "21",
+            "titulo": "Oração pela Sabedoria",
+            "imagem": "wisdom",
+            "subtitulo": "Oração para pedir sabedoria e discernimento",
+            "contenido": "Senhor, peço-Te que me dês sabedoria e discernimento.<br>Ajuda-me a tomar decisões corretas e a entender Tua vontade.<br>Guia-me em meus estudos e em minha vida diária,<br>e dá-me clareza para seguir o caminho que traçaste para mim.<br>Amém."
+        }
+    ]
+}
