@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "January",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/enero2019-eng",
         "activo": "no",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "February",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/febrero2019-eng",
         "activo": "no",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "March",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/marzo2019-eng",
         "activo": "no",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "April",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/abril2019-eng",
         "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "May",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/mayo2019-eng",
         "activo": "no",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "June",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/junio2019-eng",
         "activo": "no",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "July",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/julio2019-eng",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/agosto2019-eng",
         "activo": "no",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "September",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/septiembre2019-eng",
         "activo": "no",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "October",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/octubre2019-eng",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "November",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/noviembre2019-eng",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "December",
-        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available</span>",
+        "subtitulo": "<img src='images/cr.png'><span style='color:#E03841;'>Not Available",
         "contenido": "2019/diciembre2019-eng",
         "activo": "no",
         "imagen": "diciembre",

@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Enero de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/enero2020",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Febrero de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/febrero2020",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "Marzo de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/marzo2020",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Abril de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/abril2020",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mayo de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/mayo2020",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Junio de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/junio2020",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Julio de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/julio2020",
         "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Agosto de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/agosto2020",
         "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "Septiembre de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/septiembre2020",
         "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Octubre de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/octubre2020",
         "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Noviembre de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/noviembre2020",
         "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Diciembre de",
-        "subtitulo": "<span class='miniemoji'>💜 Disponible</span>",
+        "subtitulo": "Disponible",
         "contenido": "2020/diciembre2020",
         "activo": "si",
         "imagen": "diciembre",

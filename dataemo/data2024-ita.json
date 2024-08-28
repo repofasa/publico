@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Gennaio",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/enero2024-ita",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Febbraio",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/febrero2024-ita",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "Marzo",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/marzo2024-ita",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Aprile",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/abril2024-ita",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Maggio",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/mayo2024-ita",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Giugno",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/junio2024-ita",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Luglio",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/julio2024-ita",
         "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Agosto",
-        "subtitulo": "<span class='miniemoji'>💜 A Disposizione</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/agosto2024-ita",
         "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "Settembre",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/septiembre2024-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Ottobre",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "A Disposizione",
         "contenido": "2024/octubre2024-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Novembre",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "Non Disponibile",
         "contenido": "2024/noviembre2024-ita",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Dicembre",
-        "subtitulo": "<span class='miniemoji2'>💔 Non Disponibile</span>",
+        "subtitulo": "Non Disponibile",
         "contenido": "2024/diciembre2024-ita",
         "activo": "no",
         "imagen": "diciembre",

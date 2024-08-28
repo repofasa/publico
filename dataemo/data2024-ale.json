@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Januar",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/enero2024-ale",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Februar",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/febrero2024-ale",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "März",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/marzo2024-ale",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "April",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/abril2024-ale",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mai",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/mayo2024-ale",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Juni",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/junio2024-ale",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Juli",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/julio2024-ale",
         "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "<span class='miniemoji'>💜 Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/agosto2024-ale",
         "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "September",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/septiembre2024-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Oktober",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "Verfügbar",
         "contenido": "2024/octubre2024-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "November",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2024/noviembre2024-ale",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Dezember",
-        "subtitulo": "<span class='miniemoji2'>💔 Nicht Verfügbar</span>",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2024/diciembre2024-ale",
         "activo": "no",
         "imagen": "diciembre",

@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Janoary",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/enero2023-mal",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Febroary",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/febrero2023-mal",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "Martsa",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/marzo2023-mal",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Aprily",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/abril2023-mal",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mey",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/mayo2023-mal",
         "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Jiona",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/junio2023-mal",
         "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Jolay",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/julio2023-mal",
         "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Aogositra",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/agosto2023-mal",
         "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "Septambra",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/septiembre2023-mal",
         "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Oktobra",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/octubre2023-mal",
         "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Novambra",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/noviembre2023-mal",
         "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Desambra",
-        "subtitulo": "<span class='miniemoji'>💜 Available</span>",
+        "subtitulo": "Available",
         "contenido": "2023/diciembre2023-mal",
         "activo": "si",
         "imagen": "diciembre",
