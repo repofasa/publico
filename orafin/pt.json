@@ -108,49 +108,49 @@
         {
             "id": "15",
             "titulo": "Oração de Conversão",
-            "imagem": "conversion",
+            "imagen": "conversion",
             "subtitulo": "Oração para pedir a conversão do coração",
             "contenido": "Senhor, transforma meu coração e minha mente,<br>purifica-me e guia-me para uma vida mais santa.<br>Ajuda-me a viver de acordo com a Tua vontade,<br>e a refletir o Teu amor em tudo o que faço.<br>Amém."
         },
         {
             "id": "16",
             "titulo": "Oração de Perdão",
-            "imagem": "perdon",
+            "imagen": "perdon",
             "subtitulo": "Oração para pedir e oferecer perdão",
             "contenido": "Senhor, peço perdão pelos meus pecados,<br>e agradeço pela Tua misericórdia.<br>Ajuda-me a perdoar aqueles que me ofenderam,<br>e a viver em paz com todos.<br>Amém."
         },
         {
             "id": "17",
             "titulo": "Oração pela Família",
-            "imagem": "familia",
+            "imagen": "familia",
             "subtitulo": "Oração para pedir bênçãos para a família",
             "contenido": "Peço-Te, Senhor, que abençoes minha família,<br>que protejas cada um de nós,<br>e que nos concedas amor, compreensão e unidade.<br>Que a Tua paz reine em nosso lar.<br>Amém."
         },
         {
             "id": "18",
             "titulo": "Oração de Confiança",
-            "imagem": "confianza",
+            "imagen": "confianza",
             "subtitulo": "Oração para confiar na vontade de Deus",
             "contenido": "Confio em Ti, Senhor, e em Teu plano para minha vida.<br>Ajuda-me a aceitar o que vier com fé,<br>saber que Tu estás sempre ao meu lado,<br>e que a Tua vontade é o melhor para mim.<br>Amém."
         },
         {
             "id": "19",
             "titulo": "Oração da Manhã",
-            "imagem": "manana",
+            "imagen": "manana",
             "subtitulo": "Oração para começar o dia com graça",
             "contenido": "Agradeço-Te, Senhor, por este novo dia.<br>Guia-me em cada passo e faz com que minhas ações<br>refletem Teu amor e bondade.<br>Bendize meu trabalho e meus relacionamentos,<br>e ajuda-me a viver em Tua presença.<br>Amém."
         },
         {
             "id": "20",
             "titulo": "Oração da Noite",
-            "imagem": "noche",
+            "imagen": "noche",
             "subtitulo": "Oração para terminar o dia em paz",
             "contenido": "Obrigado, Senhor, por este dia que passou.<br>Peço-Te que me concedas um descanso tranquilo<br>e que me protejas enquanto durmo.<br>Perdoa meus erros e fortalece-me para o dia seguinte.<br>Amém."
         },
         {
             "id": "21",
             "titulo": "Oração pela Sabedoria",
-            "imagem": "sabiduria",
+            "imagen": "sabiduria",
             "subtitulo": "Oração para pedir sabedoria e discernimento",
             "contenido": "Senhor, peço-Te que me dês sabedoria e discernimento.<br>Ajuda-me a tomar decisões corretas e a entender Tua vontade.<br>Guia-me em meus estudos e em minha vida diária,<br>e dá-me clareza para seguir o caminho que traçaste para mim.<br>Amém."
         }
