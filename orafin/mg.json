@@ -1,10 +1,10 @@
 {
-	"array": [
+	"data": [
 		{
 			"id": "1",
 			"nombre": "Sign Of The Cross",
       "icono":"cruz",
-			"desc": "It is the sign of the Christians, where Jesus died for us. It is customary to recite other prayers before or after reading the Gospel.",
+			"subtitulo": "It is the sign of the Christians, where Jesus died for us. It is customary to recite other prayers before or after reading the Gospel.",
 			"contenido": "By the sign of the Holy<br />Cross,<br />from our enemies deliver us<br />Oh Lord our God.<br />In the name of The Father,<br />The Son and The Holy<br />Spirit.<br />Amen",
 			"imagen": "signocruz"
 		},
@@ -12,7 +12,7 @@
 			"id": "2",
 			"nombre": "The Our Father",
       "icono":"padre",
-			"desc": "This is one of the most important prayers. This prayer was given to us by Jesus Christ Himself. Can be prayed at any time needed.",
+			"subtitulo": "This is one of the most important prayers. This prayer was given to us by Jesus Christ Himself. Can be prayed at any time needed.",
 			"contenido": "Our Father, who art in<br />heaven,<br />hallowed be Thy name.<br />Thy kingdom come;<br />Thy will be done on earth as it is in heaven.<br />Give us this day our daily bread, and forgive us our<br />trespasses<br />as we forgive those who trespass against us.<br />And lead us not into temptation but deliver us from evil.<br />Amen.",
 			"imagen": "padrenuestro"
 		},
@@ -20,7 +20,7 @@
 			"id": "3",
 			"nombre": "Hail Mary",
       "icono":"ave",
-			"desc": "Here we repeat the words our Mother heard from the Angel. Every time we pray this, is like giving a rose to our Mother, the Virgin Mary.",
+			"subtitulo": "Here we repeat the words our Mother heard from the Angel. Every time we pray this, is like giving a rose to our Mother, the Virgin Mary.",
 			"contenido": "Hail Mary, full of grace,<br />the Lord is with you.<br />Blessed art you among<br />women,<br />and blessed is the Fruit of your womb, Jesus.<br />Holy Mary, Mother of God,<br />pray for us sinners, now, and at the hour of our death.<br />Amen. ",
 			"imagen": "avemaria"
 		},
@@ -28,7 +28,7 @@
 			"id": "4",
 			"nombre": "Glory Be To The Father",
       "icono":"bible",
-			"desc": "Catholic prayer praising the Holy Trinity. It is customary to pray to conclude other prayers.",
+			"subtitulo": "Catholic prayer praising the Holy Trinity. It is customary to pray to conclude other prayers.",
 			"contenido": "Glory be to the Father,<br />and to the Son,<br />and to the Holy Spirit.<br />As it was in the beginning, is now, and ever shall be,<br />world without end.<br />Amen.",
 			"imagen": "gloria"
 		},
@@ -36,7 +36,7 @@
 			"id": "5",
 			"nombre": "Hail Holy Queen",
       "icono":"rosary",
-			"desc": "It is a supply to our Mother, who can do everything. We ask her protection.",
+			"subtitulo": "It is a supply to our Mother, who can do everything. We ask her protection.",
 			"contenido": "Hail Holy Queen, Mother of<br />Mercy; our life,<br />our sweetness and our<br />hope! To you do we<br />cry, poor banished children<br />of Eve. To you<br />do we send up our sighs,<br />mourning and weeping<br />in this vale of tears. Turn then, most gracious<br />advocate, your eyes of mercy toward<br />us; and after this our exile, show unto us the<br />blessed fruit of your womb, Jesus. O clement, O loving, O<br />sweet Virgin Mary.<br />V. Pray for us, O holy Mother of God,<br />R. that we may be made worthy of the promises of Christ.<br />Amen.",
 			"imagen": "regina"
 		},
@@ -44,7 +44,7 @@
 			"id": "6",
 			"nombre": "My Lord Jesus Christ",
       "icono":"jesus",
-			"desc": "We ask our Lord to forgive us, because we regret any offense, and to help us for not to sin again.",
+			"subtitulo": "We ask our Lord to forgive us, because we regret any offense, and to help us for not to sin again.",
 			"contenido": "My Lord Jesus Christ,<br />God and true man,<br />Creator, Father and my<br />redeemer.<br />As you who you are, and because I love above all things,<br />I regret with all my heart for having offended.<br />I firmly resolve never to sin,<br />turn away from all occasions of offending you,<br />confess it, and meet me outside the penance imposed.<br />Amen.",
 			"imagen": "signore"
 		},
@@ -52,7 +52,7 @@
 			"id": "7",
 			"nombre": "I Confess to You",
       "icono":"confieso",
-			"desc": "General confession to pray in Sunday Mass and at any time we want to apologize for venial sins.",
+			"subtitulo": "General confession to pray in Sunday Mass and at any time we want to apologize for venial sins.",
 			"contenido": "I confess to almighty God,<br />and to you, my brothers and sisters,<br />that I have sinned through my own fault,<br />in my thoughts and in my words,<br />in what I have done,<br />and in what I have failed to do;<br />and I ask blessed Mary, ever virgin,<br />all the angels and saints, and you,<br />my brothers and sisters,<br />to pray for me to the Lord our God.<br />Amen.",
 			"imagen": "confesso"
 		},
@@ -60,7 +60,7 @@
 			"id": "8",
 			"nombre": "The Nicene-Constantinopolitan Creed",
       "icono":"credo2",
-			"desc": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
+			"subtitulo": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
 			"contenido": "We believe in God, the Father, the<br />Almighty, maker of heaven and<br />earth, and all that is seen and<br />unseen.<br />We believe in one Lord, Jesus<br />Christ, the only Son of God,<br />eternally begotten of the Father,<br />God from God, Light from Light, true<br />God from true God, begotten, not<br />made, consubstantial<br />one in Being with the Father.<br />Through him all things were made.<br />For us men and for our salvation he<br />came down from heaven: and by the<br />Holy Spirit was incarnate he was<br />born of the Virgin Mary, and became<br />man. For our sake he was crucified<br />under Pontius Pilate; he suffered,<br />died, and was buried. On the third<br />day he rose again in fulfilment of the<br />Scriptures; he ascended into heaven<br />and is seated<br />at the right<br />hand of the<br />Father. He will<br />come again in glory to judge the<br />living and the dead, and His<br />kingdom will have no end.<br />We believe in the Holy Spirit, the<br />Lord, the giver of life, who proceeds<br />from the Father and the Son. With<br />the Father and the Son he is<br />worshipped and glorified. He has<br />spoken through the Prophets.<br />We believe in one holy catholic and<br />apostolic Church. We acknowledge<br />one baptism for the forgiveness of<br />sins. We look for the resurrection of<br />the dead, and the life of the world to<br />come.<br />Amen.",
 			"imagen": "niceno"
 		},
@@ -68,7 +68,7 @@
 			"id": "9",
 			"nombre": "Apostles’ Creed",
       "icono":"credo",
-			"desc": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
+			"subtitulo": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
 			"contenido": "I believe in God, the Father<br />almighty, Creator of heaven<br />and earth, and in Jesus<br />Christ, his only Son, our<br />Lord, who<br />was conceived by the Holy<br />Spirit, born of the Virgin Mary,<br />suffered under Pontius Pilate,<br />was crucified, died and was<br />buried; he descended into<br />hell; on the third day he rose<br />again from the dead; he<br />ascended into heaven, and is<br />seated at the right hand of<br />God the Father almighty;<br />from there he will come to<br />judge the living and the dead.<br />I believe in the Holy Spirit, the<br />holy catholic Church, the<br />communion of saints, the<br />forgiveness of sins, the<br />resurrection<br />of the body, and life<br />everlasting.<br />Amen.",
 			"imagen": "apostolico"
 		},
@@ -76,7 +76,7 @@
 			"id": "10",
 			"nombre": "Act of Spiritual Communion",
       "icono":"scroll",
-			"desc": "Beautiful prayer when we go to receive Holy Communion. Also to conclude the visit to the exposition of the Blessed Sacrament or any other blessing.",
+			"subtitulo": "Beautiful prayer when we go to receive Holy Communion. Also to conclude the visit to the exposition of the Blessed Sacrament or any other blessing.",
 			"contenido": "My Jesus, I believe that<br />You are in the Blessed<br />Sacrament. I love You<br />above all things, and I long for You in my soul. Since I<br />cannot now receive You sacramentally, come at least<br />spiritually into my heart. As though You have already<br />come, I embrace You and unite myself entirely to You;<br />never permit me to be separated from You.",
 			"imagen": "comunione"
 		},
@@ -84,7 +84,7 @@
 			"id": "11",
 			"nombre": "Angelus",
       "icono":"angel",
-			"desc": " Is prayed at noon (12:00) all year except Easter time.",
+			"subtitulo": " Is prayed at noon (12:00) all year except Easter time.",
 			"contenido": "V. The Angel of the Lord<br />declared to Mary:<br />R. And she conceived of the Holy<br />Spirit.<br />Hail Mary…<br />V. Behold the handmaid of the Lord:<br />R. Be it done unto me according to Thy word.<br />Hail Mary…<br />V. And the Word was made Flesh:<br />R. And dwelt among us.<br />Hail Mary…<br />V. Pray for us, O Holy Mother of God,<br />R. that we may be made worthy of the promises of Christ.<br />Let us pray:<br />Pour forth, we beseech Thee, O Lord, Thy grace into our hearts;<br />that we, to whom the incarnation of Christ, Thy Son, was made<br />known by the message of an angel, may by His Passion and<br />Cross be brought to the glory of His Resurrection, through the<br />same Christ Our Lord.<br />R. Amen.",
 			"imagen": "angelus"
 		},
@@ -92,7 +92,7 @@
 			"id": "12",
 			"nombre": "Regina Coeli",
       "icono":"holy-ghost",
-			"desc": " Is prayed at noon (12:00) at Easter time instead of the Angelus.",
+			"subtitulo": " Is prayed at noon (12:00) at Easter time instead of the Angelus.",
 			"contenido": "V. Queen of heaven, rejoice.<br />Alleluia.<br />R. For He whom thou didst<br />deserve to bear, Alleluia.<br />V. Hath risen as He said, Alleluia.<br />R. Pray for us to God, Alleluia.<br />V. Rejoice and be glad, O Virgin<br />Mary, Alleluia.<br />R. Because Our Lord is truly risen, Alleluia.<br />Let us pray<br />O God, who by the resurrection of Thy Son, Our Lord Jesus<br />Christ, hast vouchsafed to make glad the whole world, great, we<br />beseech Thee, that, through the intercession of the Virgin Mary,<br />His Mother, we may attain the joys of eternal life.<br />Through the same Christ Our Lord.<br />R. Amen.",
 			"imagen": "coeli"
 		},
@@ -100,7 +100,7 @@
 			"id": "13",
 			"nombre": "Blessed Be Your Purity",
       "icono":"pureza",
-			"desc": "A poem to our Mother Virgin Mary.",
+			"subtitulo": "A poem to our Mother Virgin Mary.",
 			"contenido": "Blessed be your purity,<br />may it be blessed forever,<br />for no less than God takes<br />delight, in such exalted beauty.<br />To you, heavenly Princess,<br />Holy Virgin Mary,<br />I offer on this day my whole<br />heart, life and soul.<br />Look upon me with compassion,<br />do not leave me, my Mother.<br />Amen.",
 			"imagen": "virgen"
 		},
@@ -108,7 +108,7 @@
 			"id": "14",
 			"nombre": "Memorare",
       "icono":"goblet",
-			"desc": "We put our trust in the Virgin and ask something for us or for someone in particular",
+			"subtitulo": "We put our trust in the Virgin and ask something for us or for someone in particular",
 			"contenido": "Remember, O most gracious<br />Virgin Mary,<br />that never was it known that<br />anyone who fled to thy<br />protection,<br />implored thy help, or sought<br />thine intercession was left unaided.<br />Inspired by this confidence, I fly unto thee, O Virgin of<br />virgins, my mother;<br />to thee do I come, before thee I stand, sinful and<br />sorrowful.<br />O Mother of the Word Incarnate, despise not my petitions,<br />but in thy mercy hear and answer me.<br />Amen. ",
 			"imagen": "memorare"
 		},
@@ -116,7 +116,7 @@
 			"id": "15",
 			"nombre": "Soul of Christ (Anima Christi)",
       "icono":"espiri",
-			"desc": "Very beautiful prayer after Communion.",
+			"subtitulo": "Very beautiful prayer after Communion.",
 			"contenido": "Soul of Christ, sanctify me.<br />Body of Christ, save me.<br />Blood of Christ, inebriate<br />me.<br />Water from the side of<br />Christ, wash me.<br />Passion of Christ, strengthen me.<br />O Good Jesus, hear me.<br />Within your wounds hide me.<br />Permit me not to be separated from you.<br />From the wicked foe, defend me.<br />At the hour of my death, call me<br />and bid me come to you<br />That with your saints I may praise you<br />For ever and ever.<br />Amen.",
 			"imagen": "anima"
 		},
@@ -124,7 +124,7 @@
 			"id": "16",
 			"nombre": "Oh my Lady",
       "icono":"marie",
-			"desc": "Wake up, overcome laziness and offer day our Mother.",
+			"subtitulo": "Wake up, overcome laziness and offer day our Mother.",
 			"contenido": "Oh my Lady, O my<br />Mother, I offer<br />myself entirely to<br />you, and in proof of<br />my filial affection I offer to you this day my eyes, my ears,<br />my tongue, my heart, in a word, my whole self. Now that I<br />am entirely yours Mother of goodness, keep me and<br />defend me as your own property and possession.<br />Amen.",
 			"imagen": "maria"
 		},
@@ -132,7 +132,7 @@
 			"id": "17",
 			"nombre": "Prayer To My Guardian Angel",
       "icono":"guardian",
-			"desc": "We pray just before going to bed and at any time we can ask our Guardian Angel for protection",
+			"subtitulo": "We pray just before going to bed and at any time we can ask our Guardian Angel for protection",
 			"contenido": "Angel of God, my<br />guardian dear, to whom<br />His love commits<br />me here, ever this day<br />be at my side, to light<br />and to guard,<br />to rule and to guide.<br />Amen.",
 			"imagen": "angelo"
 		},
@@ -140,7 +140,7 @@
 			"id": "18",
 			"nombre": "Travel Prayer",
       "icono":"bendi",
-			"desc": "Before any travel this prayer may be useful.",
+			"subtitulo": "Before any travel this prayer may be useful.",
 			"contenido": "My holy Angel Guardian, ask<br />the Lord to bless the journey<br />which I undertake, that it<br />may profit the health of my soul and body; that I may<br />reach its end, and that, returning safe and sound, I may<br />find my family in good health. Do thou guard, guide and<br />preserve us.<br />Amen.",
 			"imagen": "viajero"
 		},
@@ -148,7 +148,7 @@
 			"id": "19",
 			"nombre": "Blessing Before Meals",
       "icono":"vino",
-			"desc": "We pray before every meal to thank God for the food.",
+			"subtitulo": "We pray before every meal to thank God for the food.",
 			"contenido": "V. Bless us, O Lord, and<br />these your gifts, which we are about to receive from your<br />bounty, through Christ our Lord.<br />R. Amen.<br />V. May the King of everlasting glory make us partakers of<br />the heavenly table.<br />R. Amen.",
 			"imagen": "mesa"
 		}

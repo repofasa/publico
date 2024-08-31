@@ -1,10 +1,10 @@
 {
-	"array": [
+	"data": [
 		{
 			"id": "1",
 			"nombre": "Pelo Sinal da Santa Cruz",
       "icono":"cruz",
-			"desc": "É o sinal do cristão, pois nela Jesus morreu. É costume de recitar outras orações antes ou depois de ler o Evangelho",
+			"subtitulo": "É o sinal do cristão, pois nela Jesus morreu. É costume de recitar outras orações antes ou depois de ler o Evangelho",
 			"contenido": "Pelo sinal da Santa Cruz,<br />livrai-nos, Deus, nosso<br />Senhor, dos nossos<br />inimigos.<br />Em nome do Pai, do Filho e<br />do Espírito Santo.<br />Amém",
 			"imagen": "signocruz"
 		},
@@ -12,7 +12,7 @@
 			"id": "2",
 			"nombre": "Pai-Nosso",
       "icono":"padre",
-			"desc": "A oração por excelência. Nós ensinamos o mesmo Jesus Cristo e posso orar várias vezes ao dia.",
+			"subtitulo": "A oração por excelência. Nós ensinamos o mesmo Jesus Cristo e posso orar várias vezes ao dia.",
 			"contenido": "Pai nosso, que estais<br />nos Céus, santificado<br />seja o vosso nome,<br />venha a nós o vosso<br />reino, seja feita a vossa vontade, assim na terra, como no<br />Céu. O pão nosso de cada dia nos dai hoje, perdoai-nos<br />as nossas ofensas, assim como nós perdoamos a quem<br />nos tem ofendido, e não nos deixeis cair em tentação,<br />mas livrai-nos do mal.<br />Amém.",
 			"imagen": "padrenuestro"
 		},
@@ -20,7 +20,7 @@
 			"id": "3",
 			"nombre": "Ave-Maria",
       "icono":"ave",
-			"desc": "Aqui nós repetimos as palavras do anjo à Virgem. Toda vez que eu orar, é como se nós deu uma rosa à nossa Mãe.",
+			"subtitulo": "Aqui nós repetimos as palavras do anjo à Virgem. Toda vez que eu orar, é como se nós deu uma rosa à nossa Mãe.",
 			"contenido": "Ave Maria cheia de<br />graça, o Senhor é<br />convosco, bendita sois<br />Vós entre as mulheres,<br />e bendito é o fruto do<br />vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por<br />nós pecadores, agora e na hora da nossa morte.<br />Amém.",
 			"imagen": "avemaria"
 		},
@@ -28,7 +28,7 @@
 			"id": "4",
 			"nombre": "Glória ao Pai",
       "icono":"bible",
-			"desc": "Cântico de louvor dirigida à Santíssima Trindade. É costume de rezar a concluir outras orações.",
+			"subtitulo": "Cântico de louvor dirigida à Santíssima Trindade. É costume de rezar a concluir outras orações.",
 			"contenido": "Glória ao Pai e ao Filho<br />e ao Espírito Santo.<br />Assim como era no princípio,<br />agora e sempre, e por todos os séculos dos séculos.<br />Amém.",
 			"imagen": "gloria"
 		},
@@ -36,7 +36,7 @@
 			"id": "5",
 			"nombre": "Salve Rainha",
       "icono":"rosary",
-			"desc": "É um apelo à nossa Mãe, que pode fazer tudo. Pedimos-lhe proteção.",
+			"subtitulo": "É um apelo à nossa Mãe, que pode fazer tudo. Pedimos-lhe proteção.",
 			"contenido": "Salve Rainha, Mãe de<br />Misericórdia, vida e doçura<br />esperança nossa salve! A<br />vós bradamos degredados<br />filho de Eva.<br />A vós suspiramos gemendo<br />e chorando neste vale de<br />lágrimas.<br />Eia pois advogada nossa, esses vossos olhos misericordiosos a<br />nós volvei, e depois deste desterro, mostrai-nos Jesus, bendito<br />fruto do vosso ventre, ó clemente, ó piedosa ó doce e sempre<br />Virgem Maria.<br />V. Rogai por nós Santa Mãe de Deus.<br />R. Para que sejamos dignos das promessas de Cristo.<br />Amém.",
 			"imagen": "regina"
 		},
@@ -44,7 +44,7 @@
 			"id": "6",
 			"nombre": "Ato De Contrição",
       "icono":"jesus",
-			"desc": "Para dizer o Senhor nos arrependemos e que não quer ofendê-lo mais",
+			"subtitulo": "Para dizer o Senhor nos arrependemos e que não quer ofendê-lo mais",
 			"contenido": "Senhor, eu me arrependo<br />sinceramente de todo mal que<br />pratiquei e do bem que deixei de<br />fazer. Pecando, eu vos ofendi, meu Deus e sumo bem,<br />digno de ser amado sobre todas as coisas. Prometo<br />firmemente, ajudado com a vossa graça, fazer penitência<br />e fugir às ocasiões de pecar. Senhor, tende piedade de<br />mim, pelos méritos da paixão, morte e ressurreição de<br />Jesus Cristo, nosso Salvador.<br />Amém.",
 			"imagen": "signore"
 		},
@@ -52,7 +52,7 @@
 			"id": "7",
 			"nombre": "Confissão",
       "icono":"confieso",
-			"desc": "Confissão geral para rezar na Missa dominical e em qualquer momento queremos pedir desculpas por pecados veniais.",
+			"subtitulo": "Confissão geral para rezar na Missa dominical e em qualquer momento queremos pedir desculpas por pecados veniais.",
 			"contenido": "Confesso a Deus TodoPoderoso<br />e a vós irmãos,<br />que pequei muitas vezes<br />por pensamentos e palavras,<br />actos e omissões,<br />por minha, culpa,<br />minha tão grande culpa.<br />E peço à Virgem Maria,<br />aos Anjos e Santos<br />e a vós, Irmãos,<br />que rogueis por mim<br />a Deus, Nosso Senhor. ",
 			"imagen": "confesso"
 		},
@@ -60,7 +60,7 @@
 			"id": "8",
 			"nombre": "Credo: Simbolo Niceno - Constantinopolitano",
       "icono":"credo2",
-			"desc": ": Lembramo-nos de nosso batismo, confessando nossa fé. Oramos na missa dominical.",
+			"subtitulo": ": Lembramo-nos de nosso batismo, confessando nossa fé. Oramos na missa dominical.",
 			"contenido": "Creio em um só Deus, Pai<br />Todo-Poderoso, criador do céu<br />e da terra, de todas as coisas<br />visíveis e invisíveis. Creio em<br />um só Senhor, Jesus Cristo,<br />Filho Unigênito de Deus,<br />nascido do Pai antes de todos<br />os séculos. Deus de Deus, luz<br />da luz, Deus verdadeiro de<br />Deus verdadeiro, gerado, não<br />criado, consubstancial ao Pai.<br />Por ele todas as coisas foram<br />feitas. E por nós, homens, e<br />para nossa salvação, desceu<br />dos céus, e se encarnou pelo<br />Espírito Santo, no seio da<br />Virgem Maria, e se fez homem.<br />Também por nós foi crucificado<br />sob Pôncio Pilatos, padeceu e<br />foi sepultado. Ressuscitou ao<br />terceiro dia,<br />conforme as<br />escrituras, e<br />subiu aos céus, onde está<br />sentado à direita do Pai. E de<br />novo há de vir, em sua glória,<br />para julgar os vivos e os mortos;<br />e o seu reino não terá fim. Creio<br />no Espírito Santo, Senhor que<br />dá a vida, e procede do Pai e do<br />Filho; e com o Pai e o Filho é<br />adorado e glorificado; Ele que<br />falou pelos profetas. Creio na<br />Igreja, una, santa, católica e<br />apostólica. Professo um só<br />batismo para a remissão dos<br />pecados, e espero a<br />ressurreição dos mortos e a<br />vida do mundo que há de vir.<br />Amém.",
 			"imagen": "niceno"
 		},
@@ -68,7 +68,7 @@
 			"id": "9",
 			"nombre": "Credo Apostólico",
       "icono":"credo",
-			"desc": "Lembramo-nos de nosso batismo, confessando nossa fé. Oramos na missa dominical.",
+			"subtitulo": "Lembramo-nos de nosso batismo, confessando nossa fé. Oramos na missa dominical.",
 			"contenido": "Creio em Deus Pai<br />Todo-Poderoso, criador<br />do céu e da terra. E em<br />Jesus Cristo, seu único<br />Filho Nosso Senhor, que<br />foi concebido pelo poder<br />do Espírito Santo,<br />nasceu da Virgem Maria,<br />padeceu sob Pôncio<br />Pilatos, foi crucificado,<br />morto e sepultado,<br />desceu a mansão dos<br />mortos, ressucitou ao<br />terceiro dia, subiu aos<br />Céus, está sentado à<br />direita de Deus Pai todopoderoso, donde há de<br />vir a julgar os vivos e<br />mortos. Creio no Espírito<br />Santo. Na Santa Igreja<br />Católica, na comunhão<br />dos santos, na remissão<br />dos pecados, na<br />ressurreição da carne,<br />na vida eterna.<br />Amém.",
 			"imagen": "apostolico"
 		},
@@ -76,7 +76,7 @@
 			"id": "10",
 			"nombre": "A Comunhão Espiritual",
       "icono":"scroll",
-			"desc": "Oração bonita quando vamos para receber a Sagrada Comunhão. Também a concluir a visita ao Santíssimo ou bênção.",
+			"subtitulo": "Oração bonita quando vamos para receber a Sagrada Comunhão. Também a concluir a visita ao Santíssimo ou bênção.",
 			"contenido": "Oh Jesus meu, creio que<br />estais presente no<br />Santíssimo Sacramento, te<br />amo sobre todas as coisas e desejo receber-Te em minha<br />alma. Já que agora não posso fazê-lo sacramentalmente,<br />venha ao menos espiritualmente a meu coração. Como se<br />já tivesse recebido, te abraço e me uno todo a Ti, não<br />permitais, Senhor, que volte jamais a abandonar-Te.<br />Amém",
 			"imagen": "comunione"
 		},
@@ -84,7 +84,7 @@
 			"id": "11",
 			"nombre": "O Angelus",
       "icono":"angel",
-			"desc": " É orou ao meiodia (12:00) durante todo o ano, exceto o tempo de Páscoa.",
+			"subtitulo": " É orou ao meiodia (12:00) durante todo o ano, exceto o tempo de Páscoa.",
 			"contenido": "V. O Anjo do Senhor anunciou a<br />Maria.<br />R. E Ela concebeu do Espírito<br />Santo.<br />(Ave maría)<br />V. Eis a escrava do Senhor.<br />R. Faça-se em mim segundo a Vossa Palavra.<br />(Ave maría)<br />V. E o Verbo divino encarnou.<br />R. E habitou no meio de nós.<br />(Ave maría)<br />V. Rogai por nós Santa Mãe de Deus.<br />R. Para que sejamos dignos das promessas de Cristo.<br />Oremos:<br />Infundi, Senhor, como Vos pedimos, a Vossa graça nas nossas<br />almas, para que nós, que pela Anunciação do Anjo conhecemos<br />a Encarnação de Cristo, Vosso Filho, pela sua Paixão e Morte<br />na Cruz, sejamos conduzidos à glória da ressurreição. Por<br />Nosso Senhor Jesus Cristo Vosso Filho que é Deus convosco<br />na unidade do Espírito Santo. Amén.",
 			"imagen": "angelus"
 		},
@@ -92,7 +92,7 @@
 			"id": "12",
 			"nombre": "Regina Coeli",
       "icono":"holy-ghost",
-			"desc": "É orou ao meiodia (12:00) durante o tempo de easter em vez dos Angelus.",
+			"subtitulo": "É orou ao meiodia (12:00) durante o tempo de easter em vez dos Angelus.",
 			"contenido": "V. Rainha do Céu, alegrai-vos,<br />Aleluia!<br />R. Porque Aquele que<br />merecestes trazer em Vosso<br />ventre, Aleluia!<br />V. Ressuscitou como disse,<br />Aleluia!<br />R. Rogai por nós a Deus, Aleluia!<br />V. Alegrai-vos e exultai, ó Virgem Maria, Aleluia!<br />R. Porque o Senhor ressuscitou verdadeiramente, Aleluia!<br />Oremos:<br />Ó Deus, que Vos dignastes alegrar o mundo com a<br />Ressurreição do vosso Filho, Nosso Senhor Jesus Cristo,<br />concedei-nos, Vos suplicamos, a graça de alcançarmos pela<br />protecção da Virgem Maria, Sua Mãe, a glória da vida eterna.<br />Pelo mesmo Cristo Nosso Senhor. Amen.",
 			"imagen": "coeli"
 		},
@@ -100,7 +100,7 @@
 			"id": "13",
 			"nombre": "Bendita seja tua pureza",
       "icono":"pureza",
-			"desc": "Um poema à Virgem Mãe.",
+			"subtitulo": "Um poema à Virgem Mãe.",
 			"contenido": "Bendita seja tua pureza e<br />eternamente o seja, pois todo<br />um Deus se recreia em tão<br />graciosa beleza.<br />A ti, celestial Princesa, Virgem<br />Sagrada Maria, vos ofereço<br />neste dia alma, vida e coração.<br />Olhai-me com compaixão, não me deixes, Mãe minha.",
 			"imagen": "virgen"
 		},
@@ -108,7 +108,7 @@
 			"id": "14",
 			"nombre": "Lembrai-vos",
       "icono":"goblet",
-			"desc": "Nós colocamos a nossa confiança na Virgem e pedir para nós ou alguém que precisa.",
+			"subtitulo": "Nós colocamos a nossa confiança na Virgem e pedir para nós ou alguém que precisa.",
 			"contenido": "Lembrai-vos, ó puríssima Virgem<br />Maria,<br />que nunca se ouviu dizer<br />que algum daqueles que têm<br />recorrido à vossa proteção,<br />implorado a vossa assistência,<br />e reclamado o vosso socorro,<br />fosse por Vós desamparado.<br />Animado eu, pois, com igual confiança,<br />a Vós, o Virgem entre todas singular,<br />como a Mãe recorro, de Vós me valho e,<br />gemendo sobre o peso dos meus pecados,<br />me prostro a vossos pés.<br />Não rejeiteis as minhas súplicas,<br />ó Mãe do Verbo de Deus humanado,<br />mas dignai-Vos de as ouvir propícia,<br />e de me alcançar o que vos rogo.<br />Amén.",
 			"imagen": "memorare"
 		},
@@ -116,7 +116,7 @@
 			"id": "15",
 			"nombre": "Alma de Cristo",
       "icono":"espiri",
-			"desc": "Muito bela oração depois da Comunhão.",
+			"subtitulo": "Muito bela oração depois da Comunhão.",
 			"contenido": "Alma de Cristo, santificai-me.<br />Corpo de Cristo, salvai-me.<br />Sangue de Cristo, inebriaime.<br />Água do lado de Cristo, lavaime.<br />Paixão de Cristo, confortaime.<br />Ó bom Jesus, ouvi-me.<br />Dentro das Vossas Chagas, escondei-me.<br />Não permitais que de Vós me separe.<br />Do espírito maligno, defendei-me.<br />Na hora da minha morte, chamai-me.<br />E mandai-me ir para Vós,<br />para que Vos louve com os Vossos Santos,<br />por todos os séculos. Amen.",
 			"imagen": "anima"
 		},
@@ -124,7 +124,7 @@
 			"id": "16",
 			"nombre": "Consagração a Nossa Senhora",
       "icono":"marie",
-			"desc": "Nada mais acordado, estamos superar a preguiça e oferecem dia nossa mãe.",
+			"subtitulo": "Nada mais acordado, estamos superar a preguiça e oferecem dia nossa mãe.",
 			"contenido": "Ó Senhora minha,<br />ó minha Mãe,<br />eu me ofereço todo(a) a<br />vós,<br />e em prova da minha<br />devoção para convosco,<br />Vos consagro neste dia<br />e para sempre,<br />os meus olhos, os meus<br />ouvidos,<br />a minha boca, o meu<br />coração e inteiramente<br />todo o meu ser.<br />E porque assim sou<br />vosso(a),<br />ó incomparável Mãe,<br />guardai-me e defendeime como propriedade<br />vossa.<br />Lembrai-vos que vos<br />pertenço, terna Mãe,<br />Senhora nossa.<br />Ah, guardai-me e<br />defendei-me como coisa<br />própria vossa.<br />Amen.",
 			"imagen": "maria"
 		},
@@ -132,7 +132,7 @@
 			"id": "17",
 			"nombre": "Santo Anjo",
       "icono":"guardian",
-			"desc": "Ele reza antes de dormir e, a qualquer momento, pedimos a nossa protecção Anjo Guardião.",
+			"subtitulo": "Ele reza antes de dormir e, a qualquer momento, pedimos a nossa protecção Anjo Guardião.",
 			"contenido": "Santo Anjo do Senhor,<br />meu zeloso guardador,<br />se a ti me confiou a<br />piedade divina, sempre<br />me rege, guarda,<br />governa e ilumina.<br />Amém.",
 			"imagen": "angelo"
 		},
@@ -140,7 +140,7 @@
 			"id": "18",
 			"nombre": "Oração para Viagem",
       "icono":"bendi",
-			"desc": "Antes de fazer qualquer viagem não faz mal a uma frase como esta.",
+			"subtitulo": "Antes de fazer qualquer viagem não faz mal a uma frase como esta.",
 			"contenido": "Ó Deus, eu te agradeço pela<br />oportunidade de viajar.<br />Creio em tua onipresença, porque és luz que orienta<br />todos os destinos pelas estradas da vida.<br />Por isso, peço-te segurança durante o percurso.<br />Guia todos os passageiros e protege-nos dos perigos<br />ou em alguma emergência.<br />Preserva as nossas vidas, Senhor, para que possamos<br />atingir nossas metas com alegria e tranqüilidade.<br />Enfim, permite-nos fazer uma boa vigem.<br />Amém.",
 			"imagen": "viajero"
 		},
@@ -148,7 +148,7 @@
 			"id": "19",
 			"nombre": "Oração antes das refeições",
       "icono":"vino",
-			"desc": "Ele reza antes de cada refeição para agradecer a Deus pela comida.",
+			"subtitulo": "Ele reza antes de cada refeição para agradecer a Deus pela comida.",
 			"contenido": "Dignai-vos, Senhor,<br />abençoar o alimento que vou tomar, para melhor vos<br />servir e amar. Em nome do Pai, do Filho e do Espírito<br />Santo.<br />Amém.",
 			"imagen": "mesa"
 		}

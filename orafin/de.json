@@ -1,10 +1,10 @@
 {
-	"array": [
+	"data": [
 		{
 			"id": "1",
 			"nombre": "Das Kreuzzeichen",
       "icono":"cruz",
-			"desc": "Es ist das Zeichen des Christen, denn in ihr ist Jesus gestorben ist. Es ist üblich, andere Gebete zu rezitieren vor oder nach dem Evangelium zu lesen.",
+			"subtitulo": "Es ist das Zeichen des Christen, denn in ihr ist Jesus gestorben ist. Es ist üblich, andere Gebete zu rezitieren vor oder nach dem Evangelium zu lesen.",
 			"contenido": "Durch das Zeichen des<br />Heiligen Kreuzes befreie<br />uns von unseren Feinden,<br />Herr unser Gott.<br />Im Namen des Vaters und<br />des Sohnes und des<br />Heiligen † Geistes. Amen.",
 			"imagen": "signocruz"
 		},
@@ -12,7 +12,7 @@
 			"id": "2",
 			"nombre": "Das Vaterunser",
       "icono":"padre",
-			"desc": "Gebet par excellence. Wir brachten die gleiche Jesus Christus und mehrmals am Tag beten können",
+			"subtitulo": "Gebet par excellence. Wir brachten die gleiche Jesus Christus und mehrmals am Tag beten können",
 			"contenido": "Vater unser im Himmel,<br />geheiligt werde dein<br />Name.<br />Dein Reich komme.<br />Dein Wille geschehe,<br />wie im Himmel so auf Erden.<br />Unser tägliches Brot gib uns heute.<br />Und vergib uns unsere Schuld,<br />wie auch wir vergeben unsern Schuldigern.<br />Und führe uns nicht in Versuchung,<br />sondern erlöse uns von dem Bösen.<br />Denn dein ist das Reich und die Kraft<br />und die Herrlichkeit in Ewigkeit.<br />Amen.",
 			"imagen": "padrenuestro"
 		},
@@ -20,7 +20,7 @@
 			"id": "3",
 			"nombre": "Ave Maria",
       "icono":"ave",
-			"desc": "Sind die Worte, die der Engel zu Maria gesagt. Jedes Mal, wenn ich bete, ist es, als ob wir eine Rose zu unserer Mutter gab.",
+			"subtitulo": "Sind die Worte, die der Engel zu Maria gesagt. Jedes Mal, wenn ich bete, ist es, als ob wir eine Rose zu unserer Mutter gab.",
 			"contenido": "Gegrüßet seist Du,<br />Maria, voll der<br />Gnaden,<br />der Herr ist mit dir,<br />Du bist gebenedeit<br />unter den Frauen,<br />und gebenedeit ist die Frucht deines Leibes, Jesus.<br />Heilige Maria, Mutter Gottes,<br />bitte für uns Sünder,<br />jetzt und in der Stunde unseres Todes.<br />Amen. ",
 			"imagen": "avemaria"
 		},
@@ -28,7 +28,7 @@
 			"id": "4",
 			"nombre": "Ehre sei dem Vater",
       "icono":"bible",
-			"desc": "Loblied auf die Heilige Dreifaltigkeit gerichtet. Es ist üblich, zu beten, andere Gebete zu schließen",
+			"subtitulo": "Loblied auf die Heilige Dreifaltigkeit gerichtet. Es ist üblich, zu beten, andere Gebete zu schließen",
 			"contenido": "Ehre sei dem Vater und<br />dem Sohn und dem<br />Heiligen Geist. Wie im Anfang, so auch jetzt und allezeit<br />und in Ewigkeit.<br />Amen.",
 			"imagen": "gloria"
 		},
@@ -36,7 +36,7 @@
 			"id": "5",
 			"nombre": "Salve Regina",
       "icono":"rosary",
-			"desc": "Es ist ein Appell an unsere Mutter, die alles tun können. Wir fragten sie Schutz",
+			"subtitulo": "Es ist ein Appell an unsere Mutter, die alles tun können. Wir fragten sie Schutz",
 			"contenido": "Hagel o Königin, Mutter der<br />Barmherzigkeit, unser Leben<br />und unsere Süße und<br />unsere Hoffnung, Vorurteile.<br />Zu dir, verbannte Kinder<br />Evas, zu dir seufzen<br />trauernd und weinend in<br />diesem Tal der Tränen.<br />Drehen Sie dann unsere Fürsprecherin, wenden sich an uns,<br />deine Augen der Barmherzigkeit und nach diesem Elend zeige<br />uns Jesus, die gebenedeite Frucht deines Leibes. O gütige, o<br />milde, o süße Jungfrau Maria.",
 			"imagen": "regina"
 		},
@@ -44,7 +44,7 @@
 			"id": "6",
 			"nombre": "Jesus, mein Herr und Erlöser!",
       "icono":"jesus",
-			"desc": "Zu sagen, der Herr, wir bereuen und wir wollen nicht zu beleidigen ihn mehr.",
+			"subtitulo": "Zu sagen, der Herr, wir bereuen und wir wollen nicht zu beleidigen ihn mehr.",
 			"contenido": "Ich bereue alle Sünden, die ich<br />bisher begangen habe, und ich<br />bedauere von ganzem Herzen,dass ich Dich, einen so<br />guten Gott, beleidigt habe.<br />Ich bin fest entschlossen, nicht mehr zu sündigen, und ich<br />hoffe auf Deine unendliche Barmherzigkeit,<br />und durch die Verdienste Deiner heiligsten Kindheit erbitte<br />ich die Vergebung meiner Sünden, um das ewige Leben<br />zu erlangen.<br />Amen. ",
 			"imagen": "signore"
 		},
@@ -52,7 +52,7 @@
 			"id": "7",
 			"nombre": "Ich bekenne Gott, dem Allmächtigen...",
       "icono":"confieso",
-			"desc": "Generalbeichte in der Sonntagsmesse und zu jeder Zeit wollen wir beten für lässlichen Sünden zu entschuldigen. (Obwohl es gestehen auch gut davon ist).",
+			"subtitulo": "Generalbeichte in der Sonntagsmesse und zu jeder Zeit wollen wir beten für lässlichen Sünden zu entschuldigen. (Obwohl es gestehen auch gut davon ist).",
 			"contenido": "Ich bekenne Gott, dem Allmächtigen,<br />und allen Brüdern und Schwestern,<br />dass ich Gutes unterlassen und Böses getan habe<br />- ich habe gesündigt in Gedanken, Worten und Werken<br />durch meine Schuld, durch meine Schuld,<br />durch meine große Schuld.<br />Darum bitte ich die selige Jungfrau Maria,<br />alle Engel und Heilige<br />und euch, Brüder und Schwestern,<br />für mich zu beten bei Gott, unserem Herrn.",
 			"imagen": "confesso"
 		},
@@ -60,7 +60,7 @@
 			"id": "8",
 			"nombre": "Nizäno-Konstantinopolitanische Glaubensbekenntnis",
       "icono":"credo2",
-			"desc": "Wir erinnern uns an unsere Taufe, unseren Glauben zu bekennen. Wir beten an der Sonntagsmesse.",
+			"subtitulo": "Wir erinnern uns an unsere Taufe, unseren Glauben zu bekennen. Wir beten an der Sonntagsmesse.",
 			"contenido": "Ich glaube an den einen Gott, den<br />Vater, den Allmächtigen, der alles<br />geschaffen hat, Himmel und Erde,<br />die sichtbare und die unsichtbare<br />Welt. / Und an den einen Herrn<br />Jesus Christus, Gottes<br />eingeborenen Sohn, aus dem Vater<br />geboren vor aller Zeit: Gott von Gott,<br />Licht vom Licht, wahrer Gott vom<br />wahren Gott, gezeugt, nicht<br />geschaffen, eines Wesens mit dem<br />Vater; durch ihn ist alles geschaffen.<br />/ Für uns Menschen und zu<br />unserem Heil ist er vom Himmel<br />gekommen, hat Fleisch<br />angenommen durch den Heiligen<br />Geist von der Jungfrau Maria und ist<br />Mensch geworden. / Er wurde für<br />uns gekreuzigt unter Pontius Pilatus,<br />hat gelitten und ist begraben<br />worden. / ist am dritten Tage<br />auferstanden nach der Schrift / und<br />aufgefahren in den Himmel. Er sitzt<br />zur Rechten des Vaters / und wird<br />wiederkommen in Herrlichkeit, zu<br />richten die Lebenden und die Toten;<br />seiner Herrschaft wird kein Ende<br />sein. / Ich glaube an den Heiligen<br />Geist, der Herr ist und lebendig<br />macht, der aus dem Vater und dem<br />Sohn hervorgeht, der mit dem Vater<br />und dem Sohn angebetet und<br />verherrlicht wird, der gesprochen hat<br />durch die Propheten, / und die eine,<br />heilige, katholische und apostolische<br />Kirche. / Ich bekenne die eine Taufe<br />zur Vergebung der Sünden. / Ich<br />erwarte die Auferstehung der Toten<br />/ und das Leben der kommenden<br />Welt. / Amen",
 			"imagen": "niceno"
 		},
@@ -68,7 +68,7 @@
 			"id": "9",
 			"nombre": "Das Apostolische Glaubensbekenntnis",
       "icono":"credo",
-			"desc": "Wir erinnern uns an unsere Taufe, unseren Glauben zu bekennen. Wir beten an der Sonntagsmesse.",
+			"subtitulo": "Wir erinnern uns an unsere Taufe, unseren Glauben zu bekennen. Wir beten an der Sonntagsmesse.",
 			"contenido": "Ich glaube an Gott, den<br />Vater, den Allmächtigen,<br />den Schöpfer des Himmels<br />und der Erde, / und an<br />Jesus Christus, seinen<br />eingeborenen Sohn, unsern<br />Herrn, / empfangen durch<br />den Heiligen Geist, geboren<br />von der Jungfrau Maria, /<br />gelitten unter Pontius<br />Pilatus, gekreuzigt,<br />gestorben und begraben, /<br />hinabgestiegen in das<br />Reich des Todes, am<br />dritten Tage auferstanden<br />von den Toten, /<br />aufgefahren in den Himmel;<br />er sitzt zur Rechten Gottes,<br />des allmächtigen Vaters; /<br />von dort wird er kommen,<br />zu richten die Lebenden<br />und die Toten. / Ich glaube<br />an den Heiligen Geist, / die<br />heilige katholische Kirche,<br />Gemeinschaft der Heiligen,<br />/ Vergebung der Sünden, /<br />Auferstehung der Toten /<br />und das ewige Leben. /<br />Amen.",
 			"imagen": "apostolico"
 		},
@@ -76,7 +76,7 @@
 			"id": "10",
 			"nombre": "Geistige Kommunion",
       "icono":"scroll",
-			"desc": "Schöne Gebet, wenn wir gehen heilige Kommunion zu empfangen. Auch der Besuch der Seligen oder Segen zu schließen.",
+			"subtitulo": "Schöne Gebet, wenn wir gehen heilige Kommunion zu empfangen. Auch der Besuch der Seligen oder Segen zu schließen.",
 			"contenido": "Mein Jesus, ich glaube,<br />dass Du im allerheiligsten<br />Sakrament des Altares<br />zugegen bist. Ich liebe dich<br />über alles und meine Seele sehnt sich nach Dir. Da ich<br />Dich aber jetzt im Sakrament des Altares nicht empfangen<br />kann, so komme wenigstens geistigerweise zu mir. Ich<br />umfange Dich, als wärest Du schon bei mir und vereinige<br />mich mit Dir! Ich bete Dich in tiefster Ehrfurcht an. Lass<br />nicht zu, dass ich mich je von Dir trenne. Amen",
 			"imagen": "comunione"
 		},
@@ -84,7 +84,7 @@
 			"id": "11",
 			"nombre": "Ángelus",
       "icono":"angel",
-			"desc": "Es wird am Mittag (12:00) das ganze Jahr außer Ostern gebetet.",
+			"subtitulo": "Es wird am Mittag (12:00) das ganze Jahr außer Ostern gebetet.",
 			"contenido": "S. Der Engel des Herrn erklärt,<br />zu Maria.<br />A.Und sie empfing vom Heiligen<br />Geist.<br />(Ave maria)<br />S. Ich bin die Magd des Herrn.<br />A. Es ist für mich nach deinem Wort getan.<br />(Ave maria)<br />S. Und das Wort ist Fleisch geworden.<br />A. Und er wohnte unter uns.<br />(Ave maria)<br />S. Bitte für uns, heilige Mutter Gottes.<br />A. Und wir werden würdig werden der Verheißungen Christi.<br />Bitte:<br />Gießen Sie in unsere Herzen Deiner Gnade, o Vater, du, dass<br />die Engel, an die wir die Inkarnation von Ihrem Sohn, für seine<br />Leidenschaft und sein Kreuz zur Herrlichkeit der Auferstehung.<br />Durch Christus, unseren Herrn.<br />A. Amen.",
 			"imagen": "angelus"
 		},
@@ -92,7 +92,7 @@
 			"id": "12",
 			"nombre": "Regina Coeli",
       "icono":"holy-ghost",
-			"desc": "Es wird am Mittag (12:00) während der Osterzeit statt der Angelus gebetet.",
+			"subtitulo": "Es wird am Mittag (12:00) während der Osterzeit statt der Angelus gebetet.",
 			"contenido": "S. Freu dich,<br />du Himmelskönigin, Halleluja!<br />A. Den du zu tragen<br />würdig warst, Halleluja,<br />S. er ist auferstanden,<br />wie er gesagt, Halleluja.<br />A. Bitt´ Gott für uns, Halleluja.<br />S. Freu dich und frohlocke,<br />Jungfrau Maria, Halleluja,<br />A. denn der Herr ist wahrhaft<br />auferstanden, Halleluja.<br /><br />Bitte:<br />Lasset uns beten. Allmächtiger Gott, durch die Auferstehung<br />deines Sohnes, unseres Herrn Jesus Christus, hast du die Welt<br />mit Jubel erfüllt. Lass uns durch seine jungfräuliche Mutter Maria<br />zur unvergänglichen Osterfreude gelangen. Darum bitten wir<br />durch Christus, unseren Herrn.<br />A. Amen.",
 			"imagen": "coeli"
 		},
@@ -100,7 +100,7 @@
 			"id": "13",
 			"nombre": "Gedenke, gütigste Jungfrau",
       "icono":"goblet",
-			"desc": "Wir setzen unser Vertrauen in die Jungfrau und fragen Sie uns oder jemand anderes, der es braucht",
+			"subtitulo": "Wir setzen unser Vertrauen in die Jungfrau und fragen Sie uns oder jemand anderes, der es braucht",
 			"contenido": "Gedenke, gütige Jungfrau<br />Maria,<br />es ist noch nie gehört worden,<br />daß jemand, der zu dir<br />seine Zuflucht genommen,<br />deine Hilfe angerufen und<br />um deine Fürsprache gefleht,<br />von dir verlassen worden sei.<br />Von solchem Vertrauen beseelt,<br />nehme ich meine Zuflucht zu dir,<br />Mutter Jesu Christi<br />und Jungfrau der Jungfrauen.<br />Zu dir komme ich, vor dir stehe ich<br />als armer sündiger Mensch.<br />Mutter des ewigen Wortes,<br />verschmähe nicht meine Worte,<br />sondern höre mich gnädig an<br />und erhöre mich.<br />Amen.",
 			"imagen": "memorare"
 		},
@@ -108,7 +108,7 @@
 			"id": "14",
 			"nombre": "Seele Christi",
       "icono":"espiri",
-			"desc": "Sehr schönes Gebet nach der Kommunion.",
+			"subtitulo": "Sehr schönes Gebet nach der Kommunion.",
 			"contenido": "Seele Christi heilige mich<br />Leib Christi, rette mich,<br />Blut Christi tränke mich,<br />Wasser der Seite Christi<br />reinige mich.<br />Leiden Christi stärke mich.<br />O guter Jesus erhöre mich.<br />Birg in deinen Wunden mich<br />von dir lass nimmer scheiden mich<br />vor dem bösen Feind beschütze mich.<br />In meiner Todesstunde rufe mich<br />zu dir kommen heiße mich<br />mit deinen Heiligen zu loben dich<br />in deinem Reiche ewiglich.<br />Amen.",
 			"imagen": "anima"
 		},
@@ -116,7 +116,7 @@
 			"id": "15",
 			"nombre": "Weihe an Maria",
       "icono":"marie",
-			"desc": "Nichts mehr wach, sind wir Faulheit und bieten Tag unserer Mutter überwinden.",
+			"subtitulo": "Nichts mehr wach, sind wir Faulheit und bieten Tag unserer Mutter überwinden.",
 			"contenido": "O meine<br />Gebieterin, o meine<br />Mutter!<br />Dir bringe ich mich<br />ganz dar;<br />und um dir meine Hingabe zu bezeigen,<br />weihe ich dir heute<br />meine Augen, meine Ohren,<br />meinen Mund, mein Herz,<br />mich selber ganz und gar.<br />Weil ich also dir gehöre,<br />o Mutter, bewahre mich, beschütze mich<br />als dein Gut und Eigentum.<br />Amen.",
 			"imagen": "maria"
 		},
@@ -124,7 +124,7 @@
 			"id": "16",
 			"nombre": "Gebete zum heiligen Schutzengel",
       "icono":"guardian",
-			"desc": "Er betet vor dem Schlafengehen und zu jeder Zeit, dass wir unsere Schutzengel Schutz bitten.",
+			"subtitulo": "Er betet vor dem Schlafengehen und zu jeder Zeit, dass wir unsere Schutzengel Schutz bitten.",
 			"contenido": "Heiliger Schutzengel<br />mein, laß mich dir<br />empfohlen sein; in allen<br />Nöten steh' mir bei und<br />halte mich von Sünden<br />frei. An diesem Tag (in<br />dieser Nacht), ich bitte<br />dich, beschütze und<br />bewahre mich.<br />Amen.",
 			"imagen": "angelo"
 		},
@@ -132,7 +132,7 @@
 			"id": "17",
 			"nombre": "Kleiner Reisesegen",
       "icono":"bendi",
-			"desc": "Bevor Sie eine Reise machen keinen Satz wie dies weh tut.",
+			"subtitulo": "Bevor Sie eine Reise machen keinen Satz wie dies weh tut.",
 			"contenido": "Lasset uns beten. Herr,<br />gewähre uns auf dieser<br />Reise deinen Segen.<br />Schütze uns vor allen Gefahren des Leibes und der Seele<br />und lass uns gesund und froh heimkehren. Darum bitten<br />wir durch Christus unseren Herrn.<br />Amen.",
 			"imagen": "viajero"
 		},
@@ -140,7 +140,7 @@
 			"id": "18",
 			"nombre": "Vor den mahlzeiten",
       "icono":"vino",
-			"desc": "Er betet vor jeder Mahlzeit zu Gott für das Essen danken.",
+			"subtitulo": "Er betet vor jeder Mahlzeit zu Gott für das Essen danken.",
 			"contenido": "Herr, segne diese<br />Mahlzeit und diejenigen,<br />die vorbereitet haben,<br />und helfen uns, unser Brot mit denen, die keine haben zu<br />teilen.<br />Amen.",
 			"imagen": "mesa"
 		}
