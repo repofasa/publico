@@ -1,158 +1,156 @@
 {
-    "data": [
-        {
-            "id": "0",
-            "titulo": "Ray Mpanome Aina",
-            "imagen": "padrenuestro",
-            "subtitulo": "Ny fivavahana fototra ho an'ny Katolika",
-            "contenido": "Andriamanitra Rainay izay any an-danitra,<br>Ho masina anie ny Anaranao;<br>Aoka ho avy eto aminay ny Fanjakananao;<br>Aoka ho tanteraka ny sitraponao<br>eto an-tany, tahaka ny any an-danitra.<br><br>Omeo anay anio ny mofo ilainay isan'andro;<br>Mamelà ny helotsika,<br>tahaka ny fandraisana an-tanana ny<br>ny olona izay manan-kery aminay;<br>Aza avela izahay ho latsaka an-tranon'ny fakam-panahy,<br>fa avia manafaka anay amin'ny ratsy.<br>Amen."
-        },
-        {
-            "id": "1",
-            "titulo": "Arahaba Maria",
-            "imagen": "avemaria",
-            "subtitulo": "Fivavahana natokana ho an'ny Renin'Andriamanitra",
-            "contenido": "Ry Maria, feno ny fahasoavana,<br>ny Tompo miaraka aminao;<br>fisaorana ianao<br>eo anivon'ny vehivavy rehetra,<br>ary masina ny voan'ny kibonao, Jesosy.<br><br>Santa Maria, Renin'Andriamanitra,<br>mivavaha ho anay mpanota,<br>ankehitriny sy amin'ny ora<br>fahafatesantsika. Amen."
-        },
-        {
-            "id": "2",
-            "titulo": "Voninahitra",
-            "imagen": "gloria",
-            "subtitulo": "Fiderana ny Trinity Masina",
-            "contenido": "Voninahitra ho an'ny Ray, sy ny Zanaka, sy ny Fanahy Masina.<br>Tahaka ny tamin'ny voalohany, izao<br>sy mandrakizay, mandrakizay.<br>Amen."
-        },
-        {
-            "id": "3",
-            "titulo": "Arahaba Regina",
-            "imagen": "salveregina",
-            "subtitulo": "Fivavahana mankalaza an'i Maria Virijiny",
-            "contenido": "Andriamanitra, Mpanjaka sy Renin'ny famindram-po,<br>fiainana, mamy sy fanantenana.<br>Andriamanitra, miankohoka amin'ny feo.<br>Manantena izahay ho anao, zanak'i Eva,<br>miantso aminao, misento sy mitomany,<br>amin'ity lohasaha eto an-tany.<br>Ka miangavy anao, mpiaro anay,<br>miverena aminao amin'ny maso feno famindram-po,<br>ary aorian'ity fiainana ity dia asehoy anay i Jesosy,<br>ny vokatra masina avy amin'ny kibonao.<br>Ry Mpanjaka, ry mahamenatra, ry mamy Maria!<br><br>V: Mivavaha ho anay, Masindahy Renin'Andriamanitra,<br>R: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br>Amen."
-        },
-        {
-            "id": "4",
-            "titulo": "Asa fanokanana",
-            "imagen": "consagracion",
-            "subtitulo": "Fanolorana manokana ho an'ny Renin'Andriamanitra",
-            "contenido": "Ry Ramako, ry Reniko,<br>manolotra tena amin'ny fo manontolo aho,<br>ary ho fanehoam-pitiavana,<br>amin'ny fitiavana zanaka,<br>manolotra amin'ity andro ity:<br>ny zavatra rehetra ataoko, ny zavatra rehetra ananako.<br>Mitandrema sy miaro,<br>ary miaro amin'ny fiainan'ity zanakao.<br>Ho an'ny Tanàna Masina."
-        },
-        {
-            "id": "5",
-            "titulo": "Angelus",
-            "imagen": "angelus",
-            "subtitulo": "Fivavahana ho an'ny fotoana nifanatrika",
-            "contenido": "D: Nampandre ny Anjely ny Maria.<br><br>T: Ary Izy nahateraka tamin'ny alalan'ny Fanahy Masina.<br><br>Ave Maria<br><br>D: Indro, ny mpanompon'Andriamanitra.<br><br>T: Aoka ho tanteraka araka ny teninao.<br><br>Ave Maria<br><br>D: Ary ny Teny dia tonga nofo.<br><br>T: Ary nipetraka teo aminay.<br><br>Ave Maria<br><br>D: Mivavaha ho anay, Masindahy Renin'Andriamanitra.<br><br>T: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br><br>Raha mivavaka ny voninahitra telo<br><br>D: Mivavaha<br>D: Mandraisa ny fahasoavana, Tompo, amin'ny fonay,<br>ary omeo izay nahafantatra ny fanambarana avy amin'ny Anjely<br>ny Fiantsoan'ny Zanaka amin'ny alalan'ny Fanahy Masina,<br>mba hahazoanay ny voninahitra amin'ny Fitsanganan'ny Maty. Ho an'ny Tompo Jesosy, zanakao,<br>miaraka amin'ny Ray sy ny Fanahy Masina,<br>ary Andriamanitra mandrakizay.<br><br>T: Amen."
-        },
-        {
-            "id": "6",
-            "titulo": "Nicene Creed",
-            "imagen": "credonicea",
-            "subtitulo": "Tombontsoa ny finoana kristiana",
-            "contenido": "Mino aho amin'ny Andriamanitra iray,<br>Ray mahery,<br>Mpamorona ny lanitra sy ny tany,<br>ny zavatra hita sy tsy hita.<br><br>Mino aho amin'ny Tompo iray, Jesosy Kristy,<br>Zanaka tokana Andriamanitra,<br>teraka avy amin'ny Ray talohan'ny vanim-potoana rehetra:<br>Andriamanitra avy amin'ny Andriamanitra,<br>Hazavana avy amin'ny Hazavana,<br>Andriamanitra marina avy amin'ny Andriamanitra marina,<br>teraka, tsy noforonina,<br>amin'ny toetra mitovy amin'ny Ray,<br>avy amin'izany rehetra izany;<br>izay ho antsika, olombelona,<br>sy ho amin'ny famonjena antsika<br>dia nidina avy any an-danitra,<br>ary tamin'ny alalan'ny Fanahy Masina<br>dia tonga nofo avy tamin'i Maria, Virijiny,<br>ary nanao olona;<br>ary noho ny antony tokony ho antsika dia natolotra<br>tamin'ny fotoana an'i Poncio Pilato;<br>nanaiky sy natsangana,<br>ary nitsangana tamin'ny andro fahatelo, araka ny Soratra Masina,<br>ary nandeha tany an-danitra,<br>ary nipetraka eo ankavanana ny Ray;<br>ary ho avy indray amin'ny voninahitra<br>mba hitsara ny velona sy ny maty,<br>ary ny fanjakany tsy ho tapitra.<br><br>Mino aho amin'ny Fanahy Masina,<br>Tompo sy Mpamokatra ny fiainana,<br>izay mivoaka avy amin'ny Ray sy ny Zanaka,<br>izay miaraka amin'ny Ray sy ny Zanaka<br>mankalaza sy voninahitra mitovy,<br>ary izay niresaka tamin'ny mpaminany.<br><br>Mino aho amin'ny Fiangonana,<br>izay iray, masina, katolika ary apostolika.<br>Miara-mivavaka amin'ny batisa iray<br>ho amin'ny famelan-keloka.<br>Manantena ny fitsanganan'ny maty<br>sy ny fiainana mandrakizay.<br>Amen."
-        },
-        {
-            "id": "7",
-            "titulo": "Ny Salve",
-            "imagen": "salve",
-            "subtitulo": "Antifona mankalaza an'i Maria",
-            "contenido": "Andriamanitra, Mpanjaka sy Renin'ny famindram-po,<br>fiainana, mamy sy fanantenana.<br>Andriamanitra, miankohoka amin'ny feo.<br>Manantena izahay ho anao, zanak'i Eva;<br>miantso aminao, misento sy mitomany,<br>amin'ity lohasaha eto an-tany.<br>Ka miangavy anao, mpiaro anay,<br>miverena aminao amin'ny maso feno famindram-po,<br>ary aorian'ity fiainana ity dia asehoy anay i Jesosy,<br>ny vokatra masina avy amin'ny kibonao.<br>Ry Mpanjaka, ry mahamenatra, ry mamy Maria!<br><br>V: Mivavaha ho anay, Masindahy Renin'Andriamanitra,<br>R: Mba hahazoanay ny fanantenan'ny Tompo Jesosy.<br>Amen."
-        },
-        {
-            "id": "8",
-            "titulo": "Mankalaza an'i Maria",
-            "imagen": "alegratemaria",
-            "subtitulo": "Fivavahana amin'ny hafaliana sy fanoloran-tena ho an'i Maria",
-            "contenido": "Mankalaza an'i Maria,<br>Inoamana sy Masina,<br>tiana amin'ny Andriamanitra,<br>Eva vaovao voafidy,<br>mpanampy amin'ny famerenana.<br><br>Renin'i Jesosy sy ny anay,<br>mpanampy tsy mivadika ho an'ny mpanota,<br>mpivavaka an-trano,<br>miangavy aminao amin'ity zanakao.<br>Amen."
-        },
-        {
-            "id": "9",
-            "titulo": "Fivavahana 'Fiat'",
-            "imagen": "fiat",
-            "subtitulo": "Fivavahana fankatoavana ny sitrapon'Andriamanitra",
-            "contenido": "Santa Maria, ampiasao aho hiezaka<br>amin'ny tena fahaiza-manao sy ny fahaiza-manao rehetra<br>mba hiaina mandrakariva amin'ny virijiny.<br>Manolotra anao tanteraka aho,<br>ary tiako hiaina mandrakariva ho anao,<br>amin'ny fomba ahafahanao mankalaza<br>sy ny Zanakao Jesosy<br>mba ho tanjona lehibe indrindra ahy.<br>Amen."
-        },
-        {
-            "id": "10",
-            "titulo": "Fivavahana ho an'ny Fiarovana",
-            "imagen": "protecciondivina",
-            "subtitulo": "Fivavahana mangataka fiarovana avy amin'ny Andriamanitra",
-            "contenido": "Tompo, mangataka aminao aho mba hiaro sy hitari-dalana ahy<br>amin'ny fotoana rehetra. Miaro ahy amin'ny ratsy rehetra,<br>ary manafaka ahy amin'ny loza rehetra. Aoka ny fisianao<br>hanodidina ahy sy hanamafy ahy, anio sy mandrakariva.<br>Amen."
-        },
-        {
-            "id": "11",
-            "titulo": "Fivavahana Fisaorana",
-            "imagen": "acciondegracias",
-            "subtitulo": "Fivavahana hanomezam-boninahitra an'Andriamanitra",
-            "contenido": "Misaotra anao, Tompo, noho ny fitahiana rehetra omenanao.<br>Mankasitraka anao noho ny fitiavanao tsy misy fepetra,<br>noho ny fiarovana sy ny andro tsirairay omenanao.<br>Mankalaza sy mankalaza anao aho, anio sy mandrakariva.<br>Amen."
-        },
-        {
-            "id": "12",
-            "titulo": "Fivavahana ho an'ny Fandriampahalemana",
-            "imagen": "paz",
-            "subtitulo": "Fivavahana mangataka fandriampahalemana eto an-tany",
-            "contenido": "Tompo, mangataka aminao aho mba hanome fandriampahalemana ho an'izao tontolo izao,<br>mba hahatonga ny firenena rehetra hifandray amin'ny fahatoniana sy ny fifanarahana,<br>ary mba hahita fahatoniana ao am-pon'ny olona rehetra.<br>Amen."
-        },
-        {
-            "id": "13",
-            "titulo": "Fivavahana ho an'ny Fahasalamana",
-            "imagen": "salud",
-            "subtitulo": "Fivavahana mangataka fahasalamana sy tsara fiainana",
-            "contenido": "Mangataka aminao aho, Tompo, mba hanasitrana ny marary,<br>mba hanome hery sy fanampiana amin'ny fahasahiranana.<br>Manamboatra ny fahasalamana amin'ny vatana sy ny saina,<br>ary manome fahasalamana ho an'ny rehetra mila izany.<br>Amen."
-        },
-        {
-            "id": "14",
-            "titulo": "Fivavahana ho an'ny Herim-po",
-            "imagen": "fortaleza",
-            "subtitulo": "Fivavahana mangataka herim-po amin'ny fotoan-tsarotra",
-            "contenido": "Tompo, omeo ahy ny herim-po hiatrika ny fahasarotana,<br>ny fahendrena hanao fanapahan-kevitra manan-danja,<br>ary ny fandriampahalemana hitazona fahalemem-panahy amin'ny fotoana fitsapana.<br>Matoky ny fanohananao sy ny fitiavanao aho.<br>Amen."
-        },
-        {
-            "id": "15",
-            "titulo": "Fivavahana ho an'ny Fandaminana",
-            "imagen": "conversion",
-            "subtitulo": "Fivavahana mangataka ny fandaminan'ny fo",
-            "contenido": "Tompo, ovay ny foko sy ny saina,<br>fanadiovo ahy ary tariho aho amin'ny fiainana masina kokoa.<br>Manampy ahy hiaina araka ny sitraponao,<br>ary haneho ny fitiavanao amin'ny zavatra rehetra ataoko.<br>Amen."
-        },
-        {
-            "id": "16",
-            "titulo": "Fivavahana ho an'ny Famindram-po",
-            "imagen": "perdon",
-            "subtitulo": "Fivavahana mangataka sy manolotra famindram-po",
-            "contenido": "Tompo, mangataka aminao aho mba hanamaivana ny heloko,<br>ary misaotra anao noho ny famindram-ponao.<br>Manampy ahy havelanao ny olona izay nanompa ahy,<br>ary hiaina am-pilaminana amin'ny rehetra.<br>Amen."
-        },
-        {
-            "id": "17",
-            "titulo": "Fivavahana ho an'ny Fianakaviana",
-            "imagen": "familia",
-            "subtitulo": "Fivavahana mangataka ny fitahiana ho an'ny fianakaviana",
-            "contenido": "Mangataka aminao aho, Tompo, mba hitahy ny fianakaviako,<br>hiaro ny tsirairay aminay,<br>ary omeo anay fitiavana, fahatakarana, ary firaisankina.<br>Aoka ny fandriampahalemanao no hifehy ny tranonay.<br>Amen."
-        },
-        {
-            "id": "18",
-            "titulo": "Fivavahana ho an'ny Fitokisana",
-            "imagen": "confianza",
-            "subtitulo": "Fivavahana hiankina amin'ny sitrapon'Andriamanitra",
-            "contenido": "Matoky anao aho, Tompo, ary amin'ny drafitrao ho an'ny fiainako.<br>Manampy ahy handray ny zava-mitranga amin'ny finoana,<br>ary mahafantatra fa hatrany amiko ianao,<br>ary ny sitraponao no tsara indrindra ho ahy.<br>Amen."
-        },
-        {
-            "id": "19",
-            "titulo": "Fivavahana ho an'ny Maraina",
-            "imagen": "manana",
-            "subtitulo": "Fivavahana hanombohana ny andro amin'ny fahasoavana",
-            "contenido": "Misaotra anao, Tompo, noho ity andro vaovao ity.<br>Tarigao amin'ny dingana rehetra ary ataovy izay hahafeno ny fihetsiko<br>ny fitiavanao sy ny hatsaran'ny toetra.<br>Homboy ny asako sy ny fifandraisako,<br>ary manampy ahy hiaina ao amin'ny fisianao.<br>Amen."
-        },
-        {
-            "id": "20",
-            "titulo": "Fivavahana amin'ny Alina",
-            "imagen": "noche",
-            "subtitulo": "Fivavahana mba hifarana amin'ny alina am-pilaminana",
-            "contenido": "Misaotra anao, Tompo, noho ity andro efa lasa ity.<br>Mangataka aminao aho mba hanome ahy torimaso milamina<br>ary hiaro ahy mandritra ny torimaso.<br>Omena ny fahadisoako sy manamafy ahy ho amin'ny andro ho avy.<br>Amen."
-        },
-        {
-            "id": "21",
-            "titulo": "Fivavahana ho an'ny Fahendrena",
-            "imagen": "sabiduria",
-            "subtitulo": "Fivavahana mangataka fahendrena sy fanavahana",
-            "contenido": "Tompo, mangataka aminao aho mba hanome ahy fahendrena sy fanavahana.<br>Manampy ahy handray fanapahan-kevitra marina sy hahatakatra ny sitraponao.<br>Tarigao amin'ny fianarako sy ny fiainako andavanandro,<br>ary omeo ahy ny fahazavana hanarahana ny lalana napetrakao ho ahy.<br>Amen."
-        }
-    ]
+	"array": [
+		{
+			"id": "1",
+			"nombre": "Sign Of The Cross",
+      "icono":"cruz",
+			"desc": "It is the sign of the Christians, where Jesus died for us. It is customary to recite other prayers before or after reading the Gospel.",
+			"contenido": "By the sign of the Holy<br />Cross,<br />from our enemies deliver us<br />Oh Lord our God.<br />In the name of The Father,<br />The Son and The Holy<br />Spirit.<br />Amen",
+			"imagen": "signocruz"
+		},
+		{
+			"id": "2",
+			"nombre": "The Our Father",
+      "icono":"padre",
+			"desc": "This is one of the most important prayers. This prayer was given to us by Jesus Christ Himself. Can be prayed at any time needed.",
+			"contenido": "Our Father, who art in<br />heaven,<br />hallowed be Thy name.<br />Thy kingdom come;<br />Thy will be done on earth as it is in heaven.<br />Give us this day our daily bread, and forgive us our<br />trespasses<br />as we forgive those who trespass against us.<br />And lead us not into temptation but deliver us from evil.<br />Amen.",
+			"imagen": "padrenuestro"
+		},
+		{
+			"id": "3",
+			"nombre": "Hail Mary",
+      "icono":"ave",
+			"desc": "Here we repeat the words our Mother heard from the Angel. Every time we pray this, is like giving a rose to our Mother, the Virgin Mary.",
+			"contenido": "Hail Mary, full of grace,<br />the Lord is with you.<br />Blessed art you among<br />women,<br />and blessed is the Fruit of your womb, Jesus.<br />Holy Mary, Mother of God,<br />pray for us sinners, now, and at the hour of our death.<br />Amen. ",
+			"imagen": "avemaria"
+		},
+		{
+			"id": "4",
+			"nombre": "Glory Be To The Father",
+      "icono":"bible",
+			"desc": "Catholic prayer praising the Holy Trinity. It is customary to pray to conclude other prayers.",
+			"contenido": "Glory be to the Father,<br />and to the Son,<br />and to the Holy Spirit.<br />As it was in the beginning, is now, and ever shall be,<br />world without end.<br />Amen.",
+			"imagen": "gloria"
+		},
+		{
+			"id": "5",
+			"nombre": "Hail Holy Queen",
+      "icono":"rosary",
+			"desc": "It is a supply to our Mother, who can do everything. We ask her protection.",
+			"contenido": "Hail Holy Queen, Mother of<br />Mercy; our life,<br />our sweetness and our<br />hope! To you do we<br />cry, poor banished children<br />of Eve. To you<br />do we send up our sighs,<br />mourning and weeping<br />in this vale of tears. Turn then, most gracious<br />advocate, your eyes of mercy toward<br />us; and after this our exile, show unto us the<br />blessed fruit of your womb, Jesus. O clement, O loving, O<br />sweet Virgin Mary.<br />V. Pray for us, O holy Mother of God,<br />R. that we may be made worthy of the promises of Christ.<br />Amen.",
+			"imagen": "regina"
+		},
+		{
+			"id": "6",
+			"nombre": "My Lord Jesus Christ",
+      "icono":"jesus",
+			"desc": "We ask our Lord to forgive us, because we regret any offense, and to help us for not to sin again.",
+			"contenido": "My Lord Jesus Christ,<br />God and true man,<br />Creator, Father and my<br />redeemer.<br />As you who you are, and because I love above all things,<br />I regret with all my heart for having offended.<br />I firmly resolve never to sin,<br />turn away from all occasions of offending you,<br />confess it, and meet me outside the penance imposed.<br />Amen.",
+			"imagen": "signore"
+		},
+		{
+			"id": "7",
+			"nombre": "I Confess to You",
+      "icono":"confieso",
+			"desc": "General confession to pray in Sunday Mass and at any time we want to apologize for venial sins.",
+			"contenido": "I confess to almighty God,<br />and to you, my brothers and sisters,<br />that I have sinned through my own fault,<br />in my thoughts and in my words,<br />in what I have done,<br />and in what I have failed to do;<br />and I ask blessed Mary, ever virgin,<br />all the angels and saints, and you,<br />my brothers and sisters,<br />to pray for me to the Lord our God.<br />Amen.",
+			"imagen": "confesso"
+		},
+		{
+			"id": "8",
+			"nombre": "The Nicene-Constantinopolitan Creed",
+      "icono":"credo2",
+			"desc": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
+			"contenido": "We believe in God, the Father, the<br />Almighty, maker of heaven and<br />earth, and all that is seen and<br />unseen.<br />We believe in one Lord, Jesus<br />Christ, the only Son of God,<br />eternally begotten of the Father,<br />God from God, Light from Light, true<br />God from true God, begotten, not<br />made, consubstantial<br />one in Being with the Father.<br />Through him all things were made.<br />For us men and for our salvation he<br />came down from heaven: and by the<br />Holy Spirit was incarnate he was<br />born of the Virgin Mary, and became<br />man. For our sake he was crucified<br />under Pontius Pilate; he suffered,<br />died, and was buried. On the third<br />day he rose again in fulfilment of the<br />Scriptures; he ascended into heaven<br />and is seated<br />at the right<br />hand of the<br />Father. He will<br />come again in glory to judge the<br />living and the dead, and His<br />kingdom will have no end.<br />We believe in the Holy Spirit, the<br />Lord, the giver of life, who proceeds<br />from the Father and the Son. With<br />the Father and the Son he is<br />worshipped and glorified. He has<br />spoken through the Prophets.<br />We believe in one holy catholic and<br />apostolic Church. We acknowledge<br />one baptism for the forgiveness of<br />sins. We look for the resurrection of<br />the dead, and the life of the world to<br />come.<br />Amen.",
+			"imagen": "niceno"
+		},
+		{
+			"id": "9",
+			"nombre": "Apostles’ Creed",
+      "icono":"credo",
+			"desc": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
+			"contenido": "I believe in God, the Father<br />almighty, Creator of heaven<br />and earth, and in Jesus<br />Christ, his only Son, our<br />Lord, who<br />was conceived by the Holy<br />Spirit, born of the Virgin Mary,<br />suffered under Pontius Pilate,<br />was crucified, died and was<br />buried; he descended into<br />hell; on the third day he rose<br />again from the dead; he<br />ascended into heaven, and is<br />seated at the right hand of<br />God the Father almighty;<br />from there he will come to<br />judge the living and the dead.<br />I believe in the Holy Spirit, the<br />holy catholic Church, the<br />communion of saints, the<br />forgiveness of sins, the<br />resurrection<br />of the body, and life<br />everlasting.<br />Amen.",
+			"imagen": "apostolico"
+		},
+		{
+			"id": "10",
+			"nombre": "Act of Spiritual Communion",
+      "icono":"scroll",
+			"desc": "Beautiful prayer when we go to receive Holy Communion. Also to conclude the visit to the exposition of the Blessed Sacrament or any other blessing.",
+			"contenido": "My Jesus, I believe that<br />You are in the Blessed<br />Sacrament. I love You<br />above all things, and I long for You in my soul. Since I<br />cannot now receive You sacramentally, come at least<br />spiritually into my heart. As though You have already<br />come, I embrace You and unite myself entirely to You;<br />never permit me to be separated from You.",
+			"imagen": "comunione"
+		},
+		{
+			"id": "11",
+			"nombre": "Angelus",
+      "icono":"angel",
+			"desc": " Is prayed at noon (12:00) all year except Easter time.",
+			"contenido": "V. The Angel of the Lord<br />declared to Mary:<br />R. And she conceived of the Holy<br />Spirit.<br />Hail Mary…<br />V. Behold the handmaid of the Lord:<br />R. Be it done unto me according to Thy word.<br />Hail Mary…<br />V. And the Word was made Flesh:<br />R. And dwelt among us.<br />Hail Mary…<br />V. Pray for us, O Holy Mother of God,<br />R. that we may be made worthy of the promises of Christ.<br />Let us pray:<br />Pour forth, we beseech Thee, O Lord, Thy grace into our hearts;<br />that we, to whom the incarnation of Christ, Thy Son, was made<br />known by the message of an angel, may by His Passion and<br />Cross be brought to the glory of His Resurrection, through the<br />same Christ Our Lord.<br />R. Amen.",
+			"imagen": "angelus"
+		},
+		{
+			"id": "12",
+			"nombre": "Regina Coeli",
+      "icono":"holy-ghost",
+			"desc": " Is prayed at noon (12:00) at Easter time instead of the Angelus.",
+			"contenido": "V. Queen of heaven, rejoice.<br />Alleluia.<br />R. For He whom thou didst<br />deserve to bear, Alleluia.<br />V. Hath risen as He said, Alleluia.<br />R. Pray for us to God, Alleluia.<br />V. Rejoice and be glad, O Virgin<br />Mary, Alleluia.<br />R. Because Our Lord is truly risen, Alleluia.<br />Let us pray<br />O God, who by the resurrection of Thy Son, Our Lord Jesus<br />Christ, hast vouchsafed to make glad the whole world, great, we<br />beseech Thee, that, through the intercession of the Virgin Mary,<br />His Mother, we may attain the joys of eternal life.<br />Through the same Christ Our Lord.<br />R. Amen.",
+			"imagen": "coeli"
+		},
+		{
+			"id": "13",
+			"nombre": "Blessed Be Your Purity",
+      "icono":"pureza",
+			"desc": "A poem to our Mother Virgin Mary.",
+			"contenido": "Blessed be your purity,<br />may it be blessed forever,<br />for no less than God takes<br />delight, in such exalted beauty.<br />To you, heavenly Princess,<br />Holy Virgin Mary,<br />I offer on this day my whole<br />heart, life and soul.<br />Look upon me with compassion,<br />do not leave me, my Mother.<br />Amen.",
+			"imagen": "virgen"
+		},
+		{
+			"id": "14",
+			"nombre": "Memorare",
+      "icono":"goblet",
+			"desc": "We put our trust in the Virgin and ask something for us or for someone in particular",
+			"contenido": "Remember, O most gracious<br />Virgin Mary,<br />that never was it known that<br />anyone who fled to thy<br />protection,<br />implored thy help, or sought<br />thine intercession was left unaided.<br />Inspired by this confidence, I fly unto thee, O Virgin of<br />virgins, my mother;<br />to thee do I come, before thee I stand, sinful and<br />sorrowful.<br />O Mother of the Word Incarnate, despise not my petitions,<br />but in thy mercy hear and answer me.<br />Amen. ",
+			"imagen": "memorare"
+		},
+		{
+			"id": "15",
+			"nombre": "Soul of Christ (Anima Christi)",
+      "icono":"espiri",
+			"desc": "Very beautiful prayer after Communion.",
+			"contenido": "Soul of Christ, sanctify me.<br />Body of Christ, save me.<br />Blood of Christ, inebriate<br />me.<br />Water from the side of<br />Christ, wash me.<br />Passion of Christ, strengthen me.<br />O Good Jesus, hear me.<br />Within your wounds hide me.<br />Permit me not to be separated from you.<br />From the wicked foe, defend me.<br />At the hour of my death, call me<br />and bid me come to you<br />That with your saints I may praise you<br />For ever and ever.<br />Amen.",
+			"imagen": "anima"
+		},
+		{
+			"id": "16",
+			"nombre": "Oh my Lady",
+      "icono":"marie",
+			"desc": "Wake up, overcome laziness and offer day our Mother.",
+			"contenido": "Oh my Lady, O my<br />Mother, I offer<br />myself entirely to<br />you, and in proof of<br />my filial affection I offer to you this day my eyes, my ears,<br />my tongue, my heart, in a word, my whole self. Now that I<br />am entirely yours Mother of goodness, keep me and<br />defend me as your own property and possession.<br />Amen.",
+			"imagen": "maria"
+		},
+		{
+			"id": "17",
+			"nombre": "Prayer To My Guardian Angel",
+      "icono":"guardian",
+			"desc": "We pray just before going to bed and at any time we can ask our Guardian Angel for protection",
+			"contenido": "Angel of God, my<br />guardian dear, to whom<br />His love commits<br />me here, ever this day<br />be at my side, to light<br />and to guard,<br />to rule and to guide.<br />Amen.",
+			"imagen": "angelo"
+		},
+		{
+			"id": "18",
+			"nombre": "Travel Prayer",
+      "icono":"bendi",
+			"desc": "Before any travel this prayer may be useful.",
+			"contenido": "My holy Angel Guardian, ask<br />the Lord to bless the journey<br />which I undertake, that it<br />may profit the health of my soul and body; that I may<br />reach its end, and that, returning safe and sound, I may<br />find my family in good health. Do thou guard, guide and<br />preserve us.<br />Amen.",
+			"imagen": "viajero"
+		},
+		{
+			"id": "19",
+			"nombre": "Blessing Before Meals",
+      "icono":"vino",
+			"desc": "We pray before every meal to thank God for the food.",
+			"contenido": "V. Bless us, O Lord, and<br />these your gifts, which we are about to receive from your<br />bounty, through Christ our Lord.<br />R. Amen.<br />V. May the King of everlasting glory make us partakers of<br />the heavenly table.<br />R. Amen.",
+			"imagen": "mesa"
+		}
+	]
 }
