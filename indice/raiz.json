@@ -1,7 +1,8 @@
 {
     "mensaje": "",
     "baner": "1",    
-    "banerios": "2",   
+    "banerios": "2",  
+    "banermain": "0",  
     "interacciones": "15",
     "data": [
         {
