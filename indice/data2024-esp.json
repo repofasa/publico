@@ -64,9 +64,9 @@
         "id": "9"
     }, {
         "titulo": "Octubre de",
-        "subtitulo": "No Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2024/octubre2024",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
