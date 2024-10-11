@@ -1,8 +1,8 @@
 {
     "data": {
         "libro": "Genesis",
-        "abreviacion": "Gn",
-        "testamento": "Antiguo",
+        "abreviacion": "Gen",
+        "testamento": "Old Testament",
         "num_capitulos": 50,
         "num_versos": 1532,
         "capitulos": [
