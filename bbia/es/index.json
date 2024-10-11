@@ -1,0 +1,586 @@
+{
+    "genesis": {
+        "libro": "Génesis",
+        "abreviacion": "Gn",
+        "testamento": "Antiguo",
+        "num_capitulos": 50,
+        "num_versos": 1532,
+        "archivo": "genesis.json"
+    },
+    "exodo": {
+        "libro": "Exodo",
+        "abreviacion": "Ex",
+        "testamento": "Antiguo",
+        "num_capitulos": 40,
+        "num_versos": 1213,
+        "archivo": "exodo.json"
+    },
+    "levitico": {
+        "libro": "Levítico",
+        "abreviacion": "Lv",
+        "testamento": "Antiguo",
+        "num_capitulos": 27,
+        "num_versos": 858,
+        "archivo": "levitico.json"
+    },
+    "numeros": {
+        "libro": "Números",
+        "abreviacion": "Nm",
+        "testamento": "Antiguo",
+        "num_capitulos": 36,
+        "num_versos": 1289,
+        "archivo": "numeros.json"
+    },
+    "deuteronomio": {
+        "libro": "Deuteronomio",
+        "abreviacion": "Dt",
+        "testamento": "Antiguo",
+        "num_capitulos": 34,
+        "num_versos": 959,
+        "archivo": "deuteronomio.json"
+    },
+    "josue": {
+        "libro": "Josué",
+        "abreviacion": "Jos",
+        "testamento": "Antiguo",
+        "num_capitulos": 24,
+        "num_versos": 658,
+        "archivo": "josue.json"
+    },
+    "jueces": {
+        "libro": "Jueces",
+        "abreviacion": "Jue",
+        "testamento": "Antiguo",
+        "num_capitulos": 21,
+        "num_versos": 618,
+        "archivo": "jueces.json"
+    },
+    "rut": {
+        "libro": "Rut",
+        "abreviacion": "Rut",
+        "testamento": "Antiguo",
+        "num_capitulos": 4,
+        "num_versos": 85,
+        "archivo": "rut.json"
+    },
+    "i-samuel": {
+        "libro": "I Samuel",
+        "abreviacion": "1 Sam",
+        "testamento": "Antiguo",
+        "num_capitulos": 31,
+        "num_versos": 811,
+        "archivo": "i-samuel.json"
+    },
+    "ii-samuel": {
+        "libro": "II Samuel",
+        "abreviacion": "2 Sam",
+        "testamento": "Antiguo",
+        "num_capitulos": 24,
+        "num_versos": 695,
+        "archivo": "ii-samuel.json"
+    },
+    "i-reyes": {
+        "libro": "I Reyes",
+        "abreviacion": "1 Re",
+        "testamento": "Antiguo",
+        "num_capitulos": 22,
+        "num_versos": 815,
+        "archivo": "i-reyes.json"
+    },
+    "ii-reyes": {
+        "libro": "II Reyes",
+        "abreviacion": "2 Re",
+        "testamento": "Antiguo",
+        "num_capitulos": 25,
+        "num_versos": 718,
+        "archivo": "ii-reyes.json"
+    },
+    "i-cronicas": {
+        "libro": " I Crónicas",
+        "abreviacion": "1 Cr",
+        "testamento": "Antiguo",
+        "num_capitulos": 29,
+        "num_versos": 942,
+        "archivo": "i-cronicas.json"
+    },
+    "ii-cronicas": {
+        "libro": "II Crónicas",
+        "abreviacion": "2 Cr",
+        "testamento": "Antiguo",
+        "num_capitulos": 36,
+        "num_versos": 822,
+        "archivo": "ii-cronicas.json"
+    },
+    "esdras": {
+        "libro": "Esdras",
+        "abreviacion": "Esd",
+        "testamento": "Antiguo",
+        "num_capitulos": 10,
+        "num_versos": 280,
+        "archivo": "esdras.json"
+    },
+    "nehemias": {
+        "libro": "Nehemías",
+        "abreviacion": "Ne",
+        "testamento": "Antiguo",
+        "num_capitulos": 13,
+        "num_versos": 405,
+        "archivo": "nehemias.json"
+    },
+    "tobias": {
+        "libro": "Tobías",
+        "abreviacion": "Tb",
+        "testamento": "Antiguo",
+        "num_capitulos": 14,
+        "num_versos": 244,
+        "archivo": "tobias.json"
+    },
+    "judit": {
+        "libro": "Judit",
+        "abreviacion": "Jdt",
+        "testamento": "Antiguo",
+        "num_capitulos": 16,
+        "num_versos": 340,
+        "archivo": "judit.json"
+    },
+    "ester": {
+        "libro": "Ester",
+        "abreviacion": "Est",
+        "testamento": "Antiguo",
+        "num_capitulos": 16,
+        "num_versos": 274,
+        "archivo": "ester.json"
+    },
+    "job": {
+        "libro": "Job",
+        "abreviacion": "Job",
+        "testamento": "Antiguo",
+        "num_capitulos": 42,
+        "num_versos": 1070,
+        "archivo": "job.json"
+    },
+    "salmos": {
+        "libro": "Salmos",
+        "abreviacion": "Sl",
+        "testamento": "Antiguo",
+        "num_capitulos": 150,
+        "num_versos": 2535,
+        "archivo": "salmos.json"
+    },
+    "i-macabeos": {
+        "libro": "I Macabeos",
+        "abreviacion": "1 Mac",
+        "testamento": "Antiguo",
+        "num_capitulos": 16,
+        "num_versos": 924,
+        "archivo": "i-macabeos.json"
+    },
+    "ii-macabeos": {
+        "libro": "II Macabeos",
+        "abreviacion": "2 Mac",
+        "testamento": "Antiguo",
+        "num_capitulos": 15,
+        "num_versos": 556,
+        "archivo": "ii-macabeos.json"
+    },
+    "proverbios": {
+        "libro": "Proverbios",
+        "abreviacion": "Pr",
+        "testamento": "Antiguo",
+        "num_capitulos": 31,
+        "num_versos": 915,
+        "archivo": "proverbios.json"
+    },
+    "eclesiastes": {
+        "libro": "Eclesiastés",
+        "abreviacion": "Qo",
+        "testamento": "Antiguo",
+        "num_capitulos": 12,
+        "num_versos": 222,
+        "archivo": "eclesiastes.json"
+    },
+    "cantar": {
+        "libro": "Cantar",
+        "abreviacion": "Ct",
+        "testamento": "Antiguo",
+        "num_capitulos": 8,
+        "num_versos": 117,
+        "archivo": "cantar.json"
+    },
+    "sabiduria": {
+        "libro": "Sabiduría",
+        "abreviacion": "Sb",
+        "testamento": "Antiguo",
+        "num_capitulos": 19,
+        "num_versos": 436,
+        "archivo": "sabiduria.json"
+    },
+    "eclesiastico": {
+        "libro": "Eclesiástico",
+        "abreviacion": "Sir",
+        "testamento": "Antiguo",
+        "num_capitulos": 52,
+        "num_versos": 1402,
+        "archivo": "eclesiastico.json"
+    },
+    "isaias": {
+        "libro": "Isaías",
+        "abreviacion": "Is",
+        "testamento": "Antiguo",
+        "num_capitulos": 66,
+        "num_versos": 1291,
+        "archivo": "isaias.json"
+    },
+    "jeremias": {
+        "libro": "Jeremías",
+        "abreviacion": "Jr",
+        "testamento": "Antiguo",
+        "num_capitulos": 52,
+        "num_versos": 1363,
+        "archivo": "jeremias.json"
+    },
+    "lamentaciones": {
+        "libro": "Lamentaciones",
+        "abreviacion": "Lm",
+        "testamento": "Antiguo",
+        "num_capitulos": 5,
+        "num_versos": 154,
+        "archivo": "lamentaciones.json"
+    },
+    "baruc": {
+        "libro": "Baruc",
+        "abreviacion": "Ba",
+        "testamento": "Antiguo",
+        "num_capitulos": 6,
+        "num_versos": 213,
+        "archivo": "baruc.json"
+    },
+    "ezequiel": {
+        "libro": "Ezequiel",
+        "abreviacion": "Ez",
+        "testamento": "Antiguo",
+        "num_capitulos": 48,
+        "num_versos": 1272,
+        "archivo": "ezequiel.json"
+    },
+    "daniel": {
+        "libro": "Daniel",
+        "abreviacion": "Dn",
+        "testamento": "Antiguo",
+        "num_capitulos": 14,
+        "num_versos": 530,
+        "archivo": "daniel.json"
+    },
+    "oseas": {
+        "libro": "Oseas",
+        "abreviacion": "Os",
+        "testamento": "Antiguo",
+        "num_capitulos": 14,
+        "num_versos": 197,
+        "archivo": "oseas.json"
+    },
+    "joel": {
+        "libro": "Joel",
+        "abreviacion": "Jl",
+        "testamento": "Antiguo",
+        "num_capitulos": 4,
+        "num_versos": 73,
+        "archivo": "joel.json"
+    },
+    "amos": {
+        "libro": "Amós",
+        "abreviacion": "Am",
+        "testamento": "Antiguo",
+        "num_capitulos": 9,
+        "num_versos": 146,
+        "archivo": "amos.json"
+    },
+    "abdias": {
+        "libro": "Abdías",
+        "abreviacion": "Ab",
+        "testamento": "Antiguo",
+        "num_capitulos": 1,
+        "num_versos": 21,
+        "archivo": "abdias.json"
+    },
+    "jonas": {
+        "libro": "Jonás",
+        "abreviacion": "Jon",
+        "testamento": "Antiguo",
+        "num_capitulos": 4,
+        "num_versos": 48,
+        "archivo": "jonas.json"
+    },
+    "miqueas": {
+        "libro": "Miqueas",
+        "abreviacion": "Mi",
+        "testamento": "Antiguo",
+        "num_capitulos": 7,
+        "num_versos": 105,
+        "archivo": "miqueas.json"
+    },
+    "nahun": {
+        "libro": "Nahún",
+        "abreviacion": "Na",
+        "testamento": "Antiguo",
+        "num_capitulos": 3,
+        "num_versos": 47,
+        "archivo": "nahun.json"
+    },
+    "habacuc": {
+        "libro": "Habacuc",
+        "abreviacion": "Ha",
+        "testamento": "Antiguo",
+        "num_capitulos": 3,
+        "num_versos": 56,
+        "archivo": "habacuc.json"
+    },
+    "sofonias": {
+        "libro": "Sofonías",
+        "abreviacion": "So",
+        "testamento": "Antiguo",
+        "num_capitulos": 3,
+        "num_versos": 53,
+        "archivo": "sofonias.json"
+    },
+    "ageo": {
+        "libro": "Ageo",
+        "abreviacion": "Ag",
+        "testamento": "Antiguo",
+        "num_capitulos": 2,
+        "num_versos": 38,
+        "archivo": "ageo.json"
+    },
+    "zacarias": {
+        "libro": "Zacarías",
+        "abreviacion": "Za",
+        "testamento": "Antiguo",
+        "num_capitulos": 14,
+        "num_versos": 211,
+        "archivo": "zacarias.json"
+    },
+    "malaquias": {
+        "libro": "Malaquías",
+        "abreviacion": "Ml",
+        "testamento": "Antiguo",
+        "num_capitulos": 3,
+        "num_versos": 55,
+        "archivo": "malaquias.json"
+    },
+    "mateo": {
+        "libro": " Mateo",
+        "abreviacion": "Mt",
+        "testamento": "Nuevo",
+        "num_capitulos": 28,
+        "num_versos": 1067,
+        "archivo": "mateo.json"
+    },
+    "marcos": {
+        "libro": "Marcos",
+        "abreviacion": "Mc",
+        "testamento": "Nuevo",
+        "num_capitulos": 16,
+        "num_versos": 674,
+        "archivo": "marcos.json"
+    },
+    "lucas": {
+        "libro": "Lucas",
+        "abreviacion": "Lc",
+        "testamento": "Nuevo",
+        "num_capitulos": 24,
+        "num_versos": 1149,
+        "archivo": "lucas.json"
+    },
+    "juan": {
+        "libro": "Juan",
+        "abreviacion": "Jn",
+        "testamento": "Nuevo",
+        "num_capitulos": 21,
+        "num_versos": 879,
+        "archivo": "juan.json"
+    },
+    "hechos": {
+        "libro": "Hechos",
+        "abreviacion": "He",
+        "testamento": "Nuevo",
+        "num_capitulos": 28,
+        "num_versos": 1002,
+        "archivo": "hechos.json"
+    },
+    "romanos": {
+        "libro": "Romanos",
+        "abreviacion": "Rm",
+        "testamento": "Nuevo",
+        "num_capitulos": 16,
+        "num_versos": 431,
+        "archivo": "romanos.json"
+    },
+    "i-corintios": {
+        "libro": "I Corintios",
+        "abreviacion": "1 Cor",
+        "testamento": "Nuevo",
+        "num_capitulos": 16,
+        "num_versos": 437,
+        "archivo": "i-corintios.json"
+    },
+    "ii-corintios": {
+        "libro": "II Corintios",
+        "abreviacion": "2 Cor",
+        "testamento": "Nuevo",
+        "num_capitulos": 13,
+        "num_versos": 256,
+        "archivo": "ii-corintios.json"
+    },
+    "galatas": {
+        "libro": "Gálatas",
+        "abreviacion": "Ga",
+        "testamento": "Nuevo",
+        "num_capitulos": 6,
+        "num_versos": 149,
+        "archivo": "galatas.json"
+    },
+    "efesios": {
+        "libro": "Efesios",
+        "abreviacion": "Ef",
+        "testamento": "Nuevo",
+        "num_capitulos": 6,
+        "num_versos": 155,
+        "archivo": "efesios.json"
+    },
+    "filipenses": {
+        "libro": "Filipenses",
+        "abreviacion": "Flp",
+        "testamento": "Nuevo",
+        "num_capitulos": 4,
+        "num_versos": 104,
+        "archivo": "filipenses.json"
+    },
+    "colosenses": {
+        "libro": "Colosenses",
+        "abreviacion": "Col",
+        "testamento": "Nuevo",
+        "num_capitulos": 4,
+        "num_versos": 95,
+        "archivo": "colosenses.json"
+    },
+    "i-tesalonicenses": {
+        "libro": "I Tesalonicenses",
+        "abreviacion": "1 Te",
+        "testamento": "Nuevo",
+        "num_capitulos": 5,
+        "num_versos": 89,
+        "archivo": "i-tesalonicenses.json"
+    },
+    "ii-tesalonicenses": {
+        "libro": "II Tesalonicenses",
+        "abreviacion": "2 Te",
+        "testamento": "Nuevo",
+        "num_capitulos": 3,
+        "num_versos": 47,
+        "archivo": "ii-tesalonicenses.json"
+    },
+    "i-timoteo": {
+        "libro": "I Timoteo",
+        "abreviacion": "1 Tim",
+        "testamento": "Nuevo",
+        "num_capitulos": 6,
+        "num_versos": 113,
+        "archivo": "i-timoteo.json"
+    },
+    "ii-timoteo": {
+        "libro": "II Timoteo",
+        "abreviacion": "2 Tim",
+        "testamento": "Nuevo",
+        "num_capitulos": 4,
+        "num_versos": 83,
+        "archivo": "ii-timoteo.json"
+    },
+    "tito": {
+        "libro": "Tito",
+        "abreviacion": "Tit",
+        "testamento": "Nuevo",
+        "num_capitulos": 3,
+        "num_versos": 46,
+        "archivo": "tito.json"
+    },
+    "filemon": {
+        "libro": "Filemon",
+        "abreviacion": "Flm",
+        "testamento": "Nuevo",
+        "num_capitulos": 1,
+        "num_versos": 25,
+        "archivo": "filemon.json"
+    },
+    "hebreos": {
+        "libro": "Hebreos",
+        "abreviacion": "Heb",
+        "testamento": "Nuevo",
+        "num_capitulos": 13,
+        "num_versos": 303,
+        "archivo": "hebreos.json"
+    },
+    "santiago": {
+        "libro": "Santiago",
+        "abreviacion": "Sant",
+        "testamento": "Nuevo",
+        "num_capitulos": 5,
+        "num_versos": 108,
+        "archivo": "santiago.json"
+    },
+    "i-pedro": {
+        "libro": "I Pedro",
+        "abreviacion": "1 Pe",
+        "testamento": "Nuevo",
+        "num_capitulos": 5,
+        "num_versos": 105,
+        "archivo": "i-pedro.json"
+    },
+    "ii-pedro": {
+        "libro": "II Pedro",
+        "abreviacion": "2 Pe",
+        "testamento": "Nuevo",
+        "num_capitulos": 3,
+        "num_versos": 61,
+        "archivo": "ii-pedro.json"
+    },
+    "i-juan": {
+        "libro": "I Juan",
+        "abreviacion": "1 Jn",
+        "testamento": "Nuevo",
+        "num_capitulos": 5,
+        "num_versos": 105,
+        "archivo": "i-juan.json"
+    },
+    "ii-juan": {
+        "libro": "II Juan",
+        "abreviacion": "2 Jn",
+        "testamento": "Nuevo",
+        "num_capitulos": 1,
+        "num_versos": 13,
+        "archivo": "ii-juan.json"
+    },
+    "iii-juan": {
+        "libro": "III Juan",
+        "abreviacion": "3 Jn",
+        "testamento": "Nuevo",
+        "num_capitulos": 1,
+        "num_versos": 15,
+        "archivo": "iii-juan.json"
+    },
+    "judas": {
+        "libro": "Judas",
+        "abreviacion": "Jds",
+        "testamento": "Nuevo",
+        "num_capitulos": 1,
+        "num_versos": 25,
+        "archivo": "judas.json"
+    },
+    "apocalipsis": {
+        "libro": "Apocalipsis",
+        "abreviacion": "Ap",
+        "testamento": "Nuevo",
+        "num_capitulos": 22,
+        "num_versos": 405,
+        "archivo": "apocalipsis.json"
+    }
+}
