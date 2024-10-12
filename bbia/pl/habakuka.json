@@ -1,0 +1,88 @@
+{
+    "data": {
+        "libro": "Habakuka",
+        "abreviacion": "Ha",
+        "testamento": "Stary Testament",
+        "num_capitulos": 3,
+        "num_versos": 56,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "habakuka",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Brzemię, które widział prorok Habakuk.",
+                    "2": "PANIE, jak długo będę wołać, a nie będziesz wysłuchiwał?",
+                    "3": "Czemu dopuszczasz, abym patrzył na nieprawość i widział bezprawie? Zguba i przemoc są przede mną i znajduje się ten, który roznieca spory i niezgodę.",
+                    "4": "Dlatego prawo jest naruszone, a nie ma już sprawiedliwości. Niegodziwy bowiem osacza sprawiedliwego, dlatego wydawane są błędne wyroki.",
+                    "5": "Spójrzcie na narody, zobaczcie i zdumiejcie się bardzo, gdyż dokonuję dzieła za waszych dni, w które nie uwierzycie, gdy wam o nim opowiedzą.",
+                    "6": "Oto bowiem wzbudzę Chaldejczyków, naród srogi i gwałtowny; przejdą przez szerokość ziemi, aby posiąść cudze miejsca zamieszkania.",
+                    "7": "Straszni",
+                    "8": "Ich konie są szybsze niż lamparty, dziksze niż wilki o zmierzchu. Ich jeźdźcy rozciągną się szeroko, ich jeźdźcy przybędą z daleka, przylecą jak orzeł spieszący się na żer.",
+                    "9": "Każdy z nich przybędzie dla łupu. Ich twarze będą zwrócone na wschód i zgromadzą jeńców jak piasek.",
+                    "10": "Będą szydzić z królów, a książęta",
+                    "11": "Wtedy",
+                    "12": "Czy ty nie jesteś od wieków, PANIE, mój Boże, mój Święty?",
+                    "13": "Twoje oczy są tak czyste, że nie możesz patrzeć na zło ani widzieć bezprawia. Czemu patrzysz na czyniących przewrotność?",
+                    "14": "",
+                    "15": "Wyciąga wszystkie wędką, zagarnia je swoim niewodem i gromadzi je w swojej sieci. Dlatego cieszy się i raduje.",
+                    "16": "Dlatego składa ofiarę swemu niewodowi i pali kadzidło swojej sieci. Przez nie bowiem jego dział jest obfity i jego pożywienie bogatsze.",
+                    "17": "Czy dlatego będzie zarzucać swoją sieć, by nieustannie zabijać narody bez litości?"
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "habakuka",
+                "num_versos": 20,
+                "versos": {
+                    "1": "Na swej warcie będę stać, stanę na baszcie i będę się wpatrywać, aby zobaczyć, co",
+                    "2": "Wtedy PAN mi odpowiedział: Zapisz to widzenie,",
+                    "3": "",
+                    "4": "Oto dusza tego, który się wywyższa, nie jest w nim prawa. Ale sprawiedliwy będzie żył ze swojej wiary.",
+                    "5": "Owszem, ponieważ upija się, jest on hardym człowiekiem i nie pozostaje w",
+                    "6": "Czy ci wszyscy nie ułożą o nim przypowieści i szyderczego przysłowia, mówiąc: Biada temu, który gromadzi nie swoje rzeczy (jak długo?) i obciąża się gęstym błotem!",
+                    "7": "Czy nie powstaną nagle",
+                    "8": "Ponieważ złupiłeś wiele narodów, złupią cię też wszystkie pozostałe narody z powodu krwi ludzkiej i przemocy",
+                    "9": "Biada temu, który chciwie pragnie niegodziwego zysku dla swego domu, aby wystawił wysoko swoje gniazdo i tak uszedł mocy zła!",
+                    "10": "Postanowiłeś wytracić wiele narodów na hańbę swemu domowi, a grzeszyłeś przeciwko własnej duszy.",
+                    "11": "Kamień bowiem będzie wołać z muru i sęk z drewna da",
+                    "12": "Biada",
+                    "13": "Czyż to nie",
+                    "14": "Ziemia bowiem będzie napełniona poznaniem chwały PANA, jak wody napełniają morze.",
+                    "15": "Biada temu, który poi swego bliźniego, przystawiając mu swe naczynie, aż go upoi, by patrzeć na jego nagość!",
+                    "16": "Nasyciłeś się hańbą zamiast sławą; upij się sam i będziesz obnażony. Kielich prawicy PANA zwróci się przeciw tobie i sromotne wymioty",
+                    "17": "Okryje cię bowiem bezprawie Libanu i spustoszenie bestii, które ich straszyły, z powodu krwi ludzkiej i przemocy",
+                    "18": "Cóż pomoże rzeźbiony posąg, który wykonał jego rzemieślnik,",
+                    "19": "Biada",
+                    "20": "PAN jest w swoim świętym przybytku. Niech cała ziemia zamilknie przed nim."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "habakuka",
+                "num_versos": 19,
+                "versos": {
+                    "1": "Modlitwa proroka Habakuka na Syggajon.",
+                    "2": "PANIE, usłyszałem twoją wieść i uląkłem się. PANIE, ożyw swoje dzieło w środku lat, objaw je w środku lat; w gniewie pamiętaj o miłosierdziu.",
+                    "3": "Bóg szedł z Temanu, Święty z góry Paran, Sela! Jego majestat okrył niebiosa, ziemia była pełna jego chwały.",
+                    "4": "Jego blask był jak światłość, rogi wychodziły z jego rąk, a tam była ukryta jego moc.",
+                    "5": "Przed nim szła zaraza, płonące węgle szły przed jego nogami.",
+                    "6": "Stanął i zmierzył ziemię, spojrzał i rozproszył narody; góry wieczyste zostały skruszone, skłoniły się pagórki dawne. Jego drogi są wieczne.",
+                    "7": "Widziałem namioty Kuszanu dotknięte uciskiem, a zasłony ziemi Midian drżały.",
+                    "8": "Czy PAN rozgniewał się przeciwko rzekom? Czy",
+                    "9": "Twój łuk został obnażony",
+                    "10": "Widziały cię góry",
+                    "11": "Słońce i księżyc zatrzymały się w swoim przybytku, szli przy blasku",
+                    "12": "W gniewie deptałeś ziemię, w zapalczywości młóciłeś pogan.",
+                    "13": "Wyruszyłeś, aby wybawić swój lud, by ze swoim pomazańcem",
+                    "14": "Jego oszczepami przebiłeś głowę jego wsi; burzyli się jak wicher, aby mnie rozproszyć; cieszyli się, jakby mieli potajemnie pożreć ubogiego.",
+                    "15": "Jechałeś przez morze na swoich koniach,",
+                    "16": "Gdy to usłyszałem, zatrzęsło się moje wnętrze, na ten głos zadrżały moje wargi. Zgnilizna przeniknęła moje kości i cały się trząsłem, słysząc, że mam odpocząć w dniu utrapienia. Gdy nadciągnie na ten lud, zgładzi ich swoim wojskiem.",
+                    "17": "Choćby drzewo figowe nie zakwitło i nie było plonu w winnicach, choćby i owoc oliwy zawiódł, i pola nie przyniosły żywności, trzoda zniknęła z owczarni, i nie było bydła w oborach;",
+                    "18": "Ja jednak będę się radował w PANU, rozraduję się w Bogu mojego zbawienia.",
+                    "19": "Pan BÓG jest moją siłą i uczyni moje nogi jak"
+                }
+            }
+        ]
+    }
+}

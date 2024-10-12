@@ -1,0 +1,63 @@
+{
+    "data": {
+        "libro": "Aggeusza",
+        "abreviacion": "Ag",
+        "testamento": "Stary Testament",
+        "num_capitulos": 2,
+        "num_versos": 38,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "aggeusza",
+                "num_versos": 15,
+                "versos": {
+                    "1": "W drugim roku króla Dariusza, w szóstym miesiącu, pierwszego dnia",
+                    "2": "Tak mówi PAN zastępów: Ten lud powiada: Jeszcze nie nadszedł czas, czas budowania domu PANA.",
+                    "3": "Wówczas słowo PANA doszło przez proroka Aggeusza mówiące:",
+                    "4": "A czy dla was",
+                    "5": "Teraz więc",
+                    "6": "Siejecie wiele, a mało zbieracie; jecie, ale się nie nasycacie; pijecie, ale nie gasicie pragnienia; ubieracie się, lecz nikt nie może się ogrzać, a ten, kto gromadzi zarobek, gromadzi go w dziurawym worku.",
+                    "7": "Tak mówi PAN zastępów: Zastanówcie się nad swoimi drogami.",
+                    "8": "Wstąpcie na tę górę i sprowadźcie drewno; zbudujcie ten dom, a upodobam go sobie i będę uwielbiony, mówi PAN.",
+                    "9": "Liczyliście na wiele, a oto",
+                    "10": "Dlatego niebo wstrzymało nad wami rosę, a ziemia wstrzymała wydawanie swego plonu.",
+                    "11": "Sprowadziłem suszę na tę ziemię, na te góry, na pszenicę, na moszcz i na oliwę, na",
+                    "12": "Wtedy Zorobabel, syn Szealtiela, i najwyższy kapłan Jozue, syn Josadaka, oraz cała resztka ludu wysłuchali głosu PANA, swego Boga, i słów proroka Aggeusza, ponieważ posłał go PAN, ich Bóg, a lud bał się PANA.",
+                    "13": "Wtedy Aggeusz, posłaniec PANA, przemówił do ludu,",
+                    "14": "I PAN wzbudził ducha Zorobabela, syna Szealtiela, namiestnika Judy, i ducha Jozuego, syna Josadaka, najwyższego kapłana, oraz ducha całej reszty ludu, tak że przyszli i podjęli pracę przy domu PANA zastępów, swego Boga;",
+                    "15": "Dnia dwudziestego czwartego, szóstego miesiąca, w drugim roku króla Dariusza."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "aggeusza",
+                "num_versos": 23,
+                "versos": {
+                    "1": "W siódmym",
+                    "2": "Mów teraz do Zorobabela, syna Szealtiela, namiestnika Judy, i do Jozuego, syna Josadaka, najwyższego kapłana, oraz do reszty ludu:",
+                    "3": "Któż pozostał pośród was, który widział ten dom w jego dawnej chwale? A jakim go teraz widzicie? Czy nie wydaje się wam, że jest niczym w porównaniu z tamtym?",
+                    "4": "Teraz jednak umocnij się, Zorobabelu, mówi PAN; umocnij się, Jozue, synu Josadaka, najwyższy kapłanie; umocnij się też, cały ludu tej ziemi, mówi PAN, i pracujcie. Ja bowiem jestem z wami, mówi PAN zastępów.",
+                    "5": "Zgodnie ze słowem, przez które zawarłem z wami przymierze, gdy wyszliście z Egiptu, mój Duch jest stale wśród was, nie bójcie się.",
+                    "6": "Tak bowiem mówi PAN zastępów: Jeszcze raz,",
+                    "7": "Wstrząsnę wszystkimi narodami i przyjdzie Pożądany przez wszystkie narody. I napełnię ten dom chwałą, mówi PAN zastępów.",
+                    "8": "Moje jest srebro i moje",
+                    "9": "Chwała tego domu będzie większa od tej, jaką miał tamten dawny, mówi PAN zastępów; bo to miejsce obdarzę pokojem, mówi PAN.",
+                    "10": "Dnia dwudziestego czwartego, dziewiątego",
+                    "11": "Tak mówi PAN zastępów: Zapytaj teraz kapłanów o prawo:",
+                    "12": "Gdyby ktoś niósł poświęcone mięso",
+                    "13": "Wtedy Aggeusz zapytał: Jeśli ktoś, będąc nieczysty od zwłok, dotknie którejś z tych rzeczy, czy staje się ona nieczysta? Odpowiedzieli kapłani: Stanie się nieczysta.",
+                    "14": "Wtedy Aggeusz odezwał się i powiedział: Taki jest ten lud, taki jest ten naród przede mną, mówi PAN; takie jest każde dzieło ich rąk; i wszystko, co tam składają w ofierze, jest nieczyste.",
+                    "15": "Teraz więc, proszę, zastanówcie się,",
+                    "16": "Dawniej, gdy ktoś przyszedł do stosu zboża z dwudziestu",
+                    "17": "Karałem was suszą, pleśnią i gradem we wszystkich dziełach waszych rąk; lecz żaden z was nie",
+                    "18": "Zastanówcie się teraz",
+                    "19": "Czy ziarno jeszcze",
+                    "20": "Potem słowo PANA doszło po raz drugi do Aggeusza dnia dwudziestego czwartego",
+                    "21": "Mów do Zorobabela, namiestnika Judy: Ja wstrząsnę niebiosami i ziemią;",
+                    "22": "I przewrócę tron królestw, i zniszczę moc królestw pogan; przewrócę także rydwany i tych, którzy na nich jeżdżą; i upadną konie i ich jeźdźcy, każdy od miecza swego brata.",
+                    "23": "W tym dniu, mówi PAN zastępów, wezmę cię, Zorobabelu, mój sługo, synu Szealtiela, mówi PAN, i uczynię cię niczym sygnet. Ja bowiem wybrałem ciebie, mówi PAN zastępów."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "data": {
+        "libro": "Pieśń nad Pieśniami",
+        "abreviacion": "PnP",
+        "testamento": "Stary Testament",
+        "num_capitulos": 8,
+        "num_versos": 117,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Pieśń nad pieśniami Salomona.",
+                    "2": "Niech mnie pocałuje pocałunkami swoich ust. Twoja miłość bowiem jest lepsza od wina.",
+                    "3": "Z powodu wonności twoich olejków twoje imię",
+                    "4": "Pociągnij mnie,",
+                    "5": "Czarna jestem, ale piękna, o córki Jerozolimy, jak namioty Kedaru, jak zasłony Salomona.",
+                    "6": "Nie patrzcie na mnie, że jestem czarna, gdyż słońce mnie opaliło. Synowie mojej matki rozgniewali się na mnie, postawili mnie na straży winnic; a mojej własnej winnicy nie ustrzegłam.",
+                    "7": "Powiedz mi",
+                    "8": "Jeśli nie wiesz, najpiękniejsza wśród kobiet, to idź śladem trzody i paś swoje koźlątka przy szałasach pasterzy.",
+                    "9": "Przyrównam cię, moja umiłowana, do zaprzęgu rydwanów faraona.",
+                    "10": "Twoje lica są piękne, ozdobione klejnotami,",
+                    "11": "Uczynimy ci złote klejnoty nakrapiane srebrem.",
+                    "12": "Dopóki król jest przy",
+                    "13": "",
+                    "14": "Mój miły jest dla mnie",
+                    "15": "O jaka ty jesteś piękna, moja umiłowana! O jaka ty jesteś piękna! Twoje oczy są",
+                    "16": "O jaki ty jesteś piękny, mój umiłowany, i jak miły! Łoże nasze się zieleni.",
+                    "17": "Belki naszego domu są cedrowe, a nasze stropy – cyprysowe."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Jestem różą Saronu i lilią dolin.",
+                    "2": "Jak lilia między cierniami, tak moja umiłowana między pannami.",
+                    "3": "Jak jabłoń między leśnymi drzewami, tak mój miły między młodzieńcami. Z wielkim pragnieniem usiadłam w jego cieniu, a jego owoc",
+                    "4": "Wprowadził mnie do komnaty biesiadnej, a jego chorągwią nade mną jest miłość.",
+                    "5": "Pokrzepcie mnie bukłakami, posilcie mnie jabłkami, bo jestem chora z miłości.",
+                    "6": "Jego lewa ręka pod moją głową, a jego prawa ręka mnie obejmuje.",
+                    "7": "Zaklinam was, córki Jerozolimy, na sarny i łanie polne: Nie budźcie mego umiłowanego i nie przerywajcie",
+                    "8": "Głos mego umiłowanego! Oto idzie, skacząc po górach, a podskakując po pagórkach.",
+                    "9": "Mój umiłowany podobny jest do sarny albo młodego jelenia. Oto stoi za naszym murem, zagląda przez okna, patrzy przez kraty.",
+                    "10": "Mój umiłowany odezwał się i powiedział mi: Wstań, moja umiłowana, moja piękna, i chodź!",
+                    "11": "Oto bowiem minęła zima, deszcz ustał i przeszedł.",
+                    "12": "Kwiatki pokazały się na ziemi, nadszedł czas śpiewania i głos synogarlicy słychać w naszej ziemi.",
+                    "13": "Drzewo figowe już wypuściło swoje niedojrzałe figi, a kwitnąca winorośl wydaje swoją woń. Wstań, moja umiłowana, moja piękna, i chodź!",
+                    "14": "Moja gołębico,",
+                    "15": "Schwytajcie nam lisy, małe lisy, które psują winnice, ponieważ nasze winnice kwitną.",
+                    "16": "Mój umiłowany",
+                    "17": "Nim zaświta dzień i znikną cienie, zawróć, mój umiłowany, bądź jak sarna albo młode jelenie na górach Beter."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 11,
+                "versos": {
+                    "1": "Na swoim łożu wśród nocy szukałam tego, którego miłuje moja dusza. Szukałam go, ale go nie znalazłam.",
+                    "2": "Wstanę więc już i obiegnę miasto, po ulicach i placach będę szukać tego, którego miłuje moja dusza. Szukałam go, ale nie znalazłam.",
+                    "3": "Znaleźli mnie strażnicy, którzy obchodzili miasto, i",
+                    "4": "A gdy ledwie od nich odeszłam, zaraz znalazłam tego, którego miłuje moja dusza. Uchwyciłam go i nie puszczę, aż go wprowadzę do domu mojej matki, do pokoju mojej rodzicielki.",
+                    "5": "Zaklinam was, córki Jerozolimy, na sarny i łanie polne: Nie budźcie mego umiłowanego i nie przerywajcie",
+                    "6": "Kim jest ta, która wyłania się z pustyni jak słupy dymu, owiana wonią mirry i kadzidła oraz wszelkim wonnym proszkiem od kupca?",
+                    "7": "Oto łoże Salomona, dokoła którego",
+                    "8": "Wszyscy trzymają miecz, wyćwiczeni w boju. Każdy z nich ma swój miecz u boku przez wzgląd na strach nocny.",
+                    "9": "Król Salomon uczynił sobie lektykę z drzewa Libanu.",
+                    "10": "Jej słupki uczynił ze srebra, jej pokład ze złota, podniebienie z purpury, a wnętrze wyścielone miłością córek Jerozolimy.",
+                    "11": "Wyjdźcie, córki Syjonu, i popatrzcie na króla Salomona w koronie, którą ukoronowała go jego matka w dniu jego zaręczyn i w dniu radości jego serca."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 16,
+                "versos": {
+                    "1": "O jaka ty jesteś piękna, moja umiłowana! O jaka ty jesteś piękna! Twoje oczy między twymi kędziorkami są",
+                    "2": "Twoje zęby są jak stado strzyżonych",
+                    "3": "Twoje wargi",
+                    "4": "Twoja szyja",
+                    "5": "Twoje piersi są jak dwoje bliźniaczych sarniąt, które pasą się między liliami.",
+                    "6": "Nim zaświta dzień i znikną cienie, wejdę na górę mirry i na pagórek kadzidła.",
+                    "7": "Cała",
+                    "8": "Przyjdź ze mną z Libanu,",
+                    "9": "Zachwyciłaś moje serce, moja siostro,",
+                    "10": "Jakże piękna jest twoja miłość, moja siostro,",
+                    "11": "Z twoich warg ocieka miód",
+                    "12": "",
+                    "13": "Twoje pędy to sad",
+                    "14": "Nard i szafran, tatarak i cynamon, ze wszelkimi drzewami, kadzidło, mirra i aloes, ze wszelkimi wybornymi wonnościami.",
+                    "15": "Źródło ogrodów, zdrój żywych wód, które płyną z Libanu!",
+                    "16": "Powstań, wietrze północny, i przyjdź, wietrze z południa, powiej przez mój ogród, by się rozpłynęły jego wonności. Niech przyjdzie mój umiłowany do swego ogrodu i niech je swoje rozkoszne owoce."
+                }
+            },
+            {
+                "capitulo": "5",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 16,
+                "versos": {
+                    "1": "Wszedłem do mojego ogrodu, moja siostro,",
+                    "2": "Ja śpię, ale moje serce czuwa.",
+                    "3": "Zdjęłam już swoją suknię, jakże mam ją wkładać? Umyłam swoje nogi, jakże mam je pobrudzić?",
+                    "4": "Mój umiłowany wsunął swoją rękę przez otwór, a moje wnętrze poruszyło się we mnie.",
+                    "5": "Wstałam, aby otworzyć mojemu umiłowanemu, a oto z moich rąk kapała mirra, z moich palców mirra spływała na uchwyt zasuwy.",
+                    "6": "Otworzyłam mojemu umiłowanemu, lecz mój umiłowany",
+                    "7": "Znaleźli mnie strażnicy, którzy obchodzili miasto; pobili mnie i zranili, strażnicy murów zabrali mi zasłonę.",
+                    "8": "Zaklinam was, córki Jerozolimy: Jeśli znajdziecie mojego umiłowanego, to powiedzcie mu, że jestem chora z miłości.",
+                    "9": "Czym przewyższa twój umiłowany",
+                    "10": "Mój umiłowany jest biały i rumiany, i najznakomitszy spośród dziesięciu tysięcy.",
+                    "11": "Jego głowa jest",
+                    "12": "Jego oczy są jak gołębice nad strumieniami wody,",
+                    "13": "Jego policzki jak grządka wonności,",
+                    "14": "Jego ręce",
+                    "15": "Jego nogi",
+                    "16": "Jego usta przesłodkie i jest on cały przepiękny. Taki jest mój umiłowany i taki jest mój przyjaciel, córki Jerozolimy."
+                }
+            },
+            {
+                "capitulo": "6",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 13,
+                "versos": {
+                    "1": "Dokąd poszedł twój umiłowany, o najpiękniejsza wśród kobiet? Dokąd się zwrócił twój umiłowany, abyśmy szukali go wraz z tobą?",
+                    "2": "Mój umiłowany zstąpił do swojego ogrodu między grządki wonności, aby paść w ogrodach i zbierać lilie.",
+                    "3": "Ja należę do mego umiłowanego, a mój umiłowany",
+                    "4": "Piękna jesteś, moja umiłowana, jak Tirsa; urodziwa jak Jerozolima; groźna jak wojsko",
+                    "5": "Odwróć ode mnie swoje oczy, gdyż one mnie urzekają. Twoje włosy są jak stado kóz, które schodzą z Gileadu.",
+                    "6": "Twoje zęby są jak stado owiec, które wychodzą z kąpieli, wszystkie mają bliźnięta, a nie ma żadnej niepłodnej wśród nich.",
+                    "7": "Twoje skronie między twoimi kędziorkami są jak połówki granatu.",
+                    "8": "Sześćdziesiąt jest królowych i osiemdziesiąt nałożnic, a dziewic bez liku.",
+                    "9": "",
+                    "10": "Kim jest ta, która pokazuje się jak zorza poranna, piękna jak księżyc, czysta jak słońce, groźna jak uszykowane wojsko z chorągwiami?",
+                    "11": "Zeszłam do ogrodu orzechów, aby patrzeć na owoce",
+                    "12": "Nim się zorientowałam, moja dusza wsadziła mnie jakby w rydwany książąt mego ludu.",
+                    "13": "Zawróć, zawróć, Szulamitko; zawróć, zawróć, abyśmy mogli na ciebie patrzeć. Cóż widzicie w Szulamitce?"
+                }
+            },
+            {
+                "capitulo": "7",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 13,
+                "versos": {
+                    "1": "Jak piękne są twoje nogi w sandałach, córko książęca! Linia twoich bioder jest jak klejnot, jak dzieło rąk rzemieślnika.",
+                    "2": "Twój pępek jest",
+                    "3": "Twoje piersi są jak dwoje sarniąt, bliźniąt.",
+                    "4": "Twoja szyja jest jak wieża z kości słoniowej; twoje oczy jak sadzawki Cheszbonu przy bramie Bat-Rabbim; twój nos jak wieża Libanu zwrócona w stronę Damaszku.",
+                    "5": "Twoja głowa na tobie jak Karmel, a włosy twojej głowy jak purpura. Król",
+                    "6": "Jakże piękna jesteś i jak miła, o miłości przerozkoszna!",
+                    "7": "Twój wzrost jest podobny do palmy, a twoje piersi do kiści",
+                    "8": "Powiedziałem: Wejdę na palmę i uchwycę się jej gałęzi. Niech twoje piersi będą jak kiście winorośli, a woń twojego oddechu jak",
+                    "9": "Twoje usta jak wyborne wino, które mile spływa po podniebieniu i sprawia, że wargi śpiących mówią.",
+                    "10": "Ja",
+                    "11": "Chodź, mój umiłowany, wyjdźmy w pole",
+                    "12": "Rankiem wstaniemy",
+                    "13": "Mandragory wydają"
+                }
+            },
+            {
+                "capitulo": "8",
+                "libro": "pieśńnadpieśniami",
+                "num_versos": 14,
+                "versos": {
+                    "1": "O gdybyś był dla mnie jak brat, który ssał piersi mojej matki! Wtedy spotykałabym cię na dworze, całowałabym cię, a nie byłabym wzgardzona.",
+                    "2": "Powiodłabym cię i wprowadziła do domu swojej matki, gdzie byś mnie uczył. A ja dałabym ci do picia wino korzenne, moszcz ze swoich granatów.",
+                    "3": "Jego lewa ręka byłaby pod moją głową, a prawa ręka objęłaby mnie.",
+                    "4": "Zaklinam was, córki Jerozolimy: Nie budźcie mego umiłowanego ani nie przerywajcie",
+                    "5": "Kim jest ta, która wyłania się z pustyni, wsparta na swym umiłowanym? Pod jabłonią cię wzbudziłam. Tam cię urodziła twoja matka, tam cię urodziła twoja rodzicielka.",
+                    "6": "Przyłóż mnie do swego serca jak pieczęć, jak pieczęć na swoim ramieniu. Miłość bowiem jest silna jak śmierć, zawiść twarda jak grób. Jej żar",
+                    "7": "Wielkie wody nie zdołają zagasić miłości ani rzeki jej zatopić. Choćby ktoś oddał cały majątek swego domu za taką miłość, byłby z pewnością wzgardzony.",
+                    "8": "Mamy małą siostrę, która jeszcze nie ma piersi. Cóż uczynimy z naszą siostrą w dniu, w którym będą o nią zabiegać?",
+                    "9": "Jeśli jest murem, zbudujemy na niej srebrny pałac; a jeśli drzwiami, oprawimy ją deskami z cedru.",
+                    "10": "Ja",
+                    "11": "Salomon miał winnicę w Baal-Hamon,",
+                    "12": "Ale moja winnica, którą mam,",
+                    "13": "O ty, która mieszkasz w ogrodach, przyjaciele słuchają twego głosu; daj mi go usłyszeć.",
+                    "14": "Pospiesz się, mój umiłowany, i bądź podobny do sarny albo młodego jelenia na górach wonności."
+                }
+            }
+        ]
+    }
+}

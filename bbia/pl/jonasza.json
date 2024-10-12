@@ -1,0 +1,87 @@
+{
+    "data": {
+        "libro": "Jonasza",
+        "abreviacion": "Jon",
+        "testamento": "Stary Testament",
+        "num_capitulos": 4,
+        "num_versos": 48,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "jonasza",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Słowo PANA doszło do Jonasza, syna Amittaja, mówiące:",
+                    "2": "Wstań, idź do Niniwy, tego wielkiego miasta, i wołaj przeciwko niej, bo jej niegodziwość wzniosła się przed moje oblicze.",
+                    "3": "Ale Jonasz wstał, aby uciec do Tarszisz sprzed oblicza PANA, i przybył do Jafy. Znalazł okręt, który płynął do Tarszisz, zapłacił za przejazd i wsiadł na niego, aby płynąć z nimi do Tarszisz",
+                    "4": "Lecz PAN zesłał gwałtowny wiatr na morze i powstała potężna burza na morzu, tak że zdawało się, że okręt się rozbije.",
+                    "5": "A żeglarze przestraszyli się i każdy z nich wołał do swego boga, a wyrzucali do morza ładunek, który był na okręcie, aby ten był lżejszy. Ale Jonasz zszedł wcześniej na niższy pokład okrętu, położył się i twardo zasnął.",
+                    "6": "Przyszedł więc do niego sternik i zapytał go: Cóż ty czynisz, śpiochu? Wstań, wołaj do swego Boga, może Bóg wspomni na nas, abyśmy nie zginęli.",
+                    "7": "Wtedy powiedzieli jeden do drugiego: Chodźcie, rzućmy losy, abyśmy się dowiedzieli, przez kogo",
+                    "8": "I powiedzieli do niego: Powiedz nam, prosimy, przez kogo",
+                    "9": "Odpowiedział im: Jestem Hebrajczykiem i boję się PANA, Boga nieba, który stworzył morze i ziemię.",
+                    "10": "Wtedy ci mężczyźni bardzo się zlękli i zapytali: Czemu tak uczyniłeś? Oni bowiem dowiedzieli się, że ucieka sprzed oblicza PANA, bo im to powiedział.",
+                    "11": "Powiedzieli jeszcze do niego: Cóż mamy z tobą uczynić, aby morze się uspokoiło? Morze bowiem coraz bardziej się burzyło.",
+                    "12": "Odpowiedział im: Weźcie mnie i wrzućcie do morza, a ono uspokoi się dla was, gdyż wiem, że z mojego powodu ta wielka burza",
+                    "13": "Lecz ci mężczyźni wiosłowali silniej, aby dotrzeć do brzegu, ale nie mogli, bo morze coraz bardziej się burzyło przeciwko nim.",
+                    "14": "Zawołali więc do PANA: PANIE, prosimy, nie pozwól nam zginąć z powodu życia tego człowieka i nie obciążaj nas krwią niewinną. Ty bowiem, PANIE, uczyniłeś, jak ci się spodobało.",
+                    "15": "Potem wzięli Jonasza i wrzucili do morza, a morze przestało się burzyć.",
+                    "16": "Wtedy ci mężczyźni, zdjęci wielkim strachem przed PANEM, złożyli PANU ofiarę i uczynili śluby.",
+                    "17": "A PAN przygotował wielką rybę, która połknęła Jonasza. I Jonasz był we wnętrznościach tej ryby trzy dni i trzy noce."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "jonasza",
+                "num_versos": 10,
+                "versos": {
+                    "1": "I modlił się Jonasz do PANA, swego Boga, we wnętrznościach tej ryby;",
+                    "2": "I powiedział: Wołałem do PANA w swoim ucisku i wysłuchał mnie; z głębi piekła wołałem i wysłuchałeś mego głosu.",
+                    "3": "Rzuciłeś mnie bowiem w głębię, w sam środek morza, i ogarnęła mnie toń. Wszystkie twoje nawałnice i fale przewaliły się nade mną.",
+                    "4": "Wtedy powiedziałem: Zostałem wygnany sprzed twoich oczu, ale będę jeszcze patrzył w stronę twej świętej świątyni.",
+                    "5": "Wody ogarnęły mnie aż do duszy, przepaść mnie otoczyła, moją głowę owinęła trawa morska.",
+                    "6": "Zstąpiłem aż do posad gór, swymi ryglami ziemia zamknęła się przede mną na wieki. Ty jednak wyprowadziłeś moje życie z dołu, PANIE, mój Boże!",
+                    "7": "Gdy moja dusza we mnie omdlewała, wspomniałem na PANA, a moja modlitwa przyszła do ciebie, do twej świętej świątyni.",
+                    "8": "Ci, którzy trzymają się próżnych marności, pozbawiają się miłosierdzia;",
+                    "9": "Ale ja z głosem dziękczynienia będę ci składał ofiary, wypełnię to, co ślubowałem. Od PANA",
+                    "10": "Wtedy PAN rozkazał"
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "jonasza",
+                "num_versos": 10,
+                "versos": {
+                    "1": "Wtedy słowo PANA doszło do Jonasza po raz drugi mówiące:",
+                    "2": "Wstań, idź do Niniwy, tego wielkiego miasta, i głoś przeciwko niej to, co ci rozkazuję.",
+                    "3": "Wstał więc Jonasz i poszedł do Niniwy zgodnie ze słowem PANA. A Niniwa była bardzo wielkim miastem,",
+                    "4": "Jonasz zaczął chodzić po mieście, ile mógł przejść w jeden dzień, i wołał: Po czterdziestu dniach Niniwa zostanie zburzona.",
+                    "5": "I mieszkańcy Niniwy uwierzyli Bogu, ogłosili post i oblekli się w wory, od największego z nich aż do najmniejszego.",
+                    "6": "Doszła bowiem",
+                    "7": "Rozkazał ogłosić i opowiadać w Niniwie z dekretu króla i swoich książąt: Ludzie i zwierzęta, woły i owce niech nic nie jedzą, niech się nie pasą i wody nie piją;",
+                    "8": "Ale ludzie i zwierzęta niech się okryją worami i niech gorliwie wołają do Boga. Niech każdy się odwróci od swojej złej drogi i od grabieży",
+                    "9": "Kto wie, czy Bóg się nie odwróci i nie pożałuje, i nie odstąpi od zapalczywości swego gniewu, abyśmy nie zginęli.",
+                    "10": "I Bóg widział ich czyny, że odwrócili się od swojej złej drogi, i Bóg pożałował tego nieszczęścia, które zapowiedział im czynić, a nie uczynił."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "jonasza",
+                "num_versos": 11,
+                "versos": {
+                    "1": "Ale Jonaszowi bardzo się to nie podobało i rozgniewał się.",
+                    "2": "I modlił się do PANA, mówiąc: Proszę, PANIE, czy tego nie mówiłem, gdy jeszcze byłem w swojej ziemi? Dlatego zaraz uciekłem do Tarszisz, gdyż wiedziałem, że ty jesteś Bogiem łaskawym i litościwym, nieskorym do gniewu i",
+                    "3": "A teraz, PANIE, proszę, zabierz ode mnie moje życie, bo lepiej mi umrzeć, niż żyć.",
+                    "4": "PAN odpowiedział: Czy to dobrze, że",
+                    "5": "Wyszedł więc Jonasz z miasta i usiadł po wschodniej stronie miasta. Tam zrobił sobie szałas i usiadł w jego cieniu, by zobaczyć, co się stanie z tym miastem.",
+                    "6": "A PAN Bóg sprawił, że nad Jonaszem wyrosła tykwa, aby zasłaniała jego głowę i chroniła go przed upałem. I Jonasz bardzo się cieszył",
+                    "7": "Ale nazajutrz o świcie Bóg sprawił, że robak podgryzł tę tykwę, tak że uschła.",
+                    "8": "I gdy wzeszło słońce, Bóg wzbudził suchy wiatr wschodni; i słońce tak prażyło głowę Jonasza, że omdlewał i życzył sobie śmierci, mówiąc: Lepiej mi umrzeć, niż żyć.",
+                    "9": "I Bóg powiedział do Jonasza: Czy to dobrze, że tak się gniewasz z powodu tej tykwy? I odpowiedział: To dobrze, że się gniewam,",
+                    "10": "Wtedy PAN mu powiedział: Żałujesz tej tykwy, przy której nie pracowałeś ani nie dałeś jej wzrostu; wyrosła w jedną noc i w jedną noc uschła;",
+                    "11": "A ja miałbym nie żałować Niniwy, tego wielkiego miasta, w którym jest więcej niż sto dwadzieścia tysięcy ludzi, którzy nie umieją rozróżnić swej prawej ręki od lewej, a także wiele bydła?"
+                }
+            }
+        ]
+    }
+}
