@@ -1,0 +1,306 @@
+{
+    "data": {
+        "libro": "Osea",
+        "abreviacion": "Os",
+        "testamento": "Antico Testamento",
+        "num_capitulos": 14,
+        "num_versos": 197,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "osea",
+                "num_versos": 11,
+                "versos": {
+                    "1": "La parola del Signore, che fu indirizzata ad Osea, figliuolo di Beeri, a' dì di Uzzia, di Iotam, di Achaz, e di Ezechia, re di Giuda1.1 Giuda Is. 1.1 e rif. Am. 1.1. Mic. 1.1.; e a' dì di Geroboamo, figliuolo di Gioas, re d'Israele1.1 Israele 2 Re. 14.23-29; 15.1..",
+                    "2": "NEL principio, quando il Signore parlò per Osea, il Signore disse ad Osea: Va', prenditi per moglie una meretrice1.2 meretrice Os. 3.1., e genera de' figliuoli di fornicazione; perciocchè il paese fornica senza fine, sviandosi dal Signore1.2 Signore Deut. 31.16. Ger. 2.13..",
+                    "3": "Ed egli andò, e prese Gomer, figliuola di Diblaim, ed ella concepette, e gli partorì un figliuolo.",
+                    "4": "E il Signore gli disse: Pongli nome Izreel, perciocchè fra qui a poco tempo farò punizione del sangue d'Izreel1.4 Izreel 2 Re. 10.1 ecc., sopra la casa di Iehu; e farò venir meno il regno della casa d'Israele1.4 Israele 2 Re. 15.8-12..",
+                    "5": "E in quel giorno avverrà che io romperò l'areo d'Israele1.5 Israele 2 Re. 15.29. nella valle d'Izreel.",
+                    "6": "Poi ella concepette ancora, e partorì una figliuola. E il Signore disse ad Osea: Ponle nome Lo-ruhama1.6 Lo-ruhama cioè: un che non ha ottenuto misericordia.; perciocchè io non continuerò più a far misericordia alla casa d'Israele, ma li torrò del tutto via1.6 via 2 Re. 17.6-23..",
+                    "7": "Ma farò misericordia alla casa di Giuda, e li salverò per lo Signore Iddio loro; e non li salverò per arco, nè per ispada, nè per battaglia, nè per cavalli, nè per cavalieri1.7 cavalieri 2 Re. 19.35. Zac. 4.6..",
+                    "8": "Poi ella spoppò Lo-ruhama, e concepette, e partorì un figliuolo.",
+                    "9": "E il Signore disse ad Osea: Pongli nome Lo-ammi1.9 Lo-ammi cioè: non mio popolo .; perciocchè voi non siete mio popolo, ed io altresì non sarò vostro.",
+                    "10": "Pur nondimeno il numero de' figliuoli d'Israele sarà come la rena del mare, che non si può nè misurare, nè annoverare; ed avverrà che in luogo che sarà loro stato detto: Voi non siete mio popolo1.10 popolo Rom. 9.25,26. 1 Piet. 2.10.; si dirà loro: Figliuoli dell'Iddio vivente1.10 vivente Giov. 1.12. 1 Giov. 3.1..",
+                    "11": "E i figliuoli di Giuda, e i figliuoli d'Israele, si raduneranno insieme1.11 insieme Is. 11.12,13 e rif., e si costituiranno un capo, e saliranno dalla terra; perciocchè il giorno d'Izreel sarà grande."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "osea",
+                "num_versos": 23,
+                "versos": {
+                    "1": "Dite a' vostri fratelli: Ammi2.1 Ammi cioè: popol mio .; ed alle vostre sorelle: Ruhama2.1 Ruhama cioè: una che ha ottenuto misericordia ..",
+                    "2": "Contendete con la madre vostra, contendete, dicendole ch'ella non è più mia moglie, e che io non sono più suo marito; e che tolga le sue fornicazioni dalla sua faccia, e i suoi adulterii d'infra le sue mammelle.",
+                    "3": "Che talora io non la spogli tutta nuda, e non la metta nello stato ch'era nel giorno che nacque; e non la renda simile ad un deserto, e non la riduca ad essere come una terra arida, e non la faccia morir di sete2.3 sete Am. 8.11,12..",
+                    "4": "E non abbia pietà de' suoi figliuoli; perciocchè son figliuoli di fornicazione2.4 fornicazione Giov. 8.41..",
+                    "5": "Conciossiachè la madre loro abbia fornicato; quella che li ha partoriti è stata svergognata; perciocchè ha detto: Io andrò dietro a' miei amanti, che mi dànno il mio pane, e la mia acqua, la mia lane, e il mio lino, il mio olio, e le mie bevande2.5 bevande ver. 2.8,12. Ger. 44.17..",
+                    "6": "Perciò, ecco, io assieperò la sua via di spine, e le farò una chiusura attorno, ed ella non ritroverà i suoi sentieri.",
+                    "7": "Ed andrà dietro a' suoi amanti, ma non li aggiungerà; e li ricercherà, ma non li troverà; laonde dirà: Io andrò, e ritornerò al mio primiero marito2.7 marito Os. 5.15. Luc. 15.17,18.; perciocchè allora io stava meglio che al presente.",
+                    "8": "Or ella non ha riconosciuto2.8 riconosciuto Is. 1.3. che io le avea dato il frumento, e il mosto, e l'olio2.8 olio Deut. 7.13. Ezec. 16.17-19., e che io le avea accresciuto l'argento, e l'oro, il quale essi hanno impiegato intorno a Baal.",
+                    "9": "Perciò, io ripiglierò il mio frumento nel suo tempo, e il mio mosto nella sua stagione; e riscoterò la mia lana, e il mio lino, ch'erano per coprir le sue vergogne.",
+                    "10": "Ed ora io scoprirò le sue vergogne, alla vista de' suoi amanti; e niuno la riscoterà di man mia.",
+                    "11": "E farò venir meno tutte le sue letizie2.11 letizie Ger. 7.34. Am. 8.10., le sue feste, le sue calendi, e i suoi sabati, e tutte le sue solennità.",
+                    "12": "E deserterò le sue viti, e i suoi fichi, dei quali ella diceva: Queste cose sono il mio premio, che i miei amanti mi hanno donato; ed io li ridurrò in bosco, e le fiere della campagna li mangeranno2.12 mangeranno Is. 5.5..",
+                    "13": "E farò punizione sopra lei de' giorni dei Baali, ne' quali ella ha fatti loro profumi, e si è adorna de' suoi pendenti, e monili, ed è andata dietro a' suoi amanti, e mi ha dimenticato, dice il Signore.",
+                    "14": "Perciò, ecco, io l'attrarrò, e la farò camminare per lo deserto, e la racconsolerò;",
+                    "15": "e le darò le sue vigne, da quel luogo; e la valle di Acor, per entrata di speranza; ed ella canterà quivi, come ai dì della sua fanciullezza, e come quando salì fuor del paese di Egitto2.15 Egitto Esod. 15.1 ecc. Ger. 2.2..",
+                    "16": "E in quel giorno avverrà, dice il Signore, che tu mi chiamerai: Marito mio2.16 mio Is. 54.5.; e non mi chiamerai più: Baal mio2.16 mio cioè: Signore mio ..",
+                    "17": "Ed io torrò via dalla sua bocca i Baali, e quelli non saranno più ricordati per li nomi loro2.17 loro Esod. 23.13 e rif..",
+                    "18": "E in quel tempo farò che avran patto con le fiere della campagna, e con gli uccelli del cielo, e co' rettili della terra2.18 terra Sal. 46.9. Is. 11.6-9 e rif. Zac. 9.10.; e romperò archi, e spade, e strumenti di guerra, e farò che verranno meno nel paese; e li farò giacere in sicurtà2.18 sicurtà Ger. 23.6 e rif..",
+                    "19": "Ed io ti sposerò in eterno; e ti sposerò in giustizia2.19 giustizia ver. 2.7,16. 2 Cor. 11.2., e in giudicio, e in benignità, e in compassioni.",
+                    "20": "Anzi ti sposerò in verità; e tu conoscerai il Signore2.20 Signore Giov. 17.3..",
+                    "21": "Ed avverrà in quel giorno, che io risponderò, dice il Signore, risponderò al cielo, ed esso risponderà alla terra2.21 terra Zac. 8.12..",
+                    "22": "E la terra risponderà al frumento, ed al mosto, ed all'olio; e queste cose risponderanno ad Izreel.",
+                    "23": "Ed io me la seminerò nella terra2.23 terra Ger. 31.27. Zac. 10.9., ed avrò pietà di Lo-ruhama2.23 Lo-ruhama Os. 1.6.; e dirò a Lo-ammi2.23 Lo-ammi Os. 1.10 e rif.: Tu sei mio popolo; ed egli mi dirà: Dio mio."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "osea",
+                "num_versos": 5,
+                "versos": {
+                    "1": "Poi il Signore mi disse: Va' ancora ed ama una donna3.1 donna Os. 1.2,3., la quale, essendo, amata dal suo marito, sia adultera; secondo che il Signore ama i figliuoli di Israele, ed essi riguardano ad altri dii3.1 dii Ger. 3.20., ed amano le schiacciate d'uva.",
+                    "2": "Io adunque mi acquistai quella donna per quindici sicli d'argento, e per un homer, ed un letec di orzo.",
+                    "3": "Poi le dissi: Rimantimi così per molti giorni; non fornicare, e non maritarti ad alcuno; ed io altresì aspetterò dietro a te.",
+                    "4": "Perciocchè i figliuoli d'Israele se ne staranno molti giorni senza re, e senza principe; senza sacrificio, e senza statua; senza efod3.4 efod Esod. 28.6 ecc., e senza idoli.",
+                    "5": "Poi i figliuoli d'Israele ricercheranno di nuovo il Signore Iddio loro3.5 loro Ger. 50.4,5., e Davide lor re3.5 re Ger. 30.9 e rif.; e con timore si ridurranno al Signore, ed alla sua bontà, nella fine de' giorni3.5 giorni Is. 2.2 e rif.."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "osea",
+                "num_versos": 19,
+                "versos": {
+                    "1": "ASCOLTATE la parola del Signore, figliuoli d'Israele; perciocchè il Signore ha una lite con gli abitanti del paese4.1 paese Is. 1.18; 3.13,14. Ger. 25.31. Mic. 6.2.; perchè non vi è nè verità, nè benignità, nè conoscenza alcuna di Dio nel paese4.1 paese Ger. 4.22; 5.4 e rif..",
+                    "2": "Non fanno altro che spergiurare, e mentire, ed uccidere, e furare, e commettere adulterio4.2 adulterio Esod. 20.13-16 e rif. Ger. 7.9 e rif.; sono straboccati, un sangue tocca l'altro.",
+                    "3": "Perciò, il paese farà cordoglio4.3 cordoglio Ger. 12.4 e rif., e chiunque abita in esso languirà, insieme con le bestie della campagna, e con gli uccelli del cielo; ed anche i pesci del mare morranno.",
+                    "4": "Pur nondimeno niuno litighi, e niuno riprenda; conciossiachè il tuo popolo somigli quelli che contendono col sacerdote4.4 sacerdote Deut. 17.12..",
+                    "5": "Perciò, tu caderai di giorno, ed anche il profeta caderà di notte; ed io distruggerò tua madre4.5 madre Os. 2.2..",
+                    "6": "Il mio popolo perisce per mancamento di conoscenza4.6 conoscenza Is. 5.13 e rif.; perciocchè tu hai sdegnata la conoscenza, io altresì ti sdegnerò, acciocchè tu non mi eserciti il sacerdozio4.6 sacerdozio Esod. 19.6 e rif.; e, perciocchè tu hai dimenticata la Legge dell'Iddio tuo, io altresì dimenticherò i tuoi figliuoli.",
+                    "7": "Al pari che son cresciuti, han peccato contro a me4.7 me Deut. 32.15 e rif.; io muterò la lor gloria in vituperio4.7 vituperio 1 Sam. 2.30. Mal. 2.9..",
+                    "8": "Mangiano i peccati del mio popolo4.8 popolo Lev. 6.25,26; 10.17., ed hanno l'animo intento alla sua iniquità.",
+                    "9": "Perciò, il sacerdote sarà come il popolo4.9 popolo Is. 24.2. Ger. 5.31.; ed io farò punizione sopra lui delle sue vie, e gli renderò la retribuzione dei suoi fatti.",
+                    "10": "E mangeranno, ma non si sazieranno4.10 sazieranno Lev. 26.26. Mic. 6.14. Ag. 1.6 e rif.; fornicheranno, ma non moltiplicheranno; perciocchè han lasciato il servigio del Signore.",
+                    "11": "La fornicazione, e il vino, e il mosto, tolgono il senno4.11 senno Is. 28.7..",
+                    "12": "Il mio popolo domanda il suo legno, e il suo bastone gli dà avviso4.12 avviso Ger. 2.27. Abac. 2.19.; perciocchè lo spirito delle fornicazioni fa traviare4.12 traviare Is. 44.20. Os. 5.4.; ed essi fornicano, sottraendosi dall'Iddio loro.",
+                    "13": "Sacrificano sopra le sommità de' monti, e fan profumi sopra i colli, sotto le querce, e i pioppi, e gli olmi4.13 olmi Deut. 12.2. Is. 57.5 e rif.; perciocchè la loro ombra è bella; perciò, le vostre figliuole fornicheranno, e le vostre nuore commetteranno adulterio4.13 adulterio Rom. 1.28 ecc..",
+                    "14": "Io non farò punizione delle vostre figliuole, quando avran fornicato; nè delle vostre nuore, quando avranno commesso adulterio: perciocchè essi si separono con le meretrici, e sacrificano con le cortigiane, perciò, il popolo che non ha intendimento caderà.",
+                    "15": "O Israele, se tu fornichi, Giuda almeno non rendasi colpevole; e non venite in Ghilgal4.15 Ghilgal Gios. 4.19; 5.9. Os. 9.15; 12.11. Am. 4.4; 5.5., e non salite in Bet-aven4.15 Bet-aven 1 Re. 12.29. Os. 10.5.; e non giurate: Il Signore vive.",
+                    "16": "Perciocchè Israele è divenuto ritroso, a guisa di giovenca ritrosa; ora li pasturerà il Signore, a guisa di agnello in luogo spazioso.",
+                    "17": "Efraim è congiunto con gl'idoli, lascialo4.17 lascialo Mat. 15.14..",
+                    "18": "La lor bevanda si è rivolta, hanno fornicato senza fine; amano il Porgete4.18 Porgete Is. 1.23. Mic. 3.11; 7.3.; i rettori di questa nazione sono vituperosi.",
+                    "19": "Il vento se la legherà nelle ale4.19 ale Ger. 4.11,12; 51.1 ecc., ed essi saranno svergognati de' lor sacrificii."
+                }
+            },
+            {
+                "capitulo": "5",
+                "libro": "osea",
+                "num_versos": 15,
+                "versos": {
+                    "1": "ASCOLTATE questo, o sacerdoti, e siate attenti, o casa d'Israele, e porgete l'orecchio, o casa del re; conciossiachè a voi appartenga il giudicio; perciocchè voi siete stati un laccio in Mispa, e una rete tesa sopra Tabor.",
+                    "2": "Ed essi hanno di nascosto scannati quelli che si stornano dalla strada maestra: ma io sarò correzione ad essi tutti.",
+                    "3": "Io conosco Efraim, e Israele non mi è nascosto5.3 nascosto Am. 3.2.; conciossiachè ora, o Efraim, tu abbi fornicato, e Israele si sia contaminato.",
+                    "4": "Essi non dispongono le loro opere a convertirsi all'Iddio loro; perciocchè lo spirito delle fornicazioni è dentro loro5.4 loro Os. 4.12., e non conoscono il Signore.",
+                    "5": "E la superbia d'Israele testimonia contro a lui in faccia; laonde Israele ed Efraim caderanno per la loro iniquità; Giuda ancora caderà con loro.",
+                    "6": "Andranno con le lor pecore, e co' lor buoi, a cercare il Signore; ma non lo troveranno5.6 troveranno Ger. 11.11 e rif.; egli si è sottratto da loro.",
+                    "7": "Essi si sono dislealmente portati inverso il Signore5.7 Signore Ger. 3.20. Mal. 2.11.; conciossiachè abbiano generati figliuoli bastardi; ora li divorerà un mese, con le lor possessioni.",
+                    "8": "Sonate col corno in Ghibea, e con la tromba in Rama; sonate a stormo in Bet-aven, dietro a te, o Beniamino.",
+                    "9": "Efraim sarà messo in desolazione, nel giorno del castigamento; io ho fatto assapere una cosa certa fra le tribù d'Israele.",
+                    "10": "I principi di Giuda son simili a quelli che muovono i termini5.10 termini Deut. 19.14 e rif., io spanderò la mia indegnazione sopra loro, a guisa d'acqua.",
+                    "11": "Efraim è oppressato, egli è fiaccato per giudicio; perciocchè volontariamente è ito dietro al comandamento5.11 comandamento 1 Re. 12.28-30. Mic. 6.16..",
+                    "12": "Perciò, io sarò ad Efraim come una tignuola, e come un tarlo alla casa di Giuda.",
+                    "13": "Or Efraim, avendo veduta la sua infermità, e Giuda la sua piaga5.13 piaga Ger. 30.12., Efraim è andato ad Assur5.13 Assur 2 Re. 15.19. Ger. 2.18,36. Os. 7.11; 12.2., e Giuda ha mandato ad un re, che difendesse la sua causa; ma egli non potrà risanarvi, e non vi guarirà della vostra piaga5.13 piaga Os. 10.6..",
+                    "14": "Perciocchè io sarò come un leone ad Efraim, e come un leoncello alla casa di Giuda; io, io rapirò, e me ne andrò; io porterò via, e non vi sarà alcuno che riscuota.",
+                    "15": "Io me ne andrò, e me ne ritornerò al mio luogo, finchè si riconoscano colpevoli, e cerchino la mia faccia. Quando saranno in distretta, mi ricercheranno5.15 ricercheranno Lev. 26.39 ecc. Sal. 78.34. Ger. 29.12,13.."
+                }
+            },
+            {
+                "capitulo": "6",
+                "libro": "osea",
+                "num_versos": 11,
+                "versos": {
+                    "1": "VENITE, e convertiamoci al Signore; perciocchè egli ha lacerato, ed altresì ci risanerà6.1 risanerà 1 Sam. 2.6-8. Giob. 5.18.; egli ha percosso, altresì ci fascerà le piaghe.",
+                    "2": "Infra due giorni egli ci avrà rimessi in vita; nel terzo giorno egli ci avrà risuscitati, e noi viveremo nel suo cospetto.",
+                    "3": "E conoscendo il Signore, proseguiremo a conoscerlo ancora6.3 ancora Is. 54.13.; la sua uscita sarà stabilmente ordinata, come quella dell'alba; ed egli verrà a noi come la pioggia, come la pioggia della stagion della ricolta, che innaffia la terra.",
+                    "4": "Che ti farò, o Efraim? che ti farò, o Giuda? conciossiachè la vostra pietà sia simile ad una nuvola mattutina, ed alla rugiada, la qual viene la mattina, e poi se ne va via. Perciò, io li ho asciati per li profeti6.4 profeti Ger. 1.10; 5.14.;",
+                    "5": "li ho uccisi per le parole della mia bocca6.5 bocca Ger. 23.29. Ebr. 4.12.; e i tuoi giudicii, o Israele, ti sono stati pronunziati al levar del sole.",
+                    "6": "Perciocchè io gradisco benignità, e non sacrificio6.6 sacrificio 1 Sam. 15.22 e rif.; e il conoscere Iddio6.6 Iddio Ger. 22.16. Giov. 17.3., anzi che olocausti.",
+                    "7": "Ma essi hanno trasgredito il patto, come Adamo; ecco là, si son portati dislealmente inverso me6.7 me Os. 5.7 e rif..",
+                    "8": "Galaad è una città di operatori d'iniquità; è segnata di sangue.",
+                    "9": "E come gli scherani aspettano gli uomini, così la compagnia de' sacerdoti uccide le persone in su la strada6.9 strada Ezec. 22.25. Os. 5.1,2., verso Sichem; perciocchè han commesse scelleratezze.",
+                    "10": "Io ho veduto nella casa d'Israele una cosa orribile; ivi è la fornicazione di Efraim, Israele si è contaminato6.10 contaminato Os. 4.12,13,17..",
+                    "11": "Ancora porrà Giuda delle piante in te, quando io ritrarrò di cattività il mio popolo."
+                }
+            },
+            {
+                "capitulo": "7",
+                "libro": "osea",
+                "num_versos": 16,
+                "versos": {
+                    "1": "MENTRE io ho medicato Israele, l'iniquità di Efraim, e le malvagità di Samaria si sono scoperte; perciocchè fanno il mestiere della falsità; e il ladro entra, e lo scherano spoglia di fuori.",
+                    "2": "E non han detto nel cuor loro, che io serbo la memoria di tutta la lor malvagità; ora li intorniano i lor fatti7.2 fatti Sal. 9.16. Prov. 5.22.; quelli sono nel mio cospetto7.2 cospetto Sal. 90.8..",
+                    "3": "Essi rallegrano il re con la loro malvagità, e i principi con le lor falsità7.3 falsità Rom. 1.32..",
+                    "4": "Essi tutti commettono adulterio7.4 adulterio Ger. 9.2.; sono come un forno scaldato dal fornaio, quando è restato di destare, dopo che la pasta è stata intrisa, finchè sia levitata.",
+                    "5": "Nel giorno del nostro re, i principi l'han sopraffatto con l'ardore del vino; egli ha stesa la sua mano co'giullari.",
+                    "6": "Quando recano il cuor loro, che è simile ad un forno, alle lor insidie, il lor fornaio dorme tutta la notte, e la mattina il forno è acceso come fuoco di vampa.",
+                    "7": "Tutti quanti son riscaldati come un forno, e divorano i lor rettori; tutti i lor re son caduti7.7 caduti 2 Re. 15.10,14,25,30.; non vi è fra loro alcuno che gridi a me.",
+                    "8": "Efraim si rimescola co' popoli7.8 popoli Sal. 106.35.; Efraim è una focaccia che non è voltata.",
+                    "9": "Stranieri han divorata la sua forza, ed egli non vi ha posta mente; ed anche egli è faldellato di capelli bianchi, ed egli non l'ha riconosciuto.",
+                    "10": "Perciò, la superbia d'Israele testimonierà contro a lui in faccia; conciossiachè non si sieno convertiti al Signore Iddio loro, e non l'abbiano cercato per tutto ciò7.10 ciò Dan. 9.13..",
+                    "11": "Ed Efraim è stato come una colomba scempia, senza senno; han chiamato l'Egitto, sono andati in Assiria7.11 Assiria 2 Re. 17.4. Is. 30.1-3 e rif. Os. 5.13..",
+                    "12": "Quando vi andranno, io spanderò la mia rete sopra loro; io li trarrò giù come uccelli del cielo; io li gastigherò, secondo ch'è stato predicato alla lor raunanza7.12 raunanza Lev. 26.14 ecc..",
+                    "13": "Guai a loro! perciocchè si sono deviati da me; guastamento avverrà loro, perciocchè han misfatto contro a me; ed io li ho riscossi, ma essi mi hanno parlato con menzogne.",
+                    "14": "E non hanno gridato a me col cuor loro7.14 loro Giob. 35.9,10. Sal. 78.36.; anzi hanno urlato sopra i lor letti; si son radunati per lo frumento, e per lo mosto; si son rivolti contro a me.",
+                    "15": "Quando io li ho castigati, ho fortificate le lor braccia; ma essi han macchinato del male contro a me.",
+                    "16": "Essi si rivolgono, non all'Altissimo; sono stati come un arco fallace; i lor principi caderanno per la spada, per lo furor della lor lingua. Ciò sarà il loro scherno nel paese di Egitto."
+                }
+            },
+            {
+                "capitulo": "8",
+                "libro": "osea",
+                "num_versos": 14,
+                "versos": {
+                    "1": "METTITI una tromba al palato. Colui viene contro alla Casa del Signore, come un'aquila8.1 aquila Deut. 28.49 ecc. e rif.; perciocchè han trasgredito il mio patto, ed han misfatto contro alla mia Legge.",
+                    "2": "Israele griderà a me: Tu sei l'Iddio mio, noi ti abbiam conosciuto8.2 conosciuto Mat. 7.21-23. Tit. 1.16..",
+                    "3": "Israele ha allontanato da sè il bene; il nemico lo perseguirà.",
+                    "4": "Hanno costituiti dei re, non da parte mia8.4 mia 2 Re. 15.13,17,25. ver. 7.; e creati de' principi senza mia saputa; si hanno, del loro argento, e del loro oro, fatti degl'idoli8.4 idoli Os. 2.8; 13.2.; acciocchè sieno sterminati.",
+                    "5": "O Samaria, il tuo vitello8.5 vitello 1 Re. 12.28. ti ha scacciata: la mia ira è accesa contro a loro; fino a quando non potranno esser nettati?",
+                    "6": "Certo quel vitello è anch'esso d'Israele; un fabbro l'ha fatto, e non è Dio; il vitello di Samaria sarà ridotto in scintille.",
+                    "7": "Perciocchè han seminato del vento, mieteranno un turbo8.7 turbo Prov. 22.8. Os. 10.12,13., non avranno biade; i germogli non faranno farina; se pur ne faranno, gli stranieri la trangugeranno.",
+                    "8": "Israele è divorato; ora sono fra le nazioni8.8 nazioni 2 Re. 17.6., come un vaso di cui non si fa alcuna stima.",
+                    "9": "Perciocchè essi sono saliti ad Assur8.9 Assur 2 Re. 15.19., che è un asino salvatico, che se ne sta in disparte da per sè; Efraim ha dati presenti ad amanti8.9 amanti Ezec. 16.33,34..",
+                    "10": "Ora altresì, perciocchè han dati presenti ad amanti fra le genti, io radunerò quegli amanti: e fra poco si dorranno per la gravezza del re de' principi.",
+                    "11": "Perciocchè Efraim ha moltiplicati gli altari per peccare, egli ha avuti altari da peccare.",
+                    "12": "Io gli avea scritte le cose grandi della mia Legge8.12 Legge Deut. 4.6-8. Sal. 119.18; 147.19,20.; ma sono state reputate come cosa strana.",
+                    "13": "Quant'è a' sacrificii delle mie offerte, sacrificano della carne, e la mangiano8.13 mangiano Ger. 7.21. Zac. 7.6.; il Signore non li gradisce8.13 gradisce Os. 9.4. Am. 5.22.; ora si ricorderà egli della loro iniquità, e farà punizione de' lor peccati; essi ritorneranno in Egitto8.13 Egitto Deut. 28.68. Os. 9.3,6; 11.5..",
+                    "14": "Or Israele ha dimenticato il suo Fattore8.14 Fattore Deut. 32.18 e rif. Efes. 2.10., e ha edificati de' tempii8.14 tempii 1 Re. 12.31., e Giuda ha fatte molte città forti; ma io manderò fuoco nelle città dell'uno, ed esso consumerà i tempii dell'altro."
+                }
+            },
+            {
+                "capitulo": "9",
+                "libro": "osea",
+                "num_versos": 17,
+                "versos": {
+                    "1": "NON rallegrarti, o Israele, per festeggiar come gli altri popoli; perciocchè tu hai fornicato, lasciando l'Iddio tuo9.1 tuo Os. 4.12; 5.4,7.; tu hai amato il prezzo delle fornicazioni9.1 fornicazioni Ger. 44.17. Os. 2.12., sopra tutte le aie del frumento.",
+                    "2": "L'aia e il tino non li pasceranno; e il mosto fallirà loro9.2 loro Os. 2.9,12..",
+                    "3": "Non abiteranno nel paese del Signore9.3 Signore Lev. 25.23. Ger. 2.7.; anzi Efraim tornerà in Egitto9.3 Egitto Os. 8.13 e rif., e mangeranno cibi immondi9.3 immondi Ezec. 4.13. Dan. 1.8. in Assiria9.3 Assiria 2 Re. 17.6..",
+                    "4": "Le loro offerte da spandere di vino non son fatte da loro al Signore; e i lor sacrificii non gli son grati9.4 grati Ger. 6.20 e rif. Os. 8.13.; sono loro come cibo di cordoglio9.4 cordoglio Ger. 16.7. Ezec. 24.17.; chiunque ne mangia si contamina; perciocchè il lor cibo è per le lor persone, esso non entrerà nella casa del Signore.",
+                    "5": "Che farete voi a' dì delle solennità, e a' giorni delle feste del Signore9.5 Signore Os. 2.11 e rif.?",
+                    "6": "Conciossiachè, ecco, se ne sieno andati via, per lo guasto; Egitto9.6 Egitto Os. 8.13 e rif. li accoglierà, Mof li seppellirà; le ortiche erederanno i luoghi di diletto, comperati da' lor danari; le spine cresceranno ne' lor tabernacoli.",
+                    "7": "I giorni della visitazione son venuti, i giorni della retribuzione son venuti; Israele lo conoscerà; i profeti sono stolti, gli uomini d'ispirazione son forsennati9.7 forsennati Ezec. 13.3 ecc. Sof. 3.4.: per la grandezza della tua iniquità, l'odio altresì sarà grande.",
+                    "8": "Le guardie di Efraim sono con l'Iddio mio9.8 mio Ezec. 3.17 ecc. e rif.; i profeti sono un laccio d'uccellatore sopra tutte le vie di esso; essi sono la cagione dell'odio contro alla Casa dell'Iddio loro.",
+                    "9": "Essi si son profondamente corrotti, come a' dì di Ghibea9.9 Ghibea Giud. 19.22. Os. 10.9.; Iddio si ricorderà della loro iniquità, farà punizione de' lor peccati.",
+                    "10": "Io trovai Israele, come delle uve nel deserto; io riguardai i vostri padri, come i frutti primaticci nel fico, nel suo principio. Essi entrarono da Baal-peor9.10 Baal-peor Num. 25.1-3. Sal. 106.28., e si separarono dietro a quella cosa vergognosa9.10 vergognosa Ger. 11.13 e rif., e divennero abbominevoli, come ciò che amavano.",
+                    "11": "La gloria di Efraim se ne volerà via come un uccello, dal nascimento, dal ventre, e dalla concezione.",
+                    "12": "Che se pure allevano i lor figliuoli, io li priverò d'essi9.12 essi Deut. 28.41., togliendoli d'infra gli uomini; perciocchè, guai pure a loro, quando io mi sarò ritratto da loro9.12 loro 1 Sam. 28.15,16.!",
+                    "13": "Efraim, mentre io l'ho riguardato, è stato simile a Tiro, piantato in una stanza piacevole; ma Efraim menerà fuori i suoi figliuoli all'ucciditore.",
+                    "14": "O Signore, da' loro; che darai? da' loro una matrice sperdente, e delle mammelle asciutte.",
+                    "15": "Tutta la lor malvagità è in Ghilgal9.15 Ghilgal Os. 4.15 e rif.; quivi certo li ho avuti in odio; per la malizia de' lor fatti, io li scaccerò dalla mia Casa; io non continuerò più ad amarli; tutti i lor principi son ribelli9.15 ribelli Is. 1.23..",
+                    "16": "Efraim è stato percosso, la lor radice è seccata, non faranno più frutto; avvegnachè generino, io farò morire i cari frutti del lor ventre.",
+                    "17": "L'Iddio mio li sdegnerà, perciocchè non gli hanno ubbidito; e saranno vagabondi fra le genti9.17 genti Deut. 28.64,65.."
+                }
+            },
+            {
+                "capitulo": "10",
+                "libro": "osea",
+                "num_versos": 15,
+                "versos": {
+                    "1": "Israele è stato una vigna deserta; pur nondimeno egli ha ancora portato del frutto; ma, al pari che il suo frutto ha abbondato, egli ha fatti molti altari; al pari che la sua terra ha ben risposto, egli ha adorne le statue.",
+                    "2": "Iddio ha diviso il lor cuore; ora saranno desolati; egli abbatterà i loro altari, guasterà le loro statue.",
+                    "3": "Perciocchè ora diranno: Noi non abbiamo alcun re10.3 re Os. 3.4; ver. 7., perchè non abbiamo temuto il Signore; ed anche: Che ci farebbe un re?",
+                    "4": "Han proferite delle parole, giurando falsamente, facendo patto; perciò, il giudicio germoglierà come tosco sopra i solchi dei campi.",
+                    "5": "Gli abitanti di Samaria saranno spaventati per le vitelle10.5 vitelle 1 Re. 12.28,29. Os. 8.5,6. di Bet-aven10.5 Bet-aven Os. 4.15 e rif.; perciocchè il popolo del vitello farà cordoglio di esso; e i suoi Camari10.5 Camari 2 Re. 23.5. Sof. 1.4., che solevano festeggiar d'esso, faranno cordoglio della sua gloria; perciocchè si sarà dipartita da lui.",
+                    "6": "Ed egli stesso sarà portato in Assiria, per presente al re protettore; Efraim riceverà vergogna, e Israele sarà confuso del suo consiglio.",
+                    "7": "Il re di Samaria perirà, come la schiuma in su l'acqua.",
+                    "8": "E gli alti luoghi di Aven10.8 Aven Os. 4.15 e rif., che sono il peccato d'Israele10.8 Israele Deut. 9.21. 1 Re. 12.28-30., saran distrutti; spine, e triboli cresceranno sopra i loro altari, ed essi diranno a' monti: Copriteci; ed a' colli: Cadeteci addosso10.8 addosso Is. 2.19 e rif..",
+                    "9": "O Israele, tu hai peccato da' giorni di Ghibea10.9 Ghibea Os. 9.9 e rif.; là si presentarono in battaglia, la quale non li colse in Ghibea, coi figliuoli d'iniquità10.9 iniquità Giud. cap. 20..",
+                    "10": "Io li castigherò secondo il mio desiderio10.10 desiderio Deut. 28.63.; e i popoli saran radunati contro a loro, quando saranno legati a' lor due peccati.",
+                    "11": "Or Efraim è una giovenca ammaestrata, che ama di trebbiare; ma io passerò sopra la bellezza del suo collo; io farò tirar la carretta ad Efraim, Giuda arerà, Giacobbe erpicherà.",
+                    "12": "Fatevi sementa di giustizia, e mieterete ricolta di benignità10.12 benignità Prov. 11.18. 2 Cor. 9.6.; aratevi il campo novale10.12 novale Ger. 4.3 e rif.; egli è pur tempo di cercare il Signore, finchè egli venga, e vi faccia piover giustizia.",
+                    "13": "Voi avete arata empietà, ed avete mietuta iniquità10.13 iniquità Giob. 4.8 e rif. Os. 8.7 e rif.; voi avete mangiato il frutto di menzogna; conciossiachè tu ti sii confidato nelle tue vie, nella moltitudine de' tuoi uomini prodi.",
+                    "14": "Perciò, si leverà uno stormo contro a' tuoi popoli10.14 popoli Os. 1.5; 13.16., e tutte le tue fortezze saranno distrutte; siccome Salman10.14 Salman 2 Re. 17.3; 18.34; 19.13. ha distrutto Bet-arbel, nel giorno della battaglia; la madre sarà schiacciata sopra i figliuoli.",
+                    "15": "Così vi farà Betel10.15 Betel ver. 5. Am. 3.14., per cagion della malvagità della vostra malizia; il re d'Israele perirà del tutto all'alba."
+                }
+            },
+            {
+                "capitulo": "11",
+                "libro": "osea",
+                "num_versos": 11,
+                "versos": {
+                    "1": "QUANDO Israele era fanciullo, io l'amai11.1 amai Deut. 7.8 e rif., e chiamai il mio figliuolo fuor di Egitto11.1 Egitto Esod. 4.22,23. Mat. 2.15..",
+                    "2": "Al pari che sono stati chiamati, se ne sono iti d'innanzi a quelli che li chiamavano; hanno sacrificato a' Baali11.2 Baali 2 Re. 17.16., ed han fatti profumi alle sculture.",
+                    "3": "Ed io ho insegnato ad Efraim a camminare11.3 camminare Deut. 1.31; 32.10-12., prendendolo per le braccia; ma essi non han conosciuto che io li ho sanati11.3 sanati Esod. 15.26..",
+                    "4": "Io li ho tratti con corde umane, con funi di amorevolezza11.4 amorevolezza Giov. 6.44.; e sono loro stato a guisa di chi levasse loro il giogo d'in su le mascelle, ed ho loro porto da mangiare11.4 mangiare Sal. 78.24,25. Os. 2.8..",
+                    "5": "Egli non ritornerà nel paese di Egitto, anzi l'Assiro sarà suo re11.5 re Os. 8.13 e rif.; perciocchè han ricusato di convertirsi11.5 convertirsi 2 Re. 17.13,14..",
+                    "6": "E la spada si fermerà sopra le sue città, e consumerà le sue sbarre, e le divorerà, per cagion de' lor consigli.",
+                    "7": "Or il mio popolo è dedito a sviarsi da me; ed egli è richiamato all'Altissimo; ma non vi è niuno, di quanti sono, che lo esalti.",
+                    "8": "O Efraim, come ti darò; o Israele, come ti metterò in man de' tuoi nemici? come ti renderò simile ad Adma, e ti ridurrò nello stato di Seboim11.8 Seboim Gen. 19.24,25. Deut. 29.23. Am. 4.11.? il mio cuore si rivolta sottosopra in me, tutte le mie compassioni si commuovono11.8 commuovono Deut. 32.36. Ger. 31.20..",
+                    "9": "Io non eseguirò l'ardor della mia ira, io non tornerò a distruggere Efraim; perciocchè io sono Dio, e non uomo11.9 uomo Is. 55.8,9. Mal. 3.6.; io sono il Santo in mezzo di te11.9 te Is. 12.6.; io non verrò più contro alla città.",
+                    "10": "Andranno dietro al Signore, il qual ruggirà come un leone; quando egli ruggirà, i figliuoli accorreranno con timore dal mare.",
+                    "11": "Accorreranno con timore di Egitto, come uccelletti; e dal paese di Assiria, come colombe; ed io li farò abitare nelle lor case11.11 case Ezec. 28.25,26 e rif., dice il Signore."
+                }
+            },
+            {
+                "capitulo": "12",
+                "libro": "osea",
+                "num_versos": 15,
+                "versos": {
+                    "1": "EFRAIM mi ha intorniato di menzogna, e la casa d'Israele di frode; ma Giuda signoreggia ancora, congiunto con Dio; ed è fedele, congiunto co' santi.",
+                    "2": "Efraim si pasce di vento, e va dietro al vento orientale; tuttodì moltiplica menzogna, e rapina; e fanno patto con l'Assiro12.2 Assiro 2 Re. 17.4. Os. 5.13; 7.11., ed olii odoriferi son portati in Egitto12.2 Egitto Is. 57.9..",
+                    "3": "Il Signore ha bene anche lite con Giuda12.3 Giuda Os. 4.1.; ma egli farà punizione sopra Giacobbe, secondo le sue vie; egli gli renderà la retribuzione secondo le sue opere.",
+                    "4": "Nel ventre egli prese il calcagno del suo fratello12.4 fratello Gen. 25.26., e con la sua forza fu vincitore, lottando con Iddio12.4 Iddio Gen. 32.24 ecc..",
+                    "5": "Egli fu vincitore, lottando con l'Angelo, e prevalse; egli pianse, e gli supplicò; lo trovò in Betel12.5 Betel Gen. 28.12,19; 35.9,10,15. e quivi egli parlò con noi.",
+                    "6": "Or il Signore è l'Iddio degli eserciti; la sua ricordanza è: IL SIGNORE12.6 SIGNORE Esod. 3.14,15..",
+                    "7": "Tu adunque, convertiti all'Iddio tuo; osserva benignità, e dirittura12.7 dirittura Os. 14.1. Mic. 6.8.; e spera sempre nell'Iddio tuo12.7 tuo Sal. 37.7..",
+                    "8": "Efraim è un Cananeo12.8 Cananeo Ezec. 16.3., egli ha in mano bilance false12.8 false Prov. 11.1 e rif., egli ama far torto.",
+                    "9": "Ed Efraim ha detto: Io son pure arricchito12.9 arricchito Apoc. 3.17.; io mi sono acquistate delle facoltà; tutti i miei acquisti non mi hanno cagionata iniquità, che sia peccato.",
+                    "10": "Pur nondimeno io sono il Signore Iddio tuo, fin dal paese di Egitto12.10 Egitto Os. 13.4.; ancora ti farò abitare in tabernacoli, come a' dì della festa solenne12.10 solenne Lev. 23.42,43..",
+                    "11": "E parlerò a' profeti, e moltiplicherò le visioni, e proporrò parabole per li profeti.",
+                    "12": "Certo, Galaad è tutto iniquità; non sono altro che vanità; sacrificano buoi in Ghilgal12.12 Ghilgal Os. 4.15 e rif.; ed anche i loro altari son come mucchi di pietre su per li solchi de' campi.",
+                    "13": "Or Giacobbe se ne fuggì nella contrada di Siria, e Israele servì per una moglie12.13 moglie Gen. 28.5., e per una moglie fu guardiano di greggia.",
+                    "14": "E il Signore, per lo profeta12.14 profeta Deut. 18.15,18., trasse Israele fuor di Egitto12.14 Egitto Esod. 12.50,51., ed Israele fu guardato per lo profeta.",
+                    "15": "Efraim ha provocato il suo Signore ad ira acerbissima12.15 acerbissima 2 Re. 17.7-18.; perciò, egli gli lascerà addosso il suo sangue, e gli renderà il suo vituperio."
+                }
+            },
+            {
+                "capitulo": "13",
+                "libro": "osea",
+                "num_versos": 16,
+                "versos": {
+                    "1": "QUANDO Efraim parlava, si tremava; egli si era innalzato in Israele; ma egli si è renduto colpevole intorno a Baal13.1 Baal 2 Re. 17.16,18., ed è morto.",
+                    "2": "Ed ora continuano a peccare, e si fanno delle statue di getto del loro argento; e degl'idoli, con la loro industria, i quali son tutti quanti lavoro di artefici. Essi dicono loro: Gli uomini che sacrificano bacino i vitelli.",
+                    "3": "Perciò, saranno come una nuvola mattutina, e come la rugiada che cade la mattina e poi se ne va via; come pula portata via dall'aia da un turbo, e come fumo ch'esce dal fumaiuolo.",
+                    "4": "Or io sono il Signore Iddio tuo, fin dal paese di Egitto; e tu non devi riconoscere altro Dio che me; e non vi è Salvatore alcuno fuori che me13.4 me Is. 43.11; 45.21..",
+                    "5": "Io ti conobbi nel deserto, in terra aridissima13.5 aridissima Deut. 2.7; 8.15; 32.10..",
+                    "6": "Secondo ch'è stato il lor pasco, così si son satollati; si son satollati, e il lor cuore si è innalzato; perciò mi hanno dimenticato13.6 dimenticato Deut. 8.11-14; 32.15..",
+                    "7": "Laonde io son loro stato come un leone; io li ho spiati in su la strada, a guisa di pardo.",
+                    "8": "Io li ho incontrati a guisa di un'orsa che abbia perduti i suoi orsacchi; ed ho loro lacerato il chiuso del cuore; e quivi li ho divorati, a guisa di leone, o d'altra fiera della campagna, che li avesse squarciati.",
+                    "9": "O Israele, tu sei stato perduto; ma il tuo aiuto è in me13.9 me ver. 4 e rif..",
+                    "10": "Dove è ora il tuo re? salviti egli in tutte le tue città; dove è egli, e i tuoi rettori, de' quali tu dicesti: Dammi un re, e de' principi13.10 principi 1 Sam. 8.5 ecc.?",
+                    "11": "Io li ho dato un re nella mia ira, e lo torrò nella mia indegnazione13.11 indegnazione 1 Sam. 8.7; 15.22,23; 16.1. Os. 10.3..",
+                    "12": "L'iniquità di Efraim è legata in un fascio, il suo peccato è riposto.",
+                    "13": "Dolori, come di donna che partorisce, gli verranno; egli è un figliuolo non savio13.13 savio Prov. 22.3.; perciocchè altrimenti egli non si fermerebbe tanto tempo nell'apritura della matrice.",
+                    "14": "Io li riscatterei dal sepolcro, io li riscoterei dalla morte; dove sarebbero, o morte, le tue pestilenze13.14 pestilenze 1 Cor. 15.54,55.? dove sarebbe, o sepolcro, il tuo sterminio? il pentirsi sarebbe nascosto dagli occhi miei.",
+                    "15": "Quando egli sarà moltiplicato fra i suoi fratelli13.15 fratelli Gen. 41.52; 48.19., il vento orientale, vento del Signore, che sale dal deserto, verrà; e la vena di esso sarà asciutta, e la sua fonte sarà seccata; esso prederà il tesoro di tutti i cari arredi.",
+                    "16": "Samaria sarà desolata, perciocchè si è ribellata contro all'Iddio suo; caderanno per la spada; i lor piccoli fanciulli saranno schiacciati, e le lor donne gravide saranno fesse13.16 fesse 2 Re. 8.12. Am. 1.13.."
+                }
+            },
+            {
+                "capitulo": "14",
+                "libro": "osea",
+                "num_versos": 9,
+                "versos": {
+                    "1": "ISRAELE, convertiti al Signore Iddio tuo14.1 tuo Os. 12.7. Gioel. 2.13.; conciossiachè tu sii caduto per la tua iniquità.",
+                    "2": "Prendete con voi delle parole, e convertitevi al Signore; ditegli: Togli tutta l'iniquità, e ricevi il bene; e noi ti renderemo de' giovenchi, con le nostre labbra14.2 labbra Ebr. 13.15..",
+                    "3": "Assur non ci salverà14.3 salverà Os. 5.13; 12.2., noi non cavalcheremo più sopra cavalli14.3 cavalli Deut. 17.16. Sal. 33.17.; e non diremo più all'opera delle nostre mani: Dio nostro; conciossiachè l'orfano ottenga misericordia appo te14.3 te Sal. 10.14; 68.5..",
+                    "4": "Io guarirò la lor ribellione14.4 ribellione Ger. 3.22., io li amerò di buona volontà; perciocchè la mia ira si sarà rivolta da loro.",
+                    "5": "Io sarò come la rugiada ad Israele; egli fiorirà come il giglio, e getterà le sue radici come gli alberi del Libano.",
+                    "6": "I suoi rampolli si spanderanno, e la sua bellezza sarà come quella dell'ulivo, e renderà odore come il Libano.",
+                    "7": "Ritorneranno, e sederanno all'ombra di esso14.7 esso Sal. 91.1.; germoglieranno come il frumento, e fioriranno come la vite; la ricordanza di esso sarà come il vino del Libano.",
+                    "8": "O Efraim, che ho io più da far con gl'idoli? Io l'esaudirò, e lo riguarderò; io gli sarò come un abete verdeggiante; per me si troverà il tuo frutto14.8 frutto Giov. 15.4,5. Giac. 1.17..",
+                    "9": "Chi è savio? ponga mente a queste cose; chi è intendente? le riconosca14.9 riconosca Giov. 8.47; 18.37.; conciossiachè le vie del Signore sieno diritte, e i giusti cammineranno in esse; ma i trasgressori vi caderanno14.9 caderanno Prov. 10.29. Luc. 2.34. 2 Cor. 2.16. 1 Piet. 2.7,8.."
+                }
+            }
+        ]
+    }
+}

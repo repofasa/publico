@@ -1,0 +1,43 @@
+{
+    "data": {
+        "libro": "Epistola di S Paolo a Filemone",
+        "abreviacion": "Fm",
+        "testamento": "Nuovo Testamento",
+        "num_capitulos": 1,
+        "num_versos": 25,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "epistoladispaoloafilemone",
+                "num_versos": 25,
+                "versos": {
+                    "1": "PAOLO, prigione di Gesù Cristo1.1 Cristo Efes. 3.1 e rif., e il fratello Timoteo1.1 Timoteo Fat. 16.1 e rif., a Filemone, nostro diletto, e compagno d'opera;",
+                    "2": "ed alla diletta Appia, e ad Archippo1.2 Archippo Col. 4.16., nostro compagno di milizia, ed alla chiesa che è in casa tua1.2 Tua Rom. 16.5. 1 Cor. 16.19.;",
+                    "3": "grazia a voi e pace, da Dio Padre nostro, e dal Signor Gesù Cristo1.3 Cristo Rom. 1.7 e rif..",
+                    "4": "Io rendo grazie all'Iddio mio1.4 mio Rom. 1.8,9 e rif., facendo sempre di te memoria nelle mie orazioni;",
+                    "5": "udendo la tua carità, e la fede che tu hai inverso il Signore Gesù, e inverso tutti i santi1.5 santi Efes. 1.15. Col. 1.4.;",
+                    "6": "acciocchè la comunione della tua fede sia efficace, col far riconoscere tutto il bene che è in voi, inverso Cristo Gesù.",
+                    "7": "Perciocchè noi abbiamo grande allegrezza e consolazione della tua carità; poichè le viscere dei santi siano state per te ricreate1.7 ricreate 2 Tim. 1.16. ver. 20., fratello.",
+                    "8": "PERCIÒ, benchè io abbia molta libertà in Cristo, di comandarti ciò che è del dovere1.8 dovere 1 Tess. 2.6.;",
+                    "9": "pur nondimeno, più tosto ti prego per carità così come sono, Paolo, vecchio, ed al presente ancora prigione di Gesù Cristo1.9 Cristo ver. 1 e rif.;",
+                    "10": "ti prego, dico, per lo mio figliuolo Onesimo1.10 Onesimo Col. 4.8., il quale io ho generato ne' miei legami1.10 legami 1 Cor. 4.15..",
+                    "11": "Il quale già ti fu disutile, ma ora è utile a te ed a me1.11 me 2 Tim. 2.21; 4.11..",
+                    "12": "Il quale io ho rimandato; or tu accoglilo, cioè, le mie viscere.",
+                    "13": "Io lo voleva ritenere appresso di me, acciocchè in vece tua mi ministrasse nei legami dell'evangelo;",
+                    "14": "ma non ho voluto far nulla senza il tuo parere; acciocchè il tuo beneficio non fosse come per necessità, ma di spontanea volontà1.14 volontà 2 Cor. 9.7..",
+                    "15": "Perciocchè, forse per questa cagione egli si è dipartito da te per un breve tempo, acciocchè tu lo ricoveri in perpetuo;",
+                    "16": "non più come servo, ma da più di servo, come caro fratello1.16 fratello Mat. 23.8. 1 Tim. 6.2., a me sommamente; ora, quanto più a te, ed in carne, e nel Signore?",
+                    "17": "Se dunque tu mi tieni per consorte1.17 consorte 2 Cor. 8.23., accoglilo come me stesso.",
+                    "18": "Che se ti ha fatto alcun torto, o ti deve cosa alcuna, scrivilo a mia ragione.",
+                    "19": "Io Paolo ho scritto questo di man propria, io lo pagherò, per non dirti che tu mi devi più di ciò, cioè te stesso.",
+                    "20": "Deh! fratello, fammi pro in ciò nel Signore; ricrea le mie viscere nel Signore.",
+                    "21": "Io ti ho scritto, confidandomi della tua ubbidienza, sapendo che tu farai eziandio sopra ciò che io dico.",
+                    "22": "OR apparecchiami insieme ancora albergo; perciocchè io spero che per le vostre orazioni vi sarò donato1.22 donato Fil. 1.25; 2.24. Ebr. 13.19..",
+                    "23": "Epafra1.23 Epafra Col. 1.7; 4.11., prigione meco in Cristo Gesù,",
+                    "24": "e Marco1.24 Marco Fat. 15.37,38 e rif., ed Aristarco1.24 Aristarco Fat. 19.29 e rif., e Dema1.24 Dema Col. 4.13 e rif., e Luca1.24 Luca Col. 4.13 e rif., miei compagni d'opera, ti salutano.",
+                    "25": "La grazia del Signor nostro Gesù Cristo sia con lo spirito vostro. Amen."
+                }
+            }
+        ]
+    }
+}

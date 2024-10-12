@@ -1,0 +1,135 @@
+{
+    "data": {
+        "libro": "Epistola di S Paolo I a Tessalonicesi",
+        "abreviacion": "1Ts",
+        "testamento": "Nuovo Testamento",
+        "num_capitulos": 5,
+        "num_versos": 89,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "epistoladispaoloiatessalonicesi",
+                "num_versos": 10,
+                "versos": {
+                    "1": "PAOLO, e Silvano1.1 Silvano Fat. 15.4,40. 2 Cor. 1.19. 2 Tess. 1.1. 1 Piet. 5.12., e Timoteo1.1 Timoteo Fat. 16.1 e rif., alla chiesa de' Tessalonicesi1.1 Tessalonicesi Fat. 17.1 ecc., che è in Dio Padre, e nel Signor Gesù Cristo. Grazia a voi e pace, da Dio nostro Padre, e dal Signor Gesù Cristo1.1 Cristo Rom. 1.7 e rif..",
+                    "2": "NOI rendiamo del continuo grazie a Dio per tutti voi1.2 voi Efes. 1.16 e rif., facendo di voi menzione nelle nostre orazioni;",
+                    "3": "rammemorandoci continuamente l'opera della vostra fede1.3 fede Giov. 6.29. Giac. 2.17,22., e la fatica della vostra carità1.3 carità Ebr. 6.10., e la sofferenza della speranza che voi avete nel Signor nostro Gesù Cristo; nel cospetto di Dio, nostro Padre;",
+                    "4": "sapendo, fratelli amati di Dio, la vostra elezione1.4 elezione 2 Tess. 2.13..",
+                    "5": "Poichè il nostro evangelo non è stato inverso voi in parola solamente, ma ancora in virtù, e in Ispirito Santo, e in molto accertamento1.5 accertamento 1 Cor. 2.4; 4.20.; siccome voi sapete quali siamo stati fra voi per amor vostro.",
+                    "6": "E voi siete stati imitatori nostri, e del Signore1.6 Signore 1 Cor. 11.1 e rif., avendo ricevuta la parola in molta afflizione1.6 afflizione Fat. 17.5-10., con allegrezza dello Spirito Santo1.6 Santo Fat. 5.41; 13.52..",
+                    "7": "Talchè siete stati esempi a tutti i credenti in Macedonia, ed in Acaia.",
+                    "8": "Perciocchè non sol da voi è risonata la parola del Signore nella Macedonia, e nell'Acaia; ma ancora la fede vostra, la quale avete inverso Iddio, è stata divolgata in ogni luogo1.8 luogo Rom. 1.8. 2 Tess. 1.4.; talchè non abbiam bisogno di dirne cosa alcuna.",
+                    "9": "Poichè eglino stessi raccontano di noi, quale entrata noi abbiamo avuta tra voi, e come vi siete convertiti dagl'idoli a Dio, per servire all'Iddio vivente, e vero;",
+                    "10": "e per aspettar da' cieli il suo Figliuolo1.10 Figliuolo Mat. 16.27. Fat. 1.11. Fil. 3.20. Tit. 2.13. Apoc. 1.7., il quale egli ha risuscitato da' morti1.10 morti Fat. 2.24 e rif., cioè Gesù, che ci libera dall'ira a venire1.10 venire Rom. 5.9. 1 Tess. 5.9.."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "epistoladispaoloiatessalonicesi",
+                "num_versos": 20,
+                "versos": {
+                    "1": "PERCIOCCHÈ voi stessi sapete, fratelli, che la nostra entrata fra voi non è stata vana.",
+                    "2": "Anzi, benchè prima avessimo, come sapete, patito, e fossimo stati ingiuriati in Filippi2.2 Filippi Fat. 16.22 ecc., pur ci siamo francamente inanimati nell'Iddio nostro, da annunziarvi l'evangelo di Dio2.2 Dio Fat. 17.1 ecc., con molto combattimento.",
+                    "3": "Poichè la nostra esortazione non procede da inganno, nè da impurità; e non è con frode2.3 frode 2 Cor. 2.17. 2 Piet. 1.16..",
+                    "4": "Anzi, come siamo stati approvati da Dio, per fidarci l'Evangelo2.4 Evangelo Gal. 2.7. 1 Tim. 1.11 ecc.; così parliamo, non come per piacere agli uomini2.4 uomini Gal. 1.10 e rif., ma a Dio che prova i nostri cuori2.4 cuori Prov. 17.3. Rom. 8.27..",
+                    "5": "Perciocchè ancora noi non abbiamo giammai usato parlar lusinghevole, come voi sapete, nè occasione d'avarizia2.5 avarizia Fat. 20.33 e rif.; Iddio ne è testimonio2.5 testimonio Rom. 1.9 e rif..",
+                    "6": "Nè abbiamo cercato gloria dagli uomini2.6 uomini Giov. 5.41,44; 12.43., nè da voi, nè da altri, benchè potessimo usar gravità2.6 gravità 1 Cor. 9.4-6,12-14,18. 2 Cor. 11.9; 12.13,14. 2 Tess. 3.8,9., come apostoli di Cristo.",
+                    "7": "Ma siamo stati mansueti fra voi2.7 voi 1 Cor. 9.22. 2 Tim. 2.24., come una balia, che alleva teneramente i suoi propri figliuoli.",
+                    "8": "In questa maniera, avendovi sommamente cari, eravamo mossi di buona volontà a comunicarvi, non sol l'evangelo di Dio2.8 Dio Rom. 1.11; 15.29., ma ancora le nostre proprie anime2.8 anime 2 Cor. 12.15. Fil. 2.17.; perchè ci eravate diletti.",
+                    "9": "Perciocchè, fratelli, voi vi ricordate della nostra fatica, e travaglio; poichè, lavorando giorno e notte2.9 notte Fat. 18.3 e rif., per non gravare alcun di voi2.9 voi 2 Cor. 12.13,14., abbiam predicato in mezzo a voi l'Evangelo di Dio.",
+                    "10": "Voi siete testimoni, e Dio ancora, come ci siam portati santamente, e giustamente, e senza biasimo2.10 biasimo 2 Cor. 7.2. 2 Tess. 3.7., inverso voi che credete.",
+                    "11": "Siccome voi sapete che, come un padre i suoi figliuoli, noi abbiamo esortato, e consolato ciascun di voi;",
+                    "12": "e protestato che camminiate condegnamente a Dio2.12 Dio Efes. 4.1 e rif., che vi chiama al suo regno e gloria2.12 gloria 2 Tess. 2.14. 2 Tim. 1.9..",
+                    "13": "Perciò ancora, noi non restiamo di render grazie a Dio, di ciò che, avendo ricevuta da noi la parola della predicazione di Dio, voi l'avete raccolta, non come parola d'uomini; ma, siccome è veramente, come parola di Dio2.13 Dio Mat. 10.40 e rif., la quale ancora opera efficacemente in voi che credete.",
+                    "14": "Poichè voi, fratelli, siete divenuti imitatori delle chiese di Dio, che son nella Giudea, in Cristo Gesù; perciocchè ancora voi avete sofferte da quei della vostra nazione le medesime cose ch'essi da' Giudei2.14 Giudei Fat. 17.5 ecc., 13..",
+                    "15": "I quali ed hanno ucciso il Signor Gesù2.15 Gesù Fat. 2.23; 3.15; 5.30; 7.52., e i lor propri profeti2.15 profeti Mat. 5.12; 23.34,37.; e ci hanno scacciati, e non piacciono a Dio, e son contrari a tutti gli uomini2.15 uomini Est. 3.8.;",
+                    "16": "divietandoci di parlare a' Gentili2.16 Gentili Luc. 11.52. Fat. 13.50; 14.19; 17.5,13; 18.12 ecc.; 19.8,9; 22.21,22., acciocchè sieno salvati; affin di colmar sempre la misura de 'lor peccati2.16 peccati Gen. 15.16. Mat. 23.32.; or l'ira è venuta sopra loro fino all'estremo.",
+                    "17": "OR noi, fratelli, orbati di voi per un momento di tempo, di faccia, e non di cuore2.17 cuore Col. 2.5., ci siam vie più studiati di veder la vostra faccia, con molto desiderio2.17 desiderio 1 Tess. 3.10..",
+                    "18": "Perciò, siam voluti, io Paolo almeno, una e due volte, venire a voi; ma Satana ci ha impediti.",
+                    "19": "Perciocchè, quale è la nostra speranza, o allegrezza, o corona di gloria2.19 gloria 2 Cor. 1.14. Fil. 4.1.? non siete dessa ancora voi, nel cospetto del Signor nostro Gesù Cristo, nel suo avvenimento2.19 avvenimento 1 Tess. 3.13; 4.15-17; 5.23. 2 Tess. 2.1,8. Giac. 5.7,8. 2 Piet. 3.4,12-14.?",
+                    "20": "Poichè voi siete la nostra gloria ed allegrezza."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "epistoladispaoloiatessalonicesi",
+                "num_versos": 13,
+                "versos": {
+                    "1": "Perciò, non potendo più sofferire, avemmo a grado d'esser lasciati soli in Atene3.1 Atene Fat. 17.15.;",
+                    "2": "E mandammo Timoteo3.2 Timoteo Fat. 16.1 e rif., nostro fratello, e ministro di Dio, e nostro compagno d'opera nell'evangelo di Cristo, per confermarvi, e confortarvi intorno alla vostra fede.",
+                    "3": "Acciocchè niuno fosse commosso in queste afflizioni3.3 afflizioni Efes. 3.13.; poichè voi stessi sapete che noi siam posti a questo3.3 questo Fat. 9.16; 14.22 e rif..",
+                    "4": "Perciocchè, eziandio quando eravamo fra voi, vi predicevamo, che saremmo afflitti; siccome ancora è avvenuto, e voi il sapete.",
+                    "5": "Perciò ancora, non potendo più sofferire, io lo mandai, per conoscer la fede vostra; che talora il tentatore non vi avesse tentati, e la nostra fatica non fosse riuscita vana.",
+                    "6": "Or al presente, essendo Timoteo venuto da voi a noi3.6 noi Fat. 18.1,5., ed avendoci rapportate liete novelle della vostra fede, e carità; e che voi avete del continuo buona ricordanza di noi, desiderando grandemente di vederci, siccome ancora noi voi;",
+                    "7": "perciò, fratelli, noi siamo stati consolati di voi3.7 voi 2 Cor. 1.4; 7.6,7,13., in tutta la nostra afflizione, e necessità, per la vostra fede.",
+                    "8": "Poichè ora viviamo, se voi state fermi nel Signore.",
+                    "9": "Perciocchè, quali grazie possiam noi render di voi a Dio, per tutta l'allegrezza, della quale ci rallegriamo per voi, nel cospetto dell'Iddio nostro?",
+                    "10": "Pregando intentissimamente, notte e giorno, di poter vedere la vostra faccia, e compier le cose che mancano ancora alla fede vostra3.10 vostra Rom. 1.10,11. 1 Tess. 2.17..",
+                    "11": "Or Iddio stesso, Padre nostro, e il Signor nostro Gesù Cristo, addirizzi il nostro cammino a voi.",
+                    "12": "E il Signore vi accresca, e faccia abbondare in carità gli uni inverso gli altri, e inverso tutti3.12 tutti Gal. 6.10. 1 Tess. 4.9,10; 5.15. 2 Piet. 1.7.; come noi ancora abbondiamo inverso voi;",
+                    "13": "per raffermare i vostri cuori, acciocchè sieno irreprensibili in santità, nel cospetto di Dio, Padre nostro, all'avvenimento del Signor nostro Gesù Cristo3.13 Cristo 1 Cor. 1.8 e rif. 1 Tess. 5.23., con tutti i suoi santi. Amen."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "epistoladispaoloiatessalonicesi",
+                "num_versos": 18,
+                "versos": {
+                    "1": "NEL rimanente adunque, fratelli, noi vi preghiamo, ed esortiamo nel Signore Gesù, che, come avete da noi ricevuto come vi convien camminare4.1 camminare Efes. 4.1 e rif., e piacere a Dio, in ciò vie più abbondiate.",
+                    "2": "Perciocchè voi sapete quali comandamenti vi abbiamo dati per lo Signore Gesù.",
+                    "3": "Poichè questa è la volontà di Dio, cioè: la vostra santificazione4.3 santificazione Rom. 6.22. Efes. 5.27. ver. 7. Ebr. 12.14.; acciocchè vi asteniate dalla fornicazione4.3 fornicazione 1 Cor. 6.15,18 e rif.;",
+                    "4": "e che ciascun di voi sappia possedere il suo vaso in santificazione, ed onore4.4 onore Rom. 6.19.;",
+                    "5": "non in passione di concupiscenza, come i Gentili4.5 Gentili Rom. 1.24,26. Efes. 4.17,18. Col. 3.5., i quali non conoscono Iddio4.5 Iddio Efes. 2.12 e rif..",
+                    "6": "E che niuno oppressi il suo prossimo, nè gli faccia frode negli affari di questa vita4.6 vita Lev. 19.11,13. 1 Cor. 6.8.; perciocchè il Signore è il vendicator di tutte queste cose; siccome ancora vi abbiamo innanzi detto, e protestato.",
+                    "7": "Poichè Iddio non ci ha chiamati ad immondizia, ma a santificazione4.7 santificazione Lev. 11.44; 19.2. ver. 3 e rif..",
+                    "8": "Perciò chi sprezza queste cose non isprezza un uomo, ma Iddio4.8 Iddio Luc. 10.16., il quale ancora ha messo il suo Spirito Santo in noi4.8 noi 1 Cor. 2.10; 7.40..",
+                    "9": "Ora, quant'è all'amor fraterno, voi non avete bisogno ch'io ve ne scriva; perciocchè voi stessi siete insegnati da Dio4.9 Dio Ger. 31.34. Giov. 6.45; 14.26. 1 Giov. 2.20,27. ad amarvi gli uni gli altri4.9 altri Giov. 13.34 e rif..",
+                    "10": "Perciocchè lo stesso fate voi ancora inverso tutti i fratelli, che sono in tutta la Macedonia; or vi esortiamo, fratelli, che in ciò vie più abbondiate.",
+                    "11": "E procacciate studiosamente di vivere in quiete, e di fare i fatti vostri, e di lavorar colle proprie mani4.11 mani Fat. 20.35. Efes. 4.28. 2 Tess. 3.7-12., siccome vi abbiamo ordinato.",
+                    "12": "Acciocchè camminiate onestamente inverso que' di fuori4.12 fuori Rom. 13.13. 1 Piet. 2.12., e non abbiate bisogno di cosa alcuna.",
+                    "13": "ORA, fratelli, noi non vogliamo che siate in ignoranza intorno a quelli che dormono; acciocchè non siate contristati, come gli altri che non hanno speranza4.13 speranza Efes. 2.12..",
+                    "14": "Poichè, se crediamo che Gesù è morto, ed è risuscitato, Iddio ancora addurrà con lui quelli che dormono in Gesù4.14 Gesù 1 Cor. 15.20,23. 2 Cor. 4.14. 1 Tess. 3.13..",
+                    "15": "Perciocchè noi vi diciamo questo per parola del Signore: che noi viventi, che sarem rimasti fino alla venuta del Signore, non andremo innanzi a coloro che dormono4.15 dormono 1 Cor. 15.51..",
+                    "16": "Perciocchè il Signore stesso, con acclamazion di conforto, con voce di arcangelo4.16 arcangelo Mat. 24.30,31 e rif., e con tromba di Dio4.16 Dio 1 Cor. 15.52., discenderà dal cielo; e quelli che son morti in Cristo risusciteranno primieramente4.16 primieramente 1 Cor. 15.23,52..",
+                    "17": "Poi noi viventi, che saremo rimasti, saremo insieme con loro rapiti nelle nuvole4.17 nuvole 1 Cor. 15.51. Apoc. 11.12., a scontrare il Signore nell'aria; e così saremo sempre col Signore4.17 Signore Giov. 12.26; 14.3; 17.24..",
+                    "18": "Consolatevi adunque gli uni gli altri con queste parole."
+                }
+            },
+            {
+                "capitulo": "5",
+                "libro": "epistoladispaoloiatessalonicesi",
+                "num_versos": 28,
+                "versos": {
+                    "1": "Ora, quant'è a' tempi, ed alle stagioni5.1 stagioni Mat. 24.3,36. Fat. 1.7., fratelli, voi non avete bisogno che ve ne sia scritto.",
+                    "2": "Poichè voi stessi sapete molto bene che il giorno del Signore verrà come un ladro di notte5.2 notte Mat. 24.43,44 e rif. Luc. 17.24. Apoc. 3.3; 16.15..",
+                    "3": "Perciocchè, quando diranno: Pace e sicurtà, allora di subito sopraggiungerà loro perdizione5.3 perdizione Is. 13.6-9. Luc. 12.20; 17.26-30; 21.34,35., come i dolori del parto alla donna gravida; e non iscamperanno punto.",
+                    "4": "Ma voi, fratelli, non siete in tenebre, sì che quel giorno vi colga, a guisa di ladro.",
+                    "5": "Voi tutti siete figliuoli di luce5.5 luce Efes. 5.8 e rif., e figliuoli di giorno; noi non siam della notte, nè delle tenebre.",
+                    "6": "Perciò, non dormiamo, come gli altri5.6 altri Mat. 25.5.; ma vegliamo5.6 vegliamo Mat. 24.42; 25.13. Rom. 13.11-13. 1 Piet. 5.8., e siamo sobri.",
+                    "7": "Perciocchè coloro che dormono dormono di notte, e coloro che s'inebbriano s'inebbriano di notte.",
+                    "8": "Ma noi, essendo figliuoli del giorno, siamo sobri, vestiti dell'usbergo della fede, e della carità; e per elmo, della speranza della salute5.8 salute Is. 59.17. Efes. 6.14-17..",
+                    "9": "Poichè Iddio non ci ha posti ad ira5.9 ira Rom. 5.9., ma ad acquisto di salute, per lo Signor nostro Gesù Cristo5.9 Cristo 2 Tess. 2.13,14.;",
+                    "10": "il quale è morto per noi, acciocchè, o che vegliamo, o che dormiamo, viviamo insieme con lui5.10 lui Rom. 14.8,9. 2 Cor. 5.15..",
+                    "11": "Perciò, consolatevi gli uni gli altri, ed edificate l'un l'altro, come ancora fate.",
+                    "12": "ORA, fratelli, non vi preghiamo di riconoscer coloro che fra voi faticano, e che vi son preposti nel Signore, e che vi ammoniscono5.12 ammoniscono 1 Tim. 5.17. Ebr. 13.17.;",
+                    "13": "e d'averli in somma stima in carità, per l'opera loro.",
+                    "14": "Ora, fratelli, noi vi esortiamo che ammoniate i disordinati5.14 disordinati 2 Tess. 3.11,12., confortiate i pusillanimi5.14 pusillanimi Ebr. 12.12., sostentiate i deboli5.14 deboli Rom. 14.1 e rif. Gal. 6.1,2., siate pazienti inverso tutti5.14 tutti Gal. 5.22. Efes. 4.2..",
+                    "15": "Guardate che niuno renda male per male ad alcuno5.15 alcuno Lev. 19.18. Prov. 20.22 e rif.; 24.29.; anzi procacciate sempre il bene, così gli uni inverso gli altri, come inverso tutti5.15 tutti Gal. 6.10. 1 Tess. 3.12..",
+                    "16": "Siate sempre allegri5.16 allegri 2 Cor. 3.10. Fil. 3.1 e rif..",
+                    "17": "Non restate mai d'orare5.17 orare Luc. 18.1 e rif..",
+                    "18": "In ogni cosa rendete grazie5.18 grazie Efes. 5.20. Col. 3.17., perciocchè tale è la volontà di Dio in Cristo Gesù inverso voi.",
+                    "19": "Non ispegnete lo Spirito5.19 Spirito 1 Cor. 14.30. Efes. 4.30. 1 Tim. 4.14. 2 Tim. 1.6..",
+                    "20": "Non isprezzate le profezie5.20 profezie 1 Cor. 14.1,39..",
+                    "21": "Provate ogni cosa5.21 cosa 1 Cor. 2.11,15. 1 Giov. 4.1., ritenete il bene5.21 bene Fil. 4.8..",
+                    "22": "Astenetevi da ogni apparenza di male5.22 male 1 Tess. 4.12..",
+                    "23": "Or l'Iddio della pace vi santifichi egli stesso tutti intieri; e sia conservato intiero il vostro spirito, e l'anima5.23 anima Giob. 12.10., e il corpo, senza biasimo, all'avvenimento del Signor nostro Gesù Cristo5.23 Cristo 1 Cor. 1.7,8 e rif..",
+                    "24": "Fedele5.24 Fedele Deut. 7.9 e rif. è colui che vi chiama, il quale ancora lo farà.",
+                    "25": "Fratelli, pregate per noi5.25 noi Col. 4.2. 2 Tess. 3.1..",
+                    "26": "Salutate tutti i fratelli con un santo bacio5.26 bacio Rom. 16.16 e rif..",
+                    "27": "Io vi scongiuro per lo Signore, che questa epistola sia letta a tutti i santi fratelli5.27 fratelli Col. 4.15..",
+                    "28": "La grazia del Signor nostro Gesù Cristo sia con voi. Amen."
+                }
+            }
+        ]
+    }
+}

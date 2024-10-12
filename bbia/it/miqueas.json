@@ -1,0 +1,165 @@
+{
+    "data": {
+        "libro": "Michea",
+        "abreviacion": "Mic",
+        "testamento": "Antico Testamento",
+        "num_capitulos": 7,
+        "num_versos": 105,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "michea",
+                "num_versos": 16,
+                "versos": {
+                    "1": "LA parola del Signore, che fu indirizzata a Michea Morastita1.1 Morastita Ger. 26.17 ecc., a' dì di Giotam, di Achaz, e di Ezechia, re di Giuda1.1 Giuda Is. 1.1. Am. 1.1 e rif., la quale gli fu rivelata in visione, contro a Samaria, e contro a Gerusalemme.",
+                    "2": "O POPOLI tutti, ascoltate; sii attenta, o terra, con tutto ciò ch'è in te1.2 te Deut. 32.1. Is. 1.2.; e il Signore Iddio sarà testimonio contro a voi; il Signore, dico, dal Tempio della sua santità.",
+                    "3": "Perciocchè, ecco, il Signore esce del suo luogo1.3 luogo Is. 26.21., e scenderà, e camminerà sopra gli alti luoghi della terra.",
+                    "4": "E i monti si struggeranno sotto lui1.4 lui Is. 64.1 ecc. 2 Piet. 3.10-12., e le valli si schianteranno; come la cera si strugge al fuoco, come le acque si spandono per una pendice.",
+                    "5": "Tutto questo avverrà per lo misfatto di Giacobbe, e per li peccati della casa d'Israele. Quale è il misfatto di Giacobbe? non è egli Samaria? E quali sono gli alti luoghi di Giuda? non sono eglino Gerusalemme?",
+                    "6": "Perciò, io ridurrò Samaria in un luogo desolato di campagna da piantar vigne; e verserò le sue pietre nella valle, e scoprirò i suoi fondamenti.",
+                    "7": "E tutte le sue sculture saranno tritate, e tutti i suoi premii di fornicazioni1.7 fornicazioni Os. 2.5,12. saranno arsi col fuoco, ed io metterò in desolazione tutti i suoi idoli; perciocchè ella ha adunate quelle cose di prezzo di meretrice, torneranno altresì ad esser prezzo di meretrice.",
+                    "8": "Perciò, io lamenterò, ed urlerò; io andrò spogliato e nudo; io farò un lamento, gridando come gli sciacalli; e un cordoglio, urlando come l'ulule1.8 ulule Is. 21.3; 22.4 e rif..",
+                    "9": "Perciocchè le piaghe di essa sono insanabili; perciocchè son pervenute fino a Giuda1.9 Giuda 2 Re. 18.13. Is. 8.7,8., son giunte fino alla porta del mio popolo, fino a Gerusalemme.",
+                    "10": "Non l'annunziate in Gat1.10 Gat 2 Sam. 1.20., non piangete punto; io mi son voltolato nella polvere a Bet-Leafra.",
+                    "11": "Passatene, o abitatrice di Safir, con le vergogne nude; l'abitatrice di Saanan non è uscita; la casa di Bet-haesel è piena di lamento; egli ha tolta da voi la sua difesa.",
+                    "12": "Perciocchè l'abitatrice di Marot è dolente per li suoi beni; perciocchè il male è sceso da parte del Signore1.12 Signore Am. 3.6., fino alla porta di Gerusalemme.",
+                    "13": "Metti i corsieri al carro, o abitatrice di Lachis; ella è stata il principio di peccato alla figliuola di Sion; conciossiachè in te si sieno trovati i misfatti d'Israele.",
+                    "14": "Perciò, manda pur presenti1.14 presenti 2 Re. 18.14-16. a Moreset-Gat; le case di Aczib saranno fallaci ai re d'Israele.",
+                    "15": "Ancora ti addurrò un erede, o abitatrice di Maresa; egli perverrà fino ad Adullam, fino alla gloria d'Israele.",
+                    "16": "Dipelati, e tosati1.16 tosati Giob. 1.20 e rif., per li figliuoli delle tue delizie; allarga la tua calvezza, come un'aquila; perciocchè quelli sono stati menati via da te in cattività."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "michea",
+                "num_versos": 13,
+                "versos": {
+                    "1": "Guai a quelli che divisano iniquità, e macchinano del male sopra i lor letti, e lo mettono ad effetto allo schiarir della mattina2.1 mattina Sal. 36.4.; perciocchè ne hanno il potere in mano!",
+                    "2": "Desiderano de' campi, e li rapiscono2.2 rapiscono Is. 5.8.; desiderano delle case, e le tolgono; ed oppressano l'uomo, e la sua casa; e la persona, e la sua eredità.",
+                    "3": "Perciò, così ha detto il Signore: Ecco, io diviso del male contro a questa nazione, dal quale voi non potrete ritrarre il collo; e non camminerete più alteramente; perciocchè sarà un tempo malvagio.",
+                    "4": "In quel giorno gli uni prenderanno a far di voi un proverbio, e gli altri un lamento lamentevole, e diranno: Noi siamo del tutto guasti; egli ha trasportata ad altri la parte del mio popolo; come mi avrebbe egli tolte, ed avrebbe spartite le mie possessioni, per restituirmele?",
+                    "5": "Perciò, tu non avrai alcuno che tiri la cordicella, per far delle parti a sorte, nella raunanza del Signore.",
+                    "6": "Non profetizzate2.6 profetizzate Is. 30.10,11 e rif.; pure profetizzeranno; non profetizzeranno a costoro2.6 costoro Ezec. 3.26. Am. 8.11 e rif.; e non riceveranno vituperio.",
+                    "7": "È questo da dirsi, o casa di Giacobbe? è lo Spirito del Signore raccorciato? son queste le sue opere? non son le mie parole buone inverso chi cammina dirittamente?",
+                    "8": "Oltre a ciò, per addietro il mio popolo si levava contro al nemico; ma ora, voi, stando agli agguati contro ai vestimenti, spogliate del loro ammanto i passanti che se ne stanno in sicurtà, essendo in riposo della guerra.",
+                    "9": "Voi scacciate le donne del mio popolo2.9 popolo 2 Cron. 28.8. fuor delle case delle lor delizie, voi togliete in perpetuo la mia gloria d'in su i lor piccoli figliuoli.",
+                    "10": "Levatevi, e camminate; perciocchè questo non è il luogo del riposo2.10 riposo Deut. 12.9. Ebr. 13.14.; conciossiachè sia contaminato2.10 contaminato Ger. 3.2., egli vi dissiperà, ed anche d'una dissipazione violenta.",
+                    "11": "Se vi è alcuno che proceda per ispirazioni, e menta falsamente, dicendo: Io ti profetizzerò di vino, e di cervogia; colui è il profeta di questo popolo2.11 popolo Ezec. 13.3. Os. 9.7..",
+                    "12": "Per certo, io ti raccoglierò, o Giacobbe, tutto quanto2.12 quanto Ger. 31.10 e rif. Mic. 4.6,7.; per certo io radunerò il rimanente d'Israele; io lo metterò insieme, come pecore di Bosra, come una greggia in mezzo della sua mandra; vi sarà una gran calca per la moltitudine degli uomini.",
+                    "13": "Lo sforzatore salirà davanti a loro; essi sforzeranno gli ostacoli, e passeranno; sforzeranno la porta, ed usciranno per essa; e il lor re passerà davanti a loro2.13 loro Is. 52.12., e il Signore sarà in capo di essi."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "michea",
+                "num_versos": 12,
+                "versos": {
+                    "1": "OR io ho detto: Deh! ascoltate, capi di Giacobbe, e voi conduttori della casa d'Israele: Non vi si appartiene egli di conoscer la dirittura3.1 dirittura Ger. 5.4,5.?",
+                    "2": "Essi odiano il bene, ed amano il male; scorticano il mio popolo, e gli strappano la carne d'in su le ossa.",
+                    "3": "E ciò che mangiano è la carne del mio popolo3.3 popolo Sal. 14.4. Ezec. 34.3., e gli traggono la pelle d'addosso, e gli fiaccano le ossa; e tagliano quella a pezzi, come per metterla in una pignatta; ed a guisa di carne, che si mette in mezzo d'una pentola.",
+                    "4": "Allora grideranno al Signore, ma egli non risponderà loro3.4 loro Prov. 1.28. Is. 1.15 e rif.; anzi, in quel tempo egli nasconderà la sua faccia da loro, secondo che hanno malvagiamente operato.",
+                    "5": "Così ha detto il Signore contro a' profeti, che traviano il mio popolo; che predicando pace3.5 pace Ger. 6.14 e rif., mordono co' lor denti3.5 denti Mic. 2.11. Mat. 7.15.; e se alcuno non dà loro nulla in bocca3.5 bocca Ezec. 13.18,19., bandiscono contro a lui la guerra;",
+                    "6": "perciò, ei vi si farà notte e non vedrete più alcuna visione3.6 visione Am. 8.9 e rif.; e vi si farà scuro, e non potrete più indovinare; e il sole tramonterà a questi profeti, e il giorno scurerà loro.",
+                    "7": "E i vedenti saranno svergognati, e gl'indovini confusi; e tutti quanti si veleranno il labbro di sopra3.7 sopra Lev. 13.45.; perciocchè non vi sarà risposta alcuna di Dio.",
+                    "8": "Ma quant'è a me, io son ripieno di forza, per lo Spirito del Signore; e di dirittura, e di prodezza, per dichiarare a Giacobbe il suo misfatto, e ad Israele il suo peccato3.8 peccato Is. 58.1..",
+                    "9": "Deh! udite questo, capi della casa di Giacobbe, e rettori della casa d'Israele, che abbominate la ragione, e pervertite ogni dirittura;",
+                    "10": "che edificate Sion di sangue, e Gerusalemme d'iniquità3.10 iniquità Ger. 22.13. Ezec. 22.27.:",
+                    "11": "I capi d'essa giudicano per presenti3.11 presenti Is. 1.23. Ezec. 22.12., e i suoi sacerdoti insegnano per prezzo, e i suoi profeti indovinano per danari; e pure ancora si appoggiano in sul Signore, dicendo: Non è il Signore nel mezzo di noi? male alcuno non ci sopraggiungerà3.11 sporaggiungerà Is. 48.2 e rif. Ger. 7.4..",
+                    "12": "Perciò, per cagion vostra Sion sarà arata come un campo, e Gerusalemme sarà ridotta in mucchi di ruine3.12 ruine Sal. 79.1. Ger. 26.18., e il monte del tempio in alti luoghi di selva."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "michea",
+                "num_versos": 13,
+                "versos": {
+                    "1": "MA egli avverrà negli ultimi tempi che il monte della Casa del Signore sarà fermato in su la sommità dei monti, e sarà alzato sopra i colli; e i popoli accorreranno ad esso4.1 esso Is. 2.2 ecc. e rif..",
+                    "2": "E molte genti andranno, e diranno: Venite, e saliamo al monte del Signore, ed alla Casa dell'Iddio di Giacobbe; ed egli ci ammaestrerà nelle sue vie, e noi cammineremo ne' suoi sentieri; perciocchè la Legge uscirà di Sion, e la parola del Signore di Gerusalemme.",
+                    "3": "Ed egli farà giudicio fra molti popoli, e castigherà nazioni possenti, fin ben lontano; e quelle delle loro spade fabbricheranno zappe, e delle lor lance falci; l'una nazione non leverà più la spada contro all'altra, e non impareranno più la guerra.",
+                    "4": "Anzi sederanno ciascuno sotto alla sua vite, e sotto al suo fico4.4 fico 1 Re. 4.25.; e non vi sarà alcuno che li spaventi; perciocchè la bocca del Signor degli eserciti ha parlato.",
+                    "5": "Poichè tutti i popoli camminano ciascuno nel nome dell'iddio suo, noi ancora cammineremo nel Nome del Signore Iddio nostro, in sempiterno.",
+                    "6": "In quel giorno, dice il Signore, io raccoglierò le pecore zoppe4.6 zoppe Ezec. 34.16 e rif. Sof. 3.19., e ricetterò le scacciate4.6 scacciate Sal. 147.2 e rif., e quelle che io avea afflitte;",
+                    "7": "e farò che le zoppe saranno per un riserbo, e che le allontanate diverranno una possente nazione; e il Signore regnerà sopra loro nel monte di Sion; da quell'ora fino in sempiterno4.7 sempiterno Sal. 2.6. Is. 9.5,6 e rif..",
+                    "8": "E tu, torre della mandra, rocca della figliuola di Sion, quelle verranno a te; verrà parimente a te la dominazione antica, il regno della figliuola di Gerusalemme.",
+                    "9": "Ora, perchè dài tu di gran gridi? vi è egli alcun re in te? i tuoi consiglieri sono eglino periti, che dolore ti ha colta, come la donna che partorisce?",
+                    "10": "Senti pur doglie, e premiti, figliuola di Sion, come la donna che partorisce; perciocchè ora uscirai della città, ed abiterai per li campi, e perverrai fino in Babilonia4.10 Babilonia Is. 39.6,7.; ma quivi sarai riscossa, quivi ti riscatterà il Signore di man de' tuoi nemici.",
+                    "11": "Or al presente molte nazioni si son radunate contro a te, le quali dicono: Sia profanata; e vegga l'occhio nostro in Sion ciò che desidera.",
+                    "12": "Ma esse non conoscono i pensieri del Signore4.12 Signore Is. 55.8 e rif. Rom. 11.33., e non intendono il suo consiglio; conciossiachè egli le abbia raccolte, a guisa di mannelle nell'aia.",
+                    "13": "Levati, e trebbia, figliuola di Sion4.13 Sion Is. 41.15,16. Dan. 2.44.; perciocchè io renderò di ferro il tuo corno, e di rame le tue unghie, e tu stritolerai molti popoli; ed io consacrerò, a guisa d'interdetto, il lor guadagno al Signore4.13 Signore Is. 18.7; 23.18; 60.6,9., e le lor facoltà al Signore di tutta le terra."
+                }
+            },
+            {
+                "capitulo": "5",
+                "libro": "michea",
+                "num_versos": 15,
+                "versos": {
+                    "1": "Radunati ora a schiere, figliuola di scherani; l'assedio è stato posto contro a noi; il rettore d'Israele è stato percosso con una bacchetta in su la guancia5.1 guancia Lam. 3.30. Mat. 5.39; 27.30..",
+                    "2": "MA di te, o Betlehem Efrata5.2 Efrata Mat. 2.4 ecc. Giov. 7.42., benchè tu sii il minimo de' migliai di Giuda, mi uscirà colui che sarà il Signore in Israele5.2 Israele Gen. 49.10. Is. 9.6 e rif.; le cui uscite sono ab antico, da' tempi eterni5.2 eterni Sal. 90.2. Prov. 8.22,23. Giov. 1.1..",
+                    "3": "Perciò, egli li darà in man de' lor nemici, fino al tempo che colei che ha da partorire, abbia partorito; allora il rimanente dei suoi fratelli ritornerà a' figliuoli d'Israele.",
+                    "4": "E colui starà ritto, e li pasturerà nella forza del Signore5.4 Signore Ezec. 34.23 e rif., nell'altezza del Nome del Signore Iddio suo; ed essi giaceranno; perciocchè ora egli si farà grande fino agli estremi termini della terra5.4 terra Is. 52.13; 53.12. Zac. 9.10. Luc. 1.32,33..",
+                    "5": "E costui sarà la pace5.5 pace Is. 9.5,6 e rif.; quando l'Assiro entrerà nel nostro paese5.5 paese Is. 36.1 ecc., e quando metterà il piè ne' nostri palazzi, noi ordineremo contro a lui sette pastori, e otto principi d'infra il comun degli uomini.",
+                    "6": "Ed essi deserteranno il paese degli Assiri con la spada, e il paese di Nimrod con le sue proprie coltella; ed egli ci riscoterà dagli Assiri5.6 Assiri Luc. 1.71., quando saranno entrati nel nostro paese, ed avranno messo il piè ne' nostri confini.",
+                    "7": "E il rimanente di Giacobbe sarà, in mezzo di molti popoli, come la rugiada mandata dal Signore, come pioggia minuta sopra l'erba, che non aspetta l'uomo, e non ispera ne' figliuoli degli uomini.",
+                    "8": "Il rimanente di Giacobbe sarà eziandio fra le genti, in mezzo di molti popoli, come un leone fra il bestiame delle selve; come un leoncello fra le mandre delle pecore; il quale, se passa in alcun luogo, calpesta e lacera; e non vi è alcuno che possa riscuotere.",
+                    "9": "La tua mano sarà alzata sopra i tuoi avversari, e tutti i tuoi nemici saranno sterminati.",
+                    "10": "Ed avverrà in quel giorno, dice il Signore, che io distruggerò i tuoi cavalli del mezzo di te, e farò perire i tuoi carri;",
+                    "11": "e distruggerò le città del tuo paese, e manderò in ruina tutte le tue fortezze.",
+                    "12": "Sterminerò eziandio di man tua gl'incantesimi, e tu non avrai più alcuni pronosticatori.",
+                    "13": "E distruggerò del mezzo di te le tue sculture, e le tue statue; e tu non adorerai più l'opera delle tue mani.",
+                    "14": "E stirperò i tuoi boschi del mezzo di te, e disfarò le tue città.",
+                    "15": "E farò vendetta, con ira, e con cruccio, sopra le genti che non avranno ascoltato."
+                }
+            },
+            {
+                "capitulo": "6",
+                "libro": "michea",
+                "num_versos": 16,
+                "versos": {
+                    "1": "DEH! ascoltate ciò che dice il Signore: Levati, litiga appo i monti, e odano i colli la tua voce.",
+                    "2": "Udite, o monti, e voi saldi fondamenti della terra, la lite del Signore; perciocchè il Signore ha una lite col suo popolo, e vuol contendere con Israele6.2 Israele Os. 4.1 e rif..",
+                    "3": "O popol mio, che t'ho io fatto6.3 fatto Ger. 2.5 e rif.? e in che t'ho io travagliato? testimonia pur contro a me.",
+                    "4": "Conciossiachè io t'abbia tratto fuor del paese di Egitto, e riscosso della casa di servitù6.4 servitù Esod. 12.51; 14.30; 20.2.; ed abbia mandati davanti a te Mosè, Aaronne, e Maria.",
+                    "5": "Deh! popol mio, ricordati qual consiglio prese Balac, re di Moab; e qual risposta gli diede Balaam, figliuolo di Beor6.5 Beor Num. 22.5 ecc.; 23.7 ecc.; di ciò che ti avvenne da Sittim fino in Ghilgal6.5 Ghilgal Num. 25.1. Gios. 4.19.; acciocchè tu riconosca le giustizie del Signore.",
+                    "6": "Con che verrò io davanti al Signore? con che m'inchinerò io all'Iddio altissimo6.6 altissimo Is. 57.15.? gli verrò io davanti con olocausti, con vitelli di un anno?",
+                    "7": "Il Signore avrà egli a grado le migliaia de' montoni, le decine delle migliaia delle bestie delle valli grasse6.7 grasse 2 Sam. 15.22 e rif.? darò il mio primogenito per lo mio misfatto6.7 misfatto 2 Re. 16.3 e rif.; 21.6 e rif.? il frutto del mio ventre per lo peccato dell'anima mia?",
+                    "8": "O uomo, egli ti ha dichiarato ciò ch'è buono; e che richiede il Signore da te6.8 te Deut. 10.12 e rif., se non che tu faccia ciò che è diritto, e ami benignità, e cammini in umiltà col tuo Dio6.8 Dio Is. 1.17 e rif.?",
+                    "9": "La voce del Signore grida alla città (e colui ch'è savio temerà il tuo Nome): Ascoltate la verga6.9 verga Is. 10.5., e colui che l'ha fatta venire.",
+                    "10": "Non vi son eglino ancora nella casa dell'empio de' tesori d'empietà, e l'efa scarso, che è cosa abbominevole6.10 abbominevole Prov. 11.1 e rif. Os. 12.8 e rif.?",
+                    "11": "Sarei io innocente, avendo bilance false, ed un sacchetto di pesi ingannevoli?",
+                    "12": "Perciocchè i ricchi di essa son ripieni di violenza6.12 violenza Abac. 1.2,3., e i suoi abitanti ragionano falsità, e la lor lingua non è altro che frode nella lor bocca6.12 bocca Ger. 9.3,5,6,8..",
+                    "13": "Perciò, io altresì ti renderò dolente, percotendoti, e desolandoti per li tuoi peccati.",
+                    "14": "Tu mangerai, e non sarai saziato6.14 saziato Lev. 26.16,26. Os. 4.10.; e il tuo abbassamento sarà dentro di te; tu darai di piglio, ma non salverai; e ciò che tu avrai salvato io lo darò alla spada.",
+                    "15": "Tu seminerai, e non mieterai6.15 meiterai Deut. 28.18-40 e rif.; tu pesterai le ulive, e non ti ungerai dell'olio; e il mosto, e non berrai il vino.",
+                    "16": "Oltre a ciò, gli statuti di Omri, e tutte le opere della casa di Achab6.16 Achab 1 Re. 16.25,26,30; 21.25,26., sono state osservate6.16 osservate Os. 5.11.; e voi siete camminati ne'lor consigli; acciocchè io vi metta in desolazione, e gli abitanti di Gerusalemme in zufolo; e acciocchè voi portiate il vituperio del mio popolo."
+                }
+            },
+            {
+                "capitulo": "7",
+                "libro": "michea",
+                "num_versos": 20,
+                "versos": {
+                    "1": "AHI lasso me! perciocchè io son divenuto come quando si son fatte le ricolte de' frutti della state; come quando si è racimolato dopo la vendemmia; non vi è più grappolo da mangiare; l'anima mia ha desiderato un frutto primaticcio.",
+                    "2": "L'uomo pio è venuto meno in terra, e non vi è più alcun uomo diritto fra gli uomini7.2 uomini Sal. 12.1; 14.1,3. Is. 57.1.; tutti quanti insidiano al sangue, ognuno caccia con la rete al suo fratello.",
+                    "3": "Ambe le mani sono intente a far male a più potere; il principe chiede7.3 chiede Os. 4.18 e rif., e il giudice giudica per ricompensa7.3 ricompensa Is. 1.23. Mic. 3.11 e rif., e il grande pronunzia la perversità dell'anima sua, ed essi l'intrecciano.",
+                    "4": "Il miglior di loro è come una spina7.4 spina 2 Sam. 23.6,7. Ezec. 2.6., il più diritto è peggior che una siepe; il giorno delle tue guardie, la tua punizione è venuta; ora sarà la lor perplessità.",
+                    "5": "Non credete al famigliare amico7.5 amico Ger. 9.4 e rif., non vi confidate nel conduttore; guarda gli usci della tua bocca da colei che ti giace in seno.",
+                    "6": "Perciocchè il figliuolo villaneggia il padre, la figliuola si leva contro alla madre7.6 madre Ezec. 22.7. 2 Tim. 3.2,3., e la nuora contro alla suocera; i famigliari di ciascuno sono i suoi nemici7.6 nemici Mat. 10.21,34-36. Luc. 12.51-53..",
+                    "7": "Ma io starò alla veletta, riguardando al Signore7.7 Signore Is. 8.17 e rif.; io aspetterò l'Iddio della mia salute; l'Iddio mio mi esaudirà.",
+                    "8": "Non rallegrarti di me, nemica mia; se son caduta, io mi rileverò7.8 rileverò Sal. 37.24. Prov. 24.16.; se seggo nelle tenebre, il Signore mi sarà luce7.8 luce Sal. 27.1; 112.4..",
+                    "9": "Io porterò l'indegnazione del Signore7.9 Signore Ger. 10.19. Lam. 3.39.; perciocchè io ho peccato contro a lui, finchè egli dibatta la mia lite, e mi faccia ragione, e mi tragga fuori alla luce; finchè io vegga la sua giustizia7.9 giustizia Sal. 37.6..",
+                    "10": "Allora la mia nemica lo vedrà, e vergogna la coprirà; essa che mi diceva: Dov'è il Signore Iddio tuo7.10 tuo Sal. 42.3,10; 79.10.? gli occhi miei vedranno in lei ciò che desiderano; ora sarà ridotta ad esser calpestata, come il fango delle strade.",
+                    "11": "Nel giorno stesso che le tue chiusure saranno riedificate, l'editto si allontanerà7.11 allontanerà Am. 9.11 ecc..",
+                    "12": "In quel tempo si verrà a te fin dall'Assiria; e dalle città del paese della fortezza; e dal paese della fortezza fino al fiume7.12 fiume Is. 11.16. Os. 11.11., e da un mare fino all'altro, e da un monte fino all'altro.",
+                    "13": "Ma pure il paese sarà messo in desolazione, per cagion de' suoi abitanti, per lo frutto de' lor fatti.",
+                    "14": "Pastura il tuo popolo con la tua verga; la greggia della tua eredità, che se ne sta solitaria nelle selve, in mezzo di Carmel; pasturi ella in Basan, ed in Galaad, come a' dì antichi.",
+                    "15": "Io le farò veder cose maravigliose, come a' dì che tu uscisti del paese di Egitto.",
+                    "16": "Le genti vedranno queste cose, e saranno svergognate di tutta la lor potenza; si metteranno la mano in su la bocca, le loro orecchie saranno assordate.",
+                    "17": "Leccheranno la polvere, come la biscia, come i rettili della terra; tremeranno da' lor ricetti, e si verranno ad arrendere al Signore Iddio nostro, con ispavento; e temeranno di te.",
+                    "18": "Chi è l'Iddio pari a te7.18 te Esod. 15.11 e rif., che perdoni l'iniquità, e passi di sopra al misfatto7.18 misfatto Esod. 34.6,7 e rif. del rimanente della tua eredità? egli non ritiene in perpetuo l'ira sua7.18 sua Sal. 103.9,10 e rif.; perciocchè egli prende piacere in benignità.",
+                    "19": "Egli avrà di nuovo pietà di noi, egli metterà le nostre iniquità sotto i piedi, e getterà nel fondo del mare tutti i nostri peccati.",
+                    "20": "Tu atterrai a Giacobbe la verità, e ad Abrahamo la benignità, la quale tu giurasti a' nostri padri già anticamente7.20 anticamente Sal. 105.8 ecc. e rif. Luc. 1.72,73.."
+                }
+            }
+        ]
+    }
+}

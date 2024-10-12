@@ -1,0 +1,88 @@
+{
+    "data": {
+        "libro": "Abacuc",
+        "abreviacion": "Ab",
+        "testamento": "Antico Testamento",
+        "num_capitulos": 3,
+        "num_versos": 56,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "abacuc",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Il carico che il profeta Abacuc vide.",
+                    "2": "INFINO a quando1.2 quando Ger. 9.1-6., o Signore, griderò io, e tu non mi esaudirai? infino a quando sclamerò a te: Violenza1.2 Violenza Mic. 6.12.! e tu non salverai?",
+                    "3": "Perchè mi fai tu veder l'iniquità, e mi fai spettatore della perversità? e perchè vi è davanti a me rapina, e violenza? e vi è chi muove lite, e contesa?",
+                    "4": "Perciò, la legge è indebolita, e il giudicio non esce giammai fuori; perciocchè l'empio intornia il giusto1.4 giusto Sal. 94.3 ecc. Ger. 12.1.; perciò esce il giudicio tutto storto.",
+                    "5": "Vedete fra le genti, e riguardate, e maravigliatevi, e siate stupefatti; perciocchè io fo un'opera a' dì vostri, la quale voi non crederete, quando sarà raccontata1.5 raccontata Fat. 13.41..",
+                    "6": "Perciocchè ecco, io fo muovere i Caldei1.6 Caldei Is. 23.13., quell'aspra e furiosa nazione1.6 nazione Deut. 28.49,50 e rif., che cammina per tutta la larghezza della terra, per impodestarsi di stanze che non son sue1.6 sue Abac. 2.5,6..",
+                    "7": "Ella è fiera, e spaventevole; la sua ragione, e la sua altezza procede da lei stessa.",
+                    "8": "E i suoi cavalli saran più leggieri che pardi, e più rapaci che lupi in sul vespro; e i suoi cavalieri si spanderanno; e, venendo di lontano, voleranno, a guisa d'aquila che si affretta al pasto.",
+                    "9": "Ella verrà tutta per rapire; lo scontro delle lor facce sarà come un vento orientale; ed ella accoglierà prigioni a guisa di rena.",
+                    "10": "E si farà beffe dei re, ed i principi le saranno in derisione; si riderà d'ogni fortezza1.10 fortezza Na. 3.12., e farà de' terrati, e la prenderà.",
+                    "11": "Ma allora il vento si muterà, ed essa trapasserà, e sarà distrutta. Questa sarà la forza che le sarà data dal suo dio.",
+                    "12": "Non sei tu ab eterno1.12 eterno Sal. 90.2; 93.2., o Signore Iddio mio, Santo mio? noi non morremo1.12 morremo Sal. 118.17,18.. O Signore, tu l'hai posta per far giudicio; e tu, o Rocca, l'hai fondata per castigare1.12 castigare Is. 10.5 ecc..",
+                    "13": "Tu hai gli occhi troppo puri per vedere il male1.13 male Sal. 5.5,6; 66.18., e non puoi riguardare l'iniquità; perchè dunque riguardi i disleali? perchè taci, mentre l'empio tranghiottisce colui che è più giusto di lui1.13 lui Ger. 12.1 e rif.?",
+                    "14": "E perchè hai renduti gli uomini simili a' pesci del mare, a' rettili che non hanno signore?",
+                    "15": "Egli li ha tutti tratti fuori con l'amo1.15 amo Ger. 16.16. Am. 4.2., egli li ha accolti nel suo giacchio, e li ha radunati nella sua rete: Perciò, egli si rallegra, e trionfa.",
+                    "16": "Perciò, sacrifica al suo giacchio, e fa profumo alla sua rete1.16 rete Deut. 8.17. Is. 10.13.; perciocchè per essi la sua parte è grassa, e la sua vivanda opima.",
+                    "17": "Voterà egli perciò il suo giacchio, e non resterà egli giammai di uccider le genti del continuo?"
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "abacuc",
+                "num_versos": 20,
+                "versos": {
+                    "1": "IO me ne stava nella mia vedetta, e mi teneva in piè nella fortezza, e considerava, per veder ciò che il Signore mi direbbe2.1 direbbe Sal. 85.8. Is. 21.6-12., e ciò che io potrei rispondere a quello che mi sarebbe opposto.",
+                    "2": "E il Signore mi rispose, e disse: Scrivi la visione, e distendila chiaramente sopra delle tavole2.2 tavole Is. 8.1; 30.8. Apoc. 1.19.; acciocchè si possa leggere speditamente.",
+                    "3": "Perciocchè vi è ancora visione fino ad un certo tempo2.3 tempo Dan. 10.14 e rif., e il Signore parlerà ancora delle cose che avverranno alla fine, e non mentirà; se tarda, aspettalo2.3 aspettalo Is. 8.17. Sof. 3.8., perciocchè egli per certo verrà2.3 verrà Ebr. 10.37. 2 Piet. 3.9., e non indugerà.",
+                    "4": "Ecco, l'anima di colui che si sottrae non è diritta in lui; ma il giusto viverà per la sua fede2.4 fede Giov. 3.36. Rom. 1.17. Gal. 3.11. Ebr. 10.38..",
+                    "5": "E inoltre, il vino è perfido2.5 perfido Dan. 5.1-4,30,31.; e l'uomo superbo non sussisterà; perciocchè egli ha allargata l'anima sua, a guisa del sepolcro2.5 sepolcro Prov. 27.20; 30.16. Is. 5.14.; ed e stato come la morte, e non si è saziato, ed ha accolte a sè tutte le genti, ed ha radunati a sè tutti i popoli2.5 popoli Dan. 2.37,38. Abac. 1.6..",
+                    "6": "Tutti questi popoli non prenderanno essi a proverbiarlo, ed a motteggiarlo, e a dire: Guai a chi accumula ciò che non è suo? infino a quando si ammasserà egli addosso dello spesso fango?",
+                    "7": "Non si leveranno eglino di subito di quelli che ti morderanno2.7 morderanno Prov. 6.15. Is. 21.5-9.? e non si desteranno eglino di quelli che ti scrolleranno, ed a cui tu sarai in preda?",
+                    "8": "Perciocchè tu hai spogliate molte genti, tutto il rimanente de' popoli ti spoglierà2.8 spoglierà Is. 33.1. Abd. 15 e rif.; per gli omicidii degli uomini, e per la violenza fatto alla terra, alle città, ed a tutti i loro abitanti.",
+                    "9": "Guai a colui che è acceso di malvagia cupidigia per la sua casa2.9 casa Ger. 22.13 e rif., per mettere il suo nido in luogo alto, per iscampar dal male!",
+                    "10": "Tu hai preso un consiglio che sarà di confusione alla tua casa: di tagliare a pezzi molti popoli; ed hai peccato contro all'anima tua2.10 tua Prov. 8.36..",
+                    "11": "Perciocchè la pietra griderà dalla parete2.11 parete Luc. 19.40., e il mattone testimonierà di ciò d'infra il legname.",
+                    "12": "Guai a colui che edifica la città con sangue, e che la fonda con iniquità!",
+                    "13": "Ecco, questo non procede egli dal Signor degli eserciti, che i popoli si sieno faticati per lo fuoco2.13 fuoco Ger. 51.58., e le nazioni si sieno stancate intorno ad un lavoro che dovea esser ridotto al niente?",
+                    "14": "Conciossiachè la terra abbia da esser ripiena della gloria del Signore, siccome le acque coprono il fondo del mare2.14 mare Is. 11.9.; acciocchè quella sia riconosciuta.",
+                    "15": "Guai a colui che dà bere a' suoi compagni! guai a te, che versi loro il tuo veleno e li innebbrii, per riguardare le lor vergogne!",
+                    "16": "Tu sarai saziato di vituperio, e spogliato di gloria; bevi ancora tu2.16 tu Ger. 25.15-17,26,27; 51.57., e scopri le tue vergogne; la coppa della destra del Signore si rivolgerà a te, e vi sarà vomito vituperoso sopra il seggio della tua gloria.",
+                    "17": "Perciocchè la violenza usata contro al Libano ti coprirà, e il guasto fatto dalle bestie ti spaventerà; per cagione del sangue degli uomini, e della violenza usata contro alla terra, alle città, ed a tutti i loro abitanti.",
+                    "18": "Che giova la scultura2.18 scultura Is. 44.9,10 e rif., perchè il suo formatore la scolpisca? che giova la statua di getto, e il dottor di menzogna, perchè l'artefice si confidi nel suo lavoro, facendo degl'idoli mutoli?",
+                    "19": "Guai a colui che dice al legno: Risvegliati! ed alla pietra mutola: Destati! potrebbe quella insegnar cosa alcuna? Ecco, ella è coperta d'oro, e d'argento; e non vi è dentro di lei spirito alcuno.",
+                    "20": "Ma il Signore è nel Tempio della sua santità2.20 santità Sal. 11.4 e rif.; fa' silenzio per la sua presenza, o terra tutta2.20 tutta Sof. 1.7. Zac. 2.13.."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "abacuc",
+                "num_versos": 19,
+                "versos": {
+                    "1": "L'orazione del profeta Abacuc, sopra Sighionot.",
+                    "2": "O SIGNORE, io ho udito ciò che tu mi hai fatto udire3.2 udire Abac. 1.5-11; 2.2-4.;",
+                    "3": "Iddio venne già di Teman;",
+                    "4": "Ed egi avea intorno a sè uno splendore simile al sole,",
+                    "5": "Davanti a lui camminava la pestilenza3.5 pestilenza Esod. 12.29,30. Num. 11.33; 14.37.,",
+                    "6": "Egli si fermò, e misurò la terra;",
+                    "7": "Io ho veduto che le tende di Cusan,",
+                    "8": "Il Signore s'era egli adirato contro a' fiumi?",
+                    "9": "Il tuo arco fu tratto fuori,",
+                    "10": "I monti ti videro, e tremarono3.10 tremarono Esod. 19.16,18. Giud. 5.4,5.;",
+                    "11": "Il sole e la luna si fermarono nel loro abitacolo3.11 abitacolo Gios. 10.12 ecc.;",
+                    "12": "Tu camminasti sopra la terra con indegnazione,",
+                    "13": "Tu uscisti fuori in salute del tuo popolo,",
+                    "14": "Tu trafiggesti, co' suoi dardi stessi, il capo delle villate di esso;",
+                    "15": "Tu camminasti co' tuoi cavalli sopra il mare,",
+                    "16": "Or io ho udito, e le mie viscere si sono commosse,",
+                    "17": "Perciocchè il fico non germoglierà,",
+                    "18": "Ma pure, io trionferò nel Signore,",
+                    "19": "Il Signore Iddio mio è la mia forza3.19 forza Sal. 27.1 e rif.,"
+                }
+            }
+        ]
+    }
+}

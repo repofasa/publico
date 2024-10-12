@@ -1,0 +1,122 @@
+{
+    "data": {
+        "libro": "Epistola di S Paolo II a Timoteo",
+        "abreviacion": "2Tm",
+        "testamento": "Nuovo Testamento",
+        "num_capitulos": 4,
+        "num_versos": 83,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "epistoladispaoloiiatimoteo",
+                "num_versos": 18,
+                "versos": {
+                    "1": "PAOLO, apostolo1.1 apostolo 1 Cor. 1.1 e rif. di Gesù Cristo, per la volontà di Dio, secondo la promessa della vita, che è in Cristo Gesù,",
+                    "2": "a Timoteo1.2 Timoteo 1 Tim. 1.2 e rif., figliuol diletto, grazia, misericordia, e pace, da Dio Padre, e dal Signor nostro Cristo Gesù.",
+                    "3": "IO rendo grazie a Dio1.3 Dio Rom. 1.8 e rif., al qual servo fin da' miei antenati, in pura coscienza1.3 coscienza Fat. 23.1 e rif.; che non resto mai di ritener la memoria di te nelle mie orazioni, notte e giorno;",
+                    "4": "desideroso di vederti1.4 vederti 2 Tim. 4.9,21., ricordandomi delle tue lagrime, acciocchè io sia ripieno d'allegrezza;",
+                    "5": "riducendomi a memoria la fede non finta che è in te, la qual prima abitò in Loide tua avola, ed in Eunice tua madre1.5 madre Fat. 16.1.; or son persuaso che abita in te ancora.",
+                    "6": "Per la qual cagione io ti rammemoro che tu ravvivi il dono il Dio1.6 Dio 1 Tess. 5.19. 1 Tim. 4.14., il quale è in te per l'imposizione delle mie mani.",
+                    "7": "Poichè Iddio non ci ha dato spirito di timore1.7 timore Rom. 8.15 e rif.; ma di forza, e d'amore, e di correzione.",
+                    "8": "Non recarti adunque a vergogna la testimonianza del Signor nostro1.8 nostro Mar. 8.38. Rom. 1.16 e rif., nè me suo prigione1.8 prigione Efes. 3.1 e rif. ver. 16.; anzi partecipa le afflizioni dell'evangelo1.8 evangelo 2 Tim. 2.3; 4.5., secondo la virtù di Dio.",
+                    "9": "Il qual ci ha salvati, e ci ha chiamati per santa vocazione; non secondo le nostre opere1.9 opere Rom. 3.20. Tit. 3.5., ma secondo il proprio proponimento, e grazia1.9 grazia Rom. 8.28 e rif., la quale ci è stata data in Cristo Gesù avanti i tempi de' secoli1.9 secoli Rom. 16.25. Efes. 1.4 e rif..",
+                    "10": "Ed ora è stata manifestata per l'apparizione del Salvator nostro Gesù Cristo1.10 Cristo Col. 1.26. 1 Piet. 1.20., che ha distrutta la morte1.10 morte 1 Cor. 15.54,55. Ebr. 2.14., ed ha prodotta in luce la vita, e l'immortalità, per l'evangelo.",
+                    "11": "A che io sono stato posto banditore, ed apostolo, e dottor de' Gentili1.11 Gentili Fat. 9.15 e rif..",
+                    "12": "Per la qual cagione ancora io soffro queste cose1.12 cose Efes. 3.1 e rif.; ma non me ne vergogno; perciocchè io so a cui ho creduto1.12 creduto 1 Piet. 4.19., e son persuaso ch'egli è potente da guardare il mio deposito1.12 deposito 1 Tim. 6.20 e rif. per quel giorno1.12 giorno 2 Tim. 4.8..",
+                    "13": "Ritieni la forma delle sane parole1.13 parole 2 Tim. 3.14. Tit. 1.9., che tu hai udite da me, in fede, e carità, che è in Cristo Gesù.",
+                    "14": "Guarda il buon deposito1.14 deposito 1 Tim. 6.20 e rif., per lo Spirito Santo, che abita in noi1.14 noi 1 Cor. 3.16..",
+                    "15": "Tu sai questo: che tutti quelli che son nell'Asia si son ritratti da me1.15 me 2 Tim. 4.10,11,16.; de' quali è Figello, ed Ermogene.",
+                    "16": "Conceda il Signore misericordia1.16 misericordia Mat. 5.7. alla famiglia di Onesiforo1.16 Onesiforo 2 Tim. 4.19.; perciocchè spesse volte egli mi ha ricreato, e non si è vergognato della mia catena1.16 catena ver. 1.8 e rif. Ebr. 13.3..",
+                    "17": "Anzi, essendo a Roma, studiosissimamente mi ha cercato, e mi ha trovato.",
+                    "18": "Concedagli il Signore di trovar misericordia presso il Signore in quel giorno1.18 giorno Mat. 25.34-40. Ebr. 6.10.. Quanti servigi ancora egli ha fatti in Efeso, tu il sai molto bene."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "epistoladispaoloiiatimoteo",
+                "num_versos": 26,
+                "versos": {
+                    "1": "Tu adunque, figliuol mio, fortificati nella grazia che è in Cristo Gesù.",
+                    "2": "E le cose che tu hai udite da me, in presenza di molti testimoni, commettile ad uomini fedeli2.2 fedeli 1 Tim. 3.1 ecc. e rif. Tit. 1.5 ecc., i quali sieno sufficienti ad ammaestrare ancora gli altri.",
+                    "3": "Tu adunque soffri afflizioni2.3 afflizioni 2 Tim. 1.8; 4.5., come buon guerriero di Gesù Cristo2.3 Cristo 1 Tim. 1.18 e rif..",
+                    "4": "Niuno che va alla guerra s'impaccia nelle faccende della vita, acciocchè piaccia a colui che l'ha soldato.",
+                    "5": "Ed anche, se alcuno combatte, non è coronato, se non ha legittimamente combattuto2.5 combattuto 1 Cor. 9.25,26..",
+                    "6": "Egli è convenevole che il lavoratore che fatica goda il primo i frutti2.6 frutti 1 Cor. 9.10..",
+                    "7": "Considera le cose che io dico; perciocchè io prego il Signore che ti dia intendimento in ogni cosa.",
+                    "8": "Ricordati che Gesù Cristo è risuscitato da' morti2.8 morti Rom. 1.3,4. 1 Cor. 15.1,4,20. ver. 18., il quale è della progenie di Davide, secondo il mio evangelo.",
+                    "9": "Nel quale io soffro afflizione2.9 afflizione Fat. 9.16. 2 Tim. 1.12. fino ad esser prigione ne' legami2.9 legami Efes. 3.1 e rif., a guisa di malfattore; ma la parola di Dio non è prigione2.9 prigione Fil. 1.13,14 e rif..",
+                    "10": "Perciò io soffro ogni cosa per gli eletti2.10 eletti Efes. 3.13. Col. 1.24 e rif., acciocchè essi ancora ottengano la salute, che è in Cristo Gesù, con gloria eterna.",
+                    "11": "Certa è questa parola; che se moriamo con lui, con lui altresì viveremo2.11 viveremo Rom. 6.5-8..",
+                    "12": "Se perseveriamo, con lui altresì regneremo2.12 regneremo Rom. 8.17 e rif.; se lo rinneghiamo, egli altresì ci rinnegherà2.12 rinnegherà Mar. 8.38 e rif..",
+                    "13": "Se siamo infedeli, egli pur rimane fedele2.13 fedele Rom. 3.3,4. 1 Cor. 1.9.; egli non può rinnegar sè stesso2.13 stesso Num. 23.19 e rif..",
+                    "14": "RAMMEMORA queste cose, protestando, nel cospetto di Dio, che non si contenda di parole2.14 parole 1 Tim. 1.4 e rif., il che a nulla è utile, anzi è per sovvertir gli uditori.",
+                    "15": "Studiati di presentar te stesso approvato a Dio, operaio che non abbia ad esser confuso, che tagli dirittamente la parola della verità.",
+                    "16": "Ma schiva le profane vanità di voci2.16 empietà 1 Tim. 4.7; 6.20. Tit. 1.14; 3.9.; perciocchè procederanno innanzi a maggiore empietà.",
+                    "17": "E la parola di tali andrà rodendo, a guisa di gangrena; dei quali è Imeneo2.17 Imeneo 1 Tim. 1.20., e Fileto;",
+                    "18": "i quali si sono sviati dalla verità; dicendo che la risurrezione è già avvenuta2.18 avvenuta 1 Cor. 15.12. ver. 8.; e sovvertono la fede d'alcuni2.18 alcuni Mat. 24.24..",
+                    "19": "Ma pure il fondamento di Dio sta fermo, avendo questo suggello: Il Signore conosce que' che son suoi2.19 suoi Na. 1.7. Giov. 10.14,27., e: Ritraggasi dall'iniquità chiunque nomina il nome di Cristo.",
+                    "20": "Or in una gran casa non vi sono sol vasi d'oro e d'argento, ma ancora di legno, e di terra; e gli uni sono ad onore, gli altri a disonore2.20 disonore Rom. 9.21..",
+                    "21": "Se dunque alcuno si purifica da queste cose, sarà un vaso ad onore, santificato ed acconcio al servigio del Signore, preparato ad ogni buona opera.",
+                    "22": "Or fuggi gli appetiti giovanili, e procaccia giustizia, fede, carità, pace con quelli che di cuor puro invocano il Signore2.22 Signore 1 Tim. 4.12; 6.11..",
+                    "23": "E schiva le quistioni stolte e scempie2.23 scempie 1 Tim. 1.4 e rif., sapendo che generano contese.",
+                    "24": "Or non bisogna che il servitor del Signore contenda2.24 contenda Tit. 3.2.; ma che sia benigno inverso tutti, atto e pronto ad insegnare2.24 insegnare 1 Tim. 3.2,3. Tit. 1.9., che comporti i mali;",
+                    "25": "che ammaestri con mansuetudine2.25 mansuetudine Gal. 6.1 e rif. 1 Piet. 3.15. quelli che son disposti in contrario, per provar se talora Iddio desse loro di ravvedersi2.25 ravvedersi Fat. 8.22., per conoscer la verità;",
+                    "26": "in maniera che, tornati a sana mente, uscissero dal laccio del diavolo, dal quale erano stati presi, per far la sua volontà."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "epistoladispaoloiiatimoteo",
+                "num_versos": 17,
+                "versos": {
+                    "1": "OR sappi questo, che negli ultimi giorni sopraggiungeranno tempi difficili3.1 difficili 1 Tim. 4.1 ecc. e rif..",
+                    "2": "Perciocchè gli uomini saranno amatori di loro stessi, avari, vanagloriosi, superbi, bestemmiatori, disubbidienti a padri e madri, ingrati, scellerati;",
+                    "3": "senza affezion naturale, mancatori di fede, calunniatori, incontinenti, spietati, senza amore inverso i buoni;",
+                    "4": "traditori, temerari, gonfi, amatori della voluttà anzi che di Dio;",
+                    "5": "avendo apparenza di pietà, ma avendo rinnegata la forza d'essa; anche tali schiva3.5 schiva Rom. 16.17 e riv..",
+                    "6": "Perciocchè del numero di costoro son quelli che sottentrano nelle case3.6 case Mat. 23.14. Tit. 1.11., e cattivano donnicciuole cariche di peccati, agitate da varie cupidità;",
+                    "7": "le quali sempre imparano, giammai non possono pervenire alla conoscenza della verità.",
+                    "8": "Ora, come Ianne e Iambre contrastarono a Mosè3.8 Mosè Esod. 7.10-12., così ancora costoro contrastano alla verità; uomini corrotti della mente, riprovati intorno alla fede.",
+                    "9": "Ma non procederanno più oltre; perciocchè la loro stoltizia sarà manifesta a tutti, siccome ancora fu quella di coloro3.9 coloro Esod. 7.12; 8.18; 9.11..",
+                    "10": "ORA, quant'è a te, tu hai ben compresa la mia dottrina3.10 dottrina Fil. 2.22. 1 Tim. 4.6., il mio procedere, le mie intenzioni, la mia fede, la mia pazienza, la mia carità, la mia sofferenza;",
+                    "11": "le mie persecuzioni, le mie afflizioni, quali mi sono avvenute in Antiochia, in Iconio3.11 Iconio Fat. 13.45,50., in Listri3.11 Listri Fat. 14.2,5,19 ecc.; tu sai quali persecuzioni io ho sostenute; e pure il Signore mi ha liberato, da tutte3.11 tutte Sal. 34.19,20. 2 Cor. 1.10..",
+                    "12": "Ora, tutti quelli ancora, che voglion vivere piamente in Cristo Gesù, saranno perseguitati3.12 perseguitati Mat. 16.24 e rif. Giov. 15.20,21..",
+                    "13": "Ma gli uomini malvagi ed ingannatori, procederanno in peggio, seducendo, ed essendo sedotti3.13 sedotti 2 Tess. 2.11,12. 1 Tim. 4.1 ecc. Apoc. 22.11..",
+                    "14": "Ma tu, persevera nelle cose che hai imparate, e delle quali sei stato accertato, sapendo da chi tu le hai imparate3.14 imparate 2 Tim. 1.13; 2.2.;",
+                    "15": "e che da fanciullo3.15 fanciullo Deut. 6.6,7. tu hai conoscenza delle sacre lettere3.15 lettere Giov. 5.39., le quali ti possono render savio a salute, per la fede che è in Cristo Gesù.",
+                    "16": "Tutta la scrittura è divinamente inspirata3.16 inspirata 2 Piet. 1.19-21., ed utile ad insegnare3.16 insegnare Rom. 15.4 e rif., ad arguire, a correggere, ad ammaestrare in giustizia;",
+                    "17": "acciocchè l'uomo di Dio sia compiuto, appieno fornito per ogni buona opera3.17 opera 2 Tim. 2.21. Tit. 3.1.."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "epistoladispaoloiiatimoteo",
+                "num_versos": 22,
+                "versos": {
+                    "1": "Io adunque ti protesto, nel cospetto di Dio, e del Signor Gesù Cristo, il quale ha da giudicare i vivi ed i morti4.1 morti Fat. 10.42., nella sua apparizione, e nel suo regno,",
+                    "2": "che tu predichi la parola, che tu faccia instanza a tempo, e fuor di tempo4.2 tempo Fat. 5.20.; riprendi, sgrida, esorta4.2 esorta 1 Tim. 4.13; 5.20. Tit. 1.13., con ogni pazienza4.2 pazienza Luc. 17.4., e dottrina.",
+                    "3": "Perciocchè verrà il tempo4.3 tempo 2 Tim. 3.1 ecc., che non comporteranno la sana dottrina; ma, pizzicando loro gli orecchi, si accumuleranno dottori, secondo i lor propri appetiti:",
+                    "4": "e rivolteranno le orecchie dalla verità, e si volgeranno alle favole4.4 favole 1 Tim. 1.4 e rif..",
+                    "5": "Ma tu sii vigilante in ogni cosa, soffri afflizioni4.5 afflizioni 2 Tim. 1.8; 2.3., fa' l'opera d'evangelista4.5 evangelista Fat. 21.8. Efes. 4.11., fa' appieno fede del tuo ministerio.",
+                    "6": "PERCIOCCHÈ, quant'è a me, ad ora son per essere offerto a guisa d'offerta da spandere4.6 spandere Fil. 2.17., e soprastà il tempo della mia tornata a casa4.6 casa Fil. 1.23..",
+                    "7": "Io ho combattuto il buon combattimento4.7 combattimento Fat. 20.24. 1 Cor. 9.24,25 e rif., io ho finito il corso, io ho serbata la fede.",
+                    "8": "Nel rimanente, mi è riposta la corona della giustizia4.8 giustizia 1 Cor. 9.25. Giac. 1.12. 1 Piet. 5.4. Apoc. 2.10., della quale mi farà in quel giorno4.8 giorno 2 Tim. 2.12. retribuzione il Signore, il giusto Giudice; e non solo a me, ma a tutti coloro ancora che avranno amata la sua apparizione.",
+                    "9": "Studiati di venir tosto a me4.9 me ver. 4.21..",
+                    "10": "Perciocchè Dema mi ha lasciato4.10 lasciato Col. 4.13. Filem. 24., avendo amato il presente secolo4.10 secolo 1 Giov. 2.15., e se n'è andato in Tessalonica; Crescente in Galazia, Tito4.10 Tito 2 Cor. 2.12 e rif. in Dalmazia.",
+                    "11": "Luca4.11 Luca Col. 4.13 e rif. è solo meco4.11 meco 2 Tim. 1.15.; prendi Marco4.11 Marco Fat. 15.37,38 e rif., e menalo teco; perciocchè egli mi è molto utile al ministerio.",
+                    "12": "Or io ho mandato Tichico4.12 Tichico Fat. 20.4 e rif. in Efeso.",
+                    "13": "Quando tu verrai, porta la cappa che io ho lasciata in Troade, appresso di Carpo; ed i libri, principalmente le pergamene.",
+                    "14": "Alessandro4.14 Alessandro Fat. 19.33 e rif., il fabbro di rame, mi ha fatto del male assai; gli renderà il Signore secondo le sue opere4.14 opere Sal. 28.4..",
+                    "15": "Da esso ancora tu guardati; perciocchè egli ha grandemente contrastato alle nostre parole.",
+                    "16": "Niuno si è trovato meco nella mia prima difesa; ma tutti mi hanno abbandonato4.16 abbandonato 2 Tim. 1.15.; non sia loro imputato4.16 imputato Fat. 7.60..",
+                    "17": "Ma il Signore è stato meco, e mi ha fortificato4.17 fortificato Mat. 10.19. Fat. 23.11; 27.23.; acciocchè la predicazione fosse per me appieno accertata4.17 accertata Fat. 9.15 e rif., e che tutti i Gentili l'udissero; ed io sono stato liberato dalla gola del leone4.17 leone 2 Piet. 2.9..",
+                    "18": "E il Signore mi libererà ancora da ogni mala opera4.18 opera Sal. 121.7. e mi salverà, e raccorrà nel suo regno celeste. A lui sia la gloria ne' secoli de' secoli. Amen.",
+                    "19": "Saluta Priscilla ed Aquila4.19 Aquila Fat. 18.2 e rif., e la famiglia d'Onesiforo4.19 Onesiforo 2 Tim. 1.16..",
+                    "20": "Erasto4.20 Erasto Fat. 19.22. Rom. 16.23. è rimasto in Corinto, ed io ho lasciato Trofimo4.20 Trofimo Fat. 20.4; 21.29. infermo in Mileto.",
+                    "21": "Studiati di venire avanti il verno4.21 verno ver. 4.9..",
+                    "22": "Sia il Signor Gesù Cristo con lo spirito tuo. La grazia sia con voi. Amen."
+                }
+            }
+        ]
+    }
+}

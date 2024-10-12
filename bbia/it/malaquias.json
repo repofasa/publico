@@ -1,0 +1,81 @@
+{
+    "data": {
+        "libro": "Malachia",
+        "abreviacion": "Ml",
+        "testamento": "Antico Testamento",
+        "num_capitulos": 3,
+        "num_versos": 55,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "malachia",
+                "num_versos": 14,
+                "versos": {
+                    "1": "Il carico della parola del Signore, indirizzata ad Israele, per Malachia.",
+                    "2": "IO vi ho amati1.2 amati Deut. 7.8. Ger. 31.3 e rif., ha detto il Signore. E voi avete detto: In che ci hai amati? Non era Esaù fratello di Giacobbe1.2 Giacobbe Am. 1.11.? dice il Signore. Or io ho amato Giacobbe;",
+                    "3": "ed ho odiato Esaù1.3 Esaù Rom. 9.13., ed ho messi i suoi monti in desolazione, ed ho abbandonata la sua eredità agli sciacalli del deserto1.3 deserto Ezec. 35.1 ecc. e rif..",
+                    "4": "Se pure Edom dice: Noi siamo impoveriti, ma torneremo a edificare i luoghi deserti; coseì ha detto il Signor degli eserciti: Essi edificheranno, ma io distruggerò; e saranno chiamati: Contrada d'empietà; e: Popolo contro al quale il Signore è indegnato in perpetuo.",
+                    "5": "E gli occhi vostri lo vedranno, e voi direte: Il Signore sia magnificato dalla contrada d'Israele.",
+                    "6": "Il figliuolo deve onorare il padre1.6 padre Esod. 20.12 e rif., e il servitore il suo signore; se dunque io son Padre, ov'è il mio onore1.6 onore Luc. 6.46.? e se son Signore, ov'è il mio timore? ha detto il Signor degli eserciti a voi, o sacerdoti che sprezzate il mio Nome. E pur dite1.6 dite Mal. 2.14,17; 3.7,8,13.: In che abbiamo noi sprezzato il tuo Nome?",
+                    "7": "Voi offerite sul mio altare del cibo contaminato1.7 contaminato Deut. 15.21 e rif.. E pur dite: In che ti abbiamo noi contaminato? In ciò, che voi dite: La mensa del Signore1.7 Signore Ezec. 41.22. è spregevole.",
+                    "8": "E quando adducete un animale cieco1.8 cieco Lev. 22.20-22., per sacrificarlo, non vi è male alcuno? parimente, quando adducete un animale zoppo, o infermo, non vi è male alcuno? presentalo pure al tuo governatore; te ne saprà egli grado, o gli sarai tu accettevole? ha detto il Signor degli eserciti.",
+                    "9": "Ora dunque, supplicate pure a Dio, ch'egli abbia pietà di noi; questo essendo prodeduto dalle vostre mani, sarebbegli alcun di voi accettevole? ha detto il Signor degli eserciti.",
+                    "10": "Chi è eziandio d'infra voi colui che serri le porte? E pur voi non accendete il fuoco sopra il mio altare per nulla1.10 nulla 1 Cor. 9.13.. Io non vi gradisco, ha detto il Signor degli eserciti; e non accetterò alcuna offerta dalle vostre mani1.10 mani Is. 1.11 e rif. Ger. 6.20..",
+                    "11": "Ma dal sol levante fino al ponente, il mio Nome sarà grande fra le genti1.11 genti Is. 60.2 ecc. e rif.; e in ogni luogo1.11 luogo Giov. 4.21,23. 1 Tim. 2.8. si offerirà al mio Nome profumo, ed offerta pura1.11 pure Apoc. 8.3.; perciocchè il mio Nome sarà grande fra le genti, ha detto il Signor degli eserciti.",
+                    "12": "Ma quant'è a voi, voi lo profanate, dicendo: La mensa del Signore è contaminata; e quant'è alla sua rendita, il suo cibo è spregevole.",
+                    "13": "Voi avete eziandio detto: Ecco, quanta fatica! E pure a lui avete dato l'affanno, ha detto il Signor degli eserciti; mentre adducete animali rapiti, e zoppi, ed infermi; e li adducete per offerta, li gradirei io dalla vostra mano? ha detto il Signore.",
+                    "14": "Or maledetto sia il frodolente, il quale, avendo nella sua mandra un maschio, vota, e sacrifica al Signore un animale difettoso; conciossiachè io sia il gran Re, ha detto il Signor degli eserciti; e il mio Nome sia tremendo fra le genti."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "malachia",
+                "num_versos": 17,
+                "versos": {
+                    "1": "Or dunque, o sacerdoti, a voi s'indirizza questo comandamento:",
+                    "2": "Se voi non ubbidite2.2 ubbidite Lev. 26.14 ecc. Deut. 28.15 ecc., e non vi mettete in cuore di dar gloria al mio Nome, ha detto il Signor degli eserciti, io manderò contro a voi la maledizione, e maledirò le vostre benedizioni; ed anche, già le ho maledette, perciocchè voi non vi mettete questo in cuore.",
+                    "3": "Ecco, io sgriderò le vostre sementi, e verserò dello sterco sopra le vostre facce, lo sterco delle vostre feste; e sarete portati via nel luogo di quello2.3 quello Esod. 29.14..",
+                    "4": "E voi conoscerete che io vi avea mandato questo comandamento, acciocchè il mio patto fosse con Levi, ha detto il Signor degli eserciti.",
+                    "5": "Il mio patto fu già con lui, di vita, e di pace2.5 pace Num. 3.45; 25.12.; e gli diedi quelle cose, per lo timore del quale egli mi temette2.5 temette Esod. 32.26. Deut. 33.8,9.; e perciocchè egli ebbe spavento del mio Nome.",
+                    "6": "La Legge della verità fu nella sua bocca, e non si trovò alcuna iniquità nelle sue labbra; egli camminò meco in pace, e in dirittura, e convertì molti dall'iniquità2.6 iniquità Dan. 12.3. Giac. 5.20..",
+                    "7": "Conciossiachè le labbra del sacerdote abbiano a conservar la scienza, e si abbia da cercar la Legge dalla sua bocca2.7 bocca Lev. 10.10,11 e rif. Deut. 17.8 ecc.; percicochè egli è l'Angelo del Signor degli eserciti.",
+                    "8": "Ma voi vi siete stornati dalla via, voi ne avete fatti intoppar molti nella Legge2.8 Legge 1 Sam. 2.17. Ezec. 22.26., voi avete violato il patto di Levi, ha detto il Signor degli eserciti.",
+                    "9": "Laonde altresì vi ho resi vili, ed abbietti appo tutto il popolo; siccome voi non osservate le mie vie, ed avete riguardo alla qualità delle persone spiegando la Legge.",
+                    "10": "NON abbiam noi tutti uno stesso Padre2.10 Padre 1 Cor. 8.6. Efes. 4.6.? non ci ha uno stesso Dio creati2.10 creati Giob. 31.15. Fat. 17.26.? perchè usa dislealtà l'uno inverso l'altro, violando il patto de' nostri padri2.10 padri ver. 2.11,14 ecc.?",
+                    "11": "Giuda ha usata dislealtà; ed abominazione è stata commessa in Israele ed in Gerusalemme; conciossiachè Giuda abbia profanata la santità del Signore che l'ha amato, ed abbia sposate delle figliuole di dii stranieri2.11 stranieri Deut. 7.2,3. Esd. 9.1 ecc.; 10.2. Neem. 13.23 ecc..",
+                    "12": "Il Signore sterminerà da' tabernacoli di Giuda, l'uomo che avrà ciò fatto, colui che veglia, e colui che canta, e colui che presenta offerte al Signor degli eserciti2.12 eserciti Neem. 13.28,29..",
+                    "13": "E in secondo luogo voi fate questo: Voi coprite di lagrime, di pianto, e di strida, l'altar del Signore, talchè egli non riguarda più alle offerte, e non riceva più dalle vostre mani cosa alcuna a grado.",
+                    "14": "E pur dite2.14 dite Mal. 1.6 e rif.: Perchè? Perciocchè il Signore è stato testimonio fra te, e la moglie della tua giovanezza2.14 giovanezza Gen. 31.50., inverso la quale tu usi dislealtà; benchè ella sia tua consorte, e la moglie del tuo patto.",
+                    "15": "Or non fece egli un sol uomo2.15 uomo Mat. 19.4,5.? e pure egli avea abbondanza di spirito; e che vuol dir quell'un solo? Egli cercava una progenie di Dio2.15 Dio 1 Cor. 7.14.. Guardatevi adunque sopra lo spirito vostro, che niun di voi usi dislealtà inverso la moglie della sua giovanezza.",
+                    "16": "Che se pur l'odia, rimandila2.16 rimandila Deut. 24.1 e rif., ha detto il Signore Iddio d'Israele; e copra la violenza col suo vestimento, ha detto il Signor degli eserciti. Guardatevi adunque sopra lo spirito vostro, che non usiate dislealtà.",
+                    "17": "VOI avete travagliato il Signore con le vostre parole; e pur dite2.17 dite Mal. 1.6 e rif.: In che l'abbiamo travagliato? In ciò che voi dite: Chiunque fa male piace al Signore2.17 Signore Mal. 3.13-15., ed egli prende diletto in tali; ovvero: Ov'è l'Iddio del giudicio2.17 giudicio 2 Piet. 3.4.?"
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "malachia",
+                "num_versos": 18,
+                "versos": {
+                    "1": "Ecco, io mando il mio Angelo3.1 Angelo Mat. 11.10. Mar. 1.2. Luc. 1.76; 7.27., ed egli acconcerà la via davanti a me3.1 me Is. 40.3 e rif.; e subito il Signore, il qual voi cercate, e l'Angelo del Patto, il qual voi desiderate, verrà nel suo tempio3.1 tempio Ag. 2.7 e rif.; ecco, egli viene, ha detto il Signor degli eserciti.",
+                    "2": "E chi sosterrà il giorno della sua venuta3.2 venuta Mal. 4.1. Apoc. 6.17.? e chi durerà, quando egli apparirà? perciocchè egli è come il fuoco di chi fonde i metalli3.2 metalli Mat. 3.10-12., e come l'erba de' purgatori di panni.",
+                    "3": "Ed egli sederà, struggendo, e purgando l'argento; e netterà i figliuoli di Levi, e li affinerà a guisa dell'oro, e dell'argento; ed essi offeriranno al Signore offerte in giustizia3.3 giustizia 1 Piet. 2.5..",
+                    "4": "E l'offerta di Giuda, e di Gerusalemme, sarà piacevole al Signore, come a' dì antichi, e come negli anni di prima.",
+                    "5": "Ed io mi accosterò a voi in giudicio; e sarò testimonio pronto contro agl'incantatori, e contro agli adulteri, e contro a quelli che giurano falsamente, e contro a quelli che fraudano il mercenario della sua mercede3.5 mercede Lev. 19.13. Giac. 5.4.; ed oppressano la vedova, e l'orfano3.5 orfano Deut. 24.17 e rif.; e pervertono il diritto del forestiere, e non mi temono, ha detto il Signor degli eserciti.",
+                    "6": "Perciocchè io sono il Signore che non mi muto3.6 muto Num. 23.19 e rif., voi, figliuoli di Giacobbe, non siete stati consumati3.6 consumati Lam. 3.22..",
+                    "7": "FIN dal tempo de' vostri padri3.7 padri Fat. 7.51., voi vi siete stornati da' miei statuti, e non li avete osservati. Convertitevi a me3.7 me Zac. 1.3 e rif., ed io mi rivolgerò a voi, ha detto il Signor degli eserciti. E pur voi dite3.7 dite Mal. 1.6 e rif.: In che ci convertiremo?",
+                    "8": "L'uomo deve egli rubare Iddio, che voi mi rubate? E pur dite: In che ti abbiam noi rubato? Nelle decime, e nelle offerte3.8 offerte Neem. 13.10-12..",
+                    "9": "Voi sarete maledetti di maledizione, perciocchè mi rubate, o nazione tutta quanta.",
+                    "10": "Portate tutte le decime3.10 decime Prov. 3.9,10 e rif. nelle conserve, e siavi del cibo nella mia Casa; e fin da ora provatemi in questo, ha detto il Signor degli eserciti, se io non vi apro le cateratte del cielo, e non vi verso tanta benedizione che non le basterete3.10 basterete 2 Cor. 9.6-8..",
+                    "11": "Io sgriderò, olte a ciò, per amor vostro, le bestie divoranti, ed esse non guasteranno più i frutti della terra, e le vostre viti non isperderanno più ne' campi, ha detto il Signor degli eserciti.",
+                    "12": "E tutte le genti vi predicheranno beati; perciocchè voi sarete un paese di diletto, ha detto il Signor degli eserciti.",
+                    "13": "Voi avete usate parole dure contro a me3.13 me Mal. 2.17 e rif., ha detto il Signore. E pur dite: Che abbiamo noi detto contro a te?",
+                    "14": "Voi avete detto: In vano si serve a Dio3.14 Dio Giob. 21.14,15 e rif.; e che abbiamo noi guadagnato, mentre abbiamo osservato ciò ch'egli ha comandato che si osservi, e mentre siam camminati vestiti a bruno, per lo Signor degli eserciti?",
+                    "15": "Or dunque noi reputiamo beati i superbi; benchè operino empiamente, pur sono edificati3.15 edificati Sal. 73.12,13.; benchè tentino il Signore, pur sono scampati.",
+                    "16": "Allora coloro che temono il Signore han parlato l'uno all'altro3.16 altro Sal. 66.16. Ebr. 3.13., e il Signore è stato attento, e l'ha udito; ed un libro di memoria3.16 memoria Dan. 7.10. Apoc. 20.12. è stato scritto nel suo cospetto, per coloro che temono il Signore, e che pensano al suo Nome.",
+                    "17": "E quelli mi saranno, ha detto il Signor degli eserciti, nel giorno che io opererò, un tesoro riposto3.17 riposto Esod. 19.5 e rif. 1 Piet. 2.9.; ed io li risparmierò, come un uomo risparmia il suo figliuolo che lo serve3.17 serve Sal. 103.13..",
+                    "18": "E se pur voi vi convertite, voi vedrete qual differenza vi è tra il giusto e l'empio; tra colui che serve Iddio, e colui che non lo serve3.18 serve Sal. 73.16 ecc.."
+                }
+            }
+        ]
+    }
+}

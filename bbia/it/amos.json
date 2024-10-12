@@ -1,0 +1,220 @@
+{
+    "data": {
+        "libro": "Amos",
+        "abreviacion": "Am",
+        "testamento": "Antico Testamento",
+        "num_capitulos": 9,
+        "num_versos": 146,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "amos",
+                "num_versos": 15,
+                "versos": {
+                    "1": "Le parole di Amos, che era de' mandriali1.1 mandriali Am. 7.14,15. di Tecoa; le quali gli furono rivelate in visione intorno ad Israele, a' di di Uzzia, re di Giuda1.1 Giuda 2 Re. 15.1 ecc.; e a' dì di Geroboamo, figliuolo di Gioas, re d'Israele1.1 Israele 2 Re. 14.23 ecc.; due anni avanti il tremoto1.1 tremoto Zac. 14.5..",
+                    "2": "EGLI disse adunque: Il Signore ruggirà da Sion, e darà fuori la sua voce da Gerusalemme1.2 Gerusalemme Gioel. 3.16 e rif.; ed i paschi de' pastori faranno cordoglio, e la sommità di Carmel si seccherà.",
+                    "3": "Così ha detto il Signore: Per tre misfatti di Damasco1.3 Damasco Ger. 49.23 e rif., nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè hanno tritato Galaad con trebbie di ferro1.3 ferro 2 Re. 10.32,33; 13.7..",
+                    "4": "E manderò un fuoco nella casa di Hazael, il quale consumerà i palazzi di Ben-hadad1.4 Ben-hadad 1 Re. 20.1..",
+                    "5": "Ed io romperò le sbarre di Damasco, e sterminerò della valle di Aven gli abitanti, e della casa di Eden colui che tiene lo scettro; e il popolo di Siria andrà in cattività in Chir1.5 Chir 2 Re. 16.9. Am. 9.7., ha detto il Signore.",
+                    "6": "Così ha detto il Signore: Per tre misfatti di Gaza, nè per quattro, io non le renderò la sua retribuzione; ma, perciocchè hanno tratto il mio popolo in cattività intiera, mettendolo in mano di Edom1.6 Edom 2 Cron. 28.18. Ezec. 25.15..",
+                    "7": "E manderò un fuoco nelle mura di Gaza, il quale consumerà i suoi palazzi1.7 palazzi Ger. 47.1 ecc.;",
+                    "8": "e sterminerò di Asdod gli abitanti, e di Aschelon colui che tiene lo scettro; poi rivolterò la mia mano sopra Ecron, e il rimanente de' Filistei perirà1.8 perirà Zac. 9.5,6., ha detto il Signore Iddio.",
+                    "9": "Così ha detto il Signore: Pre tre misfatti di Tiro1.9 Tiro Is. 23.1 e rif. Gioel. 3.4,5., nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè hanno messo il mio popolo in man di Edom, in cattività intiera1.9 intiera ver. 6.; e non si son ricordati del patto fraterno1.9 fraterno 2 Sam. 5.11 e rif..",
+                    "10": "E manderò un fuoco nelle mura di Tiro, il quale consumerà i suoi palazzi.",
+                    "11": "Così ha detto il Signore: Per tre misfatti di Edom1.11 Edom Ezec. 25.12-14 e rif.; 35.2 ecc. Gioel. 3.19. Abd. 1 ecc., nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè egli ha perseguitato con la spada il suo fratello1.11 fratello Gen. 27.41 ecc. Deut. 23.7. Mal. 1.2., ed ha violate le sue compassioni; e la sua ira lacera perpetuamente, ed egli serba la sua indegnazione senza fine.",
+                    "12": "E manderò un fuoco in Teman, il quale consumerà i palazzi di Bosra.",
+                    "13": "Così ha detto il Signore: Per tre misfatti de' figliuoli di Ammon, nè per quattro, io non renderò loro la lor retribuzione; ma, perciocchè hanno fesse le donne gravide di Galaad, per allargare i lor confini.",
+                    "14": "E accenderò un fuoco nelle mura di Rabba1.14 Rabba Ger. 49.1 ecc. e rif., il quale consumerà i suoi palazzi, con istormo nel giorno della battaglia, e con turbo nel giorno della tempesta.",
+                    "15": "E Malcam andrà in cattività, con tutti i suoi principi, ha detto il Signore."
+                }
+            },
+            {
+                "capitulo": "2",
+                "libro": "amos",
+                "num_versos": 16,
+                "versos": {
+                    "1": "Così ha detto il Signore: Per tre misfatti di Moab2.1 Moab Is. 15.1 ecc. e rif., nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè ha arse le ossa del re di Edom, fino a calcinarle.",
+                    "2": "E manderò un fuoco in Moab, il quale consumerà i palazzi di Cheriot; e Moab morrà con fracasso, con istormo, e con suon di tromba.",
+                    "3": "Ed io sterminerò del mezzo di quella il rettore, ed ucciderò con lui i principi di essa, ha detto il Signore.",
+                    "4": "Così ha detto il Signore: Per tre misfatti di Giuda, nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè hanno sprezzata la Legge del Signore, e non hanno osservati i suoi statuti2.4 statuti Lev. 26.14 ecc. Neem. 1.7. Dan. 9.9 ecc.; e le lor menzogne2.4 menzogne Is. 28.15. Rom. 1.25., dietro alle quali andarono già i lor padri, li hanno traviati.",
+                    "5": "E manderò un fuoco in Giuda, il quale consumerà i palazzi di Gerusalemme2.5 Gerusalemme Ger. 17.27. Os. 8.14..",
+                    "6": "Così ha detto il Signore: Per tre misfatti d'Israele, nè per quattro, io non gli renderò la sua retribuzione; ma, perciocchè hanno venduto il giusto per danari2.6 danari Lev. 25.39. 2 Re. 4.1.; e il bisognoso, per un paio di scarpe.",
+                    "7": "Essi, che anelano di veder la polvere della terra sul capo de' poveri, e pervertono la via degli umili2.7 umili Is. 10.2. Am. 5.12; 8.4.; e un uomo, e suo padre, vanno amendue a una stessa fanciulla2.7 fanciulla Lev. 18.8. Ezec. 22.11., per profanare il Nome mio santo2.7 santo Ezec. 36.20. Rom. 2.24..",
+                    "8": "E si coricano sopra i vestimenti tolti in pegno2.8 pegno Esod. 22.26,27., presso ad ogni altare; e bevono il vino delle ammende, nelle case de' loro iddii.",
+                    "9": "Or io distrussi già d'innanzi a loro gli Amorrei, ch'erano alti come cedri, e forti come querce2.9 querce Num. 13.28-34; 21.21-25.; e distrussi il lor frutto di sopra, e le lor radici di sotto.",
+                    "10": "Ed io vi trassi fuor del paese di Egitto2.10 Egitto Esod. 12.51., e vi condussi per lo deserto2.10 deserto Deut. 8.2. Ger. 2.2., lo spazio di quarant'anni, a possedere il paese degli Amorrei.",
+                    "11": "Oltre a ciò, io ho suscitati de' vostri figliuoli per profeti, e de' vostri giovani per Nazirei2.11 Nazirei Num. 6.2 ecc. Giud. 13.5.. Non è egli vero, o figliuoli d'Israele? dice il Signore.",
+                    "12": "Ma voi avete dato a bere del vino a' Nazirei, ed avete fatto divieto a' profeti, dicendo: Non profetizzate2.12 profetizzate Is. 30.10 e rif. Am. 7.12,13. Mic. 2.6..",
+                    "13": "Ecco, io vi stringerò ne' vostri luoghi, come si stringe un carro, pieno di fasci di biade.",
+                    "14": "Ed ogni modo di fuggire verrà meno al veloce, e il forte non potrà rinforzar le sue forze, nè il prode scampar la sua vita2.14 vita Sal. 33.16,17. Eccl. 9.11..",
+                    "15": "E chi tratta l'arco non potrà star fermo, nè il leggier di piedi scampare, nè chi cavalca cavallo salvar la vita sua.",
+                    "16": "E il più animoso d'infra gli uomini prodi se ne fuggirà nudo, in quel giorno, dice il Signore."
+                }
+            },
+            {
+                "capitulo": "3",
+                "libro": "amos",
+                "num_versos": 15,
+                "versos": {
+                    "1": "FIGLIUOLI d'Israele, udite questa parola, che il Signore ha pronunziata contro a voi; contro a tutta la nazione che io trassi fuor del paese di Egitto, dicendo:",
+                    "2": "Voi soli ho conosciuti d'infra tutte le nazioni della terra3.2 terra Deut. 7.6-8 e rif.; perciò, farò punizione sopra voi di tutte le vostre iniquità3.2 iniquità Dan. 9.12 ecc. Mat. 11.20-24. Luc. 12.47,48. Rom. 2.9. 1 Piet. 4.17..",
+                    "3": "Due cammineranno essi insieme, se prima non si son convenuti l'uno con l'altro3.3 altro Mat. 5.25.?",
+                    "4": "Il leone ruggirà egli3.4 egli Am. 1.2. nel bosco, senza che egli abbia alcuna preda? il leoncello darà egli fuori la sua voce dal suo ricetto, senza che prenda nulla?",
+                    "5": "L'uccello caderà egli nel laccio in terra, se non gli è stato teso alcuna rete? il laccio sarà egli levato da terra, senza aver preso nulla?",
+                    "6": "La tromba sonerà ella nella città, senza che il popolo accorra tutto spaventato? saravvi alcun male nella città, che il Signore non l'abbia fatto3.6 fatto Is. 45.7.?",
+                    "7": "Perciocchè il Signore Iddio non fa nulla, ch'egli non abbia rivelato il suo segreto a' profeti, suoi servitori3.7 servitori Gen. 6.13; 18.17 e rif..",
+                    "8": "Se il leone rugge3.8 rugge Am. 1.2., chi non temerà? se il Signore Iddio ha parlato, chi non profetizzerà3.8 profetizzerà Fat. 4.20. 1 Cor. 9.16.?",
+                    "9": "Bandite sopra i palazzi di Asdod, e sopra i castelli del paese di Egitto, e dite: Radunatevi sopra i monti di Samaria, e vedete i gran disordini che sono in mezzo di essa; e gli oppressati che son dentro di essa3.9 essa Sal. 103.6..",
+                    "10": "Essi non sanno operar dirittamente, dice il Signore; essi, che fanno tesoro di violenza, e di rapina nei lor palazzi.",
+                    "11": "Perciò, così ha detto il Signore Iddio: Ecco il nemico3.11 nemico 2 Re. 17.3-6; 18.9-11.; egli è d'intorno al paese, e trarrà giù da te la tua forza, e i tuoi palazzi saranno predati.",
+                    "12": "Così ha detto il Signore: Come il pastore riscuote dalla bocca del leone due garetti, od un pezzo d'orecchio, così scamperanno i figliuoli d'Israele, che abitano in Samaria, in un canto di letto, o nelle cortine di una lettiera.",
+                    "13": "Ascoltate, e protestate contro alla casa di Giacobbe, dice il Signore Iddio, l'Iddio degli eserciti:",
+                    "14": "Che nel giorno che io farò punizione sopra Israele dei suoi misfatti, farò ancora punizione sopra gli altari di Betel3.14 Betel 1 Re. 13.1 ecc. Os. 10.15.. E le corna dell'altare saranno mozzate, e caderanno in terra.",
+                    "15": "E percoterò le case del verno, insieme con le case della state; e le case d'avorio saranno distrutte, e le case grandi periranno, dice il Signore."
+                }
+            },
+            {
+                "capitulo": "4",
+                "libro": "amos",
+                "num_versos": 13,
+                "versos": {
+                    "1": "Ascoltate questa parola, vacche di Basan, che siete nella montagna di Samaria, che oppressate i miseri, che fiaccate i poveri, che dite a' vostri signori: Recate, acciocchè beviamo.",
+                    "2": "Il Signore Iddio ha giurato per la sua santità, che ecco, i giorni vi vengono addosso, ch'egli vi trarrà fuori con uncini, e il vostro rimanente con ami da pescare.",
+                    "3": "E voi uscirete per le rotture, ciascuna dirincontro a sè4.3 sè Ezec. 12.5,12.; e lascerete in abbandono i palazzi, dice il Signore.",
+                    "4": "Venite pure in Betel, e commettete misfatto, moltiplicate i vostri misfatti in Ghilgal4.4 Ghilgal Os. 4.15 e rif., e adducete ogni mattina i vostri sacrificii4.4 sacrificii Num. 28.3-6. Ger. 7.21 e rif., e le vostre decime a' tre giorni4.4 giorni Deut. 14.28..",
+                    "5": "E fate ardere per profumo del pane levitato, per offerta di lode4.5 lode Lev. 7.13.; e bandite a grida le offerte volontarie4.5 volontarie Lev. 22.18,21.; poichè così amate di fare, o figliuoli d'Israele, dice il Signore Iddio.",
+                    "6": "E benchè io vi abbia data nettezza di denti in tutte le vostre città, e mancamento di pane in tutti i luoghi vostri; non però vi siete convertiti a me4.6 me Ger. 5.3 e rif., dice il Signore.",
+                    "7": "E benchè io vi abbia divietata la pioggia, tre mesi intieri avanti la mietitura, ed abbia fatto piovere sopra una città, e non sopra l'altra; e un campo sia stato adacquato di pioggia, ed un altro, sopra il quale non è piovuto, sia seccato;",
+                    "8": "e due, e tre città si sieno mosse verso una città, per bere dell'acqua, e non si sieno saziate; non però vi siete convertiti a me, dice il Signore.",
+                    "9": "Io vi ho percossi di arsura, e di rubigine4.9 rubigine Deut. 28.22. Ag. 2.17.; le ruche4.9 ruche Gioel. 1.4; 2.25. hanno mangiata la moltitudine de' vostri giardini, e delle vostre vigne, e de' vostri fichi, e de' vostri ulivi; e pur voi non vi siete convertiti a me, dice il Signore.",
+                    "10": "Io ho mandata fra voi la pestilenza, nella via di Egitto4.10 Egitto Deut. 28.27,60.; io ho uccisi con la spada i vostri giovani, oltre alla presa de' vostri cavalli; ed ho fatto salire il puzzo de' vostri eserciti, fino alle vostre nari; e pur voi non vi siete convertiti a me, dice il Signore.",
+                    "11": "Io vi ho sovvertit, come Iddio sovvertì Sodoma e Gomorra4.11 Gomorra Gen. 19.24,25.; e siete stati come un tizzone salvato da un incendio4.11 incendio Zac. 3.2. Giuda 23.; e pur voi non vi siete convertiti a me, dice il Signore.",
+                    "12": "Perciò, io ti farò così, o Israele; e perciocchè io ti farò questo, preparati allo scontro dell'Iddio tuo, o Israele4.12 Israele Luc. 14.31,32..",
+                    "13": "Perciocchè, ecco colui che ha formati i monti, e che crea il vento, e che dichiara all'uomo qual sia il suo pensiero4.13 pensiero Sal. 139.2. Dan. 2.28.; che fa dell'alba oscurità4.13 oscurità Am. 5.8; 8.9., e che cammina sopra gli alti luoghi della terra; il cui Nome è: Il Signore Iddio degli eserciti."
+                }
+            },
+            {
+                "capitulo": "5",
+                "libro": "amos",
+                "num_versos": 27,
+                "versos": {
+                    "1": "ASCOLTATE questa parola, il lamento che io prendo a far di voi, o casa d'Israele.",
+                    "2": "La vergine d'Israele è caduta, ella non risorgerà più; è abbandonata sopra la sua terra, non vi è niuno che la rilevi.",
+                    "3": "Perciocchè, così ha detto il Signore Iddio: Nella città onde ne uscivano mille, ne resteranno sol cento; e in quella onde ne uscivano cento, ne resteranno sol dieci, alla casa d'Israele.",
+                    "4": "Perciocchè, così ha detto il Signore alla casa d'Israele: Cercatemi5.4 Cercatemi 2 Cron. 15.2. Ger. 29.13., e voi viverete5.4 viverete Is. 55.3 e rif..",
+                    "5": "E non cercate Betel5.5 Betel Am. 4.4 e rif., e non entrate in Ghilgal e non passate in Beerseba5.5 Beerseba Am. 8.14 e rif.; perciocchè Ghilgal del tutto sarà menato in cattività, e Betel sarà ridotto al niente.",
+                    "6": "Cercate il Signore, e voi viverete5.6 viverete ver. 4 e rif.; che talora egli non si avventi sopra la casa di Giuseppe, a guisa di fuoco, e non la consumi, senza che Betel abbia chi spenga il fuoco,",
+                    "7": "o voi, che mutate il giudicio in assenzio, e lasciate in terra la giustizia!",
+                    "8": "Cercate colui che ha fatte le Gallinelle e l'Orione, e che muta l'ombra della morte in mattutino, e fa scurare il giorno come la notte; che chiama le acque del mare, e le spande sopra la faccia della terra; il cui Nome è: Il Signore:",
+                    "9": "che fa sorger subita ruina sopra il forte, talchè la distruzione occupa la fortezza.",
+                    "10": "Essi odiano nella porta chi li riprende, ed abbominano chi parla con integrità5.10 integrità 1 Re. 22.8..",
+                    "11": "Laonde, perciocchè voi aggravate il povero, e prendete da lui la soma del frumento: voi avete edificate delle case di pietre pulite, ma non abiterete in esse; voi avete piantate delle vigne belle, ma non ne berrete il vino.",
+                    "12": "Perciocchè io conosco i vostri misfatti, che son molti, e i vostri peccati, che son gravi; oppressatori del giusto, prenditori di taglia, e sovvertitori della ragione de' poveri nella porta5.12 porta Am. 2.6,7 e rif..",
+                    "13": "Perciò, l'uomo prudente in quel tempo tacerà5.13 tacerà Sal. 37.7. Eccl. 3.7. Am. 6.10.; perciocchè sarà un cattivo tempo.",
+                    "14": "Cercate il bene, e non il male, acciocchè viviate; e il Signore Iddio degli eserciti sarà con voi, come avete detto5.14 detto Mic. 3.11..",
+                    "15": "Odiate il male, ed amate il bene5.15 bene Sal. 34.14 e rif.; 97.10 e rif., e stabilite il giudicio nella porta; forse avrà il Signore Iddio d'Israele pietà del rimanente di Giuseppe.",
+                    "16": "Perciò, così ha detto il Signore Iddio degli eserciti, il Signore: Vi sarà pianto in tutte le piazze; e si dirà in tutte le strade: Ahi lasso! Ahi lasso! e si chiameranno i lavoratori al duolo, ed al lamento quelli che sono intendenti in lamenti lugubri.",
+                    "17": "In tutte le vigne ancora vi sarà pianto; perciocchè io passerò nel mezzo di te, ha detto il Signore.",
+                    "18": "Guai a voi, che desiderate il giorno del Signore5.18 Signore Is. 5.19. 2 Piet. 3.3,4,9.! perchè desiderate così il giorno del Signore? esso sarà giorno di tenebre, e non di luce5.18 luce Ger. 30.7 e rif..",
+                    "19": "Come se un uomo fuggisse d'innanzi ad un leone, ed un orso lo scontrasse; ovvero entrasse in casa, ed appoggiasse la mano alla parete, ed una serpe lo mordesse.",
+                    "20": "Il giorno del Signore non sarà egli tenebre, e non luce? e caligine, senza alcuno splendore5.20 splendore Mat. 24.29.?",
+                    "21": "Io odio, io sdegno le vostre feste5.21 feste Is. 1.11 ecc. e rif.; e non odorerò più le vostre solenni raunanze.",
+                    "22": "Che se mi offerite olocausti, e le vostre offerte, io non le gradirò; e non riguarderò a' sacrificii da render grazie, fatti delle vostre bestie grasse.",
+                    "23": "Toglimi d'appresso lo strepito delle tue canzoni, e fa'ch'io non oda il concento de' tuoi salterii.",
+                    "24": "Anzi corra il giudicio, a guisa d'acque5.24 acque 1 Sam. 15.22 e rif.; e la giustizia, a giusa di rapido torrente.",
+                    "25": "O casa d'Israele, mi offeriste voi sacrificii ed offerte nel deserto, per lo spazio di quarant'anni5.25 anni Deut. 32.17. Gios. 24.14. Ezec. 20.8,16,24. Fat. 7.42,43.?",
+                    "26": "Anzi voi portaste il tabernacolo del vostro Melec5.26 Melec 1 Re. 11.7,33., e l'effigie delle vostre immagini; la stella dei vostri dii, che voi vi avevate fatti.",
+                    "27": "Perciò, io vi farò andare in cattività di là da Damasco5.27 Damasco 2 Re. 17.6., ha detto il Signore, il cui Nome è: L'Iddio degli eserciti."
+                }
+            },
+            {
+                "capitulo": "6",
+                "libro": "amos",
+                "num_versos": 14,
+                "versos": {
+                    "1": "GUAI a quelli che sono agiati in Sion6.1 Sion Luc. 6.24,25. Giac. 5.1., e che se ne stanno sicuri nel monte di Samaria, luoghi famosi per capi di nazioni, a' quali va la casa d'Israele!",
+                    "2": "Passate in Calne, e vedete; e di là andate in Hamat la grande6.2 grande 2 Re. 18.34.; poi scendete in Gat de' Filistei; non valevano que' regni meglio di questi? non erano i lor confini maggiori de' vostri?",
+                    "3": "Voi, che allontanate il giorno malvagio6.3 malvagio Ezec. 12.27. Am. 9.10., e fate accostare il seggio della violenza6.3 violenza Sal. 94.20. Am. 5.12.;",
+                    "4": "che giacete sopra letti di avorio, e lussuriate sopra le vostre lettiere; e mangiate gli agnelli della greggia, e i vitelli tolti di mezzo della stia;",
+                    "5": "che fate concento al suon del salterio; che vi divisate degli strumenti musicali, come Davide;",
+                    "6": "che bevete il vino in bacini, e vi ungete de' più eccellenti olii odoriferi; e non sentite alcuna doglia della rottura di Giuseppe.",
+                    "7": "Perciò, ora andranno in cattività, in capo di quelli che andranno in cattività; e i conviti de' lussurianti cesseranno.",
+                    "8": "Il Signore Iddio ha giurato per l'anima sua6.8 sua Ebr. 6.13,17., dice il Signore Iddio degli eserciti: Io abbomino l'alterezza di Giacobbe, e odio i suoi palazzi, e darò in man del nemico la città, e tutto ciò che vi è dentro.",
+                    "9": "Ed avverrà che se pur dieci uomini rimangono in una casa, morranno.",
+                    "10": "E lo zio, o il cugin loro li torrà, e li brucerà, per trarre le ossa fuor della casa; e dirà a colui che sarà in fondo della casa: Evvi ancora alcuno teco? Ed esso dirà: Niuno. E colui gli dirà: Taci6.10 Taci Am. 5.13 e rif.; perciocchè egli non è tempo di ricordare il Nome del Signore.",
+                    "11": "Perciocchè, ecco, il Signore dà commissione di percuotere le case grandi di ruine, e le case piccole di rotture.",
+                    "12": "I cavalli romperanno essi le zolle su per le rocce? o vi si arerà co' buoi? conciossiachè voi abbiate cangiato il giudicio in veleno, e il frutto della giustizia in assenzio;",
+                    "13": "voi, che vi rallegrate di cose da nulla; che dite: Non abbiamo noi acquistate delle corna6.13 corna 1 Re. 22.11. con la nostra forza?",
+                    "14": "Perciocchè, ecco, io fo sorgere contro a voi, o casa d'Israele, una nazione6.14 nazione Ger. 5.15 e rif., che vi oppresserà dall'entrata di Hamat, fino al torrente del deserto6.14 deserto 1 Re. 8.65. 2 Re. 14.25., dice il Signore Iddio degli eserciti."
+                }
+            },
+            {
+                "capitulo": "7",
+                "libro": "amos",
+                "num_versos": 17,
+                "versos": {
+                    "1": "IL Signore Iddio mi fece vedere una cotal visione: Ecco, egli formava delle locuste7.1 locuste Gioel. 1.4 ecc., in sul principio dello spuntar del guaime; ed ecco del guaime, dopo le segature del re.",
+                    "2": "E come quelle finivano di mangiar l'erba della terra, io dissi: Deh! Signore Iddio, perdona; quale è Giacobbe, ch'egli possa risorgere? conciossiachè egli sia già tanto piccolo.",
+                    "3": "Il Signore si pentì di ciò7.3 ciò Deut. 32.36 e rif. Giac. 5.16.. Questo non avverrà, disse il Signore.",
+                    "4": "Poi il Signore Iddio mi fece vedere una cotal visione: Ecco, il Signore bandiva di voler contendere col fuoco; e il fuoco consumò il grande abisso; consumò anche una parte del paese.",
+                    "5": "Ed io dissi: Deh! Signore Iddio, resta; quale è Giacobbe, ch'egli possa risorgere? conciossiachè egli sia già tanto piccolo.",
+                    "6": "Il Signore si pentì di ciò. Ancora questo non avverrà, disse il Signore.",
+                    "7": "Poi egli mi fece vedere una cotal visione: Ecco, il Signore stava sopra un muro, fatto all'archipenzolo; ed avea in mano un archipenzolo.",
+                    "8": "E il Signore mi disse: Che vedi, Amos? Ed io dissi: Un archipenzolo. E il Signore disse: Ecco, io pongo l'archipenzolo per mezzo il mio popolo Israele7.8 Israele 2 Re. 21.13. Is. 34.11.; io non glielo passerò più7.8 più Am. 8.2. Mic. 7.18..",
+                    "9": "E gli alti luoghi d'Isacco saranno distrutti, e i santuarii d'Israele saranno deserti; ed io mi leverò con la spada contro alla casa di Geroboamo7.9 Geroboamo 2 Re. 15.10..",
+                    "10": "ALLORA Amasia, sacerdote di Betel7.10 Betel 1 Re. 12.32., mandò a dire a Geroboamo, re d'Israele7.10 Israele 2 Re. 14.23.: Amos ha fatta congiura contro a te, in mezzo della casa d'Israele; il paese non potrà portare tutte le sue parole.",
+                    "11": "Perciocchè, così ha detto Amos: Geroboamo morrà per la spada, e Israele sarà del tutto menato in cattività d'in su la sua terra.",
+                    "12": "Poi Amasia disse ad Amos: Veggente, va', fuggitene nel paese di Giuda; e quivi mangia del pane, e quivi profetizza.",
+                    "13": "E non profetizzar più7.13 più Am. 2.12 e rif. in Betel; perciocchè è il santuario del re, ed una stanza reale7.13 reale 1 Re. 12.29 ecc..",
+                    "14": "Ma Amos rispose, e disse ad Amasia: Io non era profeta, nè figliuol di profeta7.14 profeta 2 Re. 2.5; 4.38; 6.1.; anzi era mandriale7.14 mandriale Am. 1.1. Zac. 13.5., e andava cogliendo de' sicomori;",
+                    "15": "e il Signore mi prese di dietro alla greggia, e mi disse: Va', profetizza al mio popolo Israele.",
+                    "16": "Ora dunque, ascolta la parola del Signore. Tu dici: Non profetizzar contro ad Israele, e non istillar sopra la casa d'Isacco.",
+                    "17": "Perciò, così ha detto il Signore: La tua moglie fornicherà nella città, e i tuoi figliuoli, e le tue figliuole caderanno per la spada; e la tua terra sarà spartita con la cordicella, e tu morrai in terra immonda, e Israele sarà del tutto menato in cattività, d'in su la sua terra."
+                }
+            },
+            {
+                "capitulo": "8",
+                "libro": "amos",
+                "num_versos": 14,
+                "versos": {
+                    "1": "IL Signore Iddio mi fece vedere una cotal visione: Ecco un canestro di frutti di state.",
+                    "2": "Ed egli mi disse: Che vedi, Amos? Ed io dissi: Un canestro di frutti di state. E il Signore mi disse: Lo statuito fine è giunto al mio popolo Israele8.2 Israele Ezec. 7.2. Apoc. 14.18.; io non glielo passerò più8.2 più Am. 7.8 e rif..",
+                    "3": "E in quel giorno i canti del palazzo saranno urli, dice il Signore Iddio; vi sarà gran numero di corpi morti; in ogni luogo si udirà: Getta via, e taci8.3 taci Am. 6.9,10 e rif..",
+                    "4": "Ascoltate questo, voi che tranghiottite il bisognoso8.4 bisognoso Sal. 14.4. Prov. 30.14., e fate venir meno i poveri del paese;",
+                    "5": "dicendo: Quando saranno passate le calendi, e noi venderemo la vittuaglia? e il sabato8.5 sabato Neem. 13.15 ecc., e noi apriremo i granai del frumento? (scemando l'efa, ed accrescendo il siclo, e falsando le bilance8.5 bilance Ezec. 45.10 e rif. Os. 12.8., per ingannare;",
+                    "6": "comperando i poveri per danari, e il bisognoso per un paio di scarpe8.6 scarpe Am. 2.6 e rif.); e noi venderemo la vagliatura del frumento?",
+                    "7": "Il Signore ha giurato per la gloria di Giacobbe: Se mai in perpetuo io dimentico tutte le loro opere.",
+                    "8": "La terra non sarà ella commossa per questo? ogni suo abitatore non ne farà egli cordoglio? e non salirà ella tutta come un fiume? e non ne sarà ella portata via, e sommersa, come per lo fiume di Egitto?",
+                    "9": "Ed avverrà in quel giorno, dice il Signore Iddio, che io farò tramontare il sole nel mezzodì, e spanderò le tenebre sopra la terra in giorno chiaro8.9 chiaro Giob. 5.14. Is. 13.10; 59.9,10. Mic. 3.6..",
+                    "10": "E cangerò le vostre feste in duolo, e tutti i vostri canti in lamento; e farò che si porrà il sacco sopra tutti i lombi, e che ogni testa sarà rasa; e metterò il paese in cordoglio, quale è quel che si fa per lo figiuolo unico; e la sua fine sarà come un giorno amaro.",
+                    "11": "Ecco, i giorni vengono, dice il Signore Iddio, che io manderò la fame nel paese; non la fame di pane, nè la sete d'acqua; anzi d'udire le parole del Signore8.11 Signore 1 Sam. 3.1. Sal. 74.9. Is. 29.10. Ezec. 7.26..",
+                    "12": "Ed essi si moveranno da un mare all'altro, e dal Settentrione fino all'Oriente; andranno attorno, cercando la parola del Signore, e non la troveranno.",
+                    "13": "In quel giorno le belle vergini, e i giovani verranno meno di sete;",
+                    "14": "i quali giurano per lo misfatto di Samaria, e dicono: Come l'Iddio tuo vive, o Dan8.14 Dan 1 Re. 12.28-30.; e: Come vive il rito di Beerseba8.14 Beerseba Am. 5.5.; e caderanno, e non risorgeranno mai più."
+                }
+            },
+            {
+                "capitulo": "9",
+                "libro": "amos",
+                "num_versos": 15,
+                "versos": {
+                    "1": "IO vidi il Signore che stava in piè sopra l'altare. Ed egli disse: Percuoti il frontispicio, e sieno scrollati gli stipiti; trafiggi il capo ad essi tutti quanti; perciocchè io ucciderò con la spada il lor rimanente; niun di loro potrà salvarsi con la fuga, nè scampare.",
+                    "2": "Avvegnachè cavassero ne' luoghi più bassi sotterra, la mia mano li prenderà di là9.2 là Sal. 139.8 ecc. e rif.; ed avvegnachè salissero in cielo, io li trarrò giù di là.",
+                    "3": "Ed avvegnachè si nascondessero in su la sommità di Carmel, io li investigherò e li torrò di là; ed avvegnachè si occultassero dal mio cospetto nel fondo del mare, di là comanderò al serpente che li morda.",
+                    "4": "E se vanno in cattività davanti a' lor nemici, di là darò commissione alla spada che li uccida9.4 uccida Lev. 26.33 e rif.; e metterò l'occhio mio sopra loro in male, e non in bene.",
+                    "5": "Or il Signore Iddio degli eserciti è quel che, quando tocca la terra, ella si strugge, e tutti gli abitanti di essa fanno cordoglio; ed essa sale tutta, come un fiume; ed è sommersa, come per lo fiume di Egitto;",
+                    "6": "che edifica ne' cieli le sue sale, e che ha fondata la sua fabbrica sopra la terra; che chiama le acque del mare, e le spande sopra la faccia della terra; il cui Nome è: Il Signore9.6 Signore Am. 4.13; 5.8..",
+                    "7": "Non mi siete vio, o figliuoli d'Israele, come i figliuoli degli Etiopi9.7 Etiopi Mat. 3.9. Rom. 2.25.? dice il Signore: come io trassi Israele fuor del paese di Egitto, non ho io altresì tratti i Filistei di Caftor9.7 Caftor Deut. 2.23. Ger. 47.4., e i Siri di Chir9.7 Chir Am. 1.5 e rif.?",
+                    "8": "Ecco, gli occhi del Signore Iddio sono sopra il regno peccatore, ed io lo distruggerò d'in su la faccia della terra; salvo che io non distruggerò del tutto la casa di Giacobbe9.8 Giacobbe Ger. 30.11; 31.35,36., dice il Signore.",
+                    "9": "Perciocchè, ecco, per lo mio comandamento farò che la casa d'Israele sarà agitata fra tutte le genti, siccome il grano è dimenato nel vaglio, senza che ne caggia pure un granello in terra.",
+                    "10": "Tutti i peccatori, d'infra il mio popolo, morranno per la spada; i quali dicono: Il male non ci giugnerà, e non c'incontrerà9.10 incontrerà Am. 6.3 e rif..",
+                    "11": "In quel giorno io ridirizzerò il tabernacolo di Davide9.11 Davide Fat. 15.16,17., che sarà stato abbattuto; e riparerò le lor rotture, e ridirizzerò le lor ruine, e riedificherò quello, come era a' dì antichi.",
+                    "12": "Acciocchè quelli che si chiamano del mio nome posseggano il rimanente di Edom9.12 Edom Num. 24.18. Abd. 19., e tutte le nazioni, dice il Signore, che fa questo.",
+                    "13": "Ecco, i giorni vengono, dice il Signore, che l'aratore giungerà il mietitore, e il calcator delle uve il seminatore; e i monti stilleranno mosto, e tutti i colli si struggeranno9.13 struggeranno Lev. 26.3 ecc. Gioel. 3.18..",
+                    "14": "Ed io ritrarrò di cattività il mio popolo Israele9.14 Israele Ger. 30.3 e rif., ed essi riedificheranno le città desolate, e vi abiteranno; e pianteranno delle vigne, e ne berranno il vino; e lavoreranno de' giardini, e ne mangeranno il frutto9.14 frutto Is. 61.4; 65.21. Ezec. 36.33-36..",
+                    "15": "Ed io li pianterò in su la lor terra, e non saranno più divelti d'in su la lor terra9.15 terra Is. 60.21 e rif. Ger. 32.41., che io ho loro data, ha detto il Signore Iddio tuo."
+                }
+            }
+        ]
+    }
+}

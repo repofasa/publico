@@ -1,0 +1,33 @@
+{
+    "data": {
+        "libro": "Epistola III  di S Giovanni",
+        "abreviacion": "3Gv",
+        "testamento": "Nuovo Testamento",
+        "num_capitulos": 1,
+        "num_versos": 14,
+        "capitulos": [
+            {
+                "capitulo": "1",
+                "libro": "epistolaiiidisgiovanni",
+                "num_versos": 15,
+                "versos": {
+                    "1": "L'ANZIANO al diletto Gaio, il quale io amo in verità1.1 verità 2 Giov. 1 e rif..",
+                    "2": "Diletto, io desidero che tu prosperi in ogni cosa e stii sano, siccome l'anima tua prospera.",
+                    "3": "Perciocchè io mi son grandemente rallegrato, quando son venuti i fratelli, ed hanno reso testimonianza della tua verità, secondo che tu cammini in verità1.3 verità 2 Giov. 4..",
+                    "4": "Io non ho maggiore allegrezza di questa, d'intendere che i miei figliuoli1.4 figliuoli 1 Cor. 4.15 e rif. camminano in verità.",
+                    "5": "Diletto, tu fai da vero fedele, in ciò che tu operi inverso i fratelli1.5 fratelli Gal. 6.10., e inverso i forestieri1.5 forestieri Giob. 31.32..",
+                    "6": "I quali hanno reso testimonianza della tua carità nel cospetto della chiesa; i quali farai bene d'accomiatar degnamente, secondo Iddio.",
+                    "7": "Poichè si sono dipartiti da' Gentili per lo suo nome, senza prender nulla1.7 nulla 1 Cor. 9.12,16.;",
+                    "8": "noi adunque dobbiamo accoglier que' tali1.8 tali Mat. 10.41., acciocchè siamo aiutatori alla verità.",
+                    "9": "IO ho scritto alla chiesa; ma Diotrefe, il qual procaccia il primato fra loro, non ci riceve.",
+                    "10": "Perciò, se io vengo, ricorderò le opere ch'egli fa, cianciando di noi con malvage parole; e, non contento di questo, non solo egli non riceve i fratelli, ma ancora impedisce coloro che li vogliono ricevere, e li caccia fuor della chiesa.",
+                    "11": "Diletto, non imitare il male, ma il bene1.11 bene Is. 1.16,17. 1 Piet. 3.11.; chi fa bene è da Dio1.11 Dio 1 Giov. 2.29; 3.6,9.; ma chi fa male non ha veduto Iddio.",
+                    "12": "A Demetrio è resa testimonianza da tutti1.12 tutti 1 Tim. 3.7., e dalla verità stessa; ed ancora noi ne testimoniamo, e voi sapete che la nostra testimonianza è vera.",
+                    "13": "Io avea molte cose da scrivere, ma non voglio scrivertele con inchiostro, e con penna1.13 penna 2 Giov. 12..",
+                    "14": "Ma spero di vederti tosto, ed allora ci parleremo a bocca.",
+                    "15": "Pace sia teco."
+                }
+            }
+        ]
+    }
+}
