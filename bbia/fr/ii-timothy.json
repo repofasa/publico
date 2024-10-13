@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "II Timothy",
-        "testamento": "New Testament",
+        "libro": "2 Timothée",
+        "abreviacion": "2 Tm",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 4,
         "capitulos": [
             {

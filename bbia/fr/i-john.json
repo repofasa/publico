@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I John",
-        "testamento": "New Testament",
+        "libro": "1 Jean",
+        "abreviacion": "1 Jn",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 5,
         "capitulos": [
             {

@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Mark",
-        "testamento": "New Testament",
+        "libro": "Marc",
+        "abreviacion": "Mc",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 16,
         "capitulos": [
             {

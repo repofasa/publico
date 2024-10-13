@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "II Chronicles",
-        "testamento": "New Testament",
+        "libro": "2 Chroniques",
+        "abreviacion": "2 Ch",
+        "testamento": "Ancien Testament",
         "num_capitulos": 36,
         "capitulos": [
             {

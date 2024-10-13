@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Leviticus",
-        "testamento": "New Testament",
+        "libro": "Lévitique",
+        "abreviacion": "Lv",
+        "testamento": "Ancien Testament",
         "num_capitulos": 27,
         "capitulos": [
             {

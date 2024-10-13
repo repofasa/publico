@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I Peter",
-        "testamento": "New Testament",
+        "libro": "1 Pierre",
+        "abreviacion": "1 P",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 5,
         "capitulos": [
             {

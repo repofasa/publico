@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "James",
-        "testamento": "New Testament",
+        "libro": "Jacques",
+        "abreviacion": "Jc",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 5,
         "capitulos": [
             {

@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Numbers",
-        "testamento": "New Testament",
+        "libro": "Nombres",
+        "abreviacion": "Nb",
+        "testamento": "Ancien Testament",
         "num_capitulos": 36,
         "capitulos": [
             {

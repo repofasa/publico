@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Joshua",
-        "testamento": "New Testament",
+        "libro": "Josué",
+        "abreviacion": "Jos",
+        "testamento": "Ancien Testament",
         "num_capitulos": 24,
         "capitulos": [
             {

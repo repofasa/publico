@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Exodus",
-        "testamento": "New Testament",
+        "libro": "Exode",
+        "abreviacion": "Ex",
+        "testamento": "Ancien Testament",
         "num_capitulos": 40,
         "capitulos": [
             {

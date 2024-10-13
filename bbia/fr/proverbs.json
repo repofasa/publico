@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Proverbs",
-        "testamento": "New Testament",
+        "libro": "Proverbes",
+        "abreviacion": "Pr",
+        "testamento": "Ancien Testament",
         "num_capitulos": 31,
         "capitulos": [
             {

@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Joel",
-        "testamento": "New Testament",
+        "libro": "Joël",
+        "abreviacion": "Jl",
+        "testamento": "Ancien Testament",
         "num_capitulos": 4,
         "capitulos": [
             {

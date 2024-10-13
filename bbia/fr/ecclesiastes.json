@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Ecclesiastes",
-        "testamento": "New Testament",
+        "libro": "Ecclésiaste",
+        "abreviacion": "Ec",
+        "testamento": "Ancien Testament",
         "num_capitulos": 12,
         "capitulos": [
             {

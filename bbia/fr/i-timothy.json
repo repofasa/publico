@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I Timothy",
-        "testamento": "New Testament",
+        "libro": "1 Timothée",
+        "abreviacion": "1 Tm",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 6,
         "capitulos": [
             {

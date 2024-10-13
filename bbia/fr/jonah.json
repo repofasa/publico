@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Jonah",
-        "testamento": "New Testament",
+        "libro": "Jonas",
+        "abreviacion": "Jon",
+        "testamento": "Ancien Testament",
         "num_capitulos": 4,
         "capitulos": [
             {

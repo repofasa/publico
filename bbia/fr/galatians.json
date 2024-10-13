@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Galatians",
-        "testamento": "New Testament",
+        "libro": "Galates",
+        "abreviacion": "Ga",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 6,
         "capitulos": [
             {

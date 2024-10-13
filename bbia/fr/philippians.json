@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Philippians",
-        "testamento": "New Testament",
+        "libro": "Philippiens",
+        "abreviacion": "Ph",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 4,
         "capitulos": [
             {

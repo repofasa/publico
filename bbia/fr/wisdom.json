@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Wisdom",
-        "testamento": "New Testament",
+        "libro": "Sagesse",
+        "abreviacion": "Sg",
+        "testamento": "Ancien Testament",
         "num_capitulos": 19,
         "capitulos": [
             {

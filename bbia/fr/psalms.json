@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Psalms",
-        "testamento": "New Testament",
+       "libro": "Psaumes",
+        "abreviacion": "Ps",
+        "testamento": "Ancien Testament",
         "num_capitulos": 150,
         "capitulos": [
             {

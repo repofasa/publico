@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Tobit",
-        "testamento": "New Testament",
+        "libro": "Tobie",
+        "abreviacion": "Tb",
+        "testamento": "Ancien Testament",
         "num_capitulos": 14,
         "capitulos": [
             {

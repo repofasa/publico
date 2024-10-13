@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I Kings",
-        "testamento": "New Testament",
+        "libro": "1 Rois",
+        "abreviacion": "1 R",
+        "testamento": "Ancien Testament",
         "num_capitulos": 22,
         "capitulos": [
             {

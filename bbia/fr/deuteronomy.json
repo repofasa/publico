@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Deuteronomy",
-        "testamento": "New Testament",
+        "libro": "Deutéronome",
+        "abreviacion": "Dt",
+        "testamento": "Ancien Testament",
         "num_capitulos": 34,
         "capitulos": [
             {

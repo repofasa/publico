@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I Maccabees",
-        "testamento": "New Testament",
+        "libro": "1 Maccabées",
+        "abreviacion": "1 M",
+        "testamento": "Ancien Testament",
         "num_capitulos": 16,
         "capitulos": [
             {

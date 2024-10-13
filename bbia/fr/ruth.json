@@ -1,7 +1,8 @@
 {
     "data": {
         "libro": "Ruth",
-        "testamento": "New Testament",
+        "abreviacion": "Rt",
+        "testamento": "Ancien Testament",
         "num_capitulos": 4,
         "capitulos": [
             {

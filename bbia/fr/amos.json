@@ -1,7 +1,8 @@
 {
     "data": {
         "libro": "Amos",
-        "testamento": "New Testament",
+        "abreviacion": "Am",
+        "testamento": "Ancien Testament",
         "num_capitulos": 9,
         "capitulos": [
             {

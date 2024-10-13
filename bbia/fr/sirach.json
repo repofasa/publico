@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Sirach",
-        "testamento": "New Testament",
+        "libro": "Ecclésiastique",
+    "abreviacion": "Sir",
+    "testamento": "Ancien Testament",
         "num_capitulos": 51,
         "capitulos": [
             {

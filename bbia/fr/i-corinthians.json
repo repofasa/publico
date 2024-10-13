@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "I Corinthians",
-        "testamento": "New Testament",
+        "libro": "1 Corinthiens",
+        "abreviacion": "1 Co",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 16,
         "capitulos": [
             {

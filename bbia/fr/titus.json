@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Titus",
-        "testamento": "New Testament",
+        "libro": "Tite",
+        "abreviacion": "Tt",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 3,
         "capitulos": [
             {

@@ -1,7 +1,8 @@
 {
     "data": {
         "libro": "Baruch",
-        "testamento": "New Testament",
+        "abreviacion": "Ba",
+        "testamento": "Ancien Testament",
         "num_capitulos": 6,
         "capitulos": [
             {

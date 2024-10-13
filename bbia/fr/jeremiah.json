@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Jeremiah",
-        "testamento": "New Testament",
+        "libro": "Jérémie",
+        "abreviacion": "Jr",
+        "testamento": "Ancien Testament",
         "num_capitulos": 52,
         "capitulos": [
             {

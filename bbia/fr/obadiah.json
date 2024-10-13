@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Obadiah",
-        "testamento": "New Testament",
+        "libro": "Obdias",
+        "abreviacion": "Ab",
+        "testamento": "Ancien Testament",
         "num_capitulos": 1,
         "capitulos": [
             {

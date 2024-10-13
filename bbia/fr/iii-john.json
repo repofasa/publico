@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "III John",
-        "testamento": "New Testament",
+        "libro": "3 Jean",
+        "abreviacion": "3 Jn",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 1,
         "capitulos": [
             {

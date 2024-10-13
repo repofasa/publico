@@ -1,7 +1,8 @@
 {
     "data": {
-        "libro": "Colossians",
-        "testamento": "New Testament",
+        "libro": "Colossiens",
+        "abreviacion": "Col",
+        "testamento": "Nouveau Testament",
         "num_capitulos": 4,
         "capitulos": [
             {
