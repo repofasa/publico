@@ -1,8 +1,8 @@
 {
     "data": {
-        "libro": "Jonas",
-        "abreviacion": "Jon",
-        "testamento": "Ancien Testament",
+        "libro": "Jean",
+    "abreviacion": "Jn",
+    "testamento": "Nouveau Testament",
         "num_capitulos": 21,
         "capitulos": [
             {
