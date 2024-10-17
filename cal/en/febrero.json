@@ -1,0 +1,245 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la IV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - La Presentación del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde- Sábado de la IV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Rojo - San Blas, obispo y mártir",
+                "3": "(Memoria facultativa) - Color: Blanco - San Óscar, obispo",
+                "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- V Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - San Felipe de Jesús, mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Pablo Miki y compañeros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la V Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la V Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Jerónimo Emiliano",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa Josefina Bakhita, virgen"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde- Viernes de la V Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Escolástica, virgen"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- VI Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde- Lunes de la VI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la VI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 14,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de Ceniza"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 15,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves después de Ceniza"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 16,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes después de Ceniza"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 17,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado después de Ceniza",
+                "2": "(Conmemoración facoltativa) - Color: Morado - Los Santos Siete Fundadores de la Orden de los Servitas"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 18,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - I Domingo de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 19,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 20,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 21,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la I Semana de Cuaresma",
+                "2": "(Conmemoración facoltativa) - Color: Morado - San Pedro Damián, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 22,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - La Cátedra de San Pedro, apóstol"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 23,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la I Semana de Cuaresma",
+                "2": "(Conmemoración facoltativa) - Color: Morado - San Policarpo, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 24,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 25,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - II Domingo de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 26,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la II Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 27,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la II Semana de Cuaresma",
+                "2": "(Conmemoración facoltativa) - Color: Morado - San Gregorio de Narek, abad y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 28,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la II Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 29,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la II Semana de Cuaresma"
+            }
+        }
+    ]
+}
