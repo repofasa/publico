@@ -1,0 +1,254 @@
+{
+    "noviembre": [
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Todos los Santos"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado/Blanco/Negro - Conmemoración de todos los Fieles Difuntos"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XXXI Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Carlos Borromeo, obispo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la XXXI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XXXI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la XXXI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde- Viernes de la XXXI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - La Dedicación de la Basílica de Letrán"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XXXII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Martín de Tours, obispo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Josafat, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XXXII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la XXXII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde- Viernes de la XXXII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Alberto Magno, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde- Sábado de la XXXII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa Gertrudis, virgen",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa Margarita de Escocia",
+                "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XXXIII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde- Lunes de la XXXIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - La Dedicación de las Basílicas de los Santos Pedro y Pablo, apóstoles"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la XXXIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XXXIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - La Presentación de la Santísima Virgen María"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Cecilia, virgen y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde- Sábado de la XXXIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Rojo - Beato Miguel Agustín Pro, presbítero y mártir",
+                "3": "(Memoria facultativa) - Color: Rojo - San Clemente I, papa y mártir",
+                "4": "(Memoria facultativa) - Color: Blanco - San Columbano, abad",
+                "5": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Nuestro Señor Jesucristo, Rey del Universo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde- Lunes de la XXXIV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Rojo - Santa Catalina de Alejandría, virgen y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la XXXIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XXXIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la XXXIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde- Viernes de la XXXIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - San Andrés, apóstol"
+            }
+        }
+    ]
+}
