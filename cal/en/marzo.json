@@ -1,258 +1,258 @@
 {
-    "marzo": [
+    "march": [
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 1,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la II Semana de Cuaresma"
+                "1": "Color: Purple - Friday of the Second Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 2,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado de la II Semana de Cuaresma"
+                "1": "Color: Purple - Saturday of the Second Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 3,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - III Domingo de Cuaresma"
+                "1": "Color: Purple - Third Sunday of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 4,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la III Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Casimiro"
+                "1": "Color: Purple - Monday of the Third Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saint Casimir"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 5,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes de la III Semana de Cuaresma"
+                "1": "Color: Purple - Tuesday of the Third Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 6,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la III Semana de Cuaresma"
+                "1": "Color: Purple - Wednesday of the Third Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 7,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves de la III Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - Santas Perpetua y Felicidad, mártires"
+                "1": "Color: Purple - Thursday of the Third Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saints Perpetua and Felicity, Martyrs"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 8,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la III Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Juan de Dios, religioso"
+                "1": "Color: Purple - Friday of the Third Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saint John of God, Religious"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 9,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado de la III Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - Santa Francisca Romana, religiosa"
+                "1": "Color: Purple - Saturday of the Third Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saint Frances of Rome, Religious"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 10,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Rosa / Morado - IV Domingo de Cuaresma «Laetare»"
+                "1": "Color: Rose / Purple - Fourth Sunday of Lent «Laetare»"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 11,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Monday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 12,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Tuesday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 13,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Wednesday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 14,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Thursday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 15,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Friday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 16,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado de la IV Semana de Cuaresma"
+                "1": "Color: Purple - Saturday of the Fourth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 17,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - V Domingo de Cuaresma"
+                "1": "Color: Purple - Fifth Sunday of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 18,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la V Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Cirilo de Jerusalén, obispo y doctor de la Iglesia"
+                "1": "Color: Purple - Monday of the Fifth Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saint Cyril of Jerusalem, Bishop and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 19,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - San José, esposo de la Bienaventurada Virgen María"
+                "1": "(Solemnity) - Color: White - Saint Joseph, Husband of the Blessed Virgin Mary"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 20,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la V Semana de Cuaresma"
+                "1": "Color: Purple - Wednesday of the Fifth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 21,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves de la V Semana de Cuaresma"
+                "1": "Color: Purple - Thursday of the Fifth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 22,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la V Semana de Cuaresma"
+                "1": "Color: Purple - Friday of the Fifth Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 23,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado de la V Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - Santo Toribio de Mogrovejo, obispo"
+                "1": "Color: Purple - Saturday of the Fifth Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - Saint Toribio de Mogrovejo, Bishop"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 24,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Rojo - Domingo de Ramos en la Pasión del Señor"
+                "1": "Color: Red - Palm Sunday in the Passion of the Lord"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 25,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes Santo"
+                "1": "Color: Purple - Holy Monday"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 26,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes Santo"
+                "1": "Color: Purple - Holy Tuesday"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 27,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles Santo"
+                "1": "Color: Purple - Holy Wednesday"
             }
         },
         {
-            "tiempo": "Triduo Pascual",
+            "tiempo": "Paschal Triduum",
             "dia-num": 28,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Blanco - Jueves Santo en la Cena del Señor"
+                "1": "Color: White - Holy Thursday at the Lord's Supper"
             }
         },
         {
-            "tiempo": "Triduo Pascual",
+            "tiempo": "Paschal Triduum",
             "dia-num": 29,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Rojo - Viernes Santo en la Pasión del Señor"
+                "1": "Color: Red - Good Friday in the Passion of the Lord"
             }
         },
         {
-            "tiempo": "Triduo Pascual",
+            "tiempo": "Paschal Triduum",
             "dia-num": 30,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Blanco - Sábado Santo de la Sepultura del Señor"
+                "1": "Color: White - Holy Saturday of the Lord's Burial"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 31,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Blanco - Domingo de Pascua de la Resurrección del Señor"
+                "1": "Color: White - Easter Sunday of the Resurrection of the Lord"
             }
         }
-    ]
+    ]    
 }

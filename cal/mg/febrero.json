@@ -1,0 +1,245 @@
+{
+    "febroary": [
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 1,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro fahefatra amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 2,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Fampisehoana ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 3,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Sabotsy amin'ny herinandro fahefatra amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Mena - Masindahy Blas, eveka sy martiry",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Óscar, eveka",
+                "4": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny Sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 4,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady fahadimy amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 5,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Felipe de Jesús, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 6,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Mena - Masindahy Pablo Miki sy ireo namany, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 7,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro fahadimy amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 8,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro fahadimy amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Jerónimo Emiliani",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Josefina Bakhita, virjiny"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 9,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny herinandro fahadimy amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 10,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masindahy Escolástica, virjiny"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 11,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady fahenina amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 12,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro fahenina amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 13,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro fahenina amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 14,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia lavenona"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 15,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alakamisy aorian'ny Alarobia lavenona"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 16,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Volomparasy - Zoma aorian'ny Alarobia lavenona"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 17,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Sabotsy aorian'ny Alarobia lavenona",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Volomparasy - Masindahy fito nanorina ny Fikambanan'ny Servita"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 18,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alahady voalohany amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 19,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alatsinainy amin'ny herinandro voalohany amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 20,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Volomparasy - Talata amin'ny herinandro voalohany amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 21,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia amin'ny herinandro voalohany amin'ny Karemy",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Volomparasy - Masindahy Pierre Damien, eveka sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 22,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Fipetrahana amin'ny seza fiandrianan'i Masindahy Piera, apostoly"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 23,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Volomparasy - Zoma amin'ny herinandro voalohany amin'ny Karemy",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Volomparasy - Masindahy Policarpo, eveka sy martiry"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 24,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Sabotsy amin'ny herinandro voalohany amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 25,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alahady faharoa amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 26,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alatsinainy amin'ny herinandro faharoa amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 27,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Volomparasy - Talata amin'ny herinandro faharoa amin'ny Karemy",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Volomparasy - Masindahy Grégoire avy any Narek, abad sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 28,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia amin'ny herinandro faharoa amin'ny Karemy"
+            }
+        },
+        {
+            "tiempo": "Karemy",
+            "dia-num": 29,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alakamisy amin'ny herinandro faharoa amin'ny Karemy"
+            }
+        }
+    ]
+}

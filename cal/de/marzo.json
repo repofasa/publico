@@ -1,0 +1,258 @@
+{
+    "märz": [
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 1,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der II. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 2,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der II. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 3,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Lila - III. Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 4,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der III. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heiliger Kasimir"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 5,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der III. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 6,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der III. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 7,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der III. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heilige Perpetua und Felicitas, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 8,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der III. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heiliger Johannes von Gott, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 9,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der III. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heilige Franziska Romana, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 10,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Rosa / Lila - IV. Sonntag der Fastenzeit «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 11,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 12,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 13,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 14,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 15,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 16,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der IV. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 17,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Lila - V. Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 18,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der V. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heiliger Kyrill von Jerusalem, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 19,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Heiliger Josef, Ehemann der Seligen Jungfrau Maria"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 20,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der V. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 21,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der V. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 22,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der V. Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 23,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der V. Woche der Fastenzeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Lila - Heiliger Toribio von Mogrovejo, Bischof"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 24,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Rot - Palmsonntag in der Passion des Herrn"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 25,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Heiliger Montag"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 26,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Heiliger Dienstag"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 27,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Heiliger Mittwoch"
+            }
+        },
+        {
+            "tiempo": "Österliches Triduum",
+            "dia-num": 28,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Gründonnerstag beim Abendmahl des Herrn"
+            }
+        },
+        {
+            "tiempo": "Österliches Triduum",
+            "dia-num": 29,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Rot - Karfreitag in der Passion des Herrn"
+            }
+        },
+        {
+            "tiempo": "Österliches Triduum",
+            "dia-num": 30,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Karsamstag der Grablegung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 31,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - Ostersonntag in der Auferstehung des Herrn"
+            }
+        }
+    ]
+}

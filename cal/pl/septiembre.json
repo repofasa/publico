@@ -1,0 +1,257 @@
+{
+    "wrzesień": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Błogosławiony Bartłomiej Gutiérrez, prezbiter i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Grzegorz Wielki, papież i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXIII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Piotr Klawer, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXIII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXIII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Najświętsze Imię Maryi"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Jan Chryzostom, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXIV Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święci Korneliusz, papież, i Cyprian, biskup, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXIV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Robert Bellarmin, biskup i doktor Kościoła",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święta Hildegarda z Bingen, dziewica i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXIV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXIV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święty January, biskup i męczennik",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święty Józef Maria de Yermo y Parres, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święci Andrzej Kim Taegon, prezbiter, Paweł Chong Hasang, i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Mateusz, apostoł i ewangelista"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXV Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Pio z Pietrelciny, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święci Kosma i Damian, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Wincenty à Paulo, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święty Wacław, męczennik",
+                "3": "(Wspomnienie dowolne) - Kolor: Czerwony - Święci Wawrzyniec Ruiz i towarzysze, męczennicy",
+                "4": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXVI Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Hieronim, prezbiter i doktor Kościoła"
+            }
+        }
+    ]
+}

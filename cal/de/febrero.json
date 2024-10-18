@@ -1,0 +1,245 @@
+{
+    "februar": [
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 1,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der IV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 2,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Darstellung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 3,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der IV. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Erinnerung) - Farbe: Rot - Heiliger Blasius, Bischof und Märtyrer",
+                "3": "(Fakultative Erinnerung) - Farbe: Weiß - Heiliger Oscar, Bischof",
+                "4": "(Fakultative Erinnerung) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 4,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - V. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 5,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Philipp von Jesus, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 6,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Verpflichtende Erinnerung) - Farbe: Rot - Heilige Paulus Miki und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 7,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der V. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 8,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der V. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Erinnerung) - Farbe: Weiß - Heiliger Hieronymus Emiliani",
+                "3": "(Fakultative Erinnerung) - Farbe: Weiß - Heilige Josephine Bakhita, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 9,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der V. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 10,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Verpflichtende Erinnerung) - Farbe: Weiß - Heilige Scholastika, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 11,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - VI. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 12,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der VI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 13,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der VI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 14,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Aschermittwoch"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 15,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag nach Aschermittwoch"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 16,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag nach Aschermittwoch"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 17,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag nach Aschermittwoch",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Lila - Die Heiligen Sieben Gründer des Servitenordens"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 18,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Lila - Erster Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 19,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der ersten Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 20,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der ersten Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 21,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der ersten Fastenwoche",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Lila - Heiliger Petrus Damian, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 22,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Der Stuhl des Heiligen Petrus, Apostel"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 23,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der ersten Fastenwoche",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Lila - Heiliger Polykarp, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 24,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der ersten Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 25,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Lila - Zweiter Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 26,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der zweiten Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 27,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der zweiten Fastenwoche",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Lila - Heiliger Gregor von Narek, Abt und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 28,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der zweiten Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 29,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der zweiten Fastenwoche"
+            }
+        }
+    ]
+}

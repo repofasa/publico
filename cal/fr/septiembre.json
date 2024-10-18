@@ -1,0 +1,257 @@
+{
+    "septembre": [
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Domingo",
+            "festival": {
+                "1": "Couleur : Vert - XXII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Lunes",
+            "festival": {
+                "1": "Couleur: Vert - Lunes de la XXII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Rojo - Bienheureux Bartolomé Gutiérrez, presbítero y mártir"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Martes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Blanco - San Gregorio Magno, papa y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Miércoles",
+            "festival": {
+                "1": "Couleur : Vert - Miércoles de la XXII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Jueves",
+            "festival": {
+                "1": "Couleur : Vert - Jueves de la XXII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Viernes",
+            "festival": {
+                "1": "Couleur : Vert - Viernes de la XXII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Sábado",
+            "festival": {
+                "1": "Couleur : Vert - Sábado de la XXII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Domingo",
+            "festival": {
+                "1": "Couleur: Vert - XXIII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Lunes",
+            "festival": {
+                "1": "Couleur: Vert - Lunes de la XXIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Blanco - San Pedro Claver, presbítero"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Martes",
+            "festival": {
+                "1": "Couleur : Vert - Martes de la XXIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Miércoles",
+            "festival": {
+                "1": "Couleur : Vert - Miércoles de la XXIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Jueves",
+            "festival": {
+                "1": "Couleur : Vert - Jueves de la XXIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Blanco - El Santísimo Nombre de María"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Viernes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Blanco - San Juan Crisóstomo, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Sábado",
+            "festival": {
+                "1": "Couleur : Vert - Sábado de la XXIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Domingo",
+            "festival": {
+                "1": "Couleur : Vert - XXIV Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Lunes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Rojo - Santos Cornelio, papa, y Cipriano, obispo, mártires"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Martes",
+            "festival": {
+                "1": "Couleur : Vert - Martes de la XXIV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Blanco - San Roberto Belarmino, obispo y doctor de la Iglesia",
+                "3": "(Memoria facultativa) - Couleur: Blanco - Santa Hildegarda de Bingen, virgen y doctora de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Miércoles",
+            "festival": {
+                "1": "Couleur : Vert - Miércoles de la XXIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Jueves",
+            "festival": {
+                "1": "Couleur : Vert - Jueves de la XXIV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur : Rojo - San Jenaro, obispo y mártir",
+                "3": "(Memoria facultativa) - Couleur: Blanco - San José Maria de Yermo y Parres, presbítero"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Viernes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Rojo - Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang, y compañeros, mártires"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Sábado",
+            "festival": {
+                "1": "(Fiesta) - Couleur : Rojo - San Mateo, apôtre et évangéliste"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Domingo",
+            "festival": {
+                "1": "Couleur : Vert - XXV Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Lunes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Blanco - San Pío de Pietrelcina, presbítero"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Martes",
+            "festival": {
+                "1": "Couleur : Vert - Martes de la XXV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Miércoles",
+            "festival": {
+                "1": "Couleur : Vert - Miércoles de la XXV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Jueves",
+            "festival": {
+                "1": "Couleur : Vert - Jueves de la XXV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur: Rojo - Santos Cosme y Damián, mártires"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Viernes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Blanco - San Vicente de Paúl, presbítero"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Sábado",
+            "festival": {
+                "1": "Couleur : Vert - Sábado de la XXV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Couleur : Rojo - San Wenceslao, mártir",
+                "3": "(Memoria facultativa) - Couleur: Rojo - Santos Lorenzo Ruiz y compañeros, mártires",
+                "4": "(Memoria facultativa) - Couleur: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Domingo",
+            "festival": {
+                "1": "Couleur : Vert - XXVI Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Temps ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Lunes",
+            "festival": {
+                "1": "(Memoria obligatoria) - Couleur: Blanco - San Jerónimo, presbítero et doctor de la Iglesia"
+            }
+        }
+    ]
+}

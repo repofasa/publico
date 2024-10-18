@@ -1,0 +1,258 @@
+{
+    "Marzo": [
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 1,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della Seconda Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 2,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della Seconda Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 3,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Viola - Terza Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 4,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della Terza Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Casimiro"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 5,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della Terza Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 6,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della Terza Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 7,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della Terza Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - Sante Perpetua e Felicidad, martiri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 8,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della Terza Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Giovanni di Dio, religioso"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 9,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della Terza Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - Santa Francisca Romana, religiosa"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 10,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Rosa/Viola - IV Domenica di Quaresima «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 11,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 12,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 13,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 14,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 15,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 16,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della IV Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 17,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Viola - V Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 18,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della V Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Cirillo di Gerusalemme, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 19,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - San Giuseppe, sposo della Beata Vergine Maria"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 20,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della V Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 21,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della V Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 22,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della V Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 23,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della V Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - Santo Toribio de Mogrovejo, vescovo"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 24,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Rosso - Domenica delle Palme nella Passione del Signore"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 25,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì Santo"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 26,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì Santo"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 27,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì Santo"
+            }
+        },
+        {
+            "tiempo": "Triduo pasquale",
+            "dia-num": 28,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì Santo nella Cena del Signore"
+            }
+        },
+        {
+            "tiempo": "Triduo pasquale",
+            "dia-num": 29,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Rosso - Venerdì Santo nella Passione del Signore"
+            }
+        },
+        {
+            "tiempo": "Triduo pasquale",
+            "dia-num": 30,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato Santo della Sepoltura del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 31,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Bianco - Domenica di Pasqua della Risurrezione del Signore"
+            }
+        }
+    ]
+}

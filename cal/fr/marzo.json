@@ -1,0 +1,258 @@
+{
+    "mars": [
+        {
+            "tiempo": "Carême",
+            "dia-num": 1,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la IIe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 2,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la IIe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 3,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Violet - IIIe Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 4,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Violet - Lundi de la IIIe Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Saint Casimir"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 5,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - Mardi de la IIIe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 6,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la IIIe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 7,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet - Jeudi de la IIIe Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Sainte Perpétue et Sainte Félicité, martyrs"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 8,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la IIIe Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Saint Jean de Dieu, religieux"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 9,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la IIIe Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Sainte Françoise Romaine, religieuse"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 10,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Rose / Violet - IVe Dimanche de Carême «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 11,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Violet - Lundi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 12,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - Mardi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 13,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 14,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet - Jeudi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 15,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 16,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la IVe Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 17,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Violet - Ve Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 18,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Violet - Lundi de la Ve Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Saint Cyrille de Jérusalem, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 19,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur: Blanc - Saint Joseph, époux de la Bienheureuse Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 20,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la Ve Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 21,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet - Jeudi de la Ve Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 22,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la Ve Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 23,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la Ve Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur: Violet - Saint Toribio de Mogrovejo, évêque"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 24,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Rouge - Dimanche des Rameaux dans la Passion du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 25,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Violet - Lundi Saint"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 26,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - Mardi Saint"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 27,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi Saint"
+            }
+        },
+        {
+            "tiempo": "Triduum Pascal",
+            "dia-num": 28,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi Saint à la Cène du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Triduum Pascal",
+            "dia-num": 29,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Rouge - Vendredi Saint dans la Passion du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Triduum Pascal",
+            "dia-num": 30,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi Saint de la Mise au Tombeau du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 31,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - Dimanche de Pâques"
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "april": [
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 1,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Montag in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 2,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Dienstag in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 3,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Mittwoch in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 4,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Donnerstag in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 5,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Freitag in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 6,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Samstag in der Osteroktav"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 7,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - Zweiter Sonntag der Osterzeit oder Sonntag der göttlichen Barmherzigkeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 8,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Verkündigung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 9,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der zweiten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 10,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der zweiten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 11,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Rot - Heiliger Stanislaus, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 12,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der zweiten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 13,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der zweiten Osterwoche",
+                "2": "(Wahlgedenktag) - Farbe: Rot - Heiliger Martin I., Papst und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 14,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dritter Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 15,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 16,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 17,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 18,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 19,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 20,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der dritten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 21,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - Vierter Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 22,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der vierten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 23,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der vierten Osterwoche",
+                "2": "(Wahlgedenktag) - Farbe: Rot - Heiliger Adalbert, Bischof und Märtyrer",
+                "3": "(Wahlgedenktag) - Farbe: Rot - Heiliger Georg, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 24,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der vierten Osterwoche",
+                "2": "(Wahlgedenktag) - Farbe: Rot - Heiliger Fidelis von Sigmaringen, Priester und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 25,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Markus, Evangelist"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 26,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der vierten Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 27,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der vierten Osterwoche",
+                "2": "(Wahlgedenktag) - Farbe: Weiß - Heilige Maria Guadalupe Garcia Zavala, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 28,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - Fünfter Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 29,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Heilige Katharina von Siena, Jungfrau und Kirchenlehrerin"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 30,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der fünften Osterwoche",
+                "2": "(Wahlgedenktag) - Farbe: Weiß - Heiliger Pius V., Papst"
+            }
+        }
+    ]
+}

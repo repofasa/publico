@@ -1,252 +1,252 @@
 {
-    "junio": [
+    "june": [
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 1,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Justino, mártir"
+                "1": "(Obligatory Memorial) - Color: Red - Saint Justin, Martyr"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 2,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- IX Domingo del Tiempo Ordinario"
+                "1": "Color: Green - IX Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 3,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Carlos Luanga y compañeros, mártires"
+                "1": "(Obligatory Memorial) - Color: Red - Saints Charles Lwanga and Companions, Martyrs"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 4,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Verde- Martes de la IX Semana del Tiempo Ordinario"
+                "1": "Color: Green - Tuesday of the IX Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 5,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Bonifacio, obispo y mártir"
+                "1": "(Obligatory Memorial) - Color: Red - Saint Boniface, Bishop and Martyr"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 6,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Verde- Jueves de la IX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Norberto, obispo"
+                "1": "Color: Green - Thursday of the IX Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Norbert, Bishop"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 7,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - El Sagrado Corazón de Jesús"
+                "1": "(Solemnity) - Color: White - The Sacred Heart of Jesus"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 8,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - El Inmaculado Corazón de María"
+                "1": "(Obligatory Memorial) - Color: White - The Immaculate Heart of Mary"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 9,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- X Domingo del Tiempo Ordinario"
+                "1": "Color: Green - X Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 10,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Verde- Lunes de la X Semana del Tiempo Ordinario"
+                "1": "Color: Green - Monday of the X Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 11,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Bernabé, apóstol"
+                "1": "(Obligatory Memorial) - Color: Red - Saint Barnabas, Apostle"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 12,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la X Semana del Tiempo Ordinario"
+                "1": "Color: Green - Wednesday of the X Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 13,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Antonio de Padua, presbítero y doctor de la Iglesia"
+                "1": "(Obligatory Memorial) - Color: White - Saint Anthony of Padua, Priest and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 14,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Verde- Viernes de la X Semana del Tiempo Ordinario"
+                "1": "Color: Green - Friday of the X Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 15,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Verde- Sábado de la X Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+                "1": "Color: Green - Saturday of the X Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 16,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- XI Domingo del Tiempo Ordinario"
+                "1": "Color: Green - XI Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 17,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Verde- Lunes de la XI Semana del Tiempo Ordinario"
+                "1": "Color: Green - Monday of the XI Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 18,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Verde- Martes de la XI Semana del Tiempo Ordinario"
+                "1": "Color: Green - Tuesday of the XI Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 19,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la XI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Romualdo, abad"
+                "1": "Color: Green - Wednesday of the XI Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Romuald, Abbot"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 20,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Verde- Jueves de la XI Semana del Tiempo Ordinario"
+                "1": "Color: Green - Thursday of the XI Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 21,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Luis Gonzaga, religioso"
+                "1": "(Obligatory Memorial) - Color: White - Saint Aloysius Gonzaga, Religious"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 22,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Verde- Sábado de la XI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Paulino de Nola, obispo",
-                "3": "(Memoria facultativa) - Color: Rojo - Santos Juan Fisher, obispo, y Tomás Moro, mártires",
-                "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+                "1": "Color: Green - Saturday of the XI Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Paulinus of Nola, Bishop",
+                "3": "(Optional Memorial) - Color: Red - Saints John Fisher, Bishop, and Thomas More, Martyrs",
+                "4": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 23,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- XII Domingo del Tiempo Ordinario"
+                "1": "Color: Green - XII Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 24,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - El Nacimiento de San Juan Bautista"
+                "1": "(Solemnity) - Color: White - The Nativity of Saint John the Baptist"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 25,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Verde- Martes de la XII Semana del Tiempo Ordinario"
+                "1": "Color: Green - Tuesday of the XII Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 26,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la XII Semana del Tiempo Ordinario"
+                "1": "Color: Green - Wednesday of the XII Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 27,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Verde- Jueves de la XII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora del Perpetuo Socorro",
-                "3": "(Memoria facultativa) - Color: Blanco - San Cirilo de Alejandría, obispo y doctor de la Iglesia"
+                "1": "Color: Green - Thursday of the XII Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Perpetual Help",
+                "3": "(Optional Memorial) - Color: White - Saint Cyril of Alexandria, Bishop and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 28,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Ireneo, obispo, mártir y doctor de la Iglesia"
+                "1": "(Obligatory Memorial) - Color: Red - Saint Irenaeus, Bishop, Martyr, and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 29,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Rojo - Santos Pedro y Pablo, apóstoles"
+                "1": "(Solemnity) - Color: Red - Saints Peter and Paul, Apostles"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 30,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- XIII Domingo del Tiempo Ordinario"
+                "1": "Color: Green - XIII Sunday in Ordinary Time"
             }
-        }
+        }        
     ]
 }

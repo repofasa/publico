@@ -1,0 +1,254 @@
+{
+    "novembro": [
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 1,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Todos os Santos"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 2,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo/Branco/Preto - Comemoração de todos os Fiéis Defuntos"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 3,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XXXI Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 4,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Carlos Borromeu, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 5,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da XXXI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 6,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XXXI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 7,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da XXXI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 8,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Sexta-feira da XXXI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 9,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - A Dedicação da Basílica de Latrão"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 10,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XXXII Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Martinho de Tours, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Josafá, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XXXII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da XXXII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Sexta-feira da XXXII Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - São Alberto Magno, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde- Sábado da XXXII Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Gertrudes, virgem",
+                "3": "(Memória facultativa) - Cor: Branco - Santa Margarida da Escócia",
+                "4": "(Memória facultativa) - Cor: Branco - Santa Maria no sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XXXIII Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 18,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde- Segunda-feira da XXXIII Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - A Dedicação das Basílicas dos Santos Pedro e Paulo, apóstolos"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 19,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da XXXIII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 20,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XXXIII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 21,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - A Apresentação da Santíssima Virgem Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 22,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santa Cecília, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 23,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde- Sábado da XXXIII Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Vermelho - Beato Miguel Agostinho Pro, presbítero e mártir",
+                "3": "(Memória facultativa) - Cor: Vermelho - São Clemente I, papa e mártir",
+                "4": "(Memória facultativa) - Cor: Branco - São Columbano, abade",
+                "5": "(Memória facultativa) - Cor: Branco - Santa Maria no sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 24,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Nosso Senhor Jesus Cristo, Rei do Universo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde- Segunda-feira da XXXIV Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Vermelho - Santa Catarina de Alexandria, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da XXXIV Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XXXIV Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da XXXIV Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Sexta-feira da XXXIV Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São André, apóstolo"
+            }
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "januar": [
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 1,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Heilige Maria, Mutter Gottes"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 2,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedenken) - Farbe: Weiß - Heilige Basilius der Große und Gregor von Nazianz, Bischöfe und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 3,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der II. Woche der Weihnachtszeit",
+                "2": "(Optionales Gedenken) - Farbe: Weiß - Der Heiligste Name Jesu"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 4,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der II. Woche der Weihnachtszeit"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 5,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der II. Woche der Weihnachtszeit"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 6,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der II. Woche der Weihnachtszeit"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 7,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Die Epiphanie des Herrn"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 8,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Taufe des Herrn"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 9,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der I. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 10,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der I. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 11,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der I. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 12,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der I. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 13,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der I. Woche in der Ordentlichen Zeit",
+                "2": "(Optionales Gedenken) - Farbe: Weiß - Heiliger Hilarius, Bischof und Kirchenlehrer",
+                "3": "(Optionales Gedenken) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 14,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - II. Sonntag in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 15,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der II. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 16,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der II. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 17,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Verpflichtendes Gedenken) - Farbe: Weiß - Heiliger Antonius, Abt"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 18,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der II. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 19,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der II. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 20,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der II. Woche in der Ordentlichen Zeit",
+                "2": "(Optionales Gedenken) - Farbe: Rot - Heiliger Fabian, Papst und Märtyrer",
+                "3": "(Optionales Gedenken) - Farbe: Rot - Heiliger Sebastian, Märtyrer",
+                "4": "(Optionales Gedenken) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 21,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - III. Sonntag in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 22,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der III. Woche in der Ordentlichen Zeit",
+                "2": "(Optionales Gedenken) - Farbe: Rot - Heiliger Vincent, Diakon und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 23,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der III. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 24,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Verpflichtendes Gedenken) - Farbe: Weiß - Heiliger Franz von Sales, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 25,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Bekehrung des heiligen Paulus, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 26,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedenken) - Farbe: Weiß - Heilige Timotheus und Titus, Bischöfe"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 27,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der III. Woche in der Ordentlichen Zeit",
+                "2": "(Optionales Gedenken) - Farbe: Weiß - Heilige Angela Merici, Jungfrau",
+                "3": "(Optionales Gedenken) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 28,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - IV. Sonntag in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 29,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der IV. Woche in der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 30,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der IV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 31,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Weiß - Heiliger Johannes Bosco, Priester"
+            }
+        }
+    ]
+}

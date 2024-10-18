@@ -1,244 +1,244 @@
 {
-    "febrero": [
+    "february": [
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 1,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Verde- Jueves de la IV Semana del Tiempo Ordinario"
+                "1": "Color: Green - Thursday of the IV Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 2,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Presentación del Señor"
+                "1": "(Feast) - Color: White - The Presentation of the Lord"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 3,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Verde- Sábado de la IV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - San Blas, obispo y mártir",
-                "3": "(Memoria facultativa) - Color: Blanco - San Óscar, obispo",
-                "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+                "1": "Color: Green - Saturday of the IV Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - St. Blase, Bishop and Martyr",
+                "3": "(Optional Memorial) - Color: White - St. Oscar, Bishop",
+                "4": "(Optional Memorial) - Color: White - St. Mary on Saturday"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 4,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- V Domingo del Tiempo Ordinario"
+                "1": "Color: Green - V Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 5,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Felipe de Jesús, mártir"
+                "1": "(Feast) - Color: Red - St. Philip of Jesus, Martyr"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 6,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Pablo Miki y compañeros, mártires"
+                "1": "(Mandatory Memorial) - Color: Red - Sts. Paul Miki and Companions, Martyrs"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 7,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la V Semana del Tiempo Ordinario"
+                "1": "Color: Green - Wednesday of the V Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 8,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Verde- Jueves de la V Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Jerónimo Emiliano",
-                "3": "(Memoria facultativa) - Color: Blanco - Santa Josefina Bakhita, virgen"
+                "1": "Color: Green - Thursday of the V Week in Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - St. Jerome Emiliani",
+                "3": "(Optional Memorial) - Color: White - St. Josephine Bakhita, Virgin"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 9,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Verde- Viernes de la V Semana del Tiempo Ordinario"
+                "1": "Color: Green - Friday of the V Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 10,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Escolástica, virgen"
+                "1": "(Mandatory Memorial) - Color: White - St. Scholastica, Virgin"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 11,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Verde- VI Domingo del Tiempo Ordinario"
+                "1": "Color: Green - VI Sunday in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 12,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Verde- Lunes de la VI Semana del Tiempo Ordinario"
+                "1": "Color: Green - Monday of the VI Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 13,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Verde- Martes de la VI Semana del Tiempo Ordinario"
+                "1": "Color: Green - Tuesday of the VI Week in Ordinary Time"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 14,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de Ceniza"
+                "1": "Color: Purple - Ash Wednesday"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 15,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves después de Ceniza"
+                "1": "Color: Purple - Thursday after Ash Wednesday"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 16,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes después de Ceniza"
+                "1": "Color: Purple - Friday after Ash Wednesday"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 17,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado después de Ceniza",
-                "2": "(Conmemoración facoltativa) - Color: Morado - Los Santos Siete Fundadores de la Orden de los Servitas"
+                "1": "Color: Purple - Saturday after Ash Wednesday",
+                "2": "(Optional Commemoration) - Color: Purple - The Seven Holy Founders of the Servite Order"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 18,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - I Domingo de Cuaresma"
+                "1": "Color: Purple - I Sunday of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 19,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la I Semana de Cuaresma"
+                "1": "Color: Purple - Monday of the I Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 20,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes de la I Semana de Cuaresma"
+                "1": "Color: Purple - Tuesday of the I Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 21,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la I Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Pedro Damián, obispo y doctor de la Iglesia"
+                "1": "Color: Purple - Wednesday of the I Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - St. Peter Damian, Bishop and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 22,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Cátedra de San Pedro, apóstol"
+                "1": "(Feast) - Color: White - The Chair of St. Peter, Apostle"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 23,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la I Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Policarpo, obispo y mártir"
+                "1": "Color: Purple - Friday of the I Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - St. Polycarp, Bishop and Martyr"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 24,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Sábado de la I Semana de Cuaresma"
+                "1": "Color: Purple - Saturday of the I Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 25,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - II Domingo de Cuaresma"
+                "1": "Color: Purple - II Sunday of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 26,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la II Semana de Cuaresma"
+                "1": "Color: Purple - Monday of the II Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 27,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes de la II Semana de Cuaresma",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Gregorio de Narek, abad y doctor de la Iglesia"
+                "1": "Color: Purple - Tuesday of the II Week of Lent",
+                "2": "(Optional Commemoration) - Color: Purple - St. Gregory of Narek, Abbot and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 28,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la II Semana de Cuaresma"
+                "1": "Color: Purple - Wednesday of the II Week of Lent"
             }
         },
         {
-            "tiempo": "Cuaresma",
+            "tiempo": "Lent",
             "dia-num": 29,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves de la II Semana de Cuaresma"
+                "1": "Color: Purple - Thursday of the II Week of Lent"
             }
         }
     ]

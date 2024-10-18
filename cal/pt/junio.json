@@ -1,0 +1,252 @@
+{
+    "junho": [
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Justino, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- IX Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 3,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santos Carlos Lwanga e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 4,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da IX Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 5,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Bonifácio, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 6,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da IX Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - São Norberto, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 7,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Sagrado Coração de Jesus"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Imaculado Coração de Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- X Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 10,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde- Segunda-feira da X Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Barnabé, apóstolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da X Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Santo Antônio de Pádua, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Sexta-feira da X Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde- Sábado da X Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria no sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XI Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde- Segunda-feira da XI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 18,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da XI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 19,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XI Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - São Romualdo, abade"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 20,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da XI Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 21,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Luís Gonzaga, religioso"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde- Sábado da XI Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - São Paulino de Nola, bispo",
+                "3": "(Memória facultativa) - Cor: Vermelho - Santos João Fisher, bispo, e Tomás More, mártires",
+                "4": "(Memória facultativa) - Cor: Branco - Santa Maria no sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XII Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 24,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Natividade de São João Batista"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde- Terça-feira da XII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quarta-feira da XII Semana do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde- Quinta-feira da XII Semana do Tempo Comum",
+                "2": "(Memória facultativa) - Cor: Branco - Nossa Senhora do Perpétuo Socorro",
+                "3": "(Memória facultativa) - Cor: Branco - São Cirilo de Alexandria, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santo Irineu, bispo, mártir e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Vermelho - São Pedro e São Paulo, apóstolos"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde- XIII Domingo do Tempo Comum"
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "abril": [
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 1,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Segunda-feira da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 2,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Terça-feira da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 3,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Quarta-feira da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 4,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Quinta-feira da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 5,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Sexta-feira da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 6,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Sábado da Oitava da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 7,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - II Domingo da Páscoa ou da Divina Misericórdia"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 8,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - A Anunciação do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 9,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da II Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 10,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira da II Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 11,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Estanislau, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 12,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da II Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 13,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da II Semana da Páscoa",
+                "2": "(Memória facultativa) - Cor: Vermelho - São Martinho I, papa e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 14,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - III Domingo da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 15,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 16,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 17,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 18,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quinta-feira da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 19,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 20,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da III Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 21,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - IV Domingo da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 22,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira da IV Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 23,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da IV Semana da Páscoa",
+                "2": "(Memória facultativa) - Cor: Vermelho - São Adalberto, bispo e mártir",
+                "3": "(Memória facultativa) - Cor: Vermelho - São Jorge, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 24,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira da IV Semana da Páscoa",
+                "2": "(Memória facultativa) - Cor: Vermelho - São Fidel de Sigmaringa, presbítero e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 25,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Marcos, evangelista"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 26,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da IV Semana da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 27,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da IV Semana da Páscoa",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria Guadalupe García Zavala, virgem"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 28,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - V Domingo da Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 29,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Santa Catarina de Sena, virgem e doutora da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 30,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da V Semana da Páscoa",
+                "2": "(Memória facultativa) - Cor: Branco - São Pio V, papa"
+            }
+        }
+    ]
+}

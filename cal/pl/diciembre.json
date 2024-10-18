@@ -1,0 +1,259 @@
+{
+    "grudzień": [
+        {
+            "tiempo": "Adwent",
+            "dia-num": 1,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - I Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 2,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek I Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 3,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Franciszek Ksawery, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 4,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa I Tygodnia Adwentu",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Jan Damasceński, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 5,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek I Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 6,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek I Tygodnia Adwentu",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Mikołaj, biskup"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 7,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Ambroży, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 8,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - II Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 9,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Niepokalane Poczęcie Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 10,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek II Tygodnia Adwentu",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Najświętsza Maryja Panna z Loreto"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 11,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa II Tygodnia Adwentu",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Damazy I, papież"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 12,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Najświętsza Maryja Panna z Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 13,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święta Łucja, dziewica i męczennica"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 14,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Jan od Krzyża, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 15,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Różowy/Fioletowy - III Niedziela Adwentu «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 16,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek III Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 17,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (17 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 18,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (18 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 19,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (19 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 20,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (20 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 21,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (21 grudnia)",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święty Piotr Kanizjusz, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 22,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - IV Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 23,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (23 grudnia)",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święty Jan Kanty, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 24,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Dzień Adwentu (24 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 25,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Narodzenie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 26,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Szczepan, pierwszy męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 27,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Święty Jan, apostoł i ewangelista"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 28,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święci Młodziankowie, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 29,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Święta Rodzina Jezusa, Maryi i Józefa"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 30,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Dzień VI w Oktawie Narodzenia Pańskiego"
+            }
+        },
+        {
+            "tiempo": "Okres Bożego Narodzenia",
+            "dia-num": 31,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Dzień VII w Oktawie Narodzenia Pańskiego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Sylwester I, papież"
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "février": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Vert - Jeudi de la IV Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Blanc - La Présentation du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Vert - Samedi de la IV Semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur : Rouge - Saint Blaise, évêque et martyr",
+                "3": "(Mémoire facultative) - Couleur : Blanc - Saint Oscar, évêque",
+                "4": "(Mémoire facultative) - Couleur : Blanc - Sainte Marie le samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Vert - V Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Rouge - Saint Philippe de Jésus, martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur : Rouge - Saints Paul Miki et compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Vert - Mercredi de la V Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Vert - Jeudi de la V Semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur : Blanc - Saint Jérôme Emiliano",
+                "3": "(Mémoire facultative) - Couleur : Blanc - Sainte Joséphine Bakhita, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Vert - Vendredi de la V Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur : Blanc - Sainte Scholastique, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Vert - VI Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Vert - Lundi de la VI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Vert - Mardi de la VI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 14,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Violet - Mercredi des Cendres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 15,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Violet - Jeudi après les Cendres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 16,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Violet - Vendredi après les Cendres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 17,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Violet - Samedi après les Cendres",
+                "2": "(Commémoration facultative) - Couleur : Violet - Les Saints Sept Fondateurs de l'Ordre des Servites"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 18,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Violet - I Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 19,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Violet - Lundi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 20,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Violet - Mardi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 21,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Violet - Mercredi de la I Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur : Violet - Saint Pierre Damien, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 22,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Blanc - La Chaire de Saint Pierre, apôtre"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 23,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Violet - Vendredi de la I Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur : Violet - Saint Polycarpe, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 24,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Violet - Samedi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 25,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Violet - II Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 26,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Violet - Lundi de la II Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 27,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Violet - Mardi de la II Semaine de Carême",
+                "2": "(Commémoration facultative) - Couleur : Violet - Saint Grégoire de Narek, abbé et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 28,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Violet - Mercredi de la II Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 29,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Violet - Jeudi de la II Semaine de Carême"
+            }
+        }
+    ]
+}

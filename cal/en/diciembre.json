@@ -1,258 +1,258 @@
 {
-    "diciembre": [
+    "december": [
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 1,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - I Domingo de Adviento"
+                "1": "Color: Purple - 1st Sunday of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 2,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la I Semana de Adviento"
+                "1": "Color: Purple - Monday of the 1st Week of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 3,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco Javier, presbítero"
+                "1": "(Mandatory Memorial) - Color: White - St. Francis Xavier, Priest"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 4,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la I Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Juan Damasceno, presbítero y doctor de la Iglesia"
+                "1": "Color: Purple - Wednesday of the 1st Week of Advent",
+                "2": "(Optional Memorial) - Color: White - St. John of Damascus, Priest and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 5,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Jueves de la I Semana de Adviento"
+                "1": "Color: Purple - Thursday of the 1st Week of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 6,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Viernes de la I Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Nicolás, obispo"
+                "1": "Color: Purple - Friday of the 1st Week of Advent",
+                "2": "(Optional Memorial) - Color: White - St. Nicholas, Bishop"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 7,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Ambrosio, obispo y doctor de la Iglesia"
+                "1": "(Mandatory Memorial) - Color: White - St. Ambrose, Bishop and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 8,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - II Domingo de Adviento"
+                "1": "Color: Purple - 2nd Sunday of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 9,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - La Inmaculada Concepción de la Bienaventurada Virgen María"
+                "1": "(Solemnity) - Color: White - The Immaculate Conception of the Blessed Virgin Mary"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 10,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Martes de la II Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora de Loreto"
+                "1": "Color: Purple - Tuesday of the 2nd Week of Advent",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Loreto"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 11,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Miércoles de la II Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Dámaso I, papa"
+                "1": "Color: Purple - Wednesday of the 2nd Week of Advent",
+                "2": "(Optional Memorial) - Color: White - St. Damasus I, Pope"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 12,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - Nuestra Señora de Guadalupe"
+                "1": "(Solemnity) - Color: White - Our Lady of Guadalupe"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 13,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santa Lucía, virgen y mártir"
+                "1": "(Mandatory Memorial) - Color: Red - St. Lucy, Virgin and Martyr"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 14,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan de la Cruz, presbítero y doctor de la Iglesia"
+                "1": "(Mandatory Memorial) - Color: White - St. John of the Cross, Priest and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 15,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Rosa/Morado - III Domingo de Adviento «Gaudete»"
+                "1": "Color: Rose/Purple - 3rd Sunday of Advent \"Gaudete\""
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 16,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Lunes de la III Semana de Adviento"
+                "1": "Color: Purple - Monday of the 3rd Week of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 17,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (17 de diciembre)"
+                "1": "Color: Purple - Advent Feria (December 17)"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 18,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (18 de diciembre)"
+                "1": "Color: Purple - Advent Feria (December 18)"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 19,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (19 de diciembre)"
+                "1": "Color: Purple - Advent Feria (December 19)"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 20,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (20 de diciembre)"
+                "1": "Color: Purple - Advent Feria (December 20)"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 21,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (21 de diciembre)",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Pedro Canisio, presbítero y doctor de la Iglesia"
+                "1": "Color: Purple - Advent Feria (December 21)",
+                "2": "(Optional Commemoration) - Color: Purple - St. Peter Canisius, Priest and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 22,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Morado - IV Domingo de Adviento"
+                "1": "Color: Purple - 4th Sunday of Advent"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 23,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (23 de diciembre)",
-                "2": "(Conmemoración facoltativa) - Color: Morado - San Juan Cancio, presbítero"
+                "1": "Color: Purple - Advent Feria (December 23)",
+                "2": "(Optional Commemoration) - Color: Purple - St. John Cantius, Priest"
             }
         },
         {
-            "tiempo": "Adviento",
+            "tiempo": "Advent",
             "dia-num": 24,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Morado - Feria de Adviento (24 de diciembre)"
+                "1": "Color: Purple - Advent Feria (December 24)"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 25,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - La Natividad del Señor"
+                "1": "(Solemnity) - Color: White - The Nativity of the Lord"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 26,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Esteban, protomártir"
+                "1": "(Feast) - Color: Red - St. Stephen, Protomartyr"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 27,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - San Juan, apóstol y evangelista"
+                "1": "(Feast) - Color: White - St. John, Apostle and Evangelist"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 28,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - Los Santos Inocentes, mártires"
+                "1": "(Feast) - Color: Red - The Holy Innocents, Martyrs"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 29,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Sagrada Familia de Jesús, María y José"
+                "1": "(Feast) - Color: White - The Holy Family of Jesus, Mary, and Joseph"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 30,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Blanco - Día VI dentro de la Octava de la Natividad del Señor"
+                "1": "Color: White - Day VI within the Octave of the Nativity of the Lord"
             }
         },
         {
-            "tiempo": "Tiempo de Navidad",
+            "tiempo": "Christmas Time",
             "dia-num": 31,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Blanco - Día VII dentro de la Octava de la Natividad del Señor",
-                "2": "(Conmemoración facoltativa) - Color: Blanco - San Silvestre I, papa"
+                "1": "Color: White - Day VII within the Octave of the Nativity of the Lord",
+                "2": "(Optional Commemoration) - Color: White - St. Sylvester I, Pope"
             }
         }
     ]

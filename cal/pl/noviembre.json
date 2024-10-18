@@ -1,0 +1,254 @@
+{
+    "listopad": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Wszystkich Świętych"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy/Biały/Czarny - Wspomnienie Wszystkich Wiernych Zmarłych"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXXI Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Karol Boromeusz, biskup"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXXI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXXI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXXI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXXI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Poświęcenie Bazyliki Laterańskiej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXXII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Marcin z Tours, biskup"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Jozafat, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXXII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXXII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXXII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Albert Wielki, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXXII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Gertruda, dziewica",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święta Małgorzata Szkocka",
+                "4": "(Wspomnienie dowolne) - Kolor: Biały - Najświętsza Maryja Panna w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXXIII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXXIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Poświęcenie Bazylik Świętych Piotra i Pawła, apostołów"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXXIII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXXIII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Ofiarowanie Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święta Cecylia, dziewica i męczennica"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXXIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Błogosławiony Michał Augustyn Pro, prezbiter i męczennik",
+                "3": "(Wspomnienie dowolne) - Kolor: Czerwony - Święty Klemens I, papież i męczennik",
+                "4": "(Wspomnienie dowolne) - Kolor: Biały - Święty Kolumban, opat",
+                "5": "(Wspomnienie dowolne) - Kolor: Biały - Najświętsza Maryja Panna w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Jezusa Chrystusa, Króla Wszechświata"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXXIV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święta Katarzyna Aleksandryjska, dziewica i męczennica"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXXIV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXXIV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXXIV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXXIV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Andrzej, apostoł"
+            }
+        }
+    ]
+}

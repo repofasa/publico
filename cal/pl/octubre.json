@@ -1,0 +1,268 @@
+{
+    "październik": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święta Teresa od Dzieciątka Jezus, dziewica i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święci Aniołowie Stróżowie"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXVI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święty Franciszek z Asyżu, zakonnik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXVI Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Faustyna Kowalska, dziewica",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXVII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Najświętsza Maryja Panna Różańcowa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXVII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXVII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Jan Leonardi, prezbiter",
+                "3": "(Wspomnienie dowolne) - Kolor: Czerwony - Święci Dionizy, biskup, i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXVII Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXVII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Jan XXIII, papież"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXVII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXVIII Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXVIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święty Kalikst I, papież i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święta Teresa od Jezusa, dziewica i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXVIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Jadwiga Śląska, zakonnica",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święta Małgorzata Maria Alacoque, dziewica"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Ignacy Antiocheński, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Łukasz, ewangelista"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXVIII Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Paweł od Krzyża, prezbiter",
+                "3": "(Wspomnienie dowolne) - Kolor: Czerwony - Święci Jan de Brébeuf i Izaak Jogues, prezbiterzy, i towarzysze, męczennicy",
+                "4": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXIX Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek XXIX Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXIX Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Jan Paweł II, papież"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXIX Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Jan Kapistran, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Święty Rafael Guízar y Valencia, biskup"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek XXIX Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Antoni Maria Claret, biskup"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota XXIX Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- XXX Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święci Szymon i Juda, apostołowie"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek XXX Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa XXX Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek XXX Tygodnia Okresu Zwykłego"
+            }
+        }
+    ]
+}

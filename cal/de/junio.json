@@ -1,0 +1,252 @@
+{
+    "juni": [
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 1,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Rot - Heiliger Justinus, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 2,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - IX. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 3,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Rot - Heilige Carlos Luanga und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 4,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der IX. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 5,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Rot - Heiliger Bonifatius, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 6,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der IX. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Weiß - Heiliger Norbert, Bischof"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 7,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Das Heiligste Herz Jesu"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 8,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Weiß - Das Unbefleckte Herz Mariens"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 9,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - X. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 10,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der X. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 11,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Rot - Heiliger Barnabas, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 12,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der X. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 13,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Weiß - Heiliger Antonius von Padua, Priester und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 14,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der X. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 15,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der X. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 16,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XI. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 17,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 18,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 19,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Weiß - Heiliger Romuald, Abt"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 20,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 21,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Weiß - Heiliger Ludwig Gonzaga, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 22,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Weiß - Heiliger Paulinus von Nola, Bischof",
+                "3": "(Fakultatives Gedenken) - Farbe: Rot - Heilige Johannes Fisher, Bischof, und Thomas Morus, Märtyrer",
+                "4": "(Fakultatives Gedenken) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 23,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XII. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 24,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Die Geburt des Heiligen Johannes des Täufers"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 25,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 26,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 27,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedenken) - Farbe: Weiß - Unsere Liebe Frau vom Perpetuellen Hilfe",
+                "3": "(Fakultatives Gedenken) - Farbe: Weiß - Heiliger Kyrill von Alexandria, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 28,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Obligatorisches Gedenken) - Farbe: Rot - Heiliger Irenäus, Bischof, Märtyrer und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 29,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Fakultatives Gedenken) - Farbe: Weiß - Heiliger Peter und Paul, Apostel (Solemnität)"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 30,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XIII. Sonntag der Ordentlichen Zeit"
+            }
+        }
+    ]
+}

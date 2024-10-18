@@ -1,0 +1,250 @@
+{
+    "avril": [
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 1,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Lundi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 2,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Mardi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 3,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Mercredi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 4,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Jeudi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 5,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Vendredi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 6,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Samedi de l'Octave de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 7,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Blanc - II Dimanche de Pâques ou de la Divine Miséricorde"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 8,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - L'Annonciation du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 9,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mardi de la II Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 10,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mercredi de la II Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 11,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur : Rouge - Saint Stanislas, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 12,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Vendredi de la II Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 13,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Blanc - Samedi de la II Semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur : Rouge - Saint Martin I, pape et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 14,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Blanc - III Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 15,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Blanc - Lundi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 16,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mardi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 17,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mercredi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 18,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Blanc - Jeudi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 19,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Vendredi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 20,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Blanc - Samedi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 21,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Blanc - IV Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 22,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Blanc - Lundi de la IV Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 23,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mardi de la IV Semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur : Rouge - Saint Adalbert, évêque et martyr",
+                "3": "(Mémoire facultative) - Couleur : Rouge - Saint Georges, martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 24,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mercredi de la IV Semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur : Rouge - Saint Fidel de Sigmaringen, prêtre et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 25,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Rouge - Saint Marc, évangéliste"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 26,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Vendredi de la IV Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 27,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Blanc - Samedi de la IV Semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur : Blanc - Sainte Marie Guadalupe García Zavala, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 28,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Blanc - V Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 29,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur : Blanc - Sainte Catherine de Sienne, vierge et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 30,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mardi de la V Semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur : Blanc - Saint Pio de Pietrelcina, prêtre"
+            }
+        }       
+    ]
+}

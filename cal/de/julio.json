@@ -1,0 +1,267 @@
+{
+    "juli": [
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 1,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XIII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 2,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XIII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 3,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Thomas, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 4,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Unsere Liebe Frau vom Zufluchtsort",
+                "3": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Elisabeth von Portugal"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 5,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heiliger Antonius Maria Zaccaria, Priester"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 6,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Rot - Heilige Maria Goretti, Jungfrau und Märtyrer",
+                "3": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 7,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XIV. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 8,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XIV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 9,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XIV. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Rot - Heilige Agustin Zhao Rong, Priester, und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 10,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XIV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 11,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Verpflichtende Gedenkfeier) - Farbe: Weiß - Heiliger Benedikt, Abt"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 12,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XIV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 13,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XIV. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heiliger Heinrich",
+                "3": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 14,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XV. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 15,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Verpflichtende Gedenkfeier) - Farbe: Weiß - Heiliger Bonaventura, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 16,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Verpflichtende Gedenkfeier) - Farbe: Weiß - Unsere Liebe Frau vom Berg Karmel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 17,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 18,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 19,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XV. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 20,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XV. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Rot - Heiliger Apollinaris, Bischof und Märtyrer",
+                "3": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 21,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XVI. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 22,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Heilige Maria Magdalena"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 23,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XVI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Brigida von Schweden, Nonne"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 24,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XVI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heiliger Charbel Makhlouf, Priester"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 25,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Jakobus, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 26,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Verpflichtende Gedenkfeier) - Farbe: Weiß - Heilige Joachim und Anna, Eltern der seligen Jungfrau Maria"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 27,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XVI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultative Gedenkfeier) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 28,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XVII. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 29,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Heilige Marta, Maria und Lazarus"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 30,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XVII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Petrus Chrysologus, Bischof und Kirchenlehrer",
+                "3": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Maria von Jesus Sacramentado Venegas, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 31,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Heiliger Ignatius von Loyola, Priester"
+            }
+        }        
+    ]
+}

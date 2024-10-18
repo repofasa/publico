@@ -1,0 +1,252 @@
+{
+    "junio": [
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Justino, mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- IX Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Carlos Luanga y compañeros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la IX Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Bonifacio, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la IX Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Norberto, obispo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - El Sagrado Corazón de Jesús"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - El Inmaculado Corazón de María"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- X Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde- Lunes de la X Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Bernabé, apóstol"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la X Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Antonio de Padua, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde- Viernes de la X Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde- Sábado de la X Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XI Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde- Lunes de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XI Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Romualdo, abad"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Luis Gonzaga, religioso"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde- Sábado de la XI Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Paulino de Nola, obispo",
+                "3": "(Memoria facultativa) - Color: Rojo - Santos Juan Fisher, obispo, y Tomás Moro, mártires",
+                "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - El Nacimiento de San Juan Bautista"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde- Martes de la XII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde- Miércoles de la XII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde- Jueves de la XII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora del Perpetuo Socorro",
+                "3": "(Memoria facultativa) - Color: Blanco - San Cirilo de Alejandría, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Ireneo, obispo, mártir y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Rojo - Santos Pedro y Pablo, apóstoles"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde- XIII Domingo del Tiempo Ordinario"
+            }
+        }
+    ]
+}

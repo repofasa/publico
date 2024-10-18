@@ -1,0 +1,268 @@
+{
+    "oktober": [
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 1,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Heilige Theresia vom Kinde Jesu, Jungfrau und Kirchenlehrerin"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 2,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Die Heiligen Schutzengel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 3,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXVI. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 4,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Heiliger Franziskus von Assisi, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 5,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXVI. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Faustina Kowalska, Jungfrau",
+                "3": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 6,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXVII. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 7,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Unsere Liebe Frau vom Rosenkranz"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 8,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXVII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 9,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXVII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Johannes Leonardi, Priester",
+                "3": "(Fakultatives Gedächtnis) - Farbe: Rot - Heilige Dionysius, Bischof, und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 10,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXVII. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 11,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXVII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Johannes XXIII., Papst"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 12,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXVII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 13,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXVIII. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 14,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XXVIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Rot - Heiliger Calixt I., Papst und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 15,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Weiß - Heilige Teresa von Jesus, Jungfrau und Kirchenlehrerin"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 16,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXVIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Eduviges, Ordensfrau",
+                "3": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Margareta Maria Alacoque, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 17,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Verpflichtendes Gedächtnis) - Farbe: Rot - Heiliger Ignatius von Antiochien, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 18,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Lukas, Evangelist"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 19,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXVIII. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Paulus von der Kreuz, Priester",
+                "3": "(Fakultatives Gedächtnis) - Farbe: Rot - Heilige Johannes von Brébeuf und Isaac Jogues, Priester, und Gefährten, Märtyrer",
+                "4": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 20,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXIX. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 21,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XXIX. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 22,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXIX. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Johannes Paul II., Papst"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 23,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXIX. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Johannes von Capistrano, Priester"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 24,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Heiliger Rafael Guízar y Valencia, Bischof"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 25,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXIX. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heilige Margherita Maria Alacoque, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 26,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXIX. Woche der Ordentlichen Zeit",
+                "2": "(Fakultatives Gedächtnis) - Farbe: Weiß - Heiliger Simon und Heiliger Judas Thaddäus, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 27,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXX. Sonntag der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 28,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heilige Simon und Judas, Apostel"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 29,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXX. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 30,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXX. Woche der Ordentlichen Zeit"
+            }
+        },
+        {
+            "tiempo": "Ordentliche Zeit",
+            "dia-num": 31,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXX. Woche der Ordentlichen Zeit"
+            }
+        }        
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "Febbraio": [
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 1,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della IV Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 2,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - La Presentazione del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 3,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde- Sabato della IV Settimana del Tempo Ordinario",
+                "2": "(Memoria opzionale) - Colore: Rosso - San Biagio, vescovo e martire",
+                "3": "(Relazione facoltativa) - Colore: Bianco - Sant'Oscar, vescovo",
+                "4": "(Report facoltativo) - Colore: Bianco - Santa Maria del Sabato"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 4,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Verde - Quinta Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 5,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Filippo di Gesù, martire"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 6,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Paolo Miki e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 7,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della Quinta Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 8,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della Quinta Settimana del Tempo Ordinario",
+                "2": "(Relazione facoltativa) - Colore: Bianco - San Girolamo Emiliano",
+                "3": "(Memoria opzionale) - Colore: Bianco - Santa Giuseppina Bakhita, vergine"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 9,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della Quinta Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 10,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santa Scolastica, vergine"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 11,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Verde - VI Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 12,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della VI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo ordinario",
+            "dia-num": 13,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della VI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 14,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì delle Ceneri"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 15,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì dopo le Ceneri"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 16,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: viola - Venerdì dopo le ceneri"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 17,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato dopo le ceneri",
+                "2": "(Commemorazione Facoltativa) - Colore: Viola - I Santi Sette Fondatori dell'Ordine dei Serviti"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 18,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Viola - I Domenica di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 19,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della Prima Settimana di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 20,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della Prima Settimana di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 21,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della Prima Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Pier Damiani, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 22,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - La Cattedra di San Pietro Apostolo"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 23,
+            "dia-sem": "venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della Prima Settimana di Quaresima",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Policarpo, vescovo e martire"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 24,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della Prima Settimana di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 25,
+            "dia-sem": "domenica",
+            "festejo": {
+                "1": "Colore: Viola - Seconda Domenica di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 26,
+            "dia-sem": "lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della Seconda Settimana di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 27,
+            "dia-sem": "martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della Seconda Settimana di Quaresima",
+                "2": "(Commemorazione Facoltativa) - Colore: Viola - San Gregorio di Narek, abate e dottore della Chiesa"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 28,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della Seconda Settimana di Quaresima"
+            }
+        },
+        {
+            "tempo": "Quaresima",
+            "dia-num": 29,
+            "dia-sem": "giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della Seconda Settimana di Quaresima"
+            }
+        }
+    ]
+}

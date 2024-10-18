@@ -1,0 +1,261 @@
+{
+    "Janvier": [
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 1,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - Sainte Marie, Mère de Dieu"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 2,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Commémoration obligatoire) - Couleur : Blanc - Saints Basile le Grand et Grégoire de Nazianze, Évêques et Docteurs de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 3,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Mercredi de la IIe Semaine de Noël",
+                "2": "(Commémoration facultative) - Couleur : Blanc - Le Très Saint Nom de Jésus"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 4,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Blanc - Jeudi de la IIe Semaine de Noël"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 5,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Blanc - Vendredi de la IIe Semaine de Noël"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 6,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Blanc - Samedi de la IIe Semaine de Noël"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 7,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Solemnité) - Couleur : Blanc - L'Épiphanie du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 8,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Blanc - Le Baptême du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Vert - Mardi de la Ire Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur : Vert - Mercredi de la Ire Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Vert - Jeudi de la Ire Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Vert - Vendredi de la Ire Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Vert - Samedi de la Ire Semaine du Temps Ordinaire",
+                "2": "(Commémoration facultative) - Couleur : Blanc - Saint Hilaire, Évêque et Docteur de l'Église",
+                "3": "(Commémoration facultative) - Couleur : Blanc - Sainte Marie le Samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Vert - IIe Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Vert - Lundi de la IIe Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Vert - Mardi de la IIe Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Commémoration obligatoire) - Couleur : Blanc - Saint Antoine, Abbé"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur : Vert - Jeudi de la IIe Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur : Vert - Vendredi de la IIe Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Vert - Samedi de la IIe Semaine du Temps Ordinaire",
+                "2": "(Commémoration facultative) - Couleur : Rouge - Saint Fabien, Pape et Martyr",
+                "3": "(Commémoration facultative) - Couleur : Rouge - Saint Sébastien, Martyr",
+                "4": "(Commémoration facultative) - Couleur : Blanc - Sainte Marie le Samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur : Vert - IIIe Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur : Vert - Lundi de la IIIe Semaine du Temps Ordinaire",
+                "2": "(Commémoration facultative) - Couleur : Rouge - Saint Vincent, Diacre et Martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur : Vert - Mardi de la IIIe Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Commémoration obligatoire) - Couleur : Blanc - Saint François de Sales, Évêque et Docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Fête) - Couleur : Blanc - La Conversion de Saint Paul, Apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Commémoration obligatoire) - Couleur : Blanc - Saints Timothée et Tite, Évêques"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur : Vert - Samedi de la IIIe Semaine du Temps Ordinaire",
+                "2": "(Commémoration facultative) - Couleur : Blanc - Sainte Angela Merici, Vierge",
+                "3": "(Commémoration facultative) - Couleur : Blanc - Sainte Marie le Samedi"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 28,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - IV Sunday in Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 29,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the IV Week in Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 30,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the IV Week in Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 31,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint John Bosco, Priest"
+            }
+        }
+    ]
+}

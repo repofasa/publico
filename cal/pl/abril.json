@@ -1,0 +1,249 @@
+{
+    "kwiecień": [
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 1,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Poniedziałek w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 2,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Wtorek w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 3,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Środa w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 4,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Czwartek w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 5,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Piątek w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 6,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Sobota w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 7,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - Niedziela II w Oktawie Wielkanocy lub Niedziela Miłosierdzia Bożego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 8,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Uroczystość Zmartwychwstania Pańskiego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 9,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek II w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 10,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa II w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 11,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Stanisław, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 12,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek II w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 13,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota II w Oktawie Wielkanocy",
+                "2": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Marcin z Sigmaringen, kapłan i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 14,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - Niedziela III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 15,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 16,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 17,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 18,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 19,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 20,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota III w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 21,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - Niedziela IV w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 22,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek IV w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 23,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek IV w Oktawie Wielkanocy",
+                "2": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Wojciech, biskup i męczennik",
+                "3": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Jerzy, męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 24,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa IV w Oktawie Wielkanocy",
+                "2": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Fidelis z Sigmaringen, kapłan i męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 25,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Czerwony - Święty Marek, Ewangelista"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 26,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek IV w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 27,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota IV w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 28,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - Niedziela V w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 29,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek VI w Oktawie Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 30,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek VI w Oktawie Wielkanocy",
+                "2": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święty Józef, mąż Maryi"
+        }
+    }
+    ]
+}

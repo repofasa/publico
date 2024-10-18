@@ -1,265 +1,265 @@
 {
-    "mayo": [
+    "may": [
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 1,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Blanco - Miércoles de la V Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San José Obrero"
+                "1": "Color: White - Wednesday of the Fifth Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Joseph the Worker"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 2,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Atanasio, obispo y doctor de la Iglesia"
+                "1": "(Mandatory Memorial) - Color: White - Saint Athanasius, Bishop and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 3,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - La Santa Cruz"
+                "1": "(Feast) - Color: Red - The Holy Cross"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 4,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - Santos Felipe y Santiago, apóstoles"
+                "1": "(Feast) - Color: Red - Saints Philip and James, Apostles"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 5,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "Color: Blanco - VI Domingo de Pascua"
+                "1": "Color: White - Sixth Sunday of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 6,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Blanco - Lunes de la VI Semana de Pascua"
+                "1": "Color: White - Monday of the Sixth Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 7,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Blanco - Martes de la VI Semana de Pascua"
+                "1": "Color: White - Tuesday of the Sixth Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 8,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Blanco - Miércoles de la VI Semana de Pascua"
+                "1": "Color: White - Wednesday of the Sixth Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 9,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Blanco - Jueves de la VI Semana de Pascua"
+                "1": "Color: White - Thursday of the Sixth Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 10,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Blanco - Viernes de la VI Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Juan de Ávila, presbítero y doctor de la Iglesia"
+                "1": "Color: White - Friday of the Sixth Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint John of Ávila, Priest and Doctor of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 11,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Blanco - Sábado de la VI Semana de Pascua"
+                "1": "Color: White - Saturday of the Sixth Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 12,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - La Ascensión del Señor"
+                "1": "(Solemnity) - Color: White - The Ascension of the Lord"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 13,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Blanco - Lunes de la VII Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora de Fátima"
+                "1": "Color: White - Monday of the Seventh Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Fatima"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 14,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Matías, apóstol"
+                "1": "(Feast) - Color: Red - Saint Matthias, Apostle"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 15,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Blanco - Miércoles de la VII Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Isidro Labrador"
+                "1": "Color: White - Wednesday of the Seventh Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Isidore the Farmer"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 16,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "Color: Blanco - Jueves de la VII Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Rojo - San Juan Nepomuceno, presbítero y mártir"
+                "1": "Color: White - Thursday of the Seventh Week of Easter",
+                "2": "(Optional Memorial) - Color: Red - Saint John Nepomucene, Priest and Martyr"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 17,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Blanco - Viernes de la VII Semana de Pascua"
+                "1": "Color: White - Friday of the Seventh Week of Easter"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 18,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Blanco - Sábado de la VII Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Rojo - San Juan I, papa y mártir"
+                "1": "Color: White - Saturday of the Seventh Week of Easter",
+                "2": "(Optional Memorial) - Color: Red - Saint John I, Pope and Martyr"
             }
         },
         {
-            "tiempo": "Tiempo Pascual",
+            "tiempo": "Easter Season",
             "dia-num": 19,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Rojo - Domingo de Pentecostés"
+                "1": "(Solemnity) - Color: Red - Pentecost Sunday"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 20,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Bienaventurada Virgen María, Madre de la Iglesia"
+                "1": "(Mandatory Memorial) - Color: White - Blessed Virgin Mary, Mother of the Church"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 21,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cristóbal Magallanes, presbítero, y compañeros, mártires"
+                "1": "(Mandatory Memorial) - Color: Red - Saints Cristóbal Magallanes, Priest, and Companions, Martyrs"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 22,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la VII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Santa Rita de Casia, religiosa"
+                "1": "Color: Green - Wednesday of the Seventh Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Rita of Cascia, Religious"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 23,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - Nuestro Señor Jesucristo, Sumo y Eterno Sacerdote"
+                "1": "(Feast) - Color: White - Our Lord Jesus Christ, High and Eternal Priest"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 24,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "Color: Verde- Viernes de la VII Semana del Tiempo Ordinario"
+                "1": "Color: Green - Friday of the Seventh Week of Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 25,
-            "dia-sem": "Sábado",
+            "dia-sem": "Saturday",
             "festejo": {
-                "1": "Color: Verde- Sábado de la VII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Beda el Venerable, presbítero y doctor de la Iglesia",
-                "3": "(Memoria facultativa) - Color: Blanco - San Gregorio VII, papa",
-                "4": "(Memoria facultativa) - Color: Blanco - Santa María Magdalena de Pazzi, virgen",
-                "5": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+                "1": "Color: Green - Saturday of the Seventh Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Bede the Venerable, Priest and Doctor of the Church",
+                "3": "(Optional Memorial) - Color: White - Saint Gregory VII, Pope",
+                "4": "(Optional Memorial) - Color: White - Saint Mary Magdalene de Pazzi, Virgin",
+                "5": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 26,
-            "dia-sem": "Domingo",
+            "dia-sem": "Sunday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - La Santísima Trinidad"
+                "1": "(Solemnity) - Color: White - The Most Holy Trinity"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 27,
-            "dia-sem": "Lunes",
+            "dia-sem": "Monday",
             "festejo": {
-                "1": "Color: Verde- Lunes de la VIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Agustín de Canterbury, obispo"
+                "1": "Color: Green - Monday of the Eighth Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Augustine of Canterbury, Bishop"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 28,
-            "dia-sem": "Martes",
+            "dia-sem": "Tuesday",
             "festejo": {
-                "1": "Color: Verde- Martes de la VIII Semana del Tiempo Ordinario"
+                "1": "Color: Green - Tuesday of the Eighth Week of Ordinary Time"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 29,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Wednesday",
             "festejo": {
-                "1": "Color: Verde- Miércoles de la VIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Paolo VI, papa"
+                "1": "Color: Green - Wednesday of the Eighth Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Paul VI, Pope"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 30,
-            "dia-sem": "Jueves",
+            "dia-sem": "Thursday",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - El Cuerpo y la Sangre Santísimos de Cristo"
+                "1": "(Solemnity) - Color: White - The Most Holy Body and Blood of Christ"
             }
         },
         {
-            "tiempo": "Tiempo Ordinario",
+            "tiempo": "Ordinary Time",
             "dia-num": 31,
-            "dia-sem": "Viernes",
+            "dia-sem": "Friday",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Visitación de la Bienaventurada Virgen María"
+                "1": "(Feast) - Color: White - The Visitation of the Blessed Virgin Mary"
             }
-        }
+        }        
     ]
 }

@@ -1,0 +1,245 @@
+{
+    "luty": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek IV Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Ofiarowanie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony- Sobota IV Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Czerwony - Święty Błażej, biskup i męczennik",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święty Oskar, biskup",
+                "4": "(Wspomnienie dowolne) - Kolor: Biały - Najświętsza Maryja Panna w sobotę"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- V Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Filip z Jezusa, męczennik"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Czerwony - Święci Paweł Miki i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony- Środa V Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony- Czwartek V Tygodnia Okresu Zwykłego",
+                "2": "(Wspomnienie dowolne) - Kolor: Biały - Święty Hieronim Emiliani",
+                "3": "(Wspomnienie dowolne) - Kolor: Biały - Święta Józefina Bakhita, dziewica"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony- Piątek V Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie obowiązkowe) - Kolor: Biały - Święta Scholastyka, dziewica"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony- VI Niedziela Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony- Poniedziałek VI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony- Wtorek VI Tygodnia Okresu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 14,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa Popielcowa"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 15,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek po Popielcu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 16,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek po Popielcu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 17,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota po Popielcu",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święci Siedmiu Założycieli Zakonu Serwitów"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 18,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - I Niedziela Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 19,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek I Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 20,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek I Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 21,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa I Tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święty Piotr Damiani, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 22,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Katedra Świętego Piotra, apostoła"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 23,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek I Tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święty Polikarp, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 24,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota I Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 25,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - II Niedziela Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 26,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek II Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 27,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek II Tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Kolor: Fioletowy - Święty Grzegorz z Nareku, opat i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 28,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa II Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 29,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek II Tygodnia Wielkiego Postu"
+            }
+        }
+    ]
+}

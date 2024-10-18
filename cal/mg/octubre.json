@@ -1,0 +1,268 @@
+{
+    "oktobra": [
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 1,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masindahy Teresa zaza Jesosy, virijiny sy dokotera ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 2,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Ny Anjely mpiambina"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 3,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso- Alakamisy amin'ny herinandro faha-XXVI amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 4,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masindahy Francois avy any Asisi, mpitoka-monina"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 5,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Maitso- Asabotsy amin'ny herinandro faha-XXVI amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Faustina Kowalska, virijiny",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny Asabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 6,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso- Alahady faha-XXVII amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 7,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Ny Fisaorana ny Masina Maria"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 8,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso- Talata amin'ny herinandro faha-XXVII amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 9,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso- Alarobia amin'ny herinandro faha-XXVII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Juan Leonardi, pretra",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Mena - Masindahy Dionisio, eveka, sy ireo namany, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 10,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso- Alakamisy amin'ny herinandro faha-XXVII amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 11,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso- Zoma amin'ny herinandro faha-XXVII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Juan XXIII, papa"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 12,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Maitso- Asabotsy amin'ny herinandro faha-XXVII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny Asabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 13,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso- Alahady faha-XXVIII amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 14,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso- Alatsinainy amin'ny herinandro faha-XXVIII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Mena - Masindahy Calixto I, papa sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 15,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masindahy Teresa avy any Jesosy, virijiny sy dokotera ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 16,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso- Alarobia amin'ny herinandro faha-XXVIII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Eduviges, mpitoka-monina",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Margarita Maria de Alacoque, virijiny"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 17,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Mena - Masindahy Ignace avy any Antiokia, eveka sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 18,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Lioka, evanjelista"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 19,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Maitso- Asabotsy amin'ny herinandro faha-XXVIII amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Paoly avy any Lakroa, pretra",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Mena - Masindahy Juan de Brébeuf sy Isaac Jogues, pretra, sy ireo namany, martiry",
+                "4": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny Asabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 20,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso- Alahady faha-XXIX amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 21,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso- Alatsinainy amin'ny herinandro faha-XXIX amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 22,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso- Talata amin'ny herinandro faha-XXIX amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Juan Paoly II, papa"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 23,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso- Alarobia amin'ny herinandro faha-XXIX amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Juan avy any Capistrano, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 24,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Masindahy Rafael Guízar y Valencia, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 25,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso- Zoma amin'ny herinandro faha-XXIX amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masindahy Antonio Maria Claret, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 26,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Maitso- Asabotsy amin'ny herinandro faha-XXIX amin'ny Fotoana tsotra",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny Asabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 27,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso- Alahady faha-XXX amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 28,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Simona sy Jodasy, apôstôly"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 29,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso- Talata amin'ny herinandro faha-XXX amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 30,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso- Alarobia amin'ny herinandro faha-XXX amin'ny Fotoana tsotra"
+            }
+        },
+        {
+            "tiempo": "Fotoana tsotra",
+            "dia-num": 31,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso- Alakamisy amin'ny herinandro faha-XXX amin'ny Fotoana tsotra"
+            }
+        }
+    ]
+}
