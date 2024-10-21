@@ -5,7 +5,7 @@
 			"nombre": "Le Signe de la Croix",
       "icono":"cruz",
 			"subtitulo": "Il est le signe du chrétien, car en elle la mort de Jésus. Il est de coutume de réciter d'autres prières avant ou après la lecture de l'Evangile",
-			"contenido": "Par le signe de la Sainte<br />Croix, délivre-nous Seigneur<br />de nos ennemis.<br />Au nom du Père, et du Fils<br />et du Saint Esprit.<br />Amen.",
+			"contenido": "Par le signe de la Sainte<br>Croix, délivre-nous Seigneur<br>de nos ennemis.<br>Au nom du Père, et du Fils<br>et du Saint Esprit.<br>Amen.",
 			"imagen": "signocruz"
 		},
 		{
@@ -13,7 +13,7 @@
 			"nombre": "Le Notre Père",
       "icono":"padre",
 			"subtitulo": "Prière par excellence. Nous avons appris le même Jésus-Christ et nous pouvons prier plusieurs fois parjour.",
-			"contenido": "Notre Père, qui es aux<br />cieux, que ton nom soit<br />sanctifié, que ton règne<br />vienne, que ta volonté soit faite sur la terre comme au ciel.<br />Donne-nous aujourd'hui notre pain de ce jour. Pardonnenous nos offenses, comme nous pardonnons aussi à ceux<br />qui nous ont offensés. Et ne nous soumets pas à la<br />tentation, mais délivre-nous du mal.<br />Amen.",
+			"contenido": "Notre Père, qui es aux<br>cieux, que ton nom soit<br>sanctifié, que ton règne<br>vienne, que ta volonté soit faite sur la terre comme au ciel.<br>Donne-nous aujourd'hui notre pain de ce jour. Pardonnenous nos offenses, comme nous pardonnons aussi à ceux<br>qui nous ont offensés. Et ne nous soumets pas à la<br>tentation, mais délivre-nous du mal.<br>Amen.",
 			"imagen": "padrenuestro"
 		},
 		{
@@ -21,7 +21,7 @@
 			"nombre": "Le Je Vous salue Marie",
       "icono":"ave",
 			"subtitulo": "Ici, nous répétons les mots qu'il a entendu la Virgen del Angel. Chaque fois que je prie, il est comme si nous avons donné une rose à notre Mère.",
-			"contenido": "Je Vous Salue Marie,<br />pleine de grâce, le<br />Seigneur est avec<br />vous, vous êtes bénie entre toutes les femmes et Jésus, le<br />fruit de vos entrailles, est béni.<br />Sainte Marie, Mère de Dieu, priez pour nous, pauvres<br />pécheurs, maintenant et à l'heure de notre mort.<br />Amen.",
+			"contenido": "Je Vous Salue Marie,<br>pleine de grâce, le<br>Seigneur est avec<br>vous, vous êtes bénie entre toutes les femmes et Jésus, le<br>fruit de vos entrailles, est béni.<br>Sainte Marie, Mère de Dieu, priez pour nous, pauvres<br>pécheurs, maintenant et à l'heure de notre mort.<br>Amen.",
 			"imagen": "avemaria"
 		},
 		{
@@ -29,7 +29,7 @@
 			"nombre": "Le Gloria",
       "icono":"bible",
 			"subtitulo": "Chant de louange adressée à la Sainte Trinité. Il est de coutume de prier pour conclure d'autres prières.",
-			"contenido": "Gloire au Père, au Fils et<br />au Saint-Esprit. Comme<br />il était au commencement, maintenant et toujours dans les<br />siècles des siècles.<br />Amen.",
+			"contenido": "Gloire au Père, au Fils et<br>au Saint-Esprit. Comme<br>il était au commencement, maintenant et toujours dans les<br>siècles des siècles.<br>Amen.",
 			"imagen": "gloria"
 		},
 		{
@@ -37,7 +37,7 @@
 			"nombre": "Salut, O Reine (Salve Regina)",
 			"icono":"rosary",
 			"subtitulo": "Il est un appel à notre Mère, qui peut tout faire. Nous avons demandé à sa protection.",
-			"contenido": "Salut, Ô Reine, Mère de<br />miséricorde:<br />notre vie, notre douceur et<br />notre espérance, salut!<br />Enfants d'Ève, malheureux<br />exilés, nous élevons nos cris<br />vers vous; nous soupirons<br />vers vous, gémissant et pleurant dans cette vallée de larmes.<br />O notre avocate, tournez donc vers nous vos regards<br />miséricordieux; et au sortir de cet exil, montrez-nous Jésus,<br />le fruit béni de vos entrailles, ô clémente, ô charitable, ô douce<br />Vierge Marie!<br />V. Priez pour nous, sainte Mère de Dieu,<br />R. afin que nous devenions dignes des promesses de Jésus<br />Christ.<br /><br />Amen",
+			"contenido": "Salut, Ô Reine, Mère de<br>miséricorde:<br>notre vie, notre douceur et<br>notre espérance, salut!<br>Enfants d'Ève, malheureux<br>exilés, nous élevons nos cris<br>vers vous; nous soupirons<br>vers vous, gémissant et pleurant dans cette vallée de larmes.<br>O notre avocate, tournez donc vers nous vos regards<br>miséricordieux; et au sortir de cet exil, montrez-nous Jésus,<br>le fruit béni de vos entrailles, ô clémente, ô charitable, ô douce<br>Vierge Marie!<br>V. Priez pour nous, sainte Mère de Dieu,<br>R. afin que nous devenions dignes des promesses de Jésus<br>Christ.<br><br>Amen",
 			"imagen": "regina"
 		},
 		{
@@ -45,7 +45,7 @@
 			"nombre": "Acte de contrition",
       "icono":"jesus",
 			"subtitulo": "Pour dire au Seigneur nous nous repentons et nous ne voulons pas offenser plus",
-			"contenido": "Mon Dieu, j’ai un très grand<br />regret de vous avoir offensé<br />parce que vous êtes infiniment<br />bon, infiniment aimable et que le péché vous déplaît. Je<br />prends la ferme résolution, avec lez secours de votre<br />sainte grâce, de ne plus vous offenser et de faire<br />pénitence.",
+			"contenido": "Mon Dieu, j’ai un très grand<br>regret de vous avoir offensé<br>parce que vous êtes infiniment<br>bon, infiniment aimable et que le péché vous déplaît. Je<br>prends la ferme résolution, avec lez secours de votre<br>sainte grâce, de ne plus vous offenser et de faire<br>pénitence.",
 			"imagen": "signore"
 		},
 		{
@@ -53,7 +53,7 @@
 			"nombre": "Je Confesse à Dieu",
       "icono":"confieso",
 			"subtitulo": "Confession générale pour prier à la messe dominicale et à tout moment, nous voulons présenter des excuses pour les péchés véniels. ",
-			"contenido": "Je confesse à Dieu tout<br />puissant, je reconnais devant mes frères que j’ai péché en<br />pensée, en parole par action et par omission ; oui j’ai<br />vraiment péché. C’est pourquoi je supplie la Vierge Marie,<br />les anges, tous les saints et vous aussi, mes frères, de<br />prier pour moi le Seigneur notre Dieu.<br />Amen.",
+			"contenido": "Je confesse à Dieu tout<br>puissant, je reconnais devant mes frères que j’ai péché en<br>pensée, en parole par action et par omission ; oui j’ai<br>vraiment péché. C’est pourquoi je supplie la Vierge Marie,<br>les anges, tous les saints et vous aussi, mes frères, de<br>prier pour moi le Seigneur notre Dieu.<br>Amen.",
 			"imagen": "confesso"
 		},
 		{
@@ -61,7 +61,7 @@
 			"nombre": "Credo: Symbole de Nicée",
       "icono":"credo2",
 			"subtitulo": "Nous nous souvenons de notre baptême, confessant notre foi. Nous prions à la messe du dimanche.",
-			"contenido": "Je crois en un seul Dieu, le Père<br />tout puissant,<br />créateur du ciel et de la terre, de<br />l’univers visible et invisible,<br />Je crois en un seul Seigneur, Jésus<br />Christ,<br />le Fils unique de Dieu, né du Père<br />avant tous les siècles :<br />Il est Dieu, né de Dieu,<br />lumière, née de la lumière,<br />vrai Dieu, né du vrai Dieu<br />Engendré non pas créé,<br />de même nature que le Père ;<br />et par lui tout a été fait.<br />Pour nous les hommes, et pour<br />notre salut,<br />il descendit du ciel;<br />Par l’Esprit Saint, il a pris chair de la<br />Vierge Marie, et s’est fait homme.<br />Crucifié pour nous sous Ponce<br />Pilate,<br />Il souffrit sa passion et fut mis au<br />tombeau.<br />Il ressuscita le<br />troisième jour,<br />conformément<br />aux Ecritures,<br />et il monta au ciel;<br />il est assis à la droite du Père.<br />Il reviendra dans la gloire, pour juger<br />les vivants et les morts<br />et son règne n’aura pas de fin.<br />Je crois en l’Esprit Saint, qui est<br />Seigneur et qui donne la vie;<br />il procède du Père et du Fils.<br />Avec le Père et le Fils, il reçoit<br />même adoration et même gloire;<br />il a parlé par les prophètes.<br />Je crois en l’Eglise, une, sainte,<br />catholique et apostolique.<br />Je reconnais un seul baptême pour<br />le pardon des péchés.<br />J’attends la résurrection des morts,<br />et la vie du monde à venir.<br />Amen",
+			"contenido": "Je crois en un seul Dieu, le Père<br>tout puissant,<br>créateur du ciel et de la terre, de<br>l’univers visible et invisible,<br>Je crois en un seul Seigneur, Jésus<br>Christ,<br>le Fils unique de Dieu, né du Père<br>avant tous les siècles :<br>Il est Dieu, né de Dieu,<br>lumière, née de la lumière,<br>vrai Dieu, né du vrai Dieu<br>Engendré non pas créé,<br>de même nature que le Père ;<br>et par lui tout a été fait.<br>Pour nous les hommes, et pour<br>notre salut,<br>il descendit du ciel;<br>Par l’Esprit Saint, il a pris chair de la<br>Vierge Marie, et s’est fait homme.<br>Crucifié pour nous sous Ponce<br>Pilate,<br>Il souffrit sa passion et fut mis au<br>tombeau.<br>Il ressuscita le<br>troisième jour,<br>conformément<br>aux Ecritures,<br>et il monta au ciel;<br>il est assis à la droite du Père.<br>Il reviendra dans la gloire, pour juger<br>les vivants et les morts<br>et son règne n’aura pas de fin.<br>Je crois en l’Esprit Saint, qui est<br>Seigneur et qui donne la vie;<br>il procède du Père et du Fils.<br>Avec le Père et le Fils, il reçoit<br>même adoration et même gloire;<br>il a parlé par les prophètes.<br>Je crois en l’Eglise, une, sainte,<br>catholique et apostolique.<br>Je reconnais un seul baptême pour<br>le pardon des péchés.<br>J’attends la résurrection des morts,<br>et la vie du monde à venir.<br>Amen",
 			"imagen": "niceno"
 		},
 		{
@@ -69,7 +69,7 @@
 			"nombre": "Credo: Symbole des Apôtres",
       "icono":"credo",
 			"subtitulo": "Nous nous souvenons de notre baptême, confessant notre foi. Nous prions à la messe du dimanche.",
-			"contenido": "Je crois en Dieu, le Père<br />tout-puissant, Créateur<br />du ciel et de la terre ; et<br />en Jésus-Christ, son Fils<br />unique, Notre Sei-gneur,<br />qui a été conçu du Saint<br />Esprit, est né de la<br />Vierge Marie, a souffert<br />sous Ponce Pilate, a été<br />crucifié, est mort, a été<br />enseveli, est descendu<br />aux enfers, est<br />ressuscité des morts le<br />troisième jour; est monté<br />aux cieux, est assis à la<br />droite de Dieu le Père<br />tout-puissant; d'où il<br />viendra juger les vivants<br />et les morts. Je crois au<br />SXaint Esprit, à la sainte<br />Eglise catholique, à la<br />communion des Saints, à<br />la rémission des péchés,<br />à la résurrection de la<br />chair, à la vie éternelle.<br />Amen.",
+			"contenido": "Je crois en Dieu, le Père<br>tout-puissant, Créateur<br>du ciel et de la terre ; et<br>en Jésus-Christ, son Fils<br>unique, Notre Sei-gneur,<br>qui a été conçu du Saint<br>Esprit, est né de la<br>Vierge Marie, a souffert<br>sous Ponce Pilate, a été<br>crucifié, est mort, a été<br>enseveli, est descendu<br>aux enfers, est<br>ressuscité des morts le<br>troisième jour; est monté<br>aux cieux, est assis à la<br>droite de Dieu le Père<br>tout-puissant; d'où il<br>viendra juger les vivants<br>et les morts. Je crois au<br>SXaint Esprit, à la sainte<br>Eglise catholique, à la<br>communion des Saints, à<br>la rémission des péchés,<br>à la résurrection de la<br>chair, à la vie éternelle.<br>Amen.",
 			"imagen": "apostolico"
 		},
 		{
@@ -77,7 +77,7 @@
 			"nombre": "Communion Spirituelle",
       "icono":"scroll",
 			"subtitulo": "Belle prière quand nous allons recevoir la Sainte Communion. Aussi pour conclure la visite à la Sainte ou de la bénédiction.",
-			"contenido": "Je voudrais Seigneur te<br />recevoir avec la pureté,<br />l’humilité et la dévotion<br />avec lesquelles ta très Sainte Mère te reçut, avec l’esprit<br />et la ferveur des saints.<br />Amen.",
+			"contenido": "Je voudrais Seigneur te<br>recevoir avec la pureté,<br>l’humilité et la dévotion<br>avec lesquelles ta très Sainte Mère te reçut, avec l’esprit<br>et la ferveur des saints.<br>Amen.",
 			"imagen": "comunione"
 		},
 		{
@@ -85,7 +85,7 @@
 			"nombre": "Angélus",
       "icono":"angel",
 			"subtitulo": " Il est prié à midi (12:00) toute l'année sauf le temps de Pâques.",
-			"contenido": "V. L’Ange du Seigneur apporta<br />l’annonce à Marie,<br />R. Et elle conçut du Saint-Esprit<br />(Je vous salue Marie...)<br />V. Voici la servante du Seigneur,<br />R. Qu’il me soit fait selon votre parole.<br />(Je vous salue Marie...)<br />V. Et le Verbe s’est fait chair,<br />R. Et il a habité parmi nous<br />(Je vous salue Marie...)<br />V. Priez pour nous Sainte Mère de Dieu,<br />R. Afin que nous soyons rendu digne des promesses du Christ.<br />Amen.<br />Prions:<br />Que ta grâce, Seigneur notre Père, se répande en nos cœurs.<br />Par le message de l’ange vous nous avez fait connaître<br />l’incarnation de votre fils de votre Fils bien aimée. Conduiseznous, par les mérites de Sa Passion et de sa Croix, et avec le<br />secours de la bienheureuse Vierge Marie, jusqu’à la gloire de la<br />résurrection. Par ce même Jésus-Christ notre Seigneur. Amen.",
+			"contenido": "V. L’Ange du Seigneur apporta<br>l’annonce à Marie,<br>R. Et elle conçut du Saint-Esprit<br>(Je vous salue Marie...)<br>V. Voici la servante du Seigneur,<br>R. Qu’il me soit fait selon votre parole.<br>(Je vous salue Marie...)<br>V. Et le Verbe s’est fait chair,<br>R. Et il a habité parmi nous<br>(Je vous salue Marie...)<br>V. Priez pour nous Sainte Mère de Dieu,<br>R. Afin que nous soyons rendu digne des promesses du Christ.<br>Amen.<br>Prions:<br>Que ta grâce, Seigneur notre Père, se répande en nos cœurs.<br>Par le message de l’ange vous nous avez fait connaître<br>l’incarnation de votre fils de votre Fils bien aimée. Conduiseznous, par les mérites de Sa Passion et de sa Croix, et avec le<br>secours de la bienheureuse Vierge Marie, jusqu’à la gloire de la<br>résurrection. Par ce même Jésus-Christ notre Seigneur. Amen.",
 			"imagen": "angelus"
 		},
 		{
@@ -93,7 +93,7 @@
 			"nombre": "Reine du Ciel",
       "icono":"holy-ghost",
 			"subtitulo": " Il est prié à midi (12:00) pendant le temps de Pâques au lieu de l'Angélus.",
-			"contenido": "V. Reine du ciel, réjouissez-vous,<br />alléluia.<br />R. car Celui que vous avez<br />mérité de porter dans votre sein,<br />alléluia.<br />V. Est ressuscité comme Il l'a dit,<br />alléluia.<br />R. Priez Dieu pour nous, alléluia.<br />V. Soyez dans la joie et l'allégresse, Vierge Marie, alléluia.<br />R. Parce que le Seigneur est vraiment ressuscité, alléluia.<br />Prions:<br />Dieu, qui, par la Résurrection de Votre Fils, notre Seigneur<br />Jésus-Christ, avez bien voulu réjouir le monde. Faites-nous<br />parvenir, par la prière de la Vierge Marie, sa mère, aux joies de<br />la vie éternelle. Par le Christ notre Seigneur.<br />R. Amen.",
+			"contenido": "V. Reine du ciel, réjouissez-vous,<br>alléluia.<br>R. car Celui que vous avez<br>mérité de porter dans votre sein,<br>alléluia.<br>V. Est ressuscité comme Il l'a dit,<br>alléluia.<br>R. Priez Dieu pour nous, alléluia.<br>V. Soyez dans la joie et l'allégresse, Vierge Marie, alléluia.<br>R. Parce que le Seigneur est vraiment ressuscité, alléluia.<br>Prions:<br>Dieu, qui, par la Résurrection de Votre Fils, notre Seigneur<br>Jésus-Christ, avez bien voulu réjouir le monde. Faites-nous<br>parvenir, par la prière de la Vierge Marie, sa mère, aux joies de<br>la vie éternelle. Par le Christ notre Seigneur.<br>R. Amen.",
 			"imagen": "coeli"
 		},
 		{
@@ -101,7 +101,7 @@
 			"nombre": "Memorare",
       "icono":"goblet",
 			"subtitulo": "Nous mettons notre confiance en la Vierge et demandons-nous ou quelqu'un d'autre qui en a besoin.",
-			"contenido": "Memorare, o piissima Virgo<br />Maria,<br />non esse auditum a saeculo,<br />quemquam ad tua currentem<br />praesidia,<br />tua implorantem auxilia,<br />tua petentem suffragia,<br />esse derelictum.<br />Ego, tali animatus confidentia,<br />ad te, Virgo virginum, Mater curro,<br />ad te venio, coram te gemens peccator assisto.<br />Noli, Mater Verbi, verba mea despicere,<br />sed audi, propitia, et exaudi.<br />Amen. ",
+			"contenido": "Memorare, o piissima Virgo<br>Maria,<br>non esse auditum a saeculo,<br>quemquam ad tua currentem<br>praesidia,<br>tua implorantem auxilia,<br>tua petentem suffragia,<br>esse derelictum.<br>Ego, tali animatus confidentia,<br>ad te, Virgo virginum, Mater curro,<br>ad te venio, coram te gemens peccator assisto.<br>Noli, Mater Verbi, verba mea despicere,<br>sed audi, propitia, et exaudi.<br>Amen. ",
 			"imagen": "memorare"
 		},
 		{
@@ -109,7 +109,7 @@
 			"nombre": "Ame du Christ",
       "icono":"espiri",
 			"subtitulo": "Très belle prière après la communion.",
-			"contenido": "Ame du Christ, sanctifie-moi,<br />Corps du Christ, sauve-moi,<br />Sang du Christ enivre-moi,<br />Eau du côté du christ, lavemoi.<br />Passion du Christ, fortifie-moi,<br />Ô bon Jésus, exauce-moi,<br />Dans tes blessures, cache-moi,<br />Ne permets pas que je sois séparé de Toi.<br />De l'ennemi, défends-moi,<br />A ma mort, appelle-moi,<br />Ordonne-moi de venir à Toi,<br />Pour qu'avec tes saints, je Te loue,<br />Dans les siècles des siècles. Ainsi soit-il",
+			"contenido": "Ame du Christ, sanctifie-moi,<br>Corps du Christ, sauve-moi,<br>Sang du Christ enivre-moi,<br>Eau du côté du christ, lavemoi.<br>Passion du Christ, fortifie-moi,<br>Ô bon Jésus, exauce-moi,<br>Dans tes blessures, cache-moi,<br>Ne permets pas que je sois séparé de Toi.<br>De l'ennemi, défends-moi,<br>A ma mort, appelle-moi,<br>Ordonne-moi de venir à Toi,<br>Pour qu'avec tes saints, je Te loue,<br>Dans les siècles des siècles. Ainsi soit-il",
 			"imagen": "anima"
 		},
 		{
@@ -117,7 +117,7 @@
 			"nombre": "Mon Ange Gardien",
       "icono":"guardian",
 			"subtitulo": "Il prie avant de dormir et à tout moment, nous demandons à notre protection Ange Gardien.",
-			"contenido": "Mon ange gardien,<br />douce compagnie, ne<br />m'abandonne pas ni le<br />jour ni la nuit. Ne me<br />laissez pas seul(e),<br />soyez toujours à mes<br />côtés pour me guider en<br />me tenant par la main,<br />car sans vous je me<br />perdrais.",
+			"contenido": "Mon ange gardien,<br>douce compagnie, ne<br>m'abandonne pas ni le<br>jour ni la nuit. Ne me<br>laissez pas seul(e),<br>soyez toujours à mes<br>côtés pour me guider en<br>me tenant par la main,<br>car sans vous je me<br>perdrais.",
 			"imagen": "angelo"
 		},
 		{
@@ -125,7 +125,7 @@
 			"nombre": "Bénédiction de la Table",
       "icono":"vino",
 			"subtitulo": "Il prie avant chaque repas pour remercier Dieu pour la nourriture.",
-			"contenido": "Seigneur, bénis ce<br />repas que nous allons prendre<br />ainsi que ceux qui l'ont préparé.<br />Donne du pain à ceux qui n'en ont pas<br />et aide-nous à partager le nôtre.<br />Amen.",
+			"contenido": "Seigneur, bénis ce<br>repas que nous allons prendre<br>ainsi que ceux qui l'ont préparé.<br>Donne du pain à ceux qui n'en ont pas<br>et aide-nous à partager le nôtre.<br>Amen.",
 			"imagen": "mesa"
 		}
 	]

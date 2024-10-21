@@ -4,7 +4,7 @@
 			"nombre": "Znak krzyża",
 			"icono": "cruz",
 			"subtitulo": "Jest to znak chrześcijanina, bo w nim umarł Jezus. Zwyczajowo odmawia się nim przed innymi modlitwami lub po przeczytaniu Ewangelii.",
-			"contenido": "Przez znak Świętego<br />Krzyża,<br />Od naszych nieprzyjaciół<br />wybaw nas Panie,<br />Boże nasz.<br />W imię Ojca, i <br />Syna i Ducha Świętego. Amen. ",
+			"contenido": "Przez znak Świętego<br>Krzyża,<br>Od naszych nieprzyjaciół<br>wybaw nas Panie,<br>Boże nasz.<br>W imię Ojca, i <br>Syna i Ducha Świętego. Amen. ",
 			"imagen": "signocruz"
 		},
 		{
@@ -12,7 +12,7 @@
 			"nombre": "Ojcze nasz",
 			"icono": "padre",
 			"subtitulo": "Modlitwa par excellence. Nauczył nas jej sam Jezus Chrystus i można ją odmawiać kilka razy dziennie",
-			"contenido": "Ojcze nasz, któryś jest w niebie, święć się imię Twoje; <br />przyjdź królestwo Twoje; <br />bądź wola Twoja jako w niebie, tak i na ziemi. <br /><br />Chleba naszego powszedniego daj nam dzisiaj; <br />i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; <br />i nie wódź nas na pokuszenie, ale nas zbaw ode Złego.<br /> Amen.",
+			"contenido": "Ojcze nasz, któryś jest w niebie, święć się imię Twoje; <br>przyjdź królestwo Twoje; <br>bądź wola Twoja jako w niebie, tak i na ziemi. <br><br>Chleba naszego powszedniego daj nam dzisiaj; <br>i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; <br>i nie wódź nas na pokuszenie, ale nas zbaw ode Złego.<br> Amen.",
 			"imagen": "padrenuestro"
 		},
 		{
@@ -20,7 +20,7 @@
 			"nombre": "Ave Maria",
 			"icono": "ave",
 			"subtitulo": "W nim powtarzamy słowa, które usłyszała Dziewica od Anioła. Za każdym razem, gdy się nią modlimy, to tak, jakbyśmy dali różę naszej Matce.",
-			"contenido": "Zdrowaś Maryjo, łaski pełna, Pan z Tobą,<br />błogosławionaś Ty między niewiastami,<br />i błogosławiony owoc żywota Twojego, Jezus.<br />Święta Maryjo, Matko Boża, módl się za nami grzesznymi<br />teraz i w godzinę śmierci naszej. Amen",
+			"contenido": "Zdrowaś Maryjo, łaski pełna, Pan z Tobą,<br>błogosławionaś Ty między niewiastami,<br>i błogosławiony owoc żywota Twojego, Jezus.<br>Święta Maryjo, Matko Boża, módl się za nami grzesznymi<br>teraz i w godzinę śmierci naszej. Amen",
 			"imagen": "avemaria"
 		},
 		{
@@ -28,7 +28,7 @@
 			"nombre": "Chwała Ojcu",
 			"icono": "bible",
 			"subtitulo": "Pieśń uwielbienia skierowana do Trójcy Świętej. Zwyczajowo odmawia się modlitwy na zakończenie innych modlitw.",
-			"contenido": "Chwała Ojcu i Synowi, i Duchowi Świętemu. <br />Jak była na początku, teraz i zawsze, i na wieki wieków.<br /> Amen",
+			"contenido": "Chwała Ojcu i Synowi, i Duchowi Świętemu. <br>Jak była na początku, teraz i zawsze, i na wieki wieków.<br> Amen",
 			"imagen": "gloria"
 		},
 		{
@@ -36,7 +36,7 @@
 			"nombre": "Witaj Królowo",
 			"icono": "rosary",
 			"subtitulo": "To prośba do naszej Matki, która może wszystko. Prosimy o Jej opiekę i opiekę",
-			"contenido": "Witaj Królowo, Matko Miłosierdzia, życie, słodyczy i nadziejo nasza, witaj! Do Ciebie wołamy wygnańcy, synowie Ewy;<br />do Ciebie wzdychamy jęcząc i płacząc na tym łez padole. <br />Przeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć, a Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. <br />O łaskawa, o litościwa, o słodka Panno Maryjo!",
+			"contenido": "Witaj Królowo, Matko Miłosierdzia, życie, słodyczy i nadziejo nasza, witaj! Do Ciebie wołamy wygnańcy, synowie Ewy;<br>do Ciebie wzdychamy jęcząc i płacząc na tym łez padole. <br>Przeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć, a Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. <br>O łaskawa, o litościwa, o słodka Panno Maryjo!",
 			"imagen": "regina"
 		},
 		{
@@ -44,7 +44,7 @@
 			"nombre": "Akt żalu",
 			"icono": "jesus",
 			"subtitulo": "Jest to sposób proszenia Jezusa o przebaczenie za nasze grzechy.",
-			"contenido": "Ach żałuję za me złości, jedynie dla Twej miłości. <br />Bądź miłościw mnie grzesznemu, dla Ciebie odpuszczam bliźniemu.",
+			"contenido": "Ach żałuję za me złości, jedynie dla Twej miłości. <br>Bądź miłościw mnie grzesznemu, dla Ciebie odpuszczam bliźniemu.",
 			"imagen": "signore"
 		},
 		{
@@ -52,7 +52,7 @@
 			"nombre": "Spowiadam się Bogu...",
 			"icono": "confieso",
 			"subtitulo": "Spowiedź generalna, że ​​modlimy się na niedzielnej Mszy św. i w każdym innym czasie, że chcemy prosić o przebaczenie grzechów powszednich.",
-			"contenido": "Spowiadam się Bogu wszechmogącemu * i wam bracia i siostry, *<br />że bardzo zgrzeszyłem * myślą, mową, uczynkiem i zaniedbaniem:<br />moja wina, moja wina, moja bardzo wielka wina. Przeto błagam<br />Najświętszą Maryję, zawsze Dziewicę * wszystkich Aniołów i<br />Świętych * i was, bracia i siostry, o modlitwę za mnie * do<br />Pana Boga naszego.",
+			"contenido": "Spowiadam się Bogu wszechmogącemu * i wam bracia i siostry, *<br>że bardzo zgrzeszyłem * myślą, mową, uczynkiem i zaniedbaniem:<br>moja wina, moja wina, moja bardzo wielka wina. Przeto błagam<br>Najświętszą Maryję, zawsze Dziewicę * wszystkich Aniołów i<br>Świętych * i was, bracia i siostry, o modlitwę za mnie * do<br>Pana Boga naszego.",
 			"imagen": "confesso"
 		},
 		{
@@ -60,7 +60,7 @@
 			"nombre": "Symbol nicejsko-konstantynopolitański",
 			"icono": "credo2",
 			"subtitulo": "Pamiętamy nasz chrzest, wyznając naszą wiarę. Odmawiamy ją na niedzielnej mszy.",
-			"contenido": "Wierzę w jednego Boga,<br />Ojca Wszechmogącego,<br />Stworzyciela nieba i ziemi,<br />wszystkich rzeczy widzialnych i niewidzialnych.<br /><br />I w jednego Pana Jezusa Chrystusa,<br />Syna Bożego Jednorodzonego,<br />który z Ojca jest zrodzony przed wszystkimi wiekami,<br />Bóg z Boga, Światłość ze Światłości,<br />Bóg prawdziwy z Boga prawdziwego.<br />Zrodzony a nie stworzony,<br />współistotny Ojcu,<br />a przez Niego wszystko się stało.<br />On to dla nas ludzi i dla naszego zbawienia zstąpił z nieba.<br />I za sprawą Ducha Świętego<br />przyjął ciało z Marii Dziewicy i stał się człowiekiem.<br />Ukrzyżowany również za nas,<br />pod Poncjuszem Piłatem został umęczony i pogrzebany.<br />I zmartwychwstał dnia trzeciego,<br />jak oznajmia Pismo.<br />I wstąpił do nieba, siedzi po prawicy Ojca.<br />I powtórnie przyjdzie w chwale, sądzić żywych i umarłych,<br />a Królestwu Jego nie będzie końca.<br /><br />Wierzę w Ducha Świętego, Pana i Ożywiciela,<br />który od Ojca i Syna pochodzi,<br />który z Ojcem i z Synem wspólnie odbiera uwielbienie i chwałę,<br />który mówił przez proroków.<br />Wierzę w jeden, święty, powszechny i apostolski Kościół.<br />Wyznaję jeden Chrzest na odpuszczenie grzechów.<br />I oczekuję wskrzeszenia umarłych<br />i życia wiecznego w przyszłym świecie.<br />Amen.",
+			"contenido": "Wierzę w jednego Boga,<br>Ojca Wszechmogącego,<br>Stworzyciela nieba i ziemi,<br>wszystkich rzeczy widzialnych i niewidzialnych.<br><br>I w jednego Pana Jezusa Chrystusa,<br>Syna Bożego Jednorodzonego,<br>który z Ojca jest zrodzony przed wszystkimi wiekami,<br>Bóg z Boga, Światłość ze Światłości,<br>Bóg prawdziwy z Boga prawdziwego.<br>Zrodzony a nie stworzony,<br>współistotny Ojcu,<br>a przez Niego wszystko się stało.<br>On to dla nas ludzi i dla naszego zbawienia zstąpił z nieba.<br>I za sprawą Ducha Świętego<br>przyjął ciało z Marii Dziewicy i stał się człowiekiem.<br>Ukrzyżowany również za nas,<br>pod Poncjuszem Piłatem został umęczony i pogrzebany.<br>I zmartwychwstał dnia trzeciego,<br>jak oznajmia Pismo.<br>I wstąpił do nieba, siedzi po prawicy Ojca.<br>I powtórnie przyjdzie w chwale, sądzić żywych i umarłych,<br>a Królestwu Jego nie będzie końca.<br><br>Wierzę w Ducha Świętego, Pana i Ożywiciela,<br>który od Ojca i Syna pochodzi,<br>który z Ojcem i z Synem wspólnie odbiera uwielbienie i chwałę,<br>który mówił przez proroków.<br>Wierzę w jeden, święty, powszechny i apostolski Kościół.<br>Wyznaję jeden Chrzest na odpuszczenie grzechów.<br>I oczekuję wskrzeszenia umarłych<br>i życia wiecznego w przyszłym świecie.<br>Amen.",
 			"imagen": "niceno"
 		},
 		{
@@ -68,7 +68,7 @@
 			"nombre": "Skład Apostolski",
 			"icono": "credo",
 			"subtitulo": "Pamiętamy nasz chrzest, wyznając naszą wiarę. Odmawiamy ją na niedzielnej mszy.",
-			"contenido": "Wierzę w Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi. <br />I w Jezusa Chrystusa, Syna Jego Jedynego, Pana Naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny. Umęczon pod Ponckim Piłatem ukrzyżowan, umarł i pogrzebion.<br />Zstąpił do piekieł. Trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga, Ojca wszechmogącego. Stamtąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. <br />Amen.",
+			"contenido": "Wierzę w Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi. <br>I w Jezusa Chrystusa, Syna Jego Jedynego, Pana Naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny. Umęczon pod Ponckim Piłatem ukrzyżowan, umarł i pogrzebion.<br>Zstąpił do piekieł. Trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga, Ojca wszechmogącego. Stamtąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. <br>Amen.",
 			"imagen": "apostolico"
 		},
 		{
@@ -76,7 +76,7 @@
 			"nombre": "Komunia Duchowa",
 			"icono": "scroll",
 			"subtitulo": "Droga modlitwa, gdy idziemy do Komunii św. Również na zakończenie nawiedzenia Najświętszego Sakramentu lub Błogosławieństwa.",
-			"contenido": "Wierzę, mój Jezu,<br />że Ty naprawdę i prawdziwie jesteś w Niebie<br /> iw Najświętszym Sakramencie Ołtarza.<br />Kocham Cię ponad wszystko<br /> i pragnę gorliwie przyjąć Cię do mojej duszy,<br />ale nie mogąc zrobić tego teraz sakramentalnie,<br />przyjdź przynajmniej duchowo do mego serca.<br />I jakbym już Cię przyjął, <br />Obejmuję Ciebie i jednego ze wszystkich do Ciebie.<br />Panie, nie pozwól mi nigdy odejść od Ciebie.<br /><br />Amen. ",
+			"contenido": "Wierzę, mój Jezu,<br>że Ty naprawdę i prawdziwie jesteś w Niebie<br> iw Najświętszym Sakramencie Ołtarza.<br>Kocham Cię ponad wszystko<br> i pragnę gorliwie przyjąć Cię do mojej duszy,<br>ale nie mogąc zrobić tego teraz sakramentalnie,<br>przyjdź przynajmniej duchowo do mego serca.<br>I jakbym już Cię przyjął, <br>Obejmuję Ciebie i jednego ze wszystkich do Ciebie.<br>Panie, nie pozwól mi nigdy odejść od Ciebie.<br><br>Amen. ",
 			"imagen": "comunione"
 		},
 		{
@@ -84,7 +84,7 @@
 			"nombre": "Anioł Pański",
 			"icono": "angel",
 			"subtitulo": "Modlimy się w południe (12:00) przez cały rok, z wyjątkiem Wielkanocy.",
-			"contenido": "Anioł Pański zwiastował Pannie Maryi,<br />I poczęła z Ducha Świętego.<br /><br />Zdrowaś Maryjo...<br /><br />Oto ja służebnica Pańska,<br />Niech mi się stanie według słowa Twego.<br /><br />Zdrowaś Maryjo...<br /><br />A Słowo stało się ciałem,<br />I zamieszkało między nami.<br /><br />Zdrowaś Maryjo...<br /><br />P.  Módl się za nami, święta Boża Rodzicielko.<br />W. Abyśmy się stali godnymi obietnic Chrystusowych.<br /><br />Módlmy się: Łaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim Wcielenie Chrystusa, Syna Twego poznali, przez mękę Jego i krzyż do chwały zmartwychwstania byli doprowadzeni. Przez Chrystusa Pana naszego. Amen.",
+			"contenido": "Anioł Pański zwiastował Pannie Maryi,<br>I poczęła z Ducha Świętego.<br><br>Zdrowaś Maryjo...<br><br>Oto ja służebnica Pańska,<br>Niech mi się stanie według słowa Twego.<br><br>Zdrowaś Maryjo...<br><br>A Słowo stało się ciałem,<br>I zamieszkało między nami.<br><br>Zdrowaś Maryjo...<br><br>P.  Módl się za nami, święta Boża Rodzicielko.<br>W. Abyśmy się stali godnymi obietnic Chrystusowych.<br><br>Módlmy się: Łaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim Wcielenie Chrystusa, Syna Twego poznali, przez mękę Jego i krzyż do chwały zmartwychwstania byli doprowadzeni. Przez Chrystusa Pana naszego. Amen.",
 			"imagen": "angelus"
 		},
 		{
@@ -92,7 +92,7 @@
 			"nombre": "Regina Coeli",
 			"icono": "holy-ghost",
 			"subtitulo": "Modlimy się w południe (12:00) w czasie Wielkanocy zamiast Anioł Pański.",
-			"contenido": "G: Królowo niebios, raduj się, alleluja.<br />T: Ponieważ Pan, którego nosiłaś w swoim łonie, alleluja.<br /><br /> G: Zmartwychwstał według Jego słowo , alleluja.<br />T: Módl się do Pana za nami, alleluja.<br /><br /> G: Raduj się i raduj Dziewico Maryjo, alleluja.<br />T: Ponieważ Pan naprawdę zmartwychwstał , alleluja .<br /><br />Módlmy się:<br />O Boże, abyś przez zmartwychwstanie Twego Syna, Pana naszego Jezusa Chrystusa, napełniłeś świat radością, daj nam za wstawiennictwem Twoja Matka, Dziewica Maryja, aby dojść do wiecznych radości. Przez Jezusa Chrystusa Pana naszego. Amen.<br /><br /> Chwała Ojcu i Synowi i Duchowi Świętemu, jak to było na początku teraz i na wieki wieków. Amen. (trzy razy)",
+			"contenido": "G: Królowo niebios, raduj się, alleluja.<br>T: Ponieważ Pan, którego nosiłaś w swoim łonie, alleluja.<br><br> G: Zmartwychwstał według Jego słowo , alleluja.<br>T: Módl się do Pana za nami, alleluja.<br><br> G: Raduj się i raduj Dziewico Maryjo, alleluja.<br>T: Ponieważ Pan naprawdę zmartwychwstał , alleluja .<br><br>Módlmy się:<br>O Boże, abyś przez zmartwychwstanie Twego Syna, Pana naszego Jezusa Chrystusa, napełniłeś świat radością, daj nam za wstawiennictwem Twoja Matka, Dziewica Maryja, aby dojść do wiecznych radości. Przez Jezusa Chrystusa Pana naszego. Amen.<br><br> Chwała Ojcu i Synowi i Duchowi Świętemu, jak to było na początku teraz i na wieki wieków. Amen. (trzy razy)",
 			"imagen": "coeli"
 		},
 		{
@@ -100,7 +100,7 @@
 			"nombre": "Błogosławiona niech będzie twoja czystość",
 			"icono": "pureza",
 			"subtitulo": "Wiersz do naszej Matki Dziewicy.",
-			"contenido": "Błogosławiona niech będzie twoja czystość,<br />i na wieki niech tak będzie,<br />bo cały Bóg odradza<br />w tak łaskawym pięknie.<br />Tobie niebiańska Księżniczko,<br /> O Najświętsza Dziewico Maryjo!<br />W tym dniu ofiaruję Ci duszę, życie i serce.<br />Spójrz na mnie ze współczuciem.<br />Nie zostawiaj mnie matko.",
+			"contenido": "Błogosławiona niech będzie twoja czystość,<br>i na wieki niech tak będzie,<br>bo cały Bóg odradza<br>w tak łaskawym pięknie.<br>Tobie niebiańska Księżniczko,<br> O Najświętsza Dziewico Maryjo!<br>W tym dniu ofiaruję Ci duszę, życie i serce.<br>Spójrz na mnie ze współczuciem.<br>Nie zostawiaj mnie matko.",
 			"imagen": "virgen"
 		},
 		{
@@ -108,7 +108,7 @@
 			"nombre": "Pamiętaj",
 			"icono": "goblet",
 			"subtitulo": "Ufamy Dziewicy i prosimy Ją dla siebie lub kogoś innego, kto jej potrzebuje.",
-			"contenido": "Pamiętaj,<br />o najpobożniejsza Dziewico Maryjo,<br />że nigdy nie słyszano<br />że nikt z tych, którzy nie przyszli<br /> do Twojej opieki,<br /> błagając o Twoją pomoc<br /> i domagając się Twojej pomocy,<br />zostałem od Ciebie odrzucony.<br />Pobudzony tą ufnością,<br />także zwracam się do Ciebie, o Matko,<br />Dziewico o dziewic,<br />i choć jęczę <br />pod ciężarem moich grzechów,<br /> ośmielam się pojawić<br /> przed Twoją suwerenną obecnością.<br />Nie odrzucaj moich pokornych błagań,<br /> br /> O Matko Słowa Bożego,<br />raczej posłuchaj ich<br />i przyjmij ich życzliwie. Amen ",
+			"contenido": "Pamiętaj,<br>o najpobożniejsza Dziewico Maryjo,<br>że nigdy nie słyszano<br>że nikt z tych, którzy nie przyszli<br> do Twojej opieki,<br> błagając o Twoją pomoc<br> i domagając się Twojej pomocy,<br>zostałem od Ciebie odrzucony.<br>Pobudzony tą ufnością,<br>także zwracam się do Ciebie, o Matko,<br>Dziewico o dziewic,<br>i choć jęczę <br>pod ciężarem moich grzechów,<br> ośmielam się pojawić<br> przed Twoją suwerenną obecnością.<br>Nie odrzucaj moich pokornych błagań,<br> br /> O Matko Słowa Bożego,<br>raczej posłuchaj ich<br>i przyjmij ich życzliwie. Amen ",
 			"imagen": "memorare"
 		},
 		{
@@ -116,7 +116,7 @@
 			"nombre": "Dusza Chrystusa",
 			"icono": "espiri",
 			"subtitulo": "Bardzo piękna modlitwa po Komunii",
-			"contenido": "Duszo Chrystusa, uświęć mnie. <br />Ciało Chrystusa, zbaw mnie. <br />Krew Chrystusa, upij mnie. <br />Woda z boku Chrystusa, obmyj mnie.<br />/> Męce Chrystusa, pociesz mnie.<br />O dobry Jezu, wysłuchaj mnie.<br />Ukryj mnie w swoich ranach.<br />Nie pozwól mi odejść od Ciebie.<br />Od zły wrogu, broń mnie <br />W godzinę śmierci wezwij mnie.<br />I każ mi przyjść do Ciebie.<br />Abym mógł Cię chwalić wraz z Twoimi świętymi.<br />Na wieki i zawsze. Amen ",
+			"contenido": "Duszo Chrystusa, uświęć mnie. <br>Ciało Chrystusa, zbaw mnie. <br>Krew Chrystusa, upij mnie. <br>Woda z boku Chrystusa, obmyj mnie.<br>/> Męce Chrystusa, pociesz mnie.<br>O dobry Jezu, wysłuchaj mnie.<br>Ukryj mnie w swoich ranach.<br>Nie pozwól mi odejść od Ciebie.<br>Od zły wrogu, broń mnie <br>W godzinę śmierci wezwij mnie.<br>I każ mi przyjść do Ciebie.<br>Abym mógł Cię chwalić wraz z Twoimi świętymi.<br>Na wieki i zawsze. Amen ",
 			"imagen": "anima"
 		},
 		{
@@ -124,7 +124,7 @@
 			"nombre": "Oferta Robót",
 			"icono": "marie",
 			"subtitulo": "Gdy tylko wstajemy, pokonujemy lenistwo i ofiarowujemy dzień naszej Matce.",
-			"contenido": "Och moja Pani! O Matko moja!<br /><br /> Oddaję się Tobie całkowicie.<br />I na dowód mojej synowskiej miłości<br />poświęcam Cię w tym dzień moje oczy,<br />moje uszy, ni język,<br />moje serce: jednym słowem cała moja istota.<br /><br /> Ponieważ jestem cała Twoja,<br />Matko dobroci ,<br />trzymaj mnie i broń mnie<br />jako swojej rzeczy i własności.<br /> <br />Amen. ",
+			"contenido": "Och moja Pani! O Matko moja!<br><br> Oddaję się Tobie całkowicie.<br>I na dowód mojej synowskiej miłości<br>poświęcam Cię w tym dzień moje oczy,<br>moje uszy, ni język,<br>moje serce: jednym słowem cała moja istota.<br><br> Ponieważ jestem cała Twoja,<br>Matko dobroci ,<br>trzymaj mnie i broń mnie<br>jako swojej rzeczy i własności.<br> <br>Amen. ",
 			"imagen": "maria"
 		},
 		{
@@ -132,7 +132,7 @@
 			"nombre": "Anioł Stróż",
 			"icono": "guardian",
 			"subtitulo": "Modlimy się przed snem i przy każdej okazji, kiedy prosimy naszego Anioła Stróża o ochronę",
-			"contenido": "Mój anioł stróż,<br />słodkie towarzystwo,<br />nie opuszczaj mnie,<br />ani nocą, ani dniem,<br />nie zostawiaj mnie samego, zagubiłbym się ,<br />dopóki mnie nie umieścisz w pokoju i radości,<br />ze wszystkimi świętymi, Jezusem i Maryją,<br />oddaję Ci serce i duszę<br />, które są bardziej Twoje niż moje. <br />Amen. ",
+			"contenido": "Mój anioł stróż,<br>słodkie towarzystwo,<br>nie opuszczaj mnie,<br>ani nocą, ani dniem,<br>nie zostawiaj mnie samego, zagubiłbym się ,<br>dopóki mnie nie umieścisz w pokoju i radości,<br>ze wszystkimi świętymi, Jezusem i Maryją,<br>oddaję Ci serce i duszę<br>, które są bardziej Twoje niż moje. <br>Amen. ",
 			"imagen": "angelo"
 		},
 		{
@@ -140,7 +140,7 @@
 			"nombre": "Błogosławieństwo podróży",
 			"icono": "bendi",
 			"subtitulo": "Przed wyjazdem takie zdanie nie jest złe.",
-			"contenido": "Że za wstawiennictwem<br />Najświętszej Maryi<br />mamy<br />(mieć, mieć, mieć) dobrą<br /> podróż: niech Pan będzie w naszym (moim, waszym, waszym) <br />droga, a wasi Aniołowie towarzyszą nam (ja, ty, ty).<br />W imię Ojca i Syna i Ducha Świętego.<br />Amen. ",
+			"contenido": "Że za wstawiennictwem<br>Najświętszej Maryi<br>mamy<br>(mieć, mieć, mieć) dobrą<br> podróż: niech Pan będzie w naszym (moim, waszym, waszym) <br>droga, a wasi Aniołowie towarzyszą nam (ja, ty, ty).<br>W imię Ojca i Syna i Ducha Świętego.<br>Amen. ",
 			"imagen": "viajero"
 		},
 		{
@@ -148,7 +148,7 @@
 			"nombre": "Błogosław stół",
 			"icono": "vino",
 			"subtitulo": "Modlisz się przed każdym posiłkiem, aby podziękować Bogu za jedzenie.",
-			"contenido": "Pobłogosław nas, Panie,<br />i pobłogosław te pokarmy,<br />które dzięki Twojej dobroci<br />przyjmiemy.<br />Przez Jezusa Chrystusa Pana naszego.<br /> Amen<br />V. Niech król wiecznej chwały uczyni nas uczestnikami<br />niebiańskiego stołu.<br />R. Amen.<br />V. W imię Ojca, Syna i Duch Święty. <Br /> R. Amen. ",
+			"contenido": "Pobłogosław nas, Panie,<br>i pobłogosław te pokarmy,<br>które dzięki Twojej dobroci<br>przyjmiemy.<br>Przez Jezusa Chrystusa Pana naszego.<br> Amen<br>V. Niech król wiecznej chwały uczyni nas uczestnikami<br>niebiańskiego stołu.<br>R. Amen.<br>V. W imię Ojca, Syna i Duch Święty. <Br /> R. Amen. ",
 			"imagen": "mesa"
 		}
 	]
