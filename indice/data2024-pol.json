@@ -71,16 +71,16 @@
         "id": "10"
     }, {
         "titulo": "Listopada",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "Dostępny",
         "contenido": "2024/noviembre2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Grudnia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "Dostępny",
         "contenido": "2024/diciembre2024-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]

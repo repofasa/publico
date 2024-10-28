@@ -71,16 +71,16 @@
         "id": "10"
     }, {
         "titulo": "Novambra",
-        "subtitulo": "Tsy Misy",
+        "subtitulo": "Available",
         "contenido": "2024/noviembre2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Desambra",
-        "subtitulo": "Tsy Misy",
+        "subtitulo": "Available",
         "contenido": "2024/diciembre2024-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
