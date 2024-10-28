@@ -71,16 +71,16 @@
         "id": "10"
     }, {
         "titulo": "Noviembre de",
-        "subtitulo": "No Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2024/noviembre2024-esp",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Diciembre de",
-        "subtitulo": "No Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2024/diciembre2024-esp",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
