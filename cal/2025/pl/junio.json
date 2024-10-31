@@ -1,0 +1,249 @@
+{
+    "junio": [
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Biały - Wniebowstąpienie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek VII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święci Marcelin i Piotr, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święci Karol Lwanga i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa VII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święty Bonifacy, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek VII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Norbert, biskup"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota VII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Czerwony - Zesłanie Ducha Świętego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Najświętsza Maryja Panna, Matka Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek X Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święty Barnaba, apostoł"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Nasz Pan Jezus Chrystus, Najwyższy i Wieczny Kapłan"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Antoni z Padwy, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota X Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja Panna w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Biały - Najświętsza Trójca Święta"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek XI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Biały - Najświętsze Ciało i Krew Chrystusa"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Ludwik Gonzaga, zakonnik"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XII Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Biały - Narodzenie Świętego Jana Chrzciciela"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Biały - Najświętsze Serce Pana Jezusa"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsze Serce Maryi",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święty Ireneusz, biskup, męczennik i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Solemnidad) - Kolor: Czerwony - Święci Piotr i Paweł, apostołowie"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XIII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Pierwsi Męczennicy Rzymscy"
+            }
+        }
+    ]
+}

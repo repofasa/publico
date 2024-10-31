@@ -1,0 +1,249 @@
+{
+    "junio": [
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 1,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - L'Ascensione del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 2,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della VII Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Rosso - Santi Marcelino e Pietro, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 3,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Carlo Luanga e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 4,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della VII Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 5,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - San Bonifacio, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 6,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della VII Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Norberto, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 7,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della VII Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 8,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solenne) - Colore: Rosso - Domenica di Pentecoste"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Beata Vergine Maria, Madre della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della X Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - San Bernabè, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Nostro Signore Gesù Cristo, Sommo e Eterno Sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Antonio di Padova, presbitero e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della X Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santa Maria in sabato"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - La Santissima Trinità"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - Il Corpo e il Sangue Santissimi di Cristo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XI Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Luigi Gonzaga, religioso"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XII Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - La Nascita di San Giovanni Battista"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XII Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XII Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - Il Sacro Cuore di Gesù"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria facoltativa) - Colore: Bianco - L'Immacolato Cuore di Maria",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Ireneo, vescovo, martire e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solenne) - Colore: Rosso - Santi Pietro e Paolo, apostoli"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XIII Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Rosso - I Santi Primi martiri della Chiesa di Roma"
+            }
+        }
+    ]
+}

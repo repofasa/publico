@@ -1,0 +1,253 @@
+{
+    "septiembre": [
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XXII Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek XXII Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Błogosławiony Bartłomiej Gutierrez, prezbiter i męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Grzegorz Wielki, papież i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XXII Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XXII Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota XXII Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XXIII Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Narodzenie Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek XXIII Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Piotr Claver, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XXIII Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XXIII Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XXIII Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsze Imię Maryi"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Jan Chryzostom, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XXIV Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Matka Bolesna Najświętsza Maryja Panna"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święci Korneliusz, papież, i Cyprian, biskup, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XXIV Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Robert Bellarmin, biskup i doktor Kościoła",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Hildegarda z Bingen, dziewica i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XXIV Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XXIV Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święty Januariusz, biskup i męczennik",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Józef Maria Yermo y Parres, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święci Andrzej Kim Taegon, prezbiter, Paweł Chong Hasang, i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XXV Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XXV Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Pio z Pietrelciny, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XXV Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XXV Tygodnia Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XXV Tygodnia Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święci Kosma i Damian, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Wincenty a Paulo, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XXVI Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Święci Michał, Gabriel i Rafał, Archaniołowie"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Hieronim, prezbiter i doktor Kościoła"
+            }
+        }
+    ]
+}

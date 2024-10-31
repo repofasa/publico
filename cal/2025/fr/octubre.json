@@ -1,0 +1,264 @@
+{
+    "octubre": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Sainte Thérèse de l'Enfant Jésus, vierge et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Les Saints Anges Gardiens"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la XXVI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint François d'Assise, religieux"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXVII Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la XXVII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Bruno, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Notre-Dame du Rosaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la XXVII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la XXVII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean Leonardi, prêtre",
+                "3": "(Mémorie facultative) - Couleur: Rouge - Saints Denis, évêque, et compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la XXVII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la XXVII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean XXIII, pape",
+                "3": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXVIII Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la XXVIII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la XXVIII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Rouge - Saint Calixte I, pape et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Sainte Thérèse d'Avila, vierge et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la XXVIII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Sainte Hedwige, religieuse",
+                "3": "(Mémorie facultative) - Couleur: Blanc - Sainte Marguerite-Marie de Alacoque, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Rouge - Saint Ignace d'Antioche, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Luc, évangéliste"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXIX Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la XXIX Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la XXIX Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la XXIX Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean-Paul II, pape"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la XXIX Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean de Capistran, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - Saint Raphaël Guízar y Valencia, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la XXIX Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Antoine-Marie Claret, évêque",
+                "3": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXX Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la XXX Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saints Simon et Jude, apôtres"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la XXX Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la XXX Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 31,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la XXX Semaine du Temps Ordinaire"
+            }
+        }
+    ]
+}

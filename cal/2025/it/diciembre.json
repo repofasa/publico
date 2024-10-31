@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Avvento",
+            "dia-num": 1,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della I Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 2,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della I Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 3,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Francesco Saverio, presbitero"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 4,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della I Settimana di Avvento",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Giovanni Damasceno, presbitero e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 5,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della I Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 6,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della I Settimana di Avvento",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Nicola, vescovo"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 7,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - II Domenica di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 8,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - L'Immacolata Concezione della Beata Vergine Maria"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 9,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Giovanni Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 10,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della II Settimana di Avvento",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Nostra Signora di Loreto"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 11,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della II Settimana di Avvento",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Damaso I, papa"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 12,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - Nostra Signora di Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 13,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santa Lucia, vergine e martire"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 14,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Rosa, Viola - III Domenica di Avvento «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 15,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 16,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 17,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 18,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 19,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 20,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della III Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 21,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - IV Domenica di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 22,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della IV Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 23,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della IV Settimana di Avvento",
+                "2": "(Commemorazione facoltativa) - Colore: Viola - San Giovanni Cancio, presbitero"
+            }
+        },
+        {
+            "tiempo": "Avvento",
+            "dia-num": 24,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della IV Settimana di Avvento"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 25,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - La Natività del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 26,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Stefano, protomartire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 27,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - San Giovanni, apostolo ed evangelista"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 28,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - La Sacra Famiglia di Gesù, Maria e Giuseppe"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 29,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - V Giorno nella Ottava della Natività del Signore",
+                "2": "(Commemorazione facoltativa) - Colore: Bianco - San Tommaso Becket, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 30,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - VI Giorno nella Ottava della Natività del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 31,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - VII Giorno nella Ottava della Natività del Signore",
+                "2": "(Commemorazione facoltativa) - Colore: Bianco - San Silvestro I, papa"
+            }
+        }
+    ]
+}

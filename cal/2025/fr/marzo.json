@@ -1,0 +1,258 @@
+{
+   "marzo": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la VII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - VIII Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la VIII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la VIII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Casimir"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 5,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Mercredi des Cendres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 6,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Jeudi après les Cendres",
+                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saintes Perpétue et Félicité, martyres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 7,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Vendredi après les Cendres"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 8,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Samedi après les Cendres",
+                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saint Jean de Dieu, religieux"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 9,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Pourpre - I Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 10,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Lundi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 11,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Mardi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 12,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Mercredi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 13,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Jeudi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 14,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Vendredi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 15,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Samedi de la I Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 16,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Pourpre - II Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 17,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Lundi de la II Semaine de Carême",
+                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saint Patrice, évêque"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 18,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Mardi de la II Semaine de Carême",
+                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saint Cyrille de Jérusalem, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 19,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - Saint Joseph, époux de la Bienheureuse Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 20,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Jeudi de la II Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 21,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Vendredi de la II Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 22,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Samedi de la II Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 23,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Pourpre - III Dimanche de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 24,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Lundi de la III Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 25,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - L'Annonciation du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 26,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Mercredi de la III Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 27,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Jeudi de la III Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 28,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Vendredi de la III Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 29,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Samedi de la III Semaine de Carême"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 30,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Rose, Pourpre - IV Dimanche de Carême «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Carême",
+            "dia-num": 31,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Pourpre - Lundi de la IV Semaine de Carême"
+            }
+        }
+    ]
+}

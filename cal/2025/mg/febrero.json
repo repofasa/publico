@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 1,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Sabotsy amin'ny Herinandro III amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 2,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Fanaterana ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 3,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro IV amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Mena - Masina Blasy, eveka sy martiora",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Oskara, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 4,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Mena - Masina Agata, virijiny sy martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 5,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masina Felipe de Jesús, martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 6,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Mena - Masina Pôlô Miki sy ireo namany, martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 7,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny Herinandro IV amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 8,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Sabotsy amin'ny Herinandro IV amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Jerôma Emiliano",
+                "3": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Josefa Bakhita, virijiny",
+                "4": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 9,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-V amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 10,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masina Escolástica, virijiny"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 11,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro V amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria any Lourdes"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 12,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro V amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 13,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro V amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 14,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana tsy maintsy atao) - Loko: Fotsy - Masina Kyril sy Metodio, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 15,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Sabotsy amin'ny Herinandro V amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Maria amin'ny sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 16,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-VI amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 17,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro VI amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Sivy lahy mpanorina ny Fikambanan'ny Servitas"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 18,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro VI amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 19,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro VI amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 20,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro VI amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 21,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny Herinandro VI amin'ny Fotoana ara-dalàna",
+                "2": "(Fahatsiarovana an-tsitrapo) - Loko: Fotsy - Masina Piera Damiana, eveka sy mpampianatra ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 22,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Fipetrahana amin'ny seza fiandrianan'i Masina Piera, apôstôly"
+            }
+        },
+        {
+            "tiempo": "Fotoana ara-dalàna",
+            "dia-num": 23,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-VII amin'ny Fotoana ara-dalàna"
+            }
+        },
+        {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 24,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro VII amin'ny Fotoana Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 25,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro VII amin'ny Fotoana Mahazatra",
+                "2": "(Fahatsiarovana azo atao) - Loko: Fotsy - Beato Sebastián de Aparicio, mpitandrina"
+            }
+        },
+        {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 26,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro VII amin'ny Fotoana Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 27,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro VII amin'ny Fotoana Mahazatra",
+                "2": "(Fahatsiarovana azo atao) - Loko: Fotsy - San Gregorio de Narek, abady sy dokotera ao amin'ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 28,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny Herinandro VII amin'ny Fotoana Mahazatra"
+            }
+        }
+    ]
+}

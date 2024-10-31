@@ -1,0 +1,259 @@
+{
+   "enero": [
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 1,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - Santa Maria, Madre di Dio"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 2,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santi Basilio Magno e Gregorio di Nazianzo, vescovi e dottori della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 3,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della II Settimana di Natale",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Il Santissimo Nome di Gesù"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 4,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della II Settimana di Natale"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 5,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - L'Epifania del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 6,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì dopo l'Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 7,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì dopo l'Epifania",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Raimondo di Peñafort, presbitero"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 8,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì dopo l'Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 9,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì dopo l'Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo di Natale",
+            "dia-num": 10,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì dopo l'Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato dopo l'Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Il Battesimo del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della I Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Ilario, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della I Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della I Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della I Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Antonio, abate"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della I Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - II Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della II Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Fabiano, papa e martire",
+                "3": "(Memoria facoltativa) - Colore: Rosso - San Sebastiano, martire"                
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santa Agnese, vergine e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della II Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Vincenzo, diacono e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della II Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Francesco di Sales, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - La Conversione di San Paolo, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - III Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della III Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santa Angela Merici, vergine"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santo Tommaso d'Aquino, presbitero e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della III Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della III Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 31,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Giovanni Bosco, presbitero"
+            }
+        }
+    ]
+}

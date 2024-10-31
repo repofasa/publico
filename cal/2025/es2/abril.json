@@ -1,0 +1,253 @@
+{
+    "abril": [
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 1,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la IV Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 2,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la IV Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Francisco de Paula, ermitaño"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 3,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la IV Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 4,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la IV Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Isidoro, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 5,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la IV Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Vicente Ferrer, presbítero"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 6,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - V Domingo de Cuaresma",
+                "2": "-"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 7,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la V Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Bautista de La Salle, presbítero"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 8,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la V Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 9,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la V Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 10,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la V Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 11,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la V Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Estanislao, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 12,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la V Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 13,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Rojo - Domingo de Ramos en la Pasión del Señor"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 14,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes Santo"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 15,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes Santo"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 16,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles Santo"
+            }
+        },
+        {
+            "tiempo": "Triduo Pascual",
+            "dia-num": 17,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Blanco - Jueves Santo en la Cena del Señor"
+            }
+        },
+        {
+            "tiempo": "Triduo Pascual",
+            "dia-num": 18,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Rojo - Viernes Santo en la Pasión del Señor"
+            }
+        },
+        {
+            "tiempo": "Triduo Pascual",
+            "dia-num": 19,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Blanco - Sábado Santo de la Sepultura del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 20,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Blanco - Domingo de Pascua de la Resurrección del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 21,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Lunes de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 22,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Martes de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 23,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Miércoles de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 24,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Jueves de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 25,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Viernes de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 26,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Sábado de la Octava de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 27,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Blanco - II Domingo de Pascua o de la Divina Misericordia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 28,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Blanco - Lunes de la II Semana de Pascua",
+                "2": "(Memoria facultativa) - Color: Blanco - San Luis María Grignion de Montfort, presbítero",
+                "3": "(Memoria facultativa) - Color: Rojo - San Pedro Chanel, presbítero y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 29,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Catalina de Siena, virgen y doctora de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 30,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Blanco - Miércoles de la II Semana de Pascua",
+                "2": "(Memoria facultativa) - Color: Blanco - San Pío V, papa"
+            }
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "junio": [
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 1,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Fotsy - Ny Fiakaran'ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 2,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy amin'ny Herinandro VII amin'ny Paska",
+                "2": "(Tsiahy voatery) - Loko: Mena - Ireo Masina Marcelino sy Pedro, martires"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 3,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Mena - Ireo Masina Carlos Luanga sy ny namany, martires"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 4,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - Alarobia amin'ny Herinandro VII amin'ny Paska"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 5,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Mena - Sant Bonifacio, episkopa sy martire"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 6,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro VII amin'ny Paska",
+                "2": "(Tsiahy voatery) - Loko: Fotsy - Sant Norberto, episkopa"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 7,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Sabotsy amin'ny Herinandro VII amin'ny Paska"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Paska",
+            "dia-num": 8,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Mena - Alahady Pentekosta"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 9,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Fotsy - Ny Vehivavy Masina Maria, Renin'ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 10,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro X amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 11,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Mena - Sant Bernabé, apostoly"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 12,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Jesoa Kristy, Mpampianatra sy Mpaminany ambony"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 13,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Fotsy - Sant Antonio de Padua, presbytera sy dokotera ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 14,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Sabotsy amin'ny Herinandro X amin'ny Fotoan'ny Mahazatra",
+                "2": "(Tsiahy voatery) - Loko: Fotsy - Santa Maria amin'ny sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 15,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Fotsy - Ny Andriamanitra Masina"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 16,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro XI amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 17,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro XI amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 18,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro XI amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 19,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Fotsy - Ny Tenan'Andriamanitra sy ny Raikipohy Masina"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 20,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny Herinandro XI amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 21,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Fotsy - Sant Luis Gonzaga, mpino"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 22,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady XII amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 23,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro XII amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 24,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Fotsy - Ny Fiterahana an'i Sant Juan Bautista"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 25,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro XII amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 26,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro XII amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 27,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fankalazana) - Loko: Fotsy - Ny Fo Masina Jesosy"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 28,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Mena - Sant Ignatius de Loiola"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 29,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady XIV amin'ny Fotoan'ny Mahazatra"
+            }
+        },
+        {
+            "tiempo": "Fotoan'ny Mahazatra",
+            "dia-num": 30,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Tsiahy voatery) - Loko: Mena - Ireo Masina Pedro sy Paul, apostoly"
+            }
+        }
+    ]
+}

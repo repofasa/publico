@@ -1,0 +1,249 @@
+{
+    "junio": [
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 1,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Ascension of the Lord"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 2,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: White - Monday of the VII Week of Easter",
+                "2": "(Optional Memorial) - Color: Red - Saints Marcelinus and Peter, martyrs"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 3,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Charles Lwanga and companions, martyrs"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 4,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: White - Wednesday of the VII Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 5,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saint Boniface, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 6,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: White - Friday of the VII Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Norbert, bishop"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 7,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: White - Saturday of the VII Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 8,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: Red - Pentecost Sunday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 9,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Blessed Virgin Mary, Mother of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 10,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the X Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 11,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saint Barnabas, apostle"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 12,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Feast) - Color: White - The Most Holy Body and Blood of Christ"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 13,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Anthony of Padua, priest and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 14,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the X Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 15,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Most Holy Trinity"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 16,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 17,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 18,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 19,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Most Sacred Heart of Jesus"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 20,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 21,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Aloysius Gonzaga, religious"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 22,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XII Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 23,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 24,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Nativity of Saint John the Baptist"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 25,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 26,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 27,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Sacred Heart of Jesus"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 28,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Optional Memorial) - Color: White - The Immaculate Heart of Mary",
+                "2": "(Optional Memorial) - Color: Red - Saint Irenaeus, bishop, martyr, and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 29,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: Red - Saints Peter and Paul, apostles"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 30,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XIII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - The First Martyrs of the Church of Rome"
+            }
+        }
+    ]
+}

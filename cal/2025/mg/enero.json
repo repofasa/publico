@@ -1,0 +1,259 @@
+{
+    "enero": [
+        {
+            "tiempo": "Taona Krismasy",
+            "dia-num": 1,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Masina Maria, Renin'Andriamanitra"
+            }
+        },
+        {
+            "tiempo": "Taona Krismasy",
+            "dia-num": 2,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Tsangambato voatery) - Loko: Fotsy - Masina Basilio Lehibe sy Grégoire avy any Nazianze, eveka sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Taona Krismasy",
+            "dia-num": 3,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro Faharoa amin'ny Krismasy",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Fotsy - Ny Anarana Masin’i Jesoa"
+            }
+        },
+        {
+            "tiempo": "Taona Krismasy",
+            "dia-num": 4,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Asabotsy amin'ny Herinandro Faharoa amin'ny Krismasy"
+            }
+        },
+        {
+            "tiempo": "Taona Krismasy",
+            "dia-num": 5,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Epifania'ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fotoana Krismasy",
+            "dia-num": 6,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fotoana Krismasy",
+            "dia-num": 7,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Talata aorian'ny Epifania",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Fotsy - Masina Raimondo avy any Peñafort, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Krismasy",
+            "dia-num": 8,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - Alarobia aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fotoana Krismasy",
+            "dia-num": 9,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alakamisy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fotoana Krismasy",
+            "dia-num": 10,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Asabotsy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Batemin'ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro Voalohany amin'ny Fotoana Ordinario",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Fotsy - Masina Hilario, eveka sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny Herinandro Voalohany amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro Voalohany amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro Voalohany amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Tsangambato voatery) - Loko: Fotsy - Masina Antonia, abidy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "Loko: Maitso - Asabotsy amin'ny Herinandro Voalohany amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady Faharoa amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro Faharoa amin'ny Fotoana Ordinario",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Mena - Masina Fabiàna, papa sy martiora",
+                "3": "(Tsangambato an-tsitrapo) - Loko: Mena - Masina Sebastiàna, martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Tsangambato voatery) - Loko: Mena - Masina Inès, virijina sy martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro Faharoa amin'ny Fotoana Ordinario",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Mena - Masina Vicento, diakona sy martiora"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro Faharoa amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Tsangambato voatery) - Loko: Fotsy - Masina Francisco de Sales, eveka sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Asabotsy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Fiovan'i Masina Paoly, Apostoly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady Fahatelo amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro Fahatelo amin'ny Fotoana Ordinario",
+                "2": "(Tsangambato an-tsitrapo) - Loko: Mena - Masina Timote sy Titoa, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Tsangambato voatery) - Loko: Fotsy - Masina Tomasa Aquinas, pretra sy mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny Herinandro Fahatelo amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny Herinandro Fahatelo amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 31,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Tsangambato an-tsitrapo) - Loko: Fotsy - Masina Joany Bosco, pretra"
+            }
+        }
+    ]
+}

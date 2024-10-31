@@ -1,0 +1,263 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 1,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la II Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Joseph Ouvrier"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 2,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint Athanase, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 3,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - La Sainte Croix"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 4,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - III Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 5,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 6,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 7,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mercredi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 8,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 9,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la III Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 10,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi de la III Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean d'Avila, prêtre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 11,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - IV Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 12,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la IV Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Rouge - Saint Pancrace, martyr",
+                "3": "(Mémorie facultative) - Couleur: Rouge - Saints Nérée et Achille, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 13,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la IV Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Notre-Dame de Fátima"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 14,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Matthias, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 15,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la IV Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Isidore le Laboureur"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 16,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la IV Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Rouge - Saint Jean Nepomucène, prêtre et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 17,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi de la IV Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 18,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - V Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 19,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la V Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 20,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la V Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Bernardin de Sienne, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 21,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Rouge - Saints Christophe Magallanes, prêtre, et compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 22,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la V Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Sainte Rita de Cascia, religieuse"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 23,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la V Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 24,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi de la V Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 25,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - VI Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 26,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint Philippe Néri, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 27,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la VI Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Augustin de Cantorbéry, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 28,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mercredi de la VI Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 29,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la VI Semaine de Pâques",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Paul VI, pape"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 30,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la VI Semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pâcifique",
+            "dia-num": 31,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Visitation de la Bienheureuse Vierge Marie"
+            }
+        }
+    ]
+}

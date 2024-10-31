@@ -1,0 +1,253 @@
+{
+    "septiembre": [
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Mainty - Alahady amin'ny XXII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Mainty - Alatsinainy amin'ny XXII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Mena - Beato Bartolomé Gutiérrez, pretra sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Gregorio Magno, eveka sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Mainty - Zoma amin'ny XXII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa Maria amin'ny Zoma"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - XXIII Alahady amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Festa) - Loko: Fotsy - Ny Natividadin'ny Bienaventurada Virgen María"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Mainty - Alatsinainy amin'ny XXIII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Pedro Claver, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Mainty - Talata amin'ny XXIII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXIII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXIII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Ny Anaran'i Maria"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Juan Crisóstomo, eveka sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - XXIV Alahady amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - Nuestra Señora de los Dolores"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mena - Santos Cornelio, papa, sy Cipriano, eveka, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Mainty - Talata amin'ny XXIV Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Roberto Belarmino, eveka sy dokotera ny Eglizy",
+                "3": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa Hildegarda de Bingen, virjiny sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXIV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXIV Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Mena - San Jenaro, eveka sy martiry",
+                "3": "(Fankalazana tsy voatery) - Loko: Fotsy - San José Maria de Yermo y Parres, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mena - Santos Andrés Kim Taegon, pretra, Pablo Chong Hasang, sy mpikambana, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - XXV Alahady amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Mainty - Alahady amin'ny XXV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Pío de Pietrelcina, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Mainty - Talata amin'ny XXV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXV Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Mena - Santos Cosme y Damián, martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Vicente de Paúl, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - XXVI Alahady amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Festa) - Loko: Fotsy - Santos Miguel, Gabriel y Rafael, arcángeles"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Jerónimo, pretra sy dokotera ny Eglizy"
+            }
+        }
+    ]
+}

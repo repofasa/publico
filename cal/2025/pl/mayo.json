@@ -1,0 +1,263 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 1,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek II Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Józef Robotnik"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 2,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Atanazy, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 3,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święta Krzyża"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 4,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - III Niedziela Wielkanocna"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 5,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek III Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 6,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek III Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 7,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa III Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 8,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek III Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 9,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek III Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 10,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota III Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Jan z Ávili, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 11,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - IV Niedziela Wielkanocna"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 12,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek IV Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święty Pankracy, męczennik",
+                "3": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święci Nereusz i Achilles, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 13,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek IV Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja Panna z Fátimy"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 14,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Maciej, apostoł"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 15,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek IV Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Izydor Oracz"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 16,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek IV Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święty Jan Nepomucen, prezbiter i męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 17,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota IV Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 18,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - V Niedziela Wielkanocna"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 19,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek V Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 20,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek V Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Bernardyn ze Sieny, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 21,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święci Chrystobal Magallanes, prezbiter, i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 22,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek V Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Rita z Cascia, zakonnica"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 23,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek V Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 24,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota V Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 25,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - VI Niedziela Wielkanocna"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 26,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Filip Neri, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 27,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek VI Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Augustyn z Canterbury, biskup"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 28,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa VI Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 29,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek VI Niedzieli Wielkanocnej",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Paweł VI, papież"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 30,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek VI Niedzieli Wielkanocnej"
+            }
+        },
+        {
+            "tiempo": "Czas Wielkanocny",
+            "dia-num": 31,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Nawiedzenie Najświętszej Maryi Panny"
+            }
+        }
+    ]
+}

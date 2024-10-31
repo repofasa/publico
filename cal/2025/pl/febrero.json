@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota III Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Ofiarowanie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek IV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święty Błażej, biskup i męczennik",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Oskar, biskup"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święta Agnieszka, dziewica i męczennica"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Feliks z Jezusem, męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Czerwony - Święci Paweł Miki i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek IV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota IV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Jerzy Emiliani",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Józefina Bakhita, dziewica",
+                "4": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - V Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święta Scholastyka, dziewica"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek V Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja Panna z Lourdes"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa V Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek V Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święci Cyryl, mnich, i Metody, biskup"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota V Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Maria w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - VI Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek VI Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święci Siedmiu Założycieli Zakonu Sług Maryi"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek VI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa VI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek VI Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek VI Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Piotr Damian, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Katedra Świętego Piotra, apostoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - VII Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek VII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek VII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Błogosławiony Sebastián de Aparicio, zakonnik"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa VII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek VII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Grzegorz z Nareku, opat i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek VII Niedzieli Czasu Zwykłego"
+            }
+        }
+    ]
+}

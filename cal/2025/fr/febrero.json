@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la III Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Présentation du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la IV Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Rouge - Saint Blas, évêque et martyr",
+                "3": "(Mémorie facultative) - Couleur: Blanc - Saint Óscar, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Rouge - Sainte Agathe, vierge et martyre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Philippe de Jésus, martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Rouge - Saints Paul Miki et compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la IV Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la IV Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jérôme Emilien",
+                "3": "(Mémorie facultative) - Couleur: Blanc - Sainte Josepha Bakhita, vierge",
+                "4": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - V Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Sainte Scholastique, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la V Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Notre Dame de Lourdes"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la V Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la V Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saints Cyrille, moine, et Méthode, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la V Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Sainte Marie en samedi"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - VI Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la VI Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Les Saints Sept Fondateurs de l'Ordre des Servites"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la VI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la VI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la VI Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la VI Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Pierre Damien, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Chaire de Saint Pierre, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - VII Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la VII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la VII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Bienheureux Sébastien de Aparicio, religieux"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la VII Semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la VII Semaine du Temps Ordinaire",
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Grégoire de Narek, abbé et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la VII Semaine du Temps Ordinaire"
+            }
+        }
+    ]
+}

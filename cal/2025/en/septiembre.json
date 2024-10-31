@@ -1,0 +1,253 @@
+{
+    "septiembre": [
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 1,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XXII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 2,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Blessed Bartolomé Gutiérrez, priest and martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 3,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Gregory the Great, pope and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 4,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 5,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 6,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the XXII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 7,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXIII Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 8,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Nativity of the Blessed Virgin Mary"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 9,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXIII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Peter Claver, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 10,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XXIII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 11,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXIII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 12,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXIII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - The Most Holy Name of Mary"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 13,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint John Chrysostom, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 14,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXIV Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 15,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Our Lady of Sorrows"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 16,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Cornelius, pope, and Cyprian, bishop, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 17,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XXIV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Robert Bellarmine, bishop and doctor of the Church",
+                "3": "(Optional Memorial) - Color: White - Saint Hildegard of Bingen, virgin and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 18,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXIV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 19,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXIV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saint Januarius, bishop and martyr",
+                "3": "(Optional Memorial) - Color: White - Saint José Maria de Yermo y Parres, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 20,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Andrew Kim Taegon, priest, Paul Chong Hasang, and companions, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 21,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXV Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 22,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XXV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 23,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Pio of Pietrelcina, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 24,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XXV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 25,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 26,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saints Cosmas and Damian, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 27,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Vincent de Paul, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 28,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXVI Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 29,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Saints Michael, Gabriel, and Raphael, archangels"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 30,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Jerome, priest and doctor of the Church"
+            }
+        }
+    ]
+}

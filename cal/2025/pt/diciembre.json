@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Advento",
+            "dia-num": 1,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Segunda-feira da I Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 2,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da I Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 3,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Francisco Xavier, presbítero"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 4,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira da I Semana do Advento",
+                "2": "(Comemoração opcional) - Cor: Branco - São João Damasceno, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 5,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira da I Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 6,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado da I Semana do Advento",
+                "2": "(Comemoração opcional) - Cor: Branco - São Nicolau, bispo"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 7,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo - II Domingo do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 8,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - A Imaculada Conceição da Bem-Aventurada Virgem Maria"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 9,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São João Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 10,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da II Semana do Advento",
+                "2": "(Comemoração opcional) - Cor: Branco - Nossa Senhora de Loreto"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 11,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira da II Semana do Advento",
+                "2": "(Comemoração opcional) - Cor: Branco - São Dâmaso I, papa"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 12,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Nossa Senhora de Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 13,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santa Lúcia, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 14,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Rosa, Roxo - III Domingo do Advento «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 15,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Segunda-feira da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 16,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 17,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 18,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 19,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 20,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado da III Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 21,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo - IV Domingo do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 22,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Segunda-feira da IV Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 23,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da IV Semana do Advento",
+                "2": "(Comemoração opcional) - Cor: Roxo - São João Cancio, presbítero"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 24,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da IV Semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 25,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - A Natividade do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 26,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Estêvão, protomártir"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 27,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - São João, apóstolo e evangelista"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 28,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - A Sagrada Família de Jesus, Maria e José"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 29,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Dia V dentro da Oitava da Natividade do Senhor",
+                "2": "(Comemoração opcional) - Cor: Branco - São Tomás Becket, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 30,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Dia VI dentro da Oitava da Natividade do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo de Natal",
+            "dia-num": 31,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Dia VII dentro da Oitava da Natividade do Senhor",
+                "2": "(Comemoração opcional) - Cor: Branco - São Silvestre I, papa"
+            }
+        }
+    ]
+}

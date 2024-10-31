@@ -1,0 +1,263 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 1,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della II Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Giuseppe Operaio"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 2,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Atanasio, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 3,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - La Santa Croce"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 4,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - III Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 5,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della III Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 6,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della III Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 7,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della III Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 8,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della III Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 9,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della III Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 10,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della III Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Giovanni d'Avila, presbitero e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 11,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - IV Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 12,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della IV Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Pancrazio, martire",
+                "3": "(Memoria facoltativa) - Colore: Rosso - Santi Nereo e Achilleo, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 13,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della IV Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Nostra Signora di Fátima"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 14,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Mattia, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 15,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della IV Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Isidoro Agricola"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 16,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della IV Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Giovanni Nepomuceno, presbitero e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 17,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della IV Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 18,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - V Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 19,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della V Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 20,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della V Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Bernardino da Siena, presbitero"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 21,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Cristóbal Magallanes, presbitero, e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 22,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della V Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santa Rita da Cascia, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 23,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della V Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 24,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della V Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 25,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - VI Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 26,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Filippo Neri, presbitero"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 27,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della VI Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Agostino di Canterbury, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 28,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della VI Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 29,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della VI Settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Paolo VI, papa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 30,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della VI Settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo Pasquale",
+            "dia-num": 31,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - La Visitazione della Beata Vergine Maria"
+            }
+        }
+    ]
+}

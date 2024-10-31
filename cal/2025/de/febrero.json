@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 1,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der III Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 2,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Darstellung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 3,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der IV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Rot - Heiliger Blasius, Bischof und Märtyrer",
+                "3": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Oskar, Bischof"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 4,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Agatha, Jungfrau und Märtyrin"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 5,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Philipp von Jesus, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 6,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Paul Miki und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 7,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der IV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 8,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der IV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Hieronymus Emiliani",
+                "3": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Josefine Bakhita, Jungfrau",
+                "4": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 9,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - V Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 10,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heilige Scholastika, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 11,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der V Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Unsere Liebe Frau von Lourdes"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 12,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der V Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 13,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der V Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 14,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heilige Kyrill, Mönch, und Method, Bischof"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 15,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der V Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 16,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - VI Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 17,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der VI Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Die Sieben Heiligen Gründer der Serviten-Orden"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 18,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der VI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 19,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der VI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 20,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der VI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 21,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der VI Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Petrus Damiani, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 22,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Der Stuhl Petri, Apostel"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 23,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - VII Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 24,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der VII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 25,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der VII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Seliger Sebastian von Aparicio, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 26,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der VII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 27,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der VII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Gregor von Narek, Abt und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 28,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der VII Woche des gewöhnlichen Sonntags"
+            }
+        }
+    ]
+}

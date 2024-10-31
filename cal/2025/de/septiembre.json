@@ -1,0 +1,253 @@
+{
+    "septiembre": [
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 1,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XXII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 2,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Rot - Seliger Bartolomé Gutiérrez, Priester und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 3,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Gregor der Große, Papst und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 4,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 5,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 6,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 7,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXIII Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 8,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Geburt der seligen Jungfrau Maria"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 9,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXIII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Peter Claver, Priester"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 10,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXIII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 11,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXIII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 12,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXIII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Der heilige Name Mariens"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 13,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Johannes Chrysostomos, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 14,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXIV Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 15,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Unsere Liebe Frau der Schmerzen"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 16,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Cornelius, Papst, und Cyprian, Bischof, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 17,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXIV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Robert Bellarmin, Bischof und Kirchenlehrer",
+                "3": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Hildegard von Bingen, Jungfrau und Kirchenlehrerin"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 18,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXIV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 19,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXIV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Rot - Heiliger Januarius, Bischof und Märtyrer",
+                "3": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger José María de Yermo y Parres, Priester"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 20,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Andreas Kim Taegon, Priester, Paul Chong Hasang, und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 21,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXV Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 22,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der XXV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 23,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Pio von Pietrelcina, Priester"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 24,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 25,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 26,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Rot - Heilige Kosmas und Damian, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 27,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Vinzenz von Paul, Priester"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 28,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXVI Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 29,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Heilige Michael, Gabriel und Raphael, Erzengel"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 30,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Hieronymus, Priester und Kirchenlehrer"
+            }
+        }
+    ]
+}

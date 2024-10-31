@@ -1,0 +1,253 @@
+{
+    "abril": [
+        {
+            "tiempo": "Lent",
+            "dia-num": 1,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Purple - Tuesday of the IV Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 2,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Purple - Wednesday of the IV Week of Lent",
+                "2": "(Optional Memorial) - Color: Purple - St. Francis of Paula, hermit"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 3,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Purple - Thursday of the IV Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 4,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Purple - Friday of the IV Week of Lent",
+                "2": "(Optional Memorial) - Color: Purple - St. Isidore, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 5,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Purple - Saturday of the IV Week of Lent",
+                "2": "(Optional Memorial) - Color: Purple - St. Vincent Ferrer, priest"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 6,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Purple - V Sunday of Lent",
+                "2": "-"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 7,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Purple - Monday of the V Week of Lent",
+                "2": "(Optional Memorial) - Color: Purple - St. John Baptist de La Salle, priest"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 8,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Purple - Tuesday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 9,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Purple - Wednesday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 10,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Purple - Thursday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 11,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Purple - Friday of the V Week of Lent",
+                "2": "(Optional Memorial) - Color: Purple - St. Stanislaus, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 12,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Purple - Saturday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 13,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Red - Palm Sunday of the Passion of the Lord"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 14,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Purple - Holy Monday"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 15,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Purple - Holy Tuesday"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 16,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Purple - Holy Wednesday"
+            }
+        },
+        {
+            "tiempo": "Easter Triduum",
+            "dia-num": 17,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - Holy Thursday in the Lord's Supper"
+            }
+        },
+        {
+            "tiempo": "Easter Triduum",
+            "dia-num": 18,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Red - Good Friday in the Passion of the Lord"
+            }
+        },
+        {
+            "tiempo": "Easter Triduum",
+            "dia-num": 19,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: White - Holy Saturday of the Lord's Burial"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 20,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: White - Easter Sunday of the Resurrection of the Lord"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 21,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Monday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 22,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Tuesday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 23,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Wednesday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 24,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Thursday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 25,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Friday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 26,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Saturday of the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 27,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: White - II Sunday of Easter or Divine Mercy"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 28,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: White - Monday of the II Week of Easter",
+                "2": "(Optional Memorial) - Color: White - St. Louis Mary Grignion de Montfort, priest",
+                "3": "(Optional Memorial) - Color: Red - St. Peter Chanel, priest and martyr"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 29,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - St. Catherine of Siena, virgin and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 30,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: White - Wednesday of the II Week of Easter",
+                "2": "(Optional Memorial) - Color: White - St. Pius V, pope"
+            }
+        }
+    ]
+}

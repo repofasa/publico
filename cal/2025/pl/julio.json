@@ -1,0 +1,265 @@
+{
+    "julio": [
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek XIII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XIII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Tomasz, apostoł"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XIII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja Panny Schronienia",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Izabela Portugalska"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota XIII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Antoni Maria Zaccaria, prezbiter",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XIV Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XIV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek XIV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XIV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Czerwony - Święci Agustyn Zhao Rong, prezbiter, i towarzysze, męczennicy"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XIV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Benedykt, opat"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota XIV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XV Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Kamień de Lellis, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Bonawentura, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Najświętsza Maryja z Góry Karmel"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek XV Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota XV Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Najświętsza Maryja w sobotę"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XVI Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XVI Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Wawrzyniec z Brindisi, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Święta Maria Magdalena"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XVI Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Brygida Szwedzka, zakonnica"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek XVI Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Szarbel Makhlouf, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Święty Jakub, apostoł"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święci Joachim i Anna, rodzice Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - XVII Niedziela Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek XVII Niedzieli Czasu Zwykłego"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święci Marta, Maria i Łazarz"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa XVII Niedzieli Czasu Zwykłego",
+                "2": "(Pamiątka fakultatywna) - Kolor: Biały - Święty Piotr Chryzolog, biskup i doktor Kościoła",
+                "3": "(Pamiątka fakultatywna) - Kolor: Biały - Święta Maria od Jezusa Sakramentowanego Venegas, dziewica"
+            }
+        },
+        {
+            "tiempo": "Czas Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Pamiątka obowiązkowa) - Kolor: Biały - Święty Ignacy Loyola, prezbiter"
+            }
+        }
+    ]
+}

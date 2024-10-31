@@ -1,0 +1,258 @@
+{
+   "marzo": [
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde - Sábado de la VII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - VIII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la VIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde - Martes de la VIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Casimiro"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 5,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de Ceniza"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 6,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves después de Ceniza",
+                "2": "(Conmemoración facultativa) - Color: Morado - Santas Perpetua y Felicidad, mártires"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 7,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes después de Ceniza"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado después de Ceniza",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Juan de Dios, religioso"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - I Domingo de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 10,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 11,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 12,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 13,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 14,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la I Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - II Domingo de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 17,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la II Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Patricio, obispo"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 18,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la II Semana de Cuaresma",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Cirilo de Jerusalén, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 19,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - San José, esposo de la Bienaventurada Virgen María"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 20,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la II Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 21,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la II Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la II Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - III Domingo de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 24,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la III Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 25,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Anunciación del Señor"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 26,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la III Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 27,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la III Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 28,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la III Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 29,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la III Semana de Cuaresma"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 30,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Rosa, Morado - IV Domingo de Cuaresma «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Cuaresma",
+            "dia-num": 31,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la IV Semana de Cuaresma"
+            }
+        }
+    ]
+}

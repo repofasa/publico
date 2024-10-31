@@ -1,0 +1,258 @@
+{
+   "marzo": [
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della VII Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santa Maria in sabato"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - VIII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della VIII Settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della VIII Settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Casimiro"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 5,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì delle Ceneri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 6,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì dopo le Ceneri",
+                "2": "(Conmemorazione facoltativa) - Colore: Viola - Santissime Perpetua e Felicita, martiri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 7,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì dopo le Ceneri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 8,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato dopo le Ceneri",
+                "2": "(Conmemorazione facoltativa) - Colore: Viola - San Giovanni di Dio, religioso"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 9,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - I Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 10,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 11,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 12,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 13,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 14,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 15,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della I Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 16,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - II Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 17,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della II Settimana di Quaresima",
+                "2": "(Conmemorazione facoltativa) - Colore: Viola - San Patrizio, vescovo"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 18,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della II Settimana di Quaresima",
+                "2": "(Conmemorazione facoltativa) - Colore: Viola - San Cirillo di Gerusalemme, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 19,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - San Giuseppe, sposo della Beata Vergine Maria"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 20,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della II Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 21,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della II Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 22,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della II Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 23,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - III Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 24,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della III Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 25,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Solenne) - Colore: Bianco - L'Annunciazione del Signore"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 26,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della III Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 27,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della III Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 28,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della III Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 29,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della III Settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 30,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Rosa, Viola - IV Domenica di Quaresima «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 31,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della IV Settimana di Quaresima"
+            }
+        }
+    ]
+}

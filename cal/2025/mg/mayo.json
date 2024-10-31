@@ -1,0 +1,263 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 1,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady amin'ny Herinandro II amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San José Obrero"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 2,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Atanasio, eveka sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 3,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Festa) - Loko: Mena - Ny Santa Krosy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 4,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - III Alahady amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 5,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alakamisy amin'ny Herinandro III amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 6,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro III amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 7,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Sabotsy amin'ny Herinandro III amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 8,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady amin'ny Herinandro III amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 9,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy amin'ny Herinandro III amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 10,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Talata amin'ny Herinandro III amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Juan de Ávila, pretra sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 11,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - IV Alahady amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 12,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alakamisy amin'ny Herinandro IV amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Mena - San Pancracio, martirio",
+                "3": "(Fankalazana tsy voatery) - Loko: Mena - Santos Nereo sy Aquileo, martirio"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 13,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro IV amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Nuestra Señora de Fátima"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 14,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Festa) - Loko: Mena - San Matías, apóstolo"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 15,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady amin'ny Herinandro IV amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Isidro Labrador"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 16,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy amin'ny Herinandro IV amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Mena - San Juan Nepomuceno, pretra sy martirio"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 17,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Talata amin'ny Herinandro IV amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 18,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - V Alahady amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 19,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alakamisy amin'ny Herinandro V amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 20,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro V amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Bernardino de Siena, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 21,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mena - Santos Cristóbal Magallanes, pretra, sy ny mpianany, martirio"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 22,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady amin'ny Herinandro V amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa Rita de Casia, relijiozy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 23,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy amin'ny Herinandro V amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 24,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Talata amin'ny Herinandro V amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 25,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - VI Alahady amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 26,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Felipe Neri, pretra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 27,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma amin'ny Herinandro VI amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Agustín de Canterbury, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 28,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Sabotsy amin'ny Herinandro VI amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 29,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Fotsy - Alahady amin'ny Herinandro VI amin'ny Fotoana Paskaly",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Paulo VI, papa"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 30,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy amin'ny Herinandro VI amin'ny Fotoana Paskaly"
+            }
+        },
+        {
+            "tiempo": "Fotoana Paskaly",
+            "dia-num": 31,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Festa) - Loko: Fotsy - Ny Fisokafana an'i Maria Virjiny"
+            }
+        }
+    ]
+}

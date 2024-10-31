@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Advent",
+            "dia-num": 1,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der I. Adventswoche"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 2,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der I. Adventswoche"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 3,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Hl. Franz Xaver, Priester"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 4,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der I. Adventswoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Hl. Johannes Damascenus, Priester und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 5,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Lila - Freitag der I. Adventswoche"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 6,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Lila - Samstag der I. Adventswoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Hl. Nikolaus, Bischof"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 7,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Lila - II. Adventssonntag"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 8,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Solemnidad) - Farbe: Weiß - Die ohne Erbsünde empfangene Jungfrau und Gottesmutter Maria"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 9,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Hl. Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 10,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Lila - Mittwoch der II. Adventswoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Unsere Liebe Frau von Loreto"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 11,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Lila - Donnerstag der II. Adventswoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Hl. Damasus I., Papst"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 12,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Solemnidad) - Farbe: Weiß - Unsere Liebe Frau von Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 13,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Hl. Lucia, Jungfrau und Märtyrin"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 14,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Farbe: Rosa, Lila - III. Adventssonntag «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 15,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Farbe: Lila - Montag der III. Adventswoche"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 16,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Farbe: Lila - Dienstag der III. Adventswoche"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 17,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (17 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 18,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (18 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 19,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (19 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 20,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (20 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 21,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Farbe: Lila - IV. Adventssonntag"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 22,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (22 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 23,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (23 de diciembre)",
+                "2": "(Facultative Erinnerung) - Farbe: Lila - Hl. Johannes von Kety, Priester"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 24,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Farbe: Lila - Feria de Adviento (24 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 25,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Solemnidad) - Farbe: Weiß - Die Geburt des Herrn"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 26,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Fiesta) - Farbe: Rot - Hl. Stephanus, Erzmärtyrer"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 27,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Farbe: Weiß - Hl. Johannes, Apostel und Evangelist"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 28,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Fiesta) - Farbe: Weiß - Die Heilige Familie von Jesus, Maria und Josef"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 29,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Farbe: Weiß - V. Tag innerhalb der Oktav der Geburt des Herrn",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Hl. Thomas Becket, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 30,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Farbe: Weiß - VI. Tag innerhalb der Oktav der Geburt des Herrn"
+            }
+        },
+        {
+            "tiempo": "Weihnachtszeit",
+            "dia-num": 31,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Farbe: Weiß - VII. Tag innerhalb der Oktav der Geburt des Herrn",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Hl. Silvester I., Papst"
+            }
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 1,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der II Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Josef der Arbeiter"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 2,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Athanasius, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 3,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Die Heilige Kreuz"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 4,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - III Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 5,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der III Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 6,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der III Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 7,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der III Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 8,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der III Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 9,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der III Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 10,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der III Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Johannes von Ávila, Priester und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 11,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - IV Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 12,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der IV Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Rot - Heiliger Pankratius, Märtyrer",
+                "3": "(Facultative Erinnerung) - Farbe: Rot - Heilige Nereus und Achilleus, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 13,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der IV Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Unsere Liebe Frau von Fátima"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 14,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Heiliger Matthias, Apostel"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 15,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der IV Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Isidor der Bauer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 16,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der IV Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Rot - Heiliger Johannes Nepomuk, Priester und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 17,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der IV Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 18,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - V Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 19,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der V Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 20,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der V Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Bernhardin von Siena, Priester"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 21,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Christophorus Magallanes, Priester, und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 22,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der V Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heilige Rita von Cascia, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 23,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der V Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 24,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der V Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 25,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - VI Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 26,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Philipp Neri, Priester"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 27,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der VI Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Augustinus von Canterbury, Bischof"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 28,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der VI Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 29,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der VI Osterwoche",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Paul VI., Papst"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 30,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der VI Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 31,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Besuchung der seligen Jungfrau Maria"
+            }
+        }
+    ]
+}

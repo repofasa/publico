@@ -1,0 +1,249 @@
+{
+    "junio": [
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 1,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Ascensión del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 2,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Blanco - Lunes de la VII Semana de Pascua",
+                "2": "(Memoria facultativa) - Color: Rojo - Santos Marcelino y Pedro, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 3,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Carlos Luanga y compañeros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 4,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Blanco - Miércoles de la VII Semana de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 5,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Bonifacio, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 6,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Blanco - Viernes de la VII Semana de Pascua",
+                "2": "(Memoria facultativa) - Color: Blanco - San Norberto, obispo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 7,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Blanco - Sábado de la VII Semana de Pascua"
+            }
+        },
+        {
+            "tiempo": "Tiempo Pascual",
+            "dia-num": 8,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Rojo - Domingo de Pentecostés"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Bienaventurada Virgen María, Madre de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde - Martes de la X Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - San Bernabé, apóstol"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - Nuestro Señor Jesucristo, Sumo y Eterno Sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Antonio de Padua, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde - Sábado de la X Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Santísima Trinidad"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde - Martes de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - El Cuerpo y la Sangre Santísimos de Cristo"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde - Viernes de la XI Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Luis Gonzaga, religioso"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - XII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - El Nacimiento de San Juan Bautista"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde - Jueves de la XII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - El Sagrado Corazón de Jesús"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria facultativa) - Color: Blanco - El Inmaculado Corazón de María",
+                "2": "(Memoria facultativa) - Color: Rojo - San Ireneo, obispo, mártir y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Rojo - Santos Pedro y Pablo, apóstoles"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Rojo - Los Santos Primeros mártires de la Iglesia de Roma"
+            }
+        }
+    ]
+}

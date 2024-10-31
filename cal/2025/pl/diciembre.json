@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Adwent",
+            "dia-num": 1,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek I Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 2,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek I Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 3,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Obligatory memory) - Kolor: Biały - Święty Franciszek Ksawery, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 4,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek I Tygodnia Adwentu",
+                "2": "(Facultative memory) - Kolor: Biały - Święty Jan Damasceński, prezbiter i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 5,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek I Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 6,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota I Tygodnia Adwentu",
+                "2": "(Facultative memory) - Kolor: Biały - Święty Mikołaj, biskup"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 7,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - II Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 8,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Solemnity) - Kolor: Biały - Niepokalane Poczęcie Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 9,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Obligatory memory) - Kolor: Biały - Święty Jan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 10,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa II Tygodnia Adwentu",
+                "2": "(Facultative memory) - Kolor: Biały - Najświętsza Maryja Panna z Loreto"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 11,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek II Tygodnia Adwentu",
+                "2": "(Facultative memory) - Kolor: Biały - Święty Damazy I, papież"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 12,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Solemnity) - Kolor: Biały - Najświętsza Maryja Panna z Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 13,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Obligatory memory) - Kolor: Czerwony - Święta Łucja, dziewica i męczennica"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 14,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Różowy, Fioletowy - III Niedziela Adwentu «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 15,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek III Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 16,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek III Tygodnia Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 17,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa Adwentu (17 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 18,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek Adwentu (18 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 19,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek Adwentu (19 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 20,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota Adwentu (20 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 21,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - IV Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 22,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek Adwentu (22 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 23,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek Adwentu (23 grudnia)",
+                "2": "(Facultative commemoration) - Kolor: Fioletowy - Święty Jan Kanty, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 24,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa Adwentu (24 grudnia)"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 25,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Solemnity) - Kolor: Biały - Narodzenie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 26,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Feast) - Kolor: Czerwony - Święty Szczepan, protomęczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 27,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Feast) - Kolor: Biały - Święty Jan, apostoł i ewangelista"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 28,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Feast) - Kolor: Biały - Święta Rodzina Jezusa, Maryi i Józefa"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 29,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Dzień V w Okresie Bożego Narodzenia",
+                "2": "(Facultative commemoration) - Kolor: Biały - Święty Tomasz Becket, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 30,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Dzień VI w Okresie Bożego Narodzenia"
+            }
+        },
+        {
+            "tiempo": "Czas Bożego Narodzenia",
+            "dia-num": 31,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Dzień VII w Okresie Bożego Narodzenia",
+                "2": "(Facultative commemoration) - Kolor: Biały - Święty Sylwester I, papież"
+            }
+        }
+    ]
+}

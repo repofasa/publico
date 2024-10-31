@@ -1,0 +1,265 @@
+{
+    "julio": [
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde - Martes de la XIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XIII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - Santo Tomás, apóstol"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde - Viernes de la XIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora del Refugio",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa Isabel de Portugal"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde - Sábado de la XIII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Antonio María Zaccaria, presbítero",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - XIV Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Verde - Martes de la XIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XIV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Rojo - Santos Agustín Zhao Rong, presbítero, y compañeros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde - Jueves de la XIV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Benito, abad"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde - Sábado de la XIV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - XV Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Camilo de Lellis, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Buenaventura, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Nuestra Señora del Carmen"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde - Jueves de la XV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Verde - Viernes de la XV Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Verde - Sábado de la XV Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - XVI Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XVI Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Lorenzo de Brindis, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - Santa María Magdalena"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XVI Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa Brígida de Suecia, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Verde - Jueves de la XVI Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Chárbel Makhlouf, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - Santiago, apóstol"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Santos Joaquín y Ana, padres de la bienaventurada Virgen María"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Verde - XVII Domingo del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Verde - Lunes de la XVII Semana del Tiempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - Santos Marta, María y Lázaro"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Verde - Miércoles de la XVII Semana del Tiempo Ordinario",
+                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Crisólogo, obispo y doctor de la Iglesia",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa María de Jesús Sacramentado Venegas, virgen"
+            }
+        },
+        {
+            "tiempo": "Tiempo Ordinario",
+            "dia-num": 31,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Ignacio de Loyola, presbítero"
+            }
+        }
+    ]
+}

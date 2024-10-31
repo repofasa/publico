@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 1,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the III Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 2,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Presentation of the Lord"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 3,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the IV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saint Blaise, bishop and martyr",
+                "3": "(Optional Memorial) - Color: White - Saint Oscar, bishop"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 4,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saint Agatha, virgin and martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 5,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: Red - Saint Philip of Jesus, martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 6,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Paul Miki and companions, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 7,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the IV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 8,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the IV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Jerome Emiliani",
+                "3": "(Optional Memorial) - Color: White - Saint Josephine Bakhita, virgin",
+                "4": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 9,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - V Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 10,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Scholastica, virgin"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 11,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the V Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Lourdes"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 12,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the V Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 13,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the V Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 14,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saints Cyril, monk, and Methodius, bishop"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 15,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the V Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Mary on Saturday"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 16,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - VI Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 17,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the VI Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - The Seven Holy Founders of the Servite Order"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 18,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the VI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 19,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the VI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 20,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the VI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 21,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the VI Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Peter Damian, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 22,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Chair of Saint Peter, apostle"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 23,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - VII Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 24,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the VII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 25,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the VII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Blessed Sebastian of Aparicio, religious"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 26,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the VII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 27,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the VII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Gregory of Narek, abbot and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 28,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the VII Week of Ordinary Time"
+            }
+        }
+    ]
+}

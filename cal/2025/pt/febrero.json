@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da III Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - A Apresentação do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 3,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da IV Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Vermelho - São Blas, bispo e mártir",
+                "3": "(Memória facultativa) - Cor: Branco - São Óscar, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 4,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santa Águeda, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 5,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Felipe de Jesus, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 6,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santos Paulo Miki e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 7,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da IV Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da IV Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - São Jerônimo Emiliano",
+                "3": "(Memória facultativa) - Cor: Branco - Santa Josefina Bakhita, virgem",
+                "4": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - V Domingo do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 10,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Santa Escolástica, virgem"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 11,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da V Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Nossa Senhora de Lourdes"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 12,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da V Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 13,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da V Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 14,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Santos Cirilo, monge, e Metódio, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da V Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - VI Domingo do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 17,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da VI Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Os Santos Sete Fundadores da Ordem dos Servitas"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 18,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da VI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 19,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da VI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 20,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da VI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 21,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da VI Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - São Pedro Damião, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - A Cátedra de São Pedro, apóstolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - VII Domingo do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 24,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da VII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 25,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da VII Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Beato Sebastião de Aparício, religioso"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 26,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da VII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 27,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da VII Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - São Gregório de Narek, abade e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 28,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da VII Semana do Tempo Ordinário"
+            }
+        }
+    ]
+}

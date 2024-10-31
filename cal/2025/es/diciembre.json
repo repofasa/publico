@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Adviento",
+            "dia-num": 1,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 2,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 3,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco Javier, presbítero"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 4,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la I Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan Damasceno, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 5,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 6,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la I Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Nicolás, obispo"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 7,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - II Domingo de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 8,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Inmaculada Concepción de la Bienaventurada Virgen María"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 9,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 10,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la II Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora de Loreto"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 11,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la II Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Dámaso I, papa"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 12,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Nuestra Señora de Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 13,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Lucía, virgen y mártir"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 14,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Rosa, Morado - III Domingo de Adviento «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 15,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Lunes de la III Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 16,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la III Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 17,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (17 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 18,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (18 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 19,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (19 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 20,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (20 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 21,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - IV Domingo de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 22,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (22 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 23,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (23 de diciembre)",
+                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Cancio, presbítero"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 24,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Feria de Adviento (24 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 25,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Natividad del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 26,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - San Esteban, protomártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 27,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - San Juan, apóstol y evangelista"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 28,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - La Sagrada Familia de Jesús, María y José"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 29,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Blanco - Día V dentro de la Octava de la Natividad del Señor",
+                "2": "(Conmemoración facultativa) - Color: Blanco - San Tomás Becket, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 30,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Blanco - Día VI dentro de la Octava de la Natividad del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 31,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Blanco - Día VII dentro de la Octava de la Natividad del Señor",
+                "2": "(Conmemoración facultativa) - Color: Blanco - San Silvestre I, papa"
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "noviembre": [
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 1,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Allerheiligen"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 2,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett, Weiß, Schwarz-Gedenken aller Verstorbenen"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 3,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Martin von Porres, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 4,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Karl Borromäus, Bischof"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 5,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXXI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 6,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXXI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 7,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXXI Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 8,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXXI Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 9,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Die Weihe der Lateranbasilika"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 10,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Leo der Große, Papst und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 11,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heiliger Martin von Tours, Bischof"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 12,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heiliger Josaphat, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 13,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXXII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 14,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXXII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 15,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXXII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heiliger Albert der Große, Bischof und Kirchenlehrer",
+                "3": "(Facultative Erinnerung) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 16,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - XXXIII Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 17,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Heilige Elisabeth von Ungarn, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 18,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXXIII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Die Weihe der Basiliken der Heiligen Peter und Paul, Apostel"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 19,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXXIII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 20,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXXIII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 21,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Weiß - Die Darstellung der allerheiligsten Jungfrau Maria"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 22,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Cäcilia, Jungfrau und Märtyrin"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 23,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Christkönig"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 24,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Obligatorische Erinnerung) - Farbe: Rot - Heilige Andreas Dung-Lac, Priester, und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 25,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der XXXIV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Erinnerung) - Farbe: Rot - Heilige Katharina von Alexandrien, Jungfrau und Märtyrin"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 26,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der XXXIV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 27,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der XXXIV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 28,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der XXXIV Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 29,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der XXXIV Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Erinnerung) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 30,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - I Adventsonntag"
+            }
+        }
+    ]
+}

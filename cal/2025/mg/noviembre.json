@@ -1,0 +1,250 @@
+{
+    "noviembre": [
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Solemnidad) - Loko: Fotsy - Ny Fieles Difuntos Rehetra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Mena, Fotsy, Mainty - Fankalazana ny Fieles Difuntos Rehetra"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Martín de Porres, relijiozy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Carlos Borromeo, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXXI Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXXI Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Mainty - Zoma amin'ny XXXI Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - Sabotsy amin'ny XXXI Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa María amin'ny Sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Festa) - Loko: Fotsy - Ny Fiarahabana ny Basilika lehibe"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San León el Magno, papa sy dokotera ny Eglizy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - San Martín de Tours, eveka"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mainty - San Josafat, eveka sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXXII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Mainty - Zoma amin'ny XXXII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - Sabotsy amin'ny XXXII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - San Alberto Magno, eveka sy dokotera ny Eglizy",
+                "3": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa María amin'ny Sabotsy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Mainty - XXXIII Alahady amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa Isabel de Hungría, relijiozy"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Mainty - Talata amin'ny XXXIII Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Ny Fiarahabana ny Basilika lehibe"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXXIII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXXIII Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Fotsy - Ny Fiarahabana ny Virjiny Maria"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mainty - Santa Cecilia, virjiny sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Solemnidad) - Loko: Fotsy - Ny Tompo Jesosy Kristy, Mpanjaka ny Zanahary"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fankalazana tsy voatery) - Loko: Mainty - Ny Santo Andrés Dung-Lac, pretra sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Mainty - Talata amin'ny XXXIV Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Mainty - Santa Catalina de Alejandría, virjiny sy martiry"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Mainty - Alarobia amin'ny XXXIV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Mainty - Alakamisy amin'ny XXXIV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Mainty - Zoma amin'ny XXXIV Herinandro amin'ny Fotoana Ordinario"
+            }
+        },
+        {
+            "tiempo": "Fotoana Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Mainty - Sabotsy amin'ny XXXIV Herinandro amin'ny Fotoana Ordinario",
+                "2": "(Fankalazana tsy voatery) - Loko: Fotsy - Santa María amin'ny Sabotsy"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 30,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Mena - I Alahady amin'ny Fotoana Adviento"
+            }
+        }
+    ]
+}

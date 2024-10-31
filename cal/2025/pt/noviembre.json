@@ -1,0 +1,250 @@
+{
+    "noviembre": [
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Todos os Santos"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Morado, Branco, Negro-Conmemoração de todos os Fieis Difuntos"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 3,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Martín de Porres, religioso"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 4,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Carlos Borromeo, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 5,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da XXXI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 6,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da XXXI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 7,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da XXXI Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da XXXI Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - A Dedicatória da Basílica de Letrán"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 10,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Leão o Magno, papa e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 11,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - São Martín de Tours, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 12,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Josafat, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 13,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da XXXII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 14,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da XXXII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da XXXII Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - São Alberto Magno, bispo e doutor da Igreja",
+                "3": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - XXXIII Domingo do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 17,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - Santa Isabel de Hungria, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 18,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da XXXIII Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - A Dedicatória das Basílicas dos Santos Pedro e Pablo, apóstolos"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 19,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da XXXIII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 20,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da XXXIII Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 21,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Branco - A Apresentação da Santíssima Virgem Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santa Cecília, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Nosso Senhor Jesus Cristo, Rei do Universo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 24,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória obrigatória) - Cor: Vermelho - Santos Andrés Dung-Lac, presbítero, e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 25,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da XXXIV Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Vermelho - Santa Catalina de Alexandria, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 26,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da XXXIV Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 27,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da XXXIV Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 28,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da XXXIV Semana do Tempo Ordinário"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinário",
+            "dia-num": 29,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da XXXIV Semana do Tempo Ordinário",
+                "2": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 30,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Morado - I Domingo de Adviento"
+            }
+        }
+    ]
+}

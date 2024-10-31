@@ -1,0 +1,258 @@
+{
+   "marzo": [
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 1,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der VII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heilige Maria am Samstag"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 2,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - VIII Sonntag des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 3,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der VIII Woche des gewöhnlichen Sonntags"
+            }
+        },
+        {
+            "tiempo": "Zeit des gewöhnlichen Sonntags",
+            "dia-num": 4,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der VIII Woche des gewöhnlichen Sonntags",
+                "2": "(Facultative Gedenktag) - Farbe: Weiß - Heiliger Kasimir"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 5,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Aschermittwoch"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 6,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag nach Aschermittwoch",
+                "2": "(Facultative Erinnerung) - Farbe: Violett - Heilige Perpetua und Felicitas, Märtyrinnen"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 7,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag nach Aschermittwoch"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 8,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag nach Aschermittwoch",
+                "2": "(Facultative Erinnerung) - Farbe: Violett - Heiliger Johannes von Gott, Ordensgründer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 9,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - I Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 10,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 11,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 12,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Mittwoch der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 13,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 14,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 15,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der I Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 16,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - II Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 17,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der II Woche der Fastenzeit",
+                "2": "(Facultative Erinnerung) - Farbe: Violett - Heiliger Patrick, Bischof"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 18,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der II Woche der Fastenzeit",
+                "2": "(Facultative Erinnerung) - Farbe: Violett - Heiliger Cyrill von Jerusalem, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 19,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Heiliger Josef, Ehemann der seligen Jungfrau Maria"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 20,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der II Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 21,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der II Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 22,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der II Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 23,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - III Sonntag der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 24,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der III Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 25,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Solemnität) - Farbe: Weiß - Die Verkündigung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 26,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Mittwoch der III Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 27,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der III Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 28,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der III Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 29,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der III Woche der Fastenzeit"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 30,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Rosa, Violett - IV Sonntag der Fastenzeit «Laetare»"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 31,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der IV Woche der Fastenzeit"
+            }
+        }
+    ]
+}

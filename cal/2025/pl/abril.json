@@ -1,0 +1,253 @@
+{
+    "abril": [
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 1,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek IV Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 2,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa IV Tygodnia Wielkiego Postu",
+                "2": "(Opcjonalna uroczystość) - Kolor: Fioletowy - Święty Franciszek z Paoli, pustelnik"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 3,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek IV Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 4,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek IV Tygodnia Wielkiego Postu",
+                "2": "(Opcjonalna uroczystość) - Kolor: Fioletowy - Święty Izydor, biskup i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 5,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota IV Tygodnia Wielkiego Postu",
+                "2": "(Opcjonalna uroczystość) - Kolor: Fioletowy - Święty Wincenty Ferrer, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 6,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - V Niedziela Wielkiego Postu",
+                "2": "-"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 7,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek V Tygodnia Wielkiego Postu",
+                "2": "(Opcjonalna uroczystość) - Kolor: Fioletowy - Święty Jan Chrzciciel de La Salle, prezbiter"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 8,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek V Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 9,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa V Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 10,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek V Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 11,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek V Tygodnia Wielkiego Postu",
+                "2": "(Opcjonalna uroczystość) - Kolor: Fioletowy - Święty Stanisław, biskup i męczennik"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 12,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota V Tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 13,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Czerwony - Niedziela Palmowa Męki Pańskiej"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 14,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek Wielkiego Tygodnia"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 15,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek Wielkiego Tygodnia"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 16,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa Wielkiego Tygodnia"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 17,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek Wielkiego Tygodnia na Wieczerzy Pańskiej"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 18,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Czerwony - Piątek Wielkiego Tygodnia w Męce Pańskiej"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 19,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota Wielkiego Tygodnia w Pogrzebie Pańskim"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 20,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - Niedziela Zmartwychwstania Pańskiego"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 21,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Poniedziałek Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 22,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Wtorek Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 23,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Środa Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 24,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Czwartek Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 25,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Piątek Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 26,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Sobota Oktawy Wielkanocy"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 27,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - II Niedziela Wielkanocy czyli Niedziela Miłosierdzia Bożego"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 28,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek II Tygodnia Wielkanocy",
+                "2": "(Opcjonalna wspomnienie) - Kolor: Biały - Święty Ludwik Maria Grignion de Montfort, prezbiter",
+                "3": "(Opcjonalna wspomnienie) - Kolor: Czerwony - Święty Piotr Chanel, prezbiter i męczennik"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 29,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Obowiązkowe wspomnienie) - Kolor: Biały - Święta Katarzyna ze Sieny, dziewica i doktor Kościoła"
+            }
+        },
+        {
+            "tiempo": "Czas Pascual",
+            "dia-num": 30,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa II Tygodnia Wielkanocy",
+                "2": "(Opcjonalna wspomnienie) - Kolor: Biały - Święty Pius V, papież"
+            }
+        }
+    ]
+}
