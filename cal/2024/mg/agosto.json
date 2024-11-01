@@ -1,264 +1,264 @@
 {
     "aogositra": [
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 1,
-            "andro-kerin": "Alakamisy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 1,
+            "dia-sem": "Alakamisy",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Alfonso Maria de Ligorio, Eveka sy Dokoteran'ny Fiangonana"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 2,
-            "andro-kerin": "Zoma",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 2,
+            "dia-sem": "Zoma",
+            "festejo": {
                 "1": "Loko: Maitso - Zoma amin'ny Herinandro faha-XVII amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Eusebio avy any Vercelli, Eveka",
                 "3": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Pierre Julien Eymard, Pretra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 3,
-            "andro-kerin": "Sabotsy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 3,
+            "dia-sem": "Sabotsy",
+            "festejo": {
                 "1": "Loko: Maitso - Sabotsy amin'ny Herinandro faha-XVII amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masina Maria amin'ny Sabotsy"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 4,
-            "andro-kerin": "Alahady",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 4,
+            "dia-sem": "Alahady",
+            "festejo": {
                 "1": "Loko: Maitso - Alahady faha-XVIII amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 5,
-            "andro-kerin": "Alatsinainy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 5,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
                 "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro faha-XVIII amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Fanokanana ny Basilika Masina Maria"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 6,
-            "andro-kerin": "Talata",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 6,
+            "dia-sem": "Talata",
+            "festejo": {
                 "1": "(Fety) - Loko: Fotsy - Fiovan'ny Tompo tarehy"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 7,
-            "andro-kerin": "Alarobia",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 7,
+            "dia-sem": "Alarobia",
+            "festejo": {
                 "1": "Loko: Maitso - Alarobia amin'ny Herinandro faha-XVIII amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Kajetana, Pretra",
                 "3": "(Fahatsiarovana safidy) - Loko: Mena - Masindahy Sixto II, Papa, sy ireo namany, Martiry"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 8,
-            "andro-kerin": "Alakamisy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 8,
+            "dia-sem": "Alakamisy",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Dominique, Pretra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 9,
-            "andro-kerin": "Zoma",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 9,
+            "dia-sem": "Zoma",
+            "festejo": {
                 "1": "Loko: Maitso - Zoma amin'ny Herinandro faha-XVIII amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Mena - Masina Teresa Benedicta ny Hazofijaliana, Virjiny sy Martiry"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 10,
-            "andro-kerin": "Sabotsy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 10,
+            "dia-sem": "Sabotsy",
+            "festejo": {
                 "1": "(Fety) - Loko: Mena - Masindahy Laurent, Diakra sy Martiry"
             }
         },        
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 11,
-            "andro-kerin": "Alahady",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 11,
+            "dia-sem": "Alahady",
+            "festejo": {
                 "1": "Loko: Maitso - Alahady faha-XIX amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 12,
-            "andro-kerin": "Alatsinainy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 12,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
                 "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro faha-XIX amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masina Jeanne Francoise de Chantal, Relijiozy"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 13,
-            "andro-kerin": "Talata",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 13,
+            "dia-sem": "Talata",
+            "festejo": {
                 "1": "Loko: Maitso - Talata amin'ny Herinandro faha-XIX amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 14,
-            "andro-kerin": "Alarobia",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 14,
+            "dia-sem": "Alarobia",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Mena - Masindahy Maximilien Maria Kolbe, Pretra sy Martiry"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 15,
-            "andro-kerin": "Alakamisy",
-            "fankalazana": {
-                "1": "(Fankalazana lehibe) - Loko: Fotsy - Ny Fiakarana any an-danitr'i Masina Maria Virjiny Masina indrindra"
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 15,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(festejo lehibe) - Loko: Fotsy - Ny Fiakarana any an-danitr'i Masina Maria Virjiny Masina indrindra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 16,
-            "andro-kerin": "Zoma",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 16,
+            "dia-sem": "Zoma",
+            "festejo": {
                 "1": "Loko: Maitso - Zoma amin'ny Herinandro faha-XIX amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Mena - Beato Bartolomeo Laurel, Relijiozy sy Martiry",
                 "3": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Etienne avy any Hongrie"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 17,
-            "andro-kerin": "Sabotsy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 17,
+            "dia-sem": "Sabotsy",
+            "festejo": {
                 "1": "Loko: Maitso - Sabotsy amin'ny Herinandro faha-XIX amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masina Maria amin'ny Sabotsy"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 18,
-            "andro-kerin": "Alahady",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 18,
+            "dia-sem": "Alahady",
+            "festejo": {
                 "1": "Loko: Maitso - Alahady faha-XX amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 19,
-            "andro-kerin": "Alatsinainy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 19,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
                 "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro faha-XX amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Mena - Beato Pedro Zuniga sy Beato Luis Flores, Pretra sy Martiry",
                 "3": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Jean Eudes, Pretra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 20,
-            "andro-kerin": "Talata",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 20,
+            "dia-sem": "Talata",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Bernard, Abidy sy Dokoteran'ny Fiangonana"
             }
         },        
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 21,
-            "andro-kerin": "Alarobia",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 21,
+            "dia-sem": "Alarobia",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Pio X, Papa"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 22,
-            "andro-kerin": "Alakamisy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 22,
+            "dia-sem": "Alakamisy",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Ny Reny Masina Maria Mpanjakavavy"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 23,
-            "andro-kerin": "Zoma",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 23,
+            "dia-sem": "Zoma",
+            "festejo": {
                 "1": "Loko: Maitso - Zoma amin'ny Herinandro faha-XX amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 24,
-            "andro-kerin": "Sabotsy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 24,
+            "dia-sem": "Sabotsy",
+            "festejo": {
                 "1": "(Fety) - Loko: Mena - Masindahy Bartolomeo, Apostoly"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 25,
-            "andro-kerin": "Alahady",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 25,
+            "dia-sem": "Alahady",
+            "festejo": {
                 "1": "Loko: Maitso - Alahady faha-XXI amin'ny Fotoana Mahazatra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 26,
-            "andro-kerin": "Alatsinainy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 26,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
                 "1": "Loko: Maitso - Alatsinainy amin'ny Herinandro faha-XXI amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masindahy Junípero Serra, Pretra"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 27,
-            "andro-kerin": "Talata",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 27,
+            "dia-sem": "Talata",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Monika"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 28,
-            "andro-kerin": "Alarobia",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 28,
+            "dia-sem": "Alarobia",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Fotsy - Masindahy Augustin, Eveka sy Dokoteran'ny Fiangonana"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 29,
-            "andro-kerin": "Alakamisy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 29,
+            "dia-sem": "Alakamisy",
+            "festejo": {
                 "1": "(Fahatsiarovana tsy azo ialana) - Loko: Mena - Ny Namonoana an'i Masindahy Joany Batista"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 30,
-            "andro-kerin": "Zoma",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 30,
+            "dia-sem": "Zoma",
+            "festejo": {
                 "1": "(Fety) - Loko: Fotsy - Masindahy Rosa avy any Lima, Virjiny"
             }
         },
         {
-            "fotoana": "Fotoana Mahazatra",
-            "andro-nom": 31,
-            "andro-kerin": "Sabotsy",
-            "fankalazana": {
+            "tiempo": "Fotoana Mahazatra",
+            "dia-num": 31,
+            "dia-sem": "Sabotsy",
+            "festejo": {
                 "1": "Loko: Maitso - Sabotsy amin'ny Herinandro faha-XXI amin'ny Fotoana Mahazatra",
                 "2": "(Fahatsiarovana safidy) - Loko: Fotsy - Masina Maria amin'ny Sabotsy"
             }
