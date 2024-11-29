@@ -78,9 +78,9 @@
         "id": "11"
     }, {
         "titulo": "Diciembre de",
-        "subtitulo": "No Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2024/diciembre2024",
-        "activo": "no",
+        "activo": "si",
         "imagen": "diciembre",
         "id": "12"
     }]
