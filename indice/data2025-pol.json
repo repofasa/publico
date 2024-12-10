@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Stycznia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/enero2025-pol",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Lutego",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/febrero2025-pol",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "Marca",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/marzo2025-pol",
         "activo": "no",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "Kwietnia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/abril2025-pol",
         "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Maja",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/mayo2025-pol",
         "activo": "no",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Czerwca",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/junio2025-pol",
         "activo": "no",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Lipca",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/julio2025-pol",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Sierpnia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/agosto2025-pol",
         "activo": "no",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "Września",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/septiembre2025-pol",
         "activo": "no",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Października",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/octubre2025-pol",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Listopada",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/noviembre2025-pol",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Grudnia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "",
         "contenido": "2025/diciembre2025-pol",
         "activo": "no",
         "imagen": "diciembre",
