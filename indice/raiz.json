@@ -2,15 +2,15 @@
     "mensaje": "",
     "baner": "2",    
     "banerios": "2",  
-    "interacciones": "10",
+    "interacciones": "7",
     "data": [
+        {
+            "titulo": "2025",
+            "img": "5"
+        },
         {
             "titulo": "2024",
             "img": "2"
-        },
-        {
-            "titulo": "2023",
-            "img": "1"
         }
     ]
 }
