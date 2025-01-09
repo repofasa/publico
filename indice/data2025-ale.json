@@ -1,84 +1,84 @@
 {
     "data": [{
         "titulo": "Januar",
-        "subtitulo": "",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/enero2025-ale",
         "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "Februar",
-        "subtitulo": "",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/febrero2025-ale",
         "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "März",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/marzo2025-ale",
         "activo": "no",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "April",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/abril2025-ale",
         "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mai",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/mayo2025-ale",
         "activo": "no",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Juni",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/junio2025-ale",
         "activo": "no",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "Juli",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/julio2025-ale",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/agosto2025-ale",
         "activo": "no",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "September",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/septiembre2025-ale",
         "activo": "no",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Oktober",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/octubre2025-ale",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "November",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/noviembre2025-ale",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "Dezember",
-        "subtitulo": "",
+        "subtitulo": "Nicht Verfügbar",
         "contenido": "2025/diciembre2025-ale",
         "activo": "no",
         "imagen": "diciembre",
