@@ -18,7 +18,7 @@
         },
         {
             "titulo": "Marzo de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/marzo2025",
             "activo": "si",
             "imagen": "marzo",
@@ -26,9 +26,9 @@
         },
         {
             "titulo": "Abril de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/abril2025",
-            "activo": "no",
+            "activo": "si",
             "imagen": "abril",
             "id": "4"
         },
