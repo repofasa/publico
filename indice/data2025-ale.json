@@ -15,30 +15,30 @@
         "id": "2"
     }, {
         "titulo": "März",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/marzo2025-ale",
         "activo": "si",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "April",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/abril2025-ale",
         "activo": "si",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "Mai",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/mayo2025-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "Juni",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/junio2025-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "junio",
         "id": "6"
     }, {
