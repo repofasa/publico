@@ -42,9 +42,9 @@
         },
         {
             "titulo": "Junio de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/junio2025",
-            "activo": "no",
+            "activo": "si",
             "imagen": "junio",
             "id": "6"
         },
