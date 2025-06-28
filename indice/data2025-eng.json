@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "July",
-        "subtitulo": "Not Available Yet",
+        "subtitulo": "Available",
         "contenido": "2025/julio2025-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "Not Available Yet",
+        "subtitulo": "Available",
         "contenido": "2025/agosto2025-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {

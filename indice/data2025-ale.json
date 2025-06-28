@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Juli",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/julio2025-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2025/agosto2025-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {

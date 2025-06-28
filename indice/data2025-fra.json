@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Juillet",
-        "subtitulo": "Pas Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2025/julio2025-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Août",
-        "subtitulo": "Pas Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2025/agosto2025-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {

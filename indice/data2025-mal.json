@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Jolay",
-        "subtitulo": "Tsy Misy",
+        "subtitulo": "Available",
         "contenido": "2025/julio2025-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Aogositra",
-        "subtitulo": "Tsy Misy",
+        "subtitulo": "Available",
         "contenido": "2025/agosto2025-mal",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {

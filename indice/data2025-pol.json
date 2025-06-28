@@ -43,16 +43,16 @@
         "id": "6"
     }, {
         "titulo": "Lipca",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "Dostępny",
         "contenido": "2025/julio2025-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "Sierpnia",
-        "subtitulo": "Niedostępne",
+        "subtitulo": "Dostępny",
         "contenido": "2025/agosto2025-pol",
-        "activo": "no",
+        "activo": "si",
         "imagen": "agosto",
         "id": "8"
     }, {
