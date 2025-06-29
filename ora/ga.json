@@ -1,0 +1,155 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"nombre": "Comhartha an Chrois",
+			"icono": "cruz",
+			"subtitulo": "Is é seo comhartha na Críostaithe, áit ar maraíodh Íosa dúinn. Bíonn sé de nós paidreacha eile a rá sula léitear nó ina dhiaidh sin an Soiscéal.",
+			"contenido": "Trí comhartha na Croise Naomh, ónár namhaid scaoil sinn A Thiarna ár nDia. Sa ainm an Athar, an Mhic agus an Spioraid Naomh. Áiméan.",
+			"imagen": "signocruz"
+		},
+		{
+			"id": "2",
+			"nombre": "Ár n-Athair",
+			"icono": "padre",
+			"subtitulo": "Is é seo ceann de na paidreacha is tábhachtaí. Tugadh an paidir seo dúinn féin ag Íosa Críost. Is féidir é a gháireadh ag am ar bith de dhíth.",
+			"contenido": "Ár nAthair atá ar neamh, go naofar d'ainm. Go dtaga do ríocht. Go ndéantar do thoil ar an talamh mar a dhéantar ar neamh. Tabhair dúinn inniu ár n-arán laethúil agus maith dúinn ár bhfiacha mar a mhaithimidne a bhfuil a mhuilinn againn. Agus ná lig sinn go maith i gcathú ach saor sinn ó olc. Áiméan.",
+			"imagen": "padrenuestro"
+		},
+		{
+			"id": "3",
+			"nombre": "Faomhadh Mhuire",
+			"icono": "ave",
+			"subtitulo": "Anseo athlasann muid na focail a chuala ár Máthair ón Aingeal. Gach uair a ghlaonn muid ar seo, tá sé cosúil le rós a thabhairt do ár Máthair, Muire na Maighdine.",
+			"contenido": "Faomhadh Mhuire, atá lán de ghrásta, tá an Tiarna leat. Tá tú faoi bhráid mná, agus tá aghaidh an tSúlúit ort, a Íosa, a Mhac De, impigh orainn na peacaigh, anois, agus ar uair ár mbáis. Áiméan.",
+			"imagen": "avemaria"
+		},
+		{
+			"id": "4",
+			"nombre": "Glóir Dé don Athair",
+			"icono": "bible",
+			"subtitulo": "Paidir Chaitliceach a mholtar an tAon Athair, an Triar Naofa. Bíonn sé de nós a rá le do phaidreacha eile.",
+			"contenido": "Glóir don Athair, agus don Mhac, agus don Spiorad Naomh. Mar a bhí ar dtús, mar atá anois, agus beidh go brách, saol gan críoch. Áiméan.",
+			"imagen": "gloria"
+		},
+		{
+			"id": "5",
+			"nombre": "Beannacht Mhuire Naofa",
+			"icono": "rosary",
+			"subtitulo": "Is é seo soláthar dár Máthair, a bhfuil gach rud féidir aici a dhéanamh. Iarraimid a cosaint uirthi.",
+			"contenido": "Beannacht Mhuire Naofa, Máthair na Trócaire; ár saol, ár mheeth agus ár ndóchas! Is leat a ghlaonn muid, na paistí beannaithe scaoilte de Éabha. Is féidir leat do shúile trua a thabhairt orainn; agus tar éis ár gcadhcadh seo, taispeáin dúinn toradh beannaithe do bhroinne, Íosa. A oiread de, a ghrafaic, a Muire Mháthair naofa. V. Iarraimid ort, a Mháthair Naofa Dé, R. go bhfuilimid ardaíochtaí luachmhar Chríost tuillte dúinne. Áiméan.",
+			"imagen": "regina"
+		},
+		{
+			"id": "6",
+			"nombre": "M'Urraimse",
+			"icono": "jesus",
+			"subtitulo": "Iarraimid ar ár dTiarna maithiúnas a thabhairt dúinn, mar gur leithscéal muid as aon coir, agus cabhrú linn gan peaca a dhéanamh arís.",
+			"contenido": "M'Urraimse Íosa Críost, Dia agus duine fíor, Cruthaitheoir, Athair agus a bhrathaitheoir. Is tú a bheith chomh maith, agus mar gheall orm i ndiaidh gach rud, bíonn muid ag chreidiúint go mór, go bhfuil an t-análta m'aitheanta. Tá mé i dteip an chroí leat as ucht aithris na m'ofráilte. Áiméan.",
+			"imagen": "signore"
+		},
+		{
+			"id": "7",
+			"nombre": "Aithníonn Mé Leat",
+			"icono": "confieso",
+			"subtitulo": "Aithníonn mé i gcoinne Dé uilechumhachtach, agus tú, a m'bhraithre agus a mo dheirfiúracha, gur pheacaigh mé trí m'fhéin agus i mo bhfocal, i ndáiríre, sa cháin a rinne mé, agus i ndáiríre, an mé rinne mé nach ndearna mé; agus impím ar Mhuire, an bhean chaomh, agus ar na hainmhithe agus na naomh, agus ortsa, a m'bhraithre agus a mo dheirfiúracha, a guí orm chun na nDia ár dTiarna. Áiméan.",
+			"imagen": "confesso"
+		},
+		{
+			"id": "8",
+			"nombre": "An Chreideamh Níos Sinine",
+			"icono": "credo2",
+			"subtitulo": "Cuimhnímid ar ár ndochtúireacht, ár gcreideamh a aithnímid. Guímid é ag Máirseáil na Domhnaigh.",
+			"contenido": "Creideann muid in Dia, an tAthair uilechumhachtach, cruthaitheoir neamh agus talún, agus gach rud atá le feiceáil agus nach bhfeiceáiltear. Creidimid ina Aon Tiarna, Íosa Críost amháin, a Mhac amháin Dia, a geineadh go síoraí ón Athair, Dia ó Dhia, Solas ó Solas, Dia fíor ón Dia fíor, geineadh, níor rinneadh, consubstantiúil ceann i bheith leis an Athair. Trína bhfuil gach rud déanta. D'fhonn muid sinn agus ár slánú an sin tagadh sé síos ó neamh: agus mar gur tógadh é trí an Spioraid Naomh, trína uasalaithe agus a glóire. Labhair sé trí na bhfáithe. Creidimid ina Aon Eaglais chaitliceach agus aipstalach. Aitheantaímid aon baptism le haghaidh maithiúnais na bhpeacaithe. Táimid ag súil le hathbheochan na marbh, agus beatha an domhain a thagann. Áiméan.",
+			"imagen": "niceno"
+		},
+		{
+			"id": "9",
+			"nombre": "Creideamh na nAspal",
+			"icono": "credo",
+			"subtitulo": "Cuimhnímid ar ár mbaisteadh, ag admháil ár gcreideamh. Deirtear é ag Aifreann na Domhnaí.",
+			"contenido": "Creidim i nDia, an tAthair uilechumhachtach,<br>Cruthaitheoir neamh agus talún.<br><br>Creidim in Íosa Críost, a Aon Mhac, ár dTiarna,<br>a gineadh le cumhacht an Spioraid Naoimh,<br>a rugadh ó Mhuire na Maighdine,<br>a d’fhulaing faoi Phontius Pílát, a céasadh, a fuair bás agus a adhlacadh,<br>chuaigh sé síos go hifreann,<br>ar an tríú lá d’éirigh sé ó mhairbh,<br>chuaigh sé suas go neamh<br>agus tá sé ina shuí ar dheis Dé, an tAthair uilechumhachtach.<br>As sin tiocfaidh sé chun breithiúnas a thabhairt ar bheo agus ar mhairbh.<br><br>Creidim sa Spiorad Naomh,<br>an Eaglais Naofa Chaitliceach,<br>cumann na naomh,<br>maithiúnas na bpeacaí,<br>aiséirí na colainne<br>agus an bheatha shíoraí.<br><br>Áiméan.",
+			"imagen": "apostolico"
+		},
+		{
+			"id": "10",
+			"nombre": "Comaoineach Spioradálta",
+			"icono": "scroll",
+			"subtitulo": "Paidir álainn nuair atáimid chun Comaoineach Naofa a fháil. Freisin ag deireadh cuairte ar an tSoiscéala nó Beannacht.",
+			"contenido": "Creidim, a Íosa ghrámhar,<br>go bhfuil Tú i ndáiríre agus fírinneach sna Flaithis<br>agus sa tSacraimint Naofa ar an altóir.<br>Is grá liom Tú thar gach uile ní,<br>agus tá fonn orm Tú a fháil i m’anam.<br>Ós rud é nach féidir liom Tú a fháil go colainneach anois,<br>tar ar a laghad go spioradálta isteach i mo chroí.<br>Agus amhail is dá bhfuair mé Tú cheana,<br>glacaim leat agus aontaím go hiomlán Leat.<br>A Thiarna, ná lig dom scaradh riamh Leat.<br><br>Áiméan.",
+			"imagen": "comunione"
+		},
+		{
+			"id": "11",
+			"nombre": "An tAingil Dé",
+			"icono": "angel",
+			"subtitulo": "Deirtear é ag meán lae (12:00) i gcaitheamh na bliana, seachas le linn na Cásca.",
+			"contenido": "(V.) D’fhógair aingeal an Tiarna do Mhuire.<br>(R.) Agus ghin sí le cumhacht an Spioraid Naoimh.<br>Slán leat, a Mhuire, atá lán de ghrásta;<br>Tá an Tiarna leat.<br>Is beannaithe thú i measc na mban,<br>agus is beannaithe toradh do bhroinne, Íosa.<br>Naomh Mhuire, Máthair Dé,<br>guigh orainn na peacaigh,<br>anois agus ag uair ár mbáis.<br>Áiméan.<br><br>(V.) Féach, is mise banóglach an Tiarna.<br>(R.) Déantar dom de réir d’fhocail.<br>Slán leat, a Mhuire...<br><br>(V.) Agus rinneadh an Briathar ina cholainn.<br>(R.) Agus chónaigh Sé inár measc.<br>Slán leat, a Mhuire...<br><br>(V.) Guigh orainn, a Naomh-Mháthair Dé,<br>(R.) go mbeidh muid inár dteideal do ghealltanais Chríost.<br><br>Guímis:<br>Doirt, a Thiarna, do ghrásta isteach inár n-anamacha,<br>ionas go dtuigfimid, trí fhógairt an Aingil,<br>go ndearnadh do Mhac Íosa Críost corp daonna,<br>agus trína Pháis agus a Chrois,<br>go sroichfimid glóir na hAiséirí.<br>Trí Chríost ár dTiarna.<br>Áiméan.<br><br>Glóir don Athair...",
+			"imagen": "angelus"
+		},
+		{
+			"id": "12",
+			"nombre": "Regina Coeli",
+			"icono": "holy-ghost",
+			"subtitulo": "Deirtear é ag meán lae (12:00) le linn thréimhse na Cásca in áit an tAingil Dé.",
+			"contenido": "V. A bhanríon na bhflaitheas, bí sásta, alleluia.<br>R. Óir d’ardaigh an Tiarna, a rug tú i do bhroinn, alleluia.<br><br>V. D’aiséirigh Sé mar a dúirt Sé, alleluia.<br>R. Guigh orainn chuig an Tiarna, alleluia.<br><br>V. Bí sásta agus áthasach, a Mhuire, a Mhaighdean, alleluia.<br>R. Óir d’aiséirigh ár dTiarna go fírinneach, alleluia.<br><br>Guímis:<br>A Dhia, a d’ardaigh do Mhac, ár dTiarna Íosa Críost ó mhairbh agus a thug lúcháir don domhan uile,<br>deonaigh, trí idirghuí a Mháthar, an Mhaighdean Mhuire,<br>go mbaileoimid go brách sna sólás síoraí.<br>Trí Chríost ár dTiarna.<br>Áiméan.<br><br>Glóir don Athair agus don Mhac agus don Spiorad Naomh, mar a bhí ar dtús, mar atá anois, agus mar a bheidh go brách na brách. Áiméan. (trí huaire)",
+			"imagen": "coeli"
+		},
+		{
+			"id": "13",
+			"nombre": "Beannaithe do Phurachta",
+			"icono": "pureza",
+			"subtitulo": "Dán do ár Máthair, an Mhaighdean Mhuire.",
+			"contenido": "Beannaithe do phurachta,<br>go síoraí is beannaithe,<br>óir ba é Dia féin a ghlac pléisiúr<br>i do dhraíocht álainn.<br>Chugat-sa, a Phrionsa neamhaí,<br>a Mhuire naofa Mhaighdean,<br>cuirimse i láthair inniu<br>mo anam, mo shaol, mo chroí.<br>Féach orm le trócaire.<br>Ná tréig mé, a Mháthair ghrámhar.",
+			"imagen": "virgen"
+		},
+		{
+			"id": "14",
+			"nombre": "Cuimhnigh",
+			"icono": "goblet",
+			"subtitulo": "Cuirimid ár muinín sa Mhaighdean Mhuire agus iarraimid uirthi cabhrú linn nó le duine eile atá i ngátar.",
+			"contenido": "Cuimhnigh, a Mhuire is truacaireach,<br>nach bhfacthas riamh<br>go raibh aon duine a rith faoi do chosaint,<br>a d’iarr do chabhair nó do idirghuí,<br>fágtha gan cúnamh.<br>Leis an muinín sin,<br>tagaim chugat, a Mháthair na Maighdean;<br>cé go bhfuil mé i mo pheacach,<br>le fonn i mo chroí,<br>táim romhat anois.<br>Ná diúltaigh mo achainí,<br>ach éist liom go fial.<br>Áiméan.",
+			"imagen": "memorare"
+		},
+		{
+			"id": "15",
+			"nombre": "Anam Chríost",
+			"icono": "espiri",
+			"subtitulo": "Paidir álainn le rá tar éis Comaoineach Naofa.",
+			"contenido": "Anam Chríost, naomhaigh mé.<br>Corp Chríost, sábháil mé.<br>Fuil Chríost, meisce mé.<br>Uisce ó thaobh Chríost, nigh mé.<br>Paidir Chríost, neartaigh mé.<br>A Íosa mhaith, éist liom.<br>I do chréachtaí folaithe mé.<br>Ná lig dom scaradh riamh uait.<br>Ón namhaid urchóideach, cosain mé.<br>Ag uair mo bháis, glaoigh orm.<br>Agus tabhair mé chugat.<br>Chun go molfaidh mé thú le do naomhaithe.<br>Go deo na ndeor.<br>Áiméan.",
+			"imagen": "anima"
+		},
+		{
+			"id": "16",
+			"nombre": "Tairiscint Laethúil",
+			"icono": "marie",
+			"subtitulo": "Glao dúiseachta: sárú na leisce agus ofráil an lae dár Máthair.",
+			"contenido": "A Mhaighdean mo Thiarna! A Mhaighdean mo Mháthar!<br><br>Táim ag tairiscint mé féin go hiomlán duit.<br>Agus mar chruthúnas ar mo ghrá dílis,<br>tugaim duit inniu mo shúile,<br>mo chluasa, mo theanga, mo chroí:<br>i bhfocail eile, mo bhriathar ar mo bheith ar fad.<br><br>Ós leat mé ar fad,<br>a Mháthair na trócaire,<br>coinnigh mé agus cosain mé<br>mar do chuid féin is do sheilbh.<br><br>Áiméan.",
+			"imagen": "maria"
+		},
+		{
+			"id": "17",
+			"nombre": "Aingeal Coimhdeachta",
+			"icono": "guardian",
+			"subtitulo": "Deirtear roimh luí isteach sa leaba nó aon uair a iarrtar cosaint ón Aingeal Coimhdeachta.",
+			"contenido": "Aingeal mo choimhdeachta,<br>a chomrádaí milis,<br>ná tréig mé,<br>ní san oíche ná sa lá.<br>Ná fág mé i m'aonar, go rachainn amú,<br>ach tabhair dom suaimhneas is lúcháir,<br>i dteannta na naoimh, Íosa agus Muire,<br>tugaim duit mo chroí agus m’anam,<br>mar is leatsa níos mó iad ná liom.<br>Áiméan.",
+			"imagen": "angelo"
+		},
+		{
+			"id": "18",
+			"nombre": "Beannacht Roimh Thuras",
+			"icono": "bendi",
+			"subtitulo": "Sula dtéann muid ar aon turas, tá sé maith guí mar seo.",
+			"contenido": "Go dtuga idirghuí Naomh Muire<br>duinn (dom, duit, daoibh) turas maith;<br>go raibh an Tiarna inár gcuideachta (liom, leat, libh),<br>agus go gcoimeádfadh a Aingil sinn (mé, thú, sibh) slán.<br>In ainm an Athar agus an Mhic agus an Spioraid Naoimh.<br>Áiméan.",
+			"imagen": "viajero"
+		},
+		{
+			"id": "19",
+			"nombre": "Beannú Roimh Bhéile",
+			"icono": "vino",
+			"subtitulo": "Deirtear roimh gach béile le buíochas a ghabháil le Dia as an mbia.",
+			"contenido": "Beannaigh sinn, a Thiarna,<br>agus beannaigh an bia seo<br>a bhfuair muid ó do fhlaithiúlacht.<br>Trí Chríost ár dTiarna.<br>Áiméan.<br>V. Go ndéana an Rí glóire síoraí sinn ina rannpháirtithe<br>sa bhéile neamhaí.<br>R. Áiméan.<br>V. In ainm an Athar, agus an Mhic, agus an Spioraid Naoimh.<br>R. Áiméan.",
+			"imagen": "mesa"
+		}
+	]
+}
