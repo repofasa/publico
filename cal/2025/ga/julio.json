@@ -1,0 +1,266 @@
+{
+    "julio": [
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 1,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Máirt den XIII Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 2,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin den XIII Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 3,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Féile) - Dath: Dearg - Naomh Tomás, Aspal"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 4,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Uaine - Dé hAoine den XIII Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Ár dTiarna na Teorainne",
+          "3": "(Cuimhne Roghnach) - Dath: Bán - Naomh Eilís na Portaingéile"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 5,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Sathairn den XIII Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Antaine Maria Zaccaria, sagart",
+          "3": "(Cuimhne Roghnach) - Dath: Bán - Naomh Muire Dé Sathairn"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 6,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Uaine - XIV Domhnach de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 7,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain den XIV Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 8,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Máirt den XIV Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 9,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin den XIV Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Aibhistín Zhao Rong, sagart, agus a chomrádaithe, muiríneach"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 10,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Déardaoin den XIV Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 11,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Beinéid, manach"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 12,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Sathairn den XIV Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Muire Dé Sathairn"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 13,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Uaine - XV Domhnach de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 14,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain den XV Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Camillus de Lellis, sagart"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 15,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Bonaventure, easpag agus dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 16,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Muire na Cairmil"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 17,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Déardaoin den XV Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 18,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Uaine - Dé hAoine den XV Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 19,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Sathairn den XV Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Muire Dé Sathairn"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 20,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Uaine - XVI Domhnach de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 21,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain den XVI Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Lorcán de Brindisi, sagart agus dochtúir"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 22,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Féile) - Dath: Bán - Naomh Muire Magdalene"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 23,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin den XVI Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Bríd na Sualainne, bean rialta"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 24,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Déardaoin den XVI Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Charbel Makhlouf, sagart"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 25,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Féile) - Dath: Dearg - Naomh Séamas, Aspal"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 26,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Ioaicím agus Áine, tuismitheoirí na Maighdine Muire"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 27,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Uaine - XVII Domhnach de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 28,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain den XVII Seachtain de ghnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 29,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Marta, Muire agus Lásarus"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 30,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin den XVII Seachtain de ghnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Peadar Chrysologus, easpag agus dochtúir",
+          "3": "(Cuimhne Roghnach) - Dath: Bán - Naomh Muire Íosa Sacramentado Venegas, maighdean"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 31,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Íognáid Loyola, sagart"
+        }
+      }
+    ]
+  }
+  

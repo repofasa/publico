@@ -1,0 +1,269 @@
+{
+    "august": [
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 1,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Alfonsás Máire de Liguori, Easpag agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 2,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 17ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eusebius de Vercelli, Easpag",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Peadar Julian Eymard, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 3,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 17ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 4,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 18ú Domhnach den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 5,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 18ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Tiomnaitheadh Baisileach Naomh Máire"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 6,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Bán - Trasnánú an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 7,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 18ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Caethán, Sagart",
+          "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Sixtus II, Pápa, agus a Chomrádaithe, Muireánaithe"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 8,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Dominic, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 9,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 18ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Teresa Benedikta den Chros, Maighdean agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 10,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Dearg - Naomh Lorcán, Diacán agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 11,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 19ú Domhnach den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 12,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 19ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Jane Frances de Chantal, Reiligiúnach"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 13,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 19ú Seachtain den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 14,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Maksimilían Máire Kolbe, Sagart agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 15,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Ócáid Shuntasach) - Dath: Bán - An Bealach isteach Naofa Naomh Mhuire"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 16,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 19ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Beannaithe Bartolomé Laurel, Reiligiúnach agus Muireánach",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Stíofán na hUngáire"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 17,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 19ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 18,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 20ú Domhnach den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 19,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 20ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Beannaithe Pedro Zúñiga agus Beannaithe Luis Flores, Sagairt agus Muireánaithe",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin Eudes, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 20,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Bernard, Abad agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 21,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Pius X, Pápa"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 22,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Ár Muire Ríomh"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 23,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 20ú Seachtain den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 24,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Dearg - Naomh Bartolmae, Aspal"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 25,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 21ú Domhnach den Am Rialta"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 26,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 21ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Junípero Serra, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 27,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Móinica"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 28,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Áistín, Easpag agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 29,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Martyreacht Naomh Eoin an tSaor"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 30,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 22ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Beannaithe Máire Treasa de Soubiran, Maighdean"
+        }
+      },
+      {
+        "tiempo": "Am Rialta",
+        "dia-num": 31,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 22ú Seachtain den Am Rialta",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin an Soiscéalaí"
+        }
+      }
+    ]
+  }
+  

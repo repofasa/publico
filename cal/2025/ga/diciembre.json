@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 1,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Corcra - Luan den Chéad Seachtain de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 2,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Corcra - Máirt den Chéad Seachtain de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 3,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Proinsias Xavier, sagart"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 4,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Déardaoin den Chéad Seachtain de Adbhaint",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin Damascene, sagart agus dochtúir na hEaglaise"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 5,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "Dath: Corcra - Aoine den Chéad Seachtain de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 6,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Corcra - Satharn den Chéad Seachtain de Adbhaint",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Nioclás, easpag"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 7,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Corcra - An Dara Domhnach de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 8,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Giniúint gan Smál na Maighdine Muire"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 9,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 10,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Céadaoin den Dara Seachtain de Adbhaint",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Ár Máthair Muire Loreto"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 11,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Déardaoin den Dara Seachtain de Adbhaint",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Damasus I, pápa"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 12,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Ár Máthair Muire Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 13,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Lucy, maighdean agus mairtíreach"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 14,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Bándearg, Corcra - An Tríú Domhnach de Adbhaint «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 15,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Corcra - Luan den Tríú Seachtain de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 16,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Corcra - Máirt den Tríú Seachtain de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 17,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (17 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 18,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (18 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 19,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (19 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 20,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (20 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 21,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Corcra - An Ceathrú Domhnach de Adbhaint"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 22,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (22 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 23,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (23 Nollaig)",
+                "2": "(Cuimhneachán Roghnach) - Dath: Corcra - Naomh Eoin Cantius, sagart"
+            }
+        },
+        {
+            "tiempo": "Adbhaint",
+            "dia-num": 24,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - Féile Adbhaint (24 Nollaig)"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 25,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Breith an Tiarna"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 26,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Féile) - Dath: Dearg - Naomh Stiofán, céadmharthach"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 27,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "(Féile) - Dath: Bán - Naomh Eoin, aspal agus soiscéalaí"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 28,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "(Féile) - Dath: Bán - An Teaghlach Naofa Íosa, Muire agus Iósaf"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 29,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Bán - Lá V laistigh d'Ochtach na Nollag",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Tomás Becket, easpag agus mairtíreach"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 30,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Bán - Lá VI laistigh d'Ochtach na Nollag"
+            }
+        },
+        {
+            "tiempo": "Am na Nollag",
+            "dia-num": 31,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "Dath: Bán - Lá VII laistigh d'Ochtach na Nollag",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Sylvester I, pápa"
+            }
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "agosto": [
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 1,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Alphonsus Liguori, easpag agus dochtúir na hEaglaise"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 2,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Glas - Satharn den tSeachtú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eusebius of Vercelli, easpag",
+                "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Peter Julian Eymard, sagart",
+                "4": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Muire ar an Satharn"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 3,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Glas - An tOchtú Domhnach de Am Gnáth"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 4,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh John Vianney, sagart"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 5,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Glas - Máirt den tOchtú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Tiontú na Baisleice Naomh Muire"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 6,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Athrú Cruth an Tiarna"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 7,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Glas - Déardaoin den tOchtú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Cajetan, sagart",
+                "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Sixtus II, pápa, agus a chomhluadar, mairtírigh"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 8,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Dominic, sagart"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 9,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Glas - Satharn den tOchtú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Teresa Benedicta of the Cross, maighdean agus mairtíreach",
+                "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Muire ar an Satharn"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 10,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Glas - An Naoú Domhnach de Am Gnáth"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 11,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Clare, maighdean"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 12,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Glas - Máirt den Naoú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Jane Frances de Chantal, bean rialta"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 13,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "Dath: Glas - Céadaoin den Naoú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Pontian, pápa, agus Naomh Hippolytus, sagart, mairtírigh"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 14,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Maximilian Mary Kolbe, sagart agus mairtíreach"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 15,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Deastógáil na Maighdine Muire"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 16,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Glas - Satharn den Naoú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Beannaithe Bartholomew Laurel, bean rialta agus mairtíreach",
+                "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Stephen of Hungary",
+                "4": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Muire ar an Satharn"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 17,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Glas - An Fichiú Domhnach de Am Gnáth"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 18,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Glas - Luan den Fhichiú Seachtain de Am Gnáth"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 19,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Glas - Máirt den Fhichiú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Beannaithe Peter Zúñiga agus Beannaithe Luis Flores, sagairt agus mairtírigh",
+                "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh John Eudes, sagart"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 20,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Bernard, ab agus dochtúir na hEaglaise"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 21,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Pius X, pápa"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 22,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Ár Máthair Muire Banríon"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 23,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "Dath: Glas - Satharn den Fhichiú Seachtain de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Muire ar an Satharn"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 24,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Glas - An tAonú Domhnach is Fiche de Am Gnáth"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 25,
+            "dia-sem": "Dé Luain",
+            "festejo": {
+                "1": "Dath: Glas - Luan den tAonú Seachtain is Fiche de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Joseph Calasanz, sagart",
+                "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Louis na Fraince"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 26,
+            "dia-sem": "Dé Máirt",
+            "festejo": {
+                "1": "Dath: Glas - Máirt den tAonú Seachtain is Fiche de Am Gnáth",
+                "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Junipero Serra, sagart"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 27,
+            "dia-sem": "Dé Céadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Monica"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 28,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Augustine, easpag agus dochtúir na hEaglaise"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 29,
+            "dia-sem": "Dé hAoine",
+            "festejo": {
+                "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Mairtíreacht Naomh Eoin Baiste"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 30,
+            "dia-sem": "Dé Sathairn",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Naomh Rose of Lima, maighdean"
+            }
+        },
+        {
+            "tiempo": "Am Gnáth",
+            "dia-num": 31,
+            "dia-sem": "Dé Domhnaigh",
+            "festejo": {
+                "1": "Dath: Glas - An Dara Domhnach is Fiche de Am Gnáth"
+            }
+        }
+    ]
+}

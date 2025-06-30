@@ -1,0 +1,253 @@
+{
+    "june": [
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 1,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Iústán, Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 2,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - Dé Domhnaigh IX san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 3,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Séarlas Lwanga agus a Chomrádaithe, Muireánaigh"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 4,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Máirt den tSeachtain IX san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 5,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Bonifás, Easpag agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 6,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den tSeachtain IX san Am Ábhaisteach",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Norbert, Easpag"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 7,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Solemnity) - Dath: Bán - Croí Naofa Íosa"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 8,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Croí Neamhchiontach Mhuire"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 9,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - Dé Domhnaigh X san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 10,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Glas - Luan den tSeachtain X san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 11,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Barnabás, Aspal"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 12,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin den tSeachtain X san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 13,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Antaine ó Phadua, Sagart agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 14,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den tSeachtain X san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 15,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den tSeachtain X san Am Ábhaisteach",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Mhuire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 16,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - Dé Domhnaigh XI san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 17,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Glas - Luan den tSeachtain XI san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 18,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Máirt den tSeachtain XI san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 19,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin den tSeachtain XI san Am Ábhaisteach",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Romuald, Aba"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 20,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den tSeachtain XI san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 21,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Alois Gonzaga, Soiscéalach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 22,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den tSeachtain XI san Am Ábhaisteach",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Paulinus ó Nola, Easpag",
+          "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Eoin Fisher, Easpag, agus Naomh Tomás More, Muireánaigh",
+          "4": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Mhuire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 23,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - Dé Domhnaigh XII san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 24,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "(Solemnity) - Dath: Bán - Breith Naomh Eoin an tSoiscéalaí"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 25,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Máirt den tSeachtain XII san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 26,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin den tSeachtain XII san Am Ábhaisteach"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 27,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den tSeachtain XII san Am Ábhaisteach",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Ár dTighearna Íosa ar an gCabhair Bhuan",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Cyril ó Alexandria, Easpag agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 28,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Irenaeus, Easpag, Muireánach, agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 29,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Solemnity) - Dath: Dearg - Naomh Peadar agus Naomh Pól, Aspal"
+        }
+      },
+      {
+        "tiempo": "Am Ábhaisteach",
+        "dia-num": 30,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - Dé Domhnaigh XIII san Am Ábhaisteach"
+        }
+      }
+    ]
+  }
+  

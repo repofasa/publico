@@ -1,0 +1,260 @@
+{
+    "december": [
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 1,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Corcra - 1ú Domhnach den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 2,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Corcra - Dé Luain den 1ú Seachtain den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 3,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Proinsias Xavier, Sagart"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 4,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Corcra - Dé Céadaoin den 1ú Seachtain den Ré Advent",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin de Damas, Sagart agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 5,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Corcra - Déardaoin den 1ú Seachtain den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 6,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Corcra - Dé hAoine den 1ú Seachtain den Ré Advent",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Nioclás, Easpag"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 7,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Ambrós, Easpag agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 8,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Corcra - 2ú Domhnach den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 9,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Ócáid Shuntasach) - Dath: Bán - Inmaculada Coincheap Naomh Mhuire"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 10,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Corcra - Dé Máirt den 2ú Seachtain den Ré Advent",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Ár Muire de Loreto"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 11,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Corcra - Dé Céadaoin den 2ú Seachtain den Ré Advent",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Damasus I, Pápa"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 12,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Ócáid Shuntasach) - Dath: Bán - Ár Muire de Guadalupe"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 13,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Dearg - Naomh Lucia, Maighdean agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 14,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhneachán Éigeantach) - Dath: Bán - Naomh Eoin den Chros, Sagart agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 15,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Rós/Corcra - 3ú Domhnach den Ré Advent \"Gaudete\""
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 16,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Corcra - Dé Luain den 3ú Seachtain den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 17,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (24 Nollaig)"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 18,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (18 Nollaig)"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 19,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (19 Nollaig)"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 20,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (20 Nollaig)"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 21,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (21 Nollaig)",
+          "2": "(Cuimhneachán Roghnach) - Dath: Corcra - Naomh Peadar Canisius, Sagart agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 22,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Corcra - 4ú Domhnach den Ré Advent"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 23,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (23 Nollaig)",
+          "2": "(Cuimhneachán Roghnach) - Dath: Corcra - Naomh Eoin Cantius, Sagart"
+        }
+      },
+      {
+        "tiempo": "Ré Advent",
+        "dia-num": 24,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Corcra - Aimsir Ré Advent (24 Nollaig)"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 25,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Ócáid Shuntasach) - Dath: Bán - Breith an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 26,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Dearg - Naomh Stiofán, Prótómhuireánach"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 27,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Bán - Naomh Eoin, Aspal agus Soiscéaladóir"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 28,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Dearg - Na Naíonáin Naofa, Muireánaithe"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 29,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "(Lá Féile) - Dath: Bán - An Teaghlach Naofa Íosa, Máire agus Iósaf"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 30,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Bán - Lá VI laistigh den Ochtain ar Bhreith an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Ré na Nollag",
+        "dia-num": 31,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Bán - Lá VII laistigh den Ochtain ar Bhreith an Tiarna",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Silvestr I, Pápa"
+        }
+      }
+    ]
+  }
+  

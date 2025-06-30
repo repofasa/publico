@@ -1,0 +1,258 @@
+{
+    "september": [
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 1,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 22ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 2,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 22ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Beannaithe Bartolomé Gutiérrez, Sagart agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 3,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Gréagóir Mór, Pápa agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 4,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 22ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 5,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 22ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 6,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 22ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 7,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 22ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 8,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 23ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 9,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 23ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Peadar Claver, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 10,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 23ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 11,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 23ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 12,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 23ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - An tAinm is Naofa ar Mháire"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 13,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Eoin Chrysostom, Easpag agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 14,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 23ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 15,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 24ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 16,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Dearg - Naomh Cornelius, Pápa, agus Naomh Ciprian, Easpag, Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 17,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 24ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Roibeárd Bellarmine, Easpag agus Dochtúir na hEaglaise",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Hildegard de Bingen, Mná Soiscéalach agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 18,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 24ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 19,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 24ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Januarius, Easpag agus Muireánach",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh José Maria de Yermo y Parres, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 20,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Dearg - Naomh Andrew Kim Taegon, Sagart, Paul Chong Hasang, agus a chomhghleacaithe, Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 21,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Féile) - Dath: Dearg - Naomh Mata, Tiománaí agus Soiscéalach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 22,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 25ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 23,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Pio de Pietrelcina, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 24,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 25ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 25,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 25ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 26,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 25ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Cosmas agus Damian, Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 27,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Vincent de Paul, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 28,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 25ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Wenceslaus, Muireánach",
+          "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Lorenzo Ruiz agus a chomhghleacaithe, Muireánach",
+          "4": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 29,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 26ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 30,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Iéaróm, Sagart agus Dochtúir na hEaglaise"
+        }
+      }
+    ]
+  }
+  

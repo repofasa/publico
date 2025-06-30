@@ -1,0 +1,269 @@
+{
+    "october": [
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 1,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Thérésa de Lisieux, Mná Soiscéalach agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 2,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Na Naingeal Caomhnóra Naofa"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 3,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 26ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 4,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Proinsias de Assisi, Soiscéalach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 5,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 26ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Faustina Kowalska, Mná Soiscéalach",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 6,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 27ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 7,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Ár dTiarna den Rosail"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 8,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 27ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 9,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 27ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin Leonardi, Sagart",
+          "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Diónáis, Easpag, agus a chomhghleacaithe, Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 10,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 27ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 11,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 27ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin XXIII, Pápa"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 12,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 27ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 13,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 28ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 14,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 28ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Callistus I, Pápa agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 15,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Bán - Naomh Téreasa de Jésùs, Mná Soiscéalach agus Dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 16,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 28ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Hedwig, Soiscéalach",
+          "3": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Mairéad Mháire Alacoque, Mná Soiscéalach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 17,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhneachán Riachtanach) - Dath: Dearg - Naomh Ignatius d’Antioch, Easpag agus Muireánach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 18,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Féile) - Dath: Dearg - Naomh Lúcás, Soiscéalach"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 19,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 28ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Pól den Chros, Sagart",
+          "3": "(Cuimhneachán Roghnach) - Dath: Dearg - Naomh Eoin de Brébeuf agus Iosag Iog, Sagairt, agus a chomhghleacaithe, Muireánach",
+          "4": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 20,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 29ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 21,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Glas - Dé Luain den 29ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 22,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 29ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin Pól II, Pápa"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 23,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 29ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Eoin de Capistrano, Sagart"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 24,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Féile) - Dath: Bán - Naomh Rafael Guízar y Valencia, Easpag"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 25,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Glas - Dé hAoine den 29ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Antaine Máire Claret, Easpag"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 26,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Glas - Dé Sathairn den 29ú Seachtain den Am Árd",
+          "2": "(Cuimhneachán Roghnach) - Dath: Bán - Naomh Máire ar an Satharn"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 27,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Glas - 30ú Domhnach den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 28,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Féile) - Dath: Dearg - Naomh Simón agus Iúdás, Tiománaithe"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 29,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Dé Máirt den 30ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 30,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Dé Céadaoin den 30ú Seachtain den Am Árd"
+        }
+      },
+      {
+        "tiempo": "Am Árd",
+        "dia-num": 31,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin den 30ú Seachtain den Am Árd"
+        }
+      }
+    ]
+  }
+  

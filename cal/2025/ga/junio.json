@@ -1,0 +1,250 @@
+{
+    "junio": [
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 1,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Bán - Deascabháil an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 2,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Bán - Dé Luain de Sheachtain VII Am na Cásca",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Marcellinus agus Peadar, muiríneach"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 3,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Dearg - Naomh Charles Lwanga agus a chomrádaithe, muiríneach"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 4,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Bán - Dé Céadaoin de Sheachtain VII Am na Cásca"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 5,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Dearg - Naomh Boniface, easpag agus muiríneach"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 6,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Bán - Dé hAoine de Sheachtain VII Am na Cásca",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Norbert, easpag"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 7,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Bán - Dé Sathairn de Sheachtain VII Am na Cásca"
+        }
+      },
+      {
+        "tiempo": "Am na Cásca",
+        "dia-num": 8,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Dearg - Domhnach Cincís"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 9,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Beannaithe Muire, Máthair na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 10,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Máirt de Sheachtain X an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 11,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Dearg - Naomh Barnabas, aspal"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 12,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Féile) - Dath: Bán - An Corp is Fuil Ró-Naofa Chríost"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 13,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Antaine Páduach, sagart agus dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 14,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Sathairn de Sheachtain X an Gnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Muire Dé Sathairn"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 15,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Bán - An Tríonóid Ró-Naofa"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 16,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain de Sheachtain XI an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 17,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Máirt de Sheachtain XI an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 18,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin de Sheachtain XI an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 19,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Bán - An Chroí Ró-Naofa Íosa"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 20,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "Dath: Uaine - Dé hAoine de Sheachtain XI an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 21,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Aloysius Gonzaga, manach"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 22,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "Dath: Uaine - XII Domhnach an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 23,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain de Sheachtain XII an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 24,
+        "dia-sem": "Dé Máirt",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Bán - Breith Naomh Eoin Baiste"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 25,
+        "dia-sem": "Dé Céadaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Céadaoin de Sheachtain XII an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 26,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Uaine - Déardaoin de Sheachtain XII an Gnáthshaol"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 27,
+        "dia-sem": "Dé hAoine",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Bán - An Chroí Ró-Naofa Íosa"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 28,
+        "dia-sem": "Dé Sathairn",
+        "festejo": {
+          "1": "(Cuimhne Roghnach) - Dath: Bán - Croí Glan Mhuire",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Irenaeus, easpag, muiríneach agus dochtúir"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 29,
+        "dia-sem": "Dé Domhnaigh",
+        "festejo": {
+          "1": "(Solemnacht) - Dath: Dearg - Naomh Peadar agus Pól, aspail"
+        }
+      },
+      {
+        "tiempo": "An Gnáthshaol",
+        "dia-num": 30,
+        "dia-sem": "Dé Luain",
+        "festejo": {
+          "1": "Dath: Uaine - Dé Luain de Sheachtain XIII an Gnáthshaol",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Na chéad Muiríneach ar Eaglais Róimh"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,260 @@
+{
+    "enero": [
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 1,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "(Solemnity) - Dath: Bán - Naomh Muire, Máthair Dé"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 2,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Basil Mór agus Naomh Gréagóir Nazianzus, easpaig agus dochtúirí na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 3,
+        "dia-sem": "Aoine",
+        "festejo": {
+          "1": "Dath: Bán - Aoine na Dara Seachtaine d’Am Nollag",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Ainm Ró-Naofa Íosa"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 4,
+        "dia-sem": "Satharn",
+        "festejo": {
+          "1": "Dath: Bán - Satharn na Dara Seachtaine d’Am Nollag"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 5,
+        "dia-sem": "Domhnach",
+        "festejo": {
+          "1": "(Solemnity) - Dath: Bán - Teachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 6,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Bán - Luan i ndiaidh Theachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 7,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "Dath: Bán - Máirt i ndiaidh Theachtaireacht an Tiarna",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Réamonn de Penyafort, sagart"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 8,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Bán - Céadaoin i ndiaidh Theachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 9,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Bán - Déardaoin i ndiaidh Theachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Nollag",
+        "dia-num": 10,
+        "dia-sem": "Aoine",
+        "festejo": {
+          "1": "Dath: Bán - Aoine i ndiaidh Theachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 11,
+        "dia-sem": "Satharn",
+        "festejo": {
+          "1": "Dath: Bán - Satharn i ndiaidh Theachtaireacht an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 12,
+        "dia-sem": "Domhnach",
+        "festejo": {
+          "1": "(Féile) - Dath: Bán - Baisteadh an Tiarna"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 13,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Glas - Luan na Céad Seachtaine d’Am Gnáthaimseartha",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Hilary, easpag agus dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 14,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "Dath: Glas - Máirt na Céad Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 15,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin na Céad Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 16,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin na Céad Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 17,
+        "dia-sem": "Aoine",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Antaine, manach"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 18,
+        "dia-sem": "Satharn",
+        "festejo": {
+          "1": "Dath: Glas - Satharn na Céad Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 19,
+        "dia-sem": "Domhnach",
+        "festejo": {
+          "1": "Dath: Glas - Dara Domhnach d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 20,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Glas - Luan na Dara Seachtaine d’Am Gnáthaimseartha",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Fabian, pápa agus martar",
+          "3": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Séabastain, martar"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 21,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Dearg - Naomh Aignéis, maighdean agus martar"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 22,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin na Dara Seachtaine d’Am Gnáthaimseartha",
+          "2": "(Cuimhne Roghnach) - Dath: Dearg - Naomh Uinseann, deochan agus martar"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 23,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin na Dara Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 24,
+        "dia-sem": "Aoine",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Proinsias de Sales, easpag agus dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 25,
+        "dia-sem": "Satharn",
+        "festejo": {
+          "1": "(Féile) - Dath: Bán - Iompú Naomh Pól, Aspal"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 26,
+        "dia-sem": "Domhnach",
+        "festejo": {
+          "1": "Dath: Glas - Tríú Domhnach d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 27,
+        "dia-sem": "Luan",
+        "festejo": {
+          "1": "Dath: Glas - Luan na Tríú Seachtaine d’Am Gnáthaimseartha",
+          "2": "(Cuimhne Roghnach) - Dath: Bán - Naomh Aingeal Merici, maighdean"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 28,
+        "dia-sem": "Máirt",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Tomás Acainis, sagart agus dochtúir na hEaglaise"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 29,
+        "dia-sem": "Céadaoin",
+        "festejo": {
+          "1": "Dath: Glas - Céadaoin na Tríú Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 30,
+        "dia-sem": "Déardaoin",
+        "festejo": {
+          "1": "Dath: Glas - Déardaoin na Tríú Seachtaine d’Am Gnáthaimseartha"
+        }
+      },
+      {
+        "tiempo": "Am Gnáthaimseartha",
+        "dia-num": 31,
+        "dia-sem": "Aoine",
+        "festejo": {
+          "1": "(Cuimhne Éigeantach) - Dath: Bán - Naomh Eoin Bosco, sagart"
+        }
+      }
+    ]
+  }
+  
