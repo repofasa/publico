@@ -50,9 +50,9 @@
         },
         {
             "titulo": "Julio de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/julio2025",
-            "activo": "no",
+            "activo": "si",
             "imagen": "julio",
             "id": "7"
         },
