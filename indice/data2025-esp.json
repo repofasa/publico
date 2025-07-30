@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Agosto de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/agosto2025",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },
