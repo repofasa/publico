@@ -66,9 +66,9 @@
         },
         {
             "titulo": "Septiembre de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2025/septiembre2025",
-            "activo": "no",
+            "activo": "si",
             "imagen": "septiembre",
             "id": "9"
         },

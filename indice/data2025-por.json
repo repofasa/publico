@@ -57,23 +57,23 @@
         "id": "8"
     }, {
         "titulo": "Setembro",
-        "subtitulo": "Não Disponível",
+        "subtitulo": "Acessível",
         "contenido": "2025/septiembre2025-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Outubro",
-        "subtitulo": "Não Disponível",
+        "subtitulo": "Acessível",
         "contenido": "2025/octubre2025-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Novembro",
-        "subtitulo": "Não Disponível",
+        "subtitulo": "Acessível",
         "contenido": "2025/noviembre2025-por",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {

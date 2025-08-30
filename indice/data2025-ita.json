@@ -57,23 +57,23 @@
         "id": "8"
     }, {
         "titulo": "Settembre",
-        "subtitulo": "Non Disponibile",
+        "subtitulo": "A Disposizione",
         "contenido": "2025/septiembre2025-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "Ottobre",
-        "subtitulo": "Non Disponibile",
+        "subtitulo": "A Disposizione",
         "contenido": "2025/octubre2025-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "Novembre",
-        "subtitulo": "Non Disponibile",
+        "subtitulo": "A Disposizione",
         "contenido": "2025/noviembre2025-ita",
-        "activo": "no",
+        "activo": "si",
         "imagen": "noviembre",
         "id": "11"
     }, {

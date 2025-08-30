@@ -66,25 +66,25 @@
         },
         {
             "titulo": "Meán Fómhair",
-            "subtitulo": "Níl Ar Fáil Fós",
+            "subtitulo": "Ar Fáil",
             "contenido": "2025/septiembre2025-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "septiembre",
             "id": "9"
         },
         {
             "titulo": "Deireadh Fómhair",
-            "subtitulo": "Níl Ar Fáil Fós",
+            "subtitulo": "Ar Fáil",
             "contenido": "2025/octubre2025-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "octubre",
             "id": "10"
         },
         {
             "titulo": "Samhain",
-            "subtitulo": "Níl Ar Fáil Fós",
+            "subtitulo": "Ar Fáil",
             "contenido": "2025/noviembre2025-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "noviembre",
             "id": "11"
         },
