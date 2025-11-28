@@ -2,7 +2,7 @@
     "data": [
         {
             "titulo": "Enero de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/enero2026",
             "activo": "no",
             "imagen": "enero",
@@ -10,7 +10,7 @@
         },
         {
             "titulo": "Febrero de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/febrero2026",
             "activo": "no",
             "imagen": "febrero",
@@ -18,7 +18,7 @@
         },
         {
             "titulo": "Marzo de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/marzo2026",
             "activo": "no",
             "imagen": "marzo",
@@ -26,7 +26,7 @@
         },
         {
             "titulo": "Abril de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/abril2026",
             "activo": "no",
             "imagen": "abril",
@@ -34,7 +34,7 @@
         },
         {
             "titulo": "Mayo de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/mayo2026",
             "activo": "no",
             "imagen": "mayo",
@@ -42,7 +42,7 @@
         },
         {
             "titulo": "Junio de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/junio2026",
             "activo": "no",
             "imagen": "junio",
@@ -50,7 +50,7 @@
         },
         {
             "titulo": "Julio de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/julio2026",
             "activo": "no",
             "imagen": "julio",
@@ -58,7 +58,7 @@
         },
         {
             "titulo": "Agosto de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/agosto2026",
             "activo": "no",
             "imagen": "agosto",
@@ -66,7 +66,7 @@
         },
         {
             "titulo": "Septiembre de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/septiembre2026",
             "activo": "no",
             "imagen": "septiembre",
@@ -74,7 +74,7 @@
         },
         {
             "titulo": "Octubre de",
-            "subtitulo": "Disponible",
+            "subtitulo": "No Disponible",
             "contenido": "2026/octubre2026",
             "activo": "no",
             "imagen": "octubre",

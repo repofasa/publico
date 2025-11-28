@@ -3,82 +3,82 @@
         "titulo": "January",
         "subtitulo": "Available",
         "contenido": "2026/enero2026-eng",
-        "activo": "no",
+        "activo": "si",
         "imagen": "enero",
         "id": "1"
     }, {
         "titulo": "February",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/febrero2026-eng",
         "activo": "no",
         "imagen": "febrero",
         "id": "2"
     }, {
         "titulo": "March",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/marzo2026-eng",
         "activo": "no",
         "imagen": "marzo",
         "id": "3"
     }, {
         "titulo": "April",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/abril2026-eng",
         "activo": "no",
         "imagen": "abril",
         "id": "4"
     }, {
         "titulo": "May",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/mayo2026-eng",
         "activo": "no",
         "imagen": "mayo",
         "id": "5"
     }, {
         "titulo": "June",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/junio2026-eng",
         "activo": "no",
         "imagen": "junio",
         "id": "6"
     }, {
         "titulo": "July",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/julio2026-eng",
         "activo": "no",
         "imagen": "julio",
         "id": "7"
     }, {
         "titulo": "August",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/agosto2026-eng",
         "activo": "no",
         "imagen": "agosto",
         "id": "8"
     }, {
         "titulo": "September",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/septiembre2026-eng",
         "activo": "no",
         "imagen": "septiembre",
         "id": "9"
     }, {
         "titulo": "October",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/octubre2026-eng",
         "activo": "no",
         "imagen": "octubre",
         "id": "10"
     }, {
         "titulo": "November",
-        "subtitulo": "Available",
+        "subtitulo": "Not Available Yet",
         "contenido": "2026/noviembre2026-eng",
         "activo": "no",
         "imagen": "noviembre",
         "id": "11"
     }, {
         "titulo": "December",
-        "subtitulo": "Not Available Yet",
+        "subtitulo": "Not Not Available Yet Yet",
         "contenido": "2026/diciembre2026-eng",
         "activo": "no",
         "imagen": "diciembre",

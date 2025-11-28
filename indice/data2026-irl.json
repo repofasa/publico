@@ -4,13 +4,13 @@
             "titulo": "Eanáir",
             "subtitulo": "Ar Fáil",
             "contenido": "2026/enero2026-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "enero",
             "id": "1"
         },
         {
             "titulo": "Feabhra",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/febrero2026-irl",
             "activo": "no",
             "imagen": "febrero",
@@ -18,7 +18,7 @@
         },
         {
             "titulo": "Márta",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/marzo2026-irl",
             "activo": "no",
             "imagen": "marzo",
@@ -26,7 +26,7 @@
         },
         {
             "titulo": "Aibreán",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/abril2026-irl",
             "activo": "no",
             "imagen": "abril",
@@ -34,7 +34,7 @@
         },
         {
             "titulo": "Bealtaine",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/mayo2026-irl",
             "activo": "no",
             "imagen": "mayo",
@@ -42,7 +42,7 @@
         },
         {
             "titulo": "Meitheamh",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/junio2026-irl",
             "activo": "no",
             "imagen": "junio",
@@ -50,7 +50,7 @@
         },
         {
             "titulo": "Iúil",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/julio2026-irl",
             "activo": "no",
             "imagen": "julio",
@@ -58,7 +58,7 @@
         },
         {
             "titulo": "Lúnasa",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/agosto2026-irl",
             "activo": "no",
             "imagen": "agosto",
@@ -66,7 +66,7 @@
         },
         {
             "titulo": "Meán Fómhair",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/septiembre2026-irl",
             "activo": "no",
             "imagen": "septiembre",
@@ -74,7 +74,7 @@
         },
         {
             "titulo": "Deireadh Fómhair",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/octubre2026-irl",
             "activo": "no",
             "imagen": "octubre",
@@ -82,7 +82,7 @@
         },
         {
             "titulo": "Samhain",
-            "subtitulo": "Ar Fáil",
+            "subtitulo": "Non Disponibile",
             "contenido": "2026/noviembre2026-irl",
             "activo": "no",
             "imagen": "noviembre",
@@ -90,7 +90,7 @@
         },
         {
             "titulo": "Nollaig",
-            "subtitulo": "Níl Ar Fáil Fós",
+            "subtitulo": "Níl Non Disponibile Fós",
             "contenido": "2026/diciembre2026-irl",
             "activo": "no",
             "imagen": "diciembre",
