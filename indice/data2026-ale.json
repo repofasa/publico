@@ -8,9 +8,9 @@
         "id": "1"
     }, {
         "titulo": "Februar",
-        "subtitulo": "Nicht Verfügbar",
+        "subtitulo": "Verfügbar",
         "contenido": "2026/febrero2026-ale",
-        "activo": "no",
+        "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {

@@ -2,17 +2,17 @@
     "data": [
         {
             "titulo": "Enero de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/enero2026",
-            "activo": "no",
+            "activo": "si",
             "imagen": "enero",
             "id": "1"
         },
         {
             "titulo": "Febrero de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/febrero2026",
-            "activo": "no",
+            "activo": "si",
             "imagen": "febrero",
             "id": "2"
         },

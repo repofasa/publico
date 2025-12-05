@@ -10,17 +10,17 @@
         },
         {
             "titulo": "Feabhra",
-            "subtitulo": "Non Disponibile",
+            "subtitulo": "Disponibile",
             "contenido": "2026/febrero2026-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "febrero",
             "id": "2"
         },
         {
             "titulo": "Márta",
-            "subtitulo": "Non Disponibile",
+            "subtitulo": "Disponibile",
             "contenido": "2026/marzo2026-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "marzo",
             "id": "3"
         },

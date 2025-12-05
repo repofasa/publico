@@ -8,9 +8,9 @@
         "id": "1"
     }, {
         "titulo": "Février",
-        "subtitulo": "Pas Disponible",
+        "subtitulo": "Disponible",
         "contenido": "2026/febrero2026-fra",
-        "activo": "no",
+        "activo": "si",
         "imagen": "febrero",
         "id": "2"
     }, {
