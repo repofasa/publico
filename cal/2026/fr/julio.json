@@ -1,0 +1,261 @@
+{
+    "juillet": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 13ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 13ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Thomas, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 13ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Sainte Élisabeth du Portugal"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XIVème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 14ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Sainte Maria Goretti, vierge et martyre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 14ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 14ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 14ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saints Augustin Zhao Rong et ses compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 14ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - Saint Benoît, abbé (Patron de l'Europe)"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XVème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 15ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Henri"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Camille de Lellis, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Bonaventure, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 15ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Notre-Dame du Mont-Carmel"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 15ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 15ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XVIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 16ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Apollinaire, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 16ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Laurent de Brindes, prêtre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - Sainte Marie-Madeleine"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - Sainte Brigitte, religieuse (Patronne de l'Europe)"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 16ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Charbel Makhlouf, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Jacques le Majeur, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saints Joachim et Anne, parents de la Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 17ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 17ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saints Marthe, Marie et Lazare"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 17ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Pierre Chrysologue, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 31,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Ignace de Loyola, prêtre"
+            }
+        }
+    ]
+}

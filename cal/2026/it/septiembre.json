@@ -1,0 +1,252 @@
+{
+    "settembre": [
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XXII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XXII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Gregorio Magno, papa e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXIII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XXIII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Natività della Beata Vergine Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XXIII settimana",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Pietro Claver, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXIII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXIII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXIII settimana",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santissimo Nome di Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXIV Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - Esaltazione della Santa Croce"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Beata Vergine Maria Addolorata"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Cornelio, papa, e Cipriano, vescovo, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXIV settimana",
+                "2": "(Memoria facoltativa) - San Roberto Bellarmino, vescovo e dottore della Chiesa",
+                "3": "(Memoria facoltativa) - Santa Ildegarda di Bingen, vergine e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXIV settimana",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Gennaro, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXV Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Matteo, apostolo ed evangelista"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XXV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Pio da Pietrelcina, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXV settimana",
+                "2": "(Memoria facoltativa) - Colore: Rosso - Santi Cosma e Damiano, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXVI Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XXVI settimana",
+                "2": "(Memoria facoltativa) - San Venceslao, martire",
+                "3": "(Memoria facoltativa) - Santi Lorenzo Ruiz e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Santi Michele, Gabriele e Raffaele, arcangeli"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Girolamo, sacerdote e dottore della Chiesa"
+            }
+        }
+    ]
+}

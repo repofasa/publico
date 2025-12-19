@@ -1,0 +1,255 @@
+{
+    "junho": [
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 1,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - São Justino, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 2,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 9ª semana comum",
+                "2": "(Memória facultativa) - Santos Marcelino e Pedro, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 3,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - Santos Carlos Lwanga e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 4,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - SANTÍSSIMO CORPO E SANGUE DE CRISTO (Corpo de Deus)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 5,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - São Bonifácio, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 6,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da 9ª semana comum",
+                "2": "(Memória facultativa) - São Norberto, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 7,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 10º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 8,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 10ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 9,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 10ª semana comum",
+                "2": "(Memória facultativa) - Santo Efrem, diácono e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 10,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 10ª semana comum",
+                "2": "(Em Portugal) - Anjo Custódio de Portugal"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - São Barnabé, Apóstolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - SAGRADO CORAÇÃO DE JESUS"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - IMACULADO CORAÇÃO DE MARIA",
+                "2": "(Festa em Portugal/Brasil) - Santo António de Lisboa (Pádua), presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 11º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 11ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 11ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 11ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 18,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 11ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 19,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 11ª semana comum",
+                "2": "(Memória facultativa) - São Romualdo, abade"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 20,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da 11ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 21,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 12º Domingo do Tempo Comum",
+                "2": "(Memória) - São Luís Gonzaga, religioso (omitida)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 22,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 12ª semana comum",
+                "2": "(Memória facultativa) - São Paulino de Nola, bispo ou Santos João Fisher, bispo, e Tomás More, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 23,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 12ª semana comum (Vigília de São João)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 24,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - NASCIMENTO DE SÃO JOÃO BAPTISTA"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 12ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 12ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da 12ª semana comum",
+                "2": "(Memória facultativa) - São Cirilo de Alexandria, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Vermelho - SÃO PEDRO E SÃO PAULO, APÓSTOLOS",
+                "2": "(Em alguns lugares, transfere-se para o domingo mais próximo)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 13ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 13ª semana comum",
+                "2": "(Memória facultativa) - Santos Protomártires da Igreja de Roma"
+            }
+        }
+    ]
+}

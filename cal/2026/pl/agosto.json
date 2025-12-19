@@ -1,0 +1,261 @@
+{
+    "sierpien": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 18. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 18. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Jana Marii Vianneya, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 18. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Rocznica poświęcenia rzymskiej Bazyliki Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Przemienienie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 18. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. męczenników Sykstusa II, papieża, i Towarzyszy lub Św. Kajetana, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Dominika, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 19. Niedziela zwykła",
+                "2": "(Święto) - Św. Teresy Benedykty od Krzyża (Edyty Stein), dziewicy i męczennicy, patronki Europy (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Wawrzyńca, diakona i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Klary, dziewicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 19. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Joanny Franciszki de Chantal, zakonnicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 19. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. męczenników Poncjana, papieża, i Hipolita, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Maksymiliana Marii Kolbego, prezbitera i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - WNIEBOWZIĘCIE NAJŚWIĘTSZEJ MARYI PANNY (Matki Bożej Zielnej)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 20. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Stefana Węgierskiego (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Biały - Św. Jacka, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 20. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 20. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Jana Eudesa, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Bernarda, opata i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Piusa X, papieża"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Najświętszej Maryi Panny Królowej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 21. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Róży z Limy (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Bartłomieja, Apostoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 21. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Ludwika lub Św. Józefa Kalasantego, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Uroczystość w Polsce) - Kolor: Biały - NAJŚWIĘTSZEJ MARYI PANNY CZĘSTOCHOWSKIEJ"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Moniki"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Augustyna, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Męczeństwo św. Jana Chrzciciela"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 22. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 22. tygodnia zwykłego"
+            }
+        }
+    ]
+}

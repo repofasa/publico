@@ -1,0 +1,260 @@
+{
+    "août": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Alphonse-Marie de Liguori, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XVIIIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 18ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Jean-Marie Vianney (Curé d'Ars), prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 18ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Dédicace de la basilique Sainte-Marie-Majeure"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Transfiguration du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 18ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Sixte II, pape, et ses compagnons, martyrs",
+                "3": "(Mémoire facultative) - Couleur: Blanc - Saint Gaétan, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Dominique, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XIXème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Laurent, diacre et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Sainte Claire, vierge"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 19ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Sainte Jeanne-Françoise de Chantal, religieuse"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 19ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saints Pontien, pape, et Hippolyte, prêtre, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Saint Maximilien-Marie Kolbe, prêtre et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - L'Assomption de la Bienheureuse Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 20ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 20ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 20ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Jean Eudes, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Bernard, abbé et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Pie X, pape"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - La Vierge Marie, Reine"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Barthélemy, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 21ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Louis",
+                "3": "(Mémoire facultative) - Couleur: Blanc - Saint Joseph de Calasanz, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 21ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Sainte Monique"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Augustin, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Le Martyre de Saint Jean le Baptiste"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXIIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 31,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 22ème semaine du Temps Ordinaire"
+            }
+        }
+    ]
+}

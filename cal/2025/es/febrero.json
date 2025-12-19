@@ -23,8 +23,8 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Verde - Lunes de la IV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - San Blas, obispo y mártir",
-                "3": "(Memoria facultativa) - Color: Blanco - San Óscar, obispo"
+                "2": "(Memoria facultativa) - Color: Rojo - San Blas, obispo y mártir",
+                "3": "(Memoria facultativa) - Color: Blanco - San Óscar, obispo"
             }
         },
         {
@@ -32,7 +32,7 @@
             "dia-num": 4,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santa Águeda, virgen y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Águeda, virgen y mártir"
             }
         },
         {
@@ -40,7 +40,7 @@
             "dia-num": 5,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Felipe de Jesús, mártir"
+                "1": "(Fiesta) - Color: Rojo - San Felipe de Jesús, mártir"
             }
         },
         {
@@ -48,7 +48,7 @@
             "dia-num": 6,
             "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Pablo Miki y compañeros, mártires"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Pablo Miki y compañeros, mártires"
             }
         },
         {
@@ -65,8 +65,8 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Verde - Sábado de la IV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Jerónimo Emiliano",
-                "3": "(Memoria facultativa) - Color: Blanco - Santa Josefina Bakhita, virgen",
+                "2": "(Memoria facultativa) - Color: Blanco - San Jerónimo Emiliano",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa Josefina Bakhita, virgen",
                 "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
             }
         },
@@ -83,7 +83,7 @@
             "dia-num": 10,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Escolástica, virgen"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Escolástica, virgen"
             }
         },
         {
@@ -116,7 +116,7 @@
             "dia-num": 14,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santos Cirilo, monje, y Metodio, obispo"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santos Cirilo, monje, y Metodio, obispo"
             }
         },
         {
@@ -142,7 +142,7 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Verde - Lunes de la VI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Los Santos Siete Fundadores de la Orden de los Servitas"
+                "2": "(Memoria facultativa) - Color: Blanco - Los Santos Siete Fundadores de la Orden de los Servitas"
             }
         },
         {
@@ -175,7 +175,7 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Verde - Viernes de la VI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Damián, obispo y doctor de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Damián, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -183,7 +183,7 @@
             "dia-num": 22,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Cátedra de San Pedro, apóstol"
+                "1": "(Fiesta) - Color: Blanco - La Cátedra de San Pedro, apóstol"
             }
         },
         {
@@ -208,7 +208,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la VII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Beato Sebastián de Aparicio, religioso"
+                "2": "(Memoria facultativa) - Color: Blanco - Beato Sebastián de Aparicio, religioso"
             }
         },
         {
@@ -225,7 +225,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Verde - Jueves de la VII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Gregorio de Narek, abad y doctor de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Gregorio de Narek, abad y doctor de la Iglesia"
             }
         },
         {

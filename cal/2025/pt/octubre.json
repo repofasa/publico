@@ -5,7 +5,7 @@
             "dia-num": 1,
             "dia-sem": "Quarta-feira",
             "festejo": {
-                "1": "(Memória obrigatória) - Cor: Branco - Santa Teresa do Menino Jesus, virgem e doutora da Igreja"
+                "1": "(Memória obrigatória) - Cor: Branco - Santa Teresa do Menino Jesus, virgem e doutora da Igreja"
             }
         },
         {
@@ -29,7 +29,7 @@
             "dia-num": 4,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memória obrigatória) - Cor: Branco - São Francisco de Assis, religioso"
+                "1": "(Memória obrigatória) - Cor: Branco - São Francisco de Assis, religioso"
             }
         },
         {
@@ -46,7 +46,7 @@
             "dia-sem": "Segunda-feira",
             "festejo": {
                 "1": "Cor: Verde - Segunda-feira da XXVII Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - São Bruno, presbítero"
+                "2": "(Memória facultativa) - Cor: Branco - São Bruno, presbítero"
             }
         },
         {
@@ -71,8 +71,8 @@
             "dia-sem": "Quinta-feira",
             "festejo": {
                 "1": "Cor: Verde - Quinta-feira da XXVII Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - São João Leonardi, presbítero",
-                "3": "(Memória facultativa) - Cor: Vermelho - Santos Dionísio, bispo, e companheiros, mártires"
+                "2": "(Memória facultativa) - Cor: Branco - São João Leonardi, presbítero",
+                "3": "(Memória facultativa) - Cor: Vermelho - Santos Dionísio, bispo, e companheiros, mártires"
             }
         },
         {
@@ -89,7 +89,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Cor: Verde - Sábado da XXVII Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - São João XXIII, papa",
+                "2": "(Memória facultativa) - Cor: Branco - São João XXIII, papa",
                 "3": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
             }
         },
@@ -115,7 +115,7 @@
             "dia-sem": "Terça-feira",
             "festejo": {
                 "1": "Cor: Verde - Terça-feira da XXVIII Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Vermelho - São Calixto I, papa e mártir"
+                "2": "(Memória facultativa) - Cor: Vermelho - São Calixto I, papa e mártir"
             }
         },
         {
@@ -123,7 +123,7 @@
             "dia-num": 15,
             "dia-sem": "Quarta-feira",
             "festejo": {
-                "1": "(Memória obrigatória) - Cor: Branco - Santa Teresa de Jesus, virgem e doutora da Igreja"
+                "1": "(Memória obrigatória) - Cor: Branco - Santa Teresa de Jesus, virgem e doutora da Igreja"
             }
         },
         {
@@ -132,8 +132,8 @@
             "dia-sem": "Quinta-feira",
             "festejo": {
                 "1": "Cor: Verde - Quinta-feira da XXVIII Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - Santa Eduviges, religiosa",
-                "3": "(Memória facultativa) - Cor: Branco - Santa Margarida Maria de Alacoque, virgem"
+                "2": "(Memória facultativa) - Cor: Branco - Santa Eduviges, religiosa",
+                "3": "(Memória facultativa) - Cor: Branco - Santa Margarida Maria de Alacoque, virgem"
             }
         },
         {
@@ -141,7 +141,7 @@
             "dia-num": 17,
             "dia-sem": "Sexta-feira",
             "festejo": {
-                "1": "(Memória obrigatória) - Cor: Vermelho - São Inácio de Antioquia, bispo e mártir"
+                "1": "(Memória obrigatória) - Cor: Vermelho - São Inácio de Antioquia, bispo e mártir"
             }
         },
         {
@@ -149,7 +149,7 @@
             "dia-num": 18,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Festa) - Cor: Vermelho - São Lucas, evangelista"
+                "1": "(Festa) - Cor: Vermelho - São Lucas, evangelista"
             }
         },
         {
@@ -182,7 +182,7 @@
             "dia-sem": "Quarta-feira",
             "festejo": {
                 "1": "Cor: Verde - Quarta-feira da XXIX Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - São João Paulo II, papa"
+                "2": "(Memória facultativa) - Cor: Branco - São João Paulo II, papa"
             }
         },
         {
@@ -191,7 +191,7 @@
             "dia-sem": "Quinta-feira",
             "festejo": {
                 "1": "Cor: Verde - Quinta-feira da XXIX Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - São João de Capistrano, presbítero"
+                "2": "(Memória facultativa) - Cor: Branco - São João de Capistrano, presbítero"
             }
         },
         {
@@ -199,7 +199,7 @@
             "dia-num": 24,
             "dia-sem": "Sexta-feira",
             "festejo": {
-                "1": "(Festa) - Cor: Branco - São Rafael Guízar y Valencia, bispo"
+                "1": "(Festa) - Cor: Branco - São Rafael Guízar y Valencia, bispo"
             }
         },
         {
@@ -208,7 +208,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Cor: Verde - Sábado da XXIX Semana do Tempo Ordinário",
-                "2": "(Memória facultativa) - Cor: Branco - Santo Antônio Maria Claret, bispo",
+                "2": "(Memória facultativa) - Cor: Branco - Santo Antônio Maria Claret, bispo",
                 "3": "(Memória facultativa) - Cor: Branco - Santa Maria em sábado"
             }
         },
@@ -233,7 +233,7 @@
             "dia-num": 28,
             "dia-sem": "Terça-feira",
             "festejo": {
-                "1": "(Festa) - Cor: Vermelho - Santos Simão e Judas, apóstolos"
+                "1": "(Festa) - Cor: Vermelho - Santos Simão e Judas, apóstolos"
             }
         },
         {

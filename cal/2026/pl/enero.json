@@ -1,0 +1,258 @@
+{
+    "styczen": [
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 1,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Świętej Bożej Rodzicielki Maryi"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 2,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Świętych Bazylego Wielkiego i Grzegorza z Nazjanzu, biskupów i doktorów Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 3,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota przed Objawieniem Pańskim",
+                "2": "(Wspomnienie dowolne) - Najświętszego Imienia Jezus"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 4,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Objawienie Pańskie (Trzech Króli)"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 5,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek po Objawieniu Pańskim"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 6,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek po Objawieniu Pańskim"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 7,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa po Objawieniu Pańskim",
+                "2": "(Wspomnienie dowolne) - Św. Rajmunda z Penyafort, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 8,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek po Objawieniu Pańskim"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 9,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek po Objawieniu Pańskim"
+            }
+        },
+        {
+            "tiempo": "Okres Narodzenia Pańskiego",
+            "dia-num": 10,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota po Objawieniu Pańskim"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Chrzest Pański"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 1. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 1. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Hilarego, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 1. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 1. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 1. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Antoniego, opata"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 2. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Józefa Sebastiana Pelczara, biskupa (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 2. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Fabiana, papieża i męczennika lub Św. Sebastiana, męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Agnieszki, dziewicy i męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 2. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Wincentego, diakona i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 2. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Franciszka Salezego, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 3. Niedziela zwykła (Niedziela Słowa Bożego)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Świętych biskupów Tymoteusza i Tytusa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 3. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Anieli Merici, dziewicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Tomasza z Akwinu, prezbitera i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 3. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 3. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Jana Bosko, prezbitera"
+            }
+        }
+    ]
+}

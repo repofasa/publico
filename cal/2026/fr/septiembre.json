@@ -1,0 +1,252 @@
+{
+    "septembre": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 22ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 22ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Grégoire le Grand, pape et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 22ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 22ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXIIIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 23ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Nativité de la Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 23ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Pierre Claver, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 23ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 23ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 23ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Le Saint Nom de Marie"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXIVème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - La Croix Glorieuse"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Notre-Dame des Douleurs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Saints Corneille, pape, et Cyprien, évêque, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 24ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Robert Bellarmin, évêque et docteur de l'Église",
+                "3": "(Mémoire facultative) - Couleur: Blanc - Sainte Hildegarde de Bingen, vierge et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 24ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 24ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Janvier, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXVème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Matthieu, apôtre et évangéliste"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 25ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Pio de Pietrelcina, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 25ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 25ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 25ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saints Côme et Damien, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XXVIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 26ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Venceslas, martyr",
+                "3": "(Mémoire facultative) - Couleur: Rouge - Saint Laurent Ruiz et ses compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - Saints Michel, Gabriel et Raphaël, archanges"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Jérôme, prêtre et docteur de l'Église"
+            }
+        }
+    ]
+}

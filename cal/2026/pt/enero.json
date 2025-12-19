@@ -1,0 +1,258 @@
+{
+    "janeiro": [
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 1,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Santa Maria, Mãe de Deus"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 2,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santos Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 3,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado antes da Epifania",
+                "2": "(Memória facultativa) - Santíssimo Nome de Jesus"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 4,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - Epifania do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 5,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira depois da Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 6,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira depois da Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 7,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira depois da Epifania",
+                "2": "(Memória facultativa) - São Raimundo de Penhaforte, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 8,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quinta-feira depois da Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 9,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira depois da Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 10,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado depois da Epifania"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - Batismo do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 1ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 1ª semana comum",
+                "2": "(Memória facultativa) - Santo Hilário de Poitiers, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 1ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 1ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 1ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Antão, abade"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 18,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 2º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 19,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 2ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 20,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 2ª semana comum",
+                "2": "(Memória facultativa) - São Fabiano, papa e mártir ou São Sebastião, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 21,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - Santa Inês, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 22,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 2ª semana comum",
+                "2": "(Memória facultativa) - São Vicente, diácono e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 23,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 2ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 24,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Francisco de Sales, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 3º Domingo do Tempo Comum (Domingo da Palavra de Deus)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santos Timóteo e Tito, bispos"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 3ª semana comum",
+                "2": "(Memória facultativa) - Santa Ângela Merici, virgem"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Tomás de Aquino, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 3ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 3ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 31,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São João Bosco, presbítero"
+            }
+        }
+    ]
+}

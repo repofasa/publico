@@ -1,0 +1,258 @@
+{
+    "marzo": [
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 1,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - 2. Fastensonntag"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 2,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der 2. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 3,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der 2. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 4,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Mittwoch der 2. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Kasimir"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 5,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der 2. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 6,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der 2. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 7,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der 2. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Perpetua und hl. Felicitas, Märtyrinnen"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 8,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - 3. Fastensonntag"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 9,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der 3. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Franziska von Rom, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 10,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der 3. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 11,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Mittwoch der 3. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 12,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der 3. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 13,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der 3. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 14,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der 3. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 15,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett oder Rosa - 4. Fastensonntag (Laetare)"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 16,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der 4. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 17,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der 4. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Patrick, Bischof"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 18,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Violett - Mittwoch der 4. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Cyrill von Jerusalem, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 19,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Hl. Josef, Bräutigam der Gottesmutter Maria"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 20,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der 4. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 21,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der 4. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 22,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - 5. Fastensonntag"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 23,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Montag der 5. Fastenwoche",
+                "2": "(Gedenktag) - Farbe: Violett - Hl. Turibius von Mongrovejo, Bischof"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 24,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Dienstag der 5. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 25,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Verkündigung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 26,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Violett - Donnerstag der 5. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 27,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Violett - Freitag der 5. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Fastenzeit",
+            "dia-num": 28,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Violett - Samstag der 5. Fastenwoche"
+            }
+        },
+        {
+            "tiempo": "Karwoche",
+            "dia-num": 29,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Rot - Palmsonntag vom Leiden des Herrn"
+            }
+        },
+        {
+            "tiempo": "Karwoche",
+            "dia-num": 30,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett - Karmontag"
+            }
+        },
+        {
+            "tiempo": "Karwoche",
+            "dia-num": 31,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Violett - Kardienstag"
+            }
+        }
+    ]
+}

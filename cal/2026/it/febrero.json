@@ -1,0 +1,234 @@
+{
+    "febbraio": [
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - IV Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Presentazione del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della IV settimana",
+                "2": "(Memoria facoltativa) - Colore: Rosso - San Biagio, vescovo e martire",
+                "3": "(Memoria facoltativa) - Colore: Bianco - Sant'Ansgario, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della IV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Sant'Agata, vergine e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Paolo Miki e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della IV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - V Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della V settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santa Scolastica, vergine"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della V settimana",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Beata Vergine Maria di Lourdes"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della V settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della V settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Santi Cirillo, monaco, e Metodio, vescovo (Patroni d'Europa)"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - VI Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della VI settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della VI settimana",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Sette Santi Fondatori dell'Ordine dei Servi di Maria"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 18,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì delle Ceneri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 19,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì dopo le Ceneri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 20,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì dopo le Ceneri"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 21,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato dopo le Ceneri",
+                "2": "(Memoria) - San Pier Damiani, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 22,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - I Domenica di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 23,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola - Lunedì della I settimana di Quaresima",
+                "2": "(Memoria) - San Policarpo, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 24,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Viola - Martedì della I settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 25,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della I settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 26,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Viola - Giovedì della I settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 27,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Viola - Venerdì della I settimana di Quaresima"
+            }
+        },
+        {
+            "tiempo": "Quaresima",
+            "dia-num": 28,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Viola - Sabato della I settimana di Quaresima"
+            }
+        }
+    ]
+}

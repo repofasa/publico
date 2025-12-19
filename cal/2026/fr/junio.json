@@ -1,0 +1,252 @@
+{
+    "juin": [
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 1,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Justin, martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 2,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 9ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saints Marcellin et Pierre, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 3,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Saints Charles Lwanga et ses compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 4,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 9ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 5,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Saint Boniface, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 6,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 9ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Norbert, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 7,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - Le Saint-Sacrement du Corps et du Sang du Christ (Fête-Dieu)"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 8,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 10ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 9,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 10ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Éphrem, diacre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 10,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 10ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 11,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Rouge - Saint Barnabé, apôtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 12,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - Le Sacré-Cœur de Jésus"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 13,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Le Cœur Immaculé de Marie"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 14,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 15,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 11ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 16,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 11ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 17,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 11ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 18,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 11ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 19,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 11ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Romuald, abbé"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 20,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 11ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 21,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XIIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 22,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Vert - Lundi de la 12ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Paulin de Nole, évêque",
+                "3": "(Mémoire facultative) - Couleur: Rouge - Saints Jean Fisher, évêque, et Thomas More, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 23,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 12ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 24,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - Nativité de Saint Jean le Baptiste"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 12ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 12ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 12ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Cyrille d’Alexandrie, évêque et docteur de l’Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Vert - XIIIème Dimanche du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Rouge - Saints Pierre et Paul, apôtres"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Vert - Mardi de la 13ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Les Premiers Saints Martyrs de l'Église de Rome"
+            }
+        }
+    ]
+}

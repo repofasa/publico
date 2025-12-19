@@ -1,0 +1,258 @@
+{
+    "marzo": [
+        {
+            "tiempo": "Lent",
+            "dia-num": 1,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - II Sunday of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 2,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of the II Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 3,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the II Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 4,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the II Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Casimir"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 5,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday of the II Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 6,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the II Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 7,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the II Week of Lent",
+                "2": "(Optional Memorial) - Color: Red - Saints Perpetua and Felicity, martyrs"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 8,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - III Sunday of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 9,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of the III Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Frances of Rome, religious"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 10,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the III Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 11,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the III Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 12,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday of the III Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 13,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the III Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 14,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the III Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 15,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet or Rose - IV Sunday of Lent (Laetare Sunday)"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 16,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of the IV Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 17,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the IV Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Patrick, bishop"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 18,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the IV Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Cyril of Jerusalem, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 19,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Saint Joseph, Spouse of the Blessed Virgin Mary"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 20,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the IV Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 21,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the IV Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 22,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - V Sunday of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 23,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of the V Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Turibius of Mogrovejo, bishop"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 24,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 25,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Annunciation of the Lord"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 26,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 27,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 28,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the V Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Holy Week",
+            "dia-num": 29,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Red - Palm Sunday of the Passion of the Lord"
+            }
+        },
+        {
+            "tiempo": "Holy Week",
+            "dia-num": 30,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of Holy Week"
+            }
+        },
+        {
+            "tiempo": "Holy Week",
+            "dia-num": 31,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of Holy Week"
+            }
+        }
+    ]
+}

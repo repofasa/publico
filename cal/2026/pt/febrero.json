@@ -1,0 +1,233 @@
+{
+    "fevereiro": [
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 1,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 4º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 2,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - Apresentação do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 3,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 4ª semana comum",
+                "2": "(Memória facultativa) - São Brás, bispo e mártir ou Santo Oscar, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 4,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 4ª semana común"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 5,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - Santa Águeda, virgem e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 6,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - Santos Paulo Miki e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 7,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da 4ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 8,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 5º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 9,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 5ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 10,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santa Escolástica, virgem"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 5ª semana comum",
+                "2": "(Memória facultativa) - Nossa Senhora de Lourdes"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 5ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 5ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa na Europa / Memória no resto do mundo) - Cor: Branco - Santos Cirilo, monge, e Metódio, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 6º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 6ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 6ª semana comum",
+                "2": "(Memória facultativa) - Santos Sete Fundadores da Ordem dos Servitas"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 18,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira de Cinzas (Jejum e Abstinência)"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 19,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira depois das Cinzas"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 20,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira después das Cinzas"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 21,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado después das Cinzas",
+                "2": "(Memória facultativa) - São Pedro Damião, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 22,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo - 1º Domingo da Quaresma"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 23,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Segunda-feira da 1ª semana da Quaresma",
+                "2": "(Memória facultativa) - São Policarpo, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 24,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da 1ª semana da Quaresma"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 25,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da 1ª semana da Quaresma"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 26,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira da 1ª semana da Quaresma"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 27,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira da 1ª semana da Quaresma"
+            }
+        },
+        {
+            "tiempo": "Tempo da Quaresma",
+            "dia-num": 28,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado da 1ª semana da Quaresma"
+            }
+        }
+    ]
+}

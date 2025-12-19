@@ -1,0 +1,259 @@
+{
+    "lipiec": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 13. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - NMP Licheńskiej (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Tomasza, Apostoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 13. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Elżbiety Portugalskiej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 14. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Marii Goretti, dziewicy i męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 14. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Jana z Dukli, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 14. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. męczenników Augustyna Zhao Rong i Towarzyszy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 14. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Św. Benedykta, opata, patrona Europy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 15. Niedziela zwykła",
+                "2": "(W Polsce) - Św. Brunona Bonifacego z Kwerfurtu, biskupa i męczennika (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - ŚŚ. pustelników Andrzeja Świerada i Benedykta (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 15. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Kamila de Lellis, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Bonawentury, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Najświętszej Maryi Panny z Góry Karmel"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 15. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Szymona z Lipnicy, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 16. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Bł. Czesława, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 16. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Wawrzyńca z Brindisi, prezbitera i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Św. Marii Magdaleny"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Św. Brygidy, zakonnicy, patronki Europy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Kingi, dziewicy (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Jakuba, Apostoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 17. Niedziela zwykła",
+                "2": "(Wspomnienie) - ŚŚ. Joachima i Anny, rodziców NMP (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 17. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 17. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - ŚŚ. Marty, Marii i Łazarza"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 17. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Piotra Chryzologa, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Ignacego z Loyoli, prezbitera"
+            }
+        }
+    ]
+}

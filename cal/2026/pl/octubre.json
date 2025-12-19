@@ -1,0 +1,260 @@
+{
+    "pazdziernik": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Świętych Aniołów Stróżów"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 26. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 27. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Franciszka z Asyżu (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Biały - Św. Faustyny Kowalskiej, dziewicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 27. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Brunona, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Najświętszej Maryi Panny Różańcowej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 27. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 27. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. męczenników Dionizego, biskupa, i Towarzyszy lub Św. Jana Leonardiego, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 27. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 28. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Jana XXIII, papieża (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 28. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Bł. Honorata Koźmińskiego, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 28. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Kaliksta I, papieża i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Teresy od Jezusa, dziewicy i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Biały - Św. Jadwigi Śląskiej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Ignacego Antiocheńskiego, biskupa i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 29. Niedziela zwykła",
+                "2": "(Święto) - Św. Łukasza, Ewangelisty (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Czerwony - Bł. Jerzego Popiełuszki, prezbitera i męczennika (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Jana Kantego, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 29. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Jana Pawła II, papieża (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 29. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Jana Kapistrana, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 29. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Antoniego Marii Klareta, biskupa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 30. Niedziela zwykła (Rocznica poświęcenia własnego kościoła)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 30. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 30. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - ŚŚ. Apostołów Szymona i Judy Tadeusza"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 30. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 30. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 30. tygodnia zwykłego"
+            }
+        }
+    ]
+}

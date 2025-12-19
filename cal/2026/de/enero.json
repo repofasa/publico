@@ -1,0 +1,259 @@
+{
+    "enero": [
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 1,
+             "dia-sem": "Donnerstag",
+             "festejo": {
+                 "1": "(Hochfest) - Farbe: Weiß - Hochfest der Gottesmutter Maria"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 2,
+             "dia-sem": "Freitag",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Basilius der Große und hl. Gregor von Nazianz, Bischöfe und Kirchenlehrer"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 3,
+             "dia-sem": "Samstag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Samstag der 2. Weihnachtsoche",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Heiligster Name Jesu"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 4,
+             "dia-sem": "Sonntag",
+             "festejo": {
+                 "1": "(Hochfest) - Farbe: Weiß - Erscheinung des Herrn (Epiphanie)"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 5,
+             "dia-sem": "Montag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Montag nach Erscheinung des Herrn"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 6,
+             "dia-sem": "Dienstag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Dienstag nach Erscheinung des Herrn"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 7,
+             "dia-sem": "Mittwoch",
+             "festejo": {
+                 "1": "Farbe: Weiß - Mittwoch nach Erscheinung des Herrn",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Raimund von Penyafort, Priester"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 8,
+             "dia-sem": "Donnerstag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Donnerstag nach Erscheinung des Herrn"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 9,
+             "dia-sem": "Freitag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Freitag nach Erscheinung des Herrn"
+             }
+         },
+         {
+             "tiempo": "Weihnachtszeit",
+             "dia-num": 10,
+             "dia-sem": "Samstag",
+             "festejo": {
+                 "1": "Farbe: Weiß - Samstag nach Erscheinung des Herrn"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 11,
+             "dia-sem": "Sonntag",
+             "festejo": {
+                 "1": "(Fest) - Farbe: Weiß - Taufe des Herrn"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 12,
+             "dia-sem": "Montag",
+             "festejo": {
+                 "1": "Farbe: Grün - Montag der 1. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 13,
+             "dia-sem": "Dienstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Dienstag der 1. Woche im Jahreskreis",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Hilarius, Bischof und Kirchenlehrer"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 14,
+             "dia-sem": "Mittwoch",
+             "festejo": {
+                 "1": "Farbe: Grün - Mittwoch der 1. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 15,
+             "dia-sem": "Donnerstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Donnerstag der 1. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 16,
+             "dia-sem": "Freitag",
+             "festejo": {
+                 "1": "Farbe: Grün - Freitag der 1. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 17,
+             "dia-sem": "Samstag",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Antonius, Abt"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 18,
+             "dia-sem": "Sonntag",
+             "festejo": {
+                 "1": "Farbe: Grün - 2. Sonntag im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 19,
+             "dia-sem": "Montag",
+             "festejo": {
+                 "1": "Farbe: Grün - Montag der 2. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 20,
+             "dia-sem": "Dienstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Dienstag der 2. Woche im Jahreskreis",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Fabian, Papst und Märtyrer",
+                 "3": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Sebastian, Märtyrer"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 21,
+             "dia-sem": "Mittwoch",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Rot - Hl. Agnes, Jungfrau und Märtyrin"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 22,
+             "dia-sem": "Donnerstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Donnerstag der 2. Woche im Jahreskreis",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Vinzenz, Diakon und Märtyrer"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 23,
+             "dia-sem": "Freitag",
+             "festejo": {
+                 "1": "Farbe: Grün - Freitag der 2. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 24,
+             "dia-sem": "Samstag",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Franz von Sales, Bischof und Kirchenlehrer"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 25,
+             "dia-sem": "Sonntag",
+             "festejo": {
+                 "1": "Farbe: Grün - 3. Sonntag im Jahreskreis (Sonntag des Wortes Gottes)"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 26,
+             "dia-sem": "Montag",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Timotheus und hl. Titus, Bischöfe"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 27,
+             "dia-sem": "Dienstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Dienstag der 3. Woche im Jahreskreis",
+                 "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Angela Merici, Jungfrau"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 28,
+             "dia-sem": "Mittwoch",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Thomas von Aquin, Priester und Kirchenlehrer"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 29,
+             "dia-sem": "Donnerstag",
+             "festejo": {
+                 "1": "Farbe: Grün - Donnerstag der 3. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 30,
+             "dia-sem": "Freitag",
+             "festejo": {
+                 "1": "Farbe: Grün - Freitag der 3. Woche im Jahreskreis"
+             }
+         },
+         {
+             "tiempo": "Jahreskreis",
+             "dia-num": 31,
+             "dia-sem": "Samstag",
+             "festejo": {
+                 "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Johannes Bosco, Priester"
+             }
+         }
+     ]
+ }

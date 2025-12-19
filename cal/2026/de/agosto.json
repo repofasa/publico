@@ -1,0 +1,260 @@
+{
+    "agosto": [
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 1,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Alfons Maria von Liguori, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 2,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 18. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 3,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der 18. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 4,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Johannes Maria Vianney, Pfarrer von Ars"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 5,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 18. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Weihetag der Basilika Santa Maria Maggiore in Rom"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 6,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Verklärung des Herrn"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 7,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 18. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Sixtus II., Papst, und Gefährten, Märtyrer",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Kajetan von Thiene, Priester"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 8,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Dominikus, Priester"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 9,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Hl. Teresia Benedicta vom Kreuz (Edith Stein), Jungfrau und Märtyrin (Europapatronin)"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 10,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Hl. Laurentius, Diakon und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 11,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Klara von Assisi, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 12,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 19. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Johanna Franziska von Chantal, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 13,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der 19. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Pontianus, Papst, und hl. Hippolyt, Priester, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 14,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Rot - Hl. Maximilian Maria Kolbe, Priester und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 15,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Mariä Aufnahme in den Himmel"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 16,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 20. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 17,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der 20. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 18,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der 20. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 19,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 20. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Johannes Eudes, Priester"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 20,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Bernhard von Clairvaux, Abt und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 21,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Pius X., Papst"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 22,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Maria Königin"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 23,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 21. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 24,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Hl. Bartholomäus, Apostel"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 25,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der 21. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Ludwig IX., König von Frankreich",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Josef von Calasanz, Priester"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 26,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 21. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 27,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Monika"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 28,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Augustinus, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 29,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Rot - Enthauptung des hl. Johannes des Täufers"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 30,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 22. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 31,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der 22. Woche im Jahreskreis"
+            }
+        }
+    ]
+}

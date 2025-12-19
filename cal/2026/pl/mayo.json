@@ -1,0 +1,261 @@
+{
+    "maj": [
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 1,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek 4. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - Św. Józefa, Rzemieślnika"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 2,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Atanazego, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 3,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość w Polsce) - Kolor: Biały - Najświętszej Maryi Panny Królowej Polski, głównej patronki Polski",
+                "2": "5. Niedziela Wielkanocna (pominięta)"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 4,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Floriana, męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 5,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek 5. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 6,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - ŚŚ. Filipa i Jakuba, Apostołów"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 7,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Biały - Czwartek 5. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 8,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Uroczystość w Polsce) - Kolor: Biały - Św. Stanisława, biskupa i męczennika, głównego patrona Polski"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 9,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota 5. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 10,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Biały - 6. Niedziela Wielkanocna"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 11,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek 6. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 12,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek 6. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. Nereusza i Achillesa, męczenników lub Św. Pankracego, męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 13,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa 6. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - Najświętszej Maryi Panny z Fatimy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 14,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Macieja, Apostoła"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 15,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek 6. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 16,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Święto w Polsce) - Kolor: Czerwony - Św. Andrzeja Boboli, prezbitera i męczennika, patrona Polski"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 17,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - WNIEBOWSTĄPIENIE PAŃSKIE"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 18,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Biały - Poniedziałek 7. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - Św. Jana I, papieża i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 19,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Biały - Wtorek 7. tygodnia Wielkanocnego"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 20,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Biały - Środa 7. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - Św. Bernardyna ze Sieny, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 21,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 22,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Biały - Piątek 7. tygodnia Wielkanocnego",
+                "2": "(Wspomnienie dowolne) - Św. Rity z Cascia, zakonnicy"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 23,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Biały - Sobota 7. tygodnia Wielkanocnego (Wigilia Zesłania Ducha Świętego)"
+            }
+        },
+        {
+            "tiempo": "Okres Wielkanocny",
+            "dia-num": 24,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Czerwony - ZESŁANIE DUCHA ŚWIĘTEGO (Zielone Świątki)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto w Polsce) - Kolor: Biały - Najświętszej Maryi Panny, Matki Kościoła (Głównej Patronki diecezji)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Filipa Nereusza, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 8. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Augustyna z Canterbury, biskupa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 8. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Pawła VI, papieża"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 8. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 31,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - NAJŚWIĘTSZEJ TRÓJCY",
+                "2": "Nawiedzenie NMP (pominięte)"
+            }
+        }
+    ]
+}

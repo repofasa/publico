@@ -1,0 +1,261 @@
+{
+    "desambra": [
+        {
+            "tiempo": "Advento",
+            "dia-num": 1,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Volomparasy - Talata amin'ny herinandro voalohany amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 2,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia amin'ny herinandro voalohany amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 3,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy François Xavier, Pretra"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 4,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Volomparasy - Zoma amin'ny herinandro voalohany amin'ny Advento",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Jean Damascène"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 5,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Sabotsy amin'ny herinandro voalohany amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 6,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alahady faharoa amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 7,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Ambroise, Eveka sy Mpampianatra"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 8,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Solemnità) - Loko: Fotsy - Ny nitorontoronana an'i Masina Maria tsy azon-keloka (Immaculée Conception)"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 9,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia amin'ny herinandro faharoa amin'ny Advento",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Juan Diego"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 10,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alakamisy amin'ny herinandro faharoa amin'ny Advento",
+                "2": "(Fahatsiarovana malalaka) - Masina Maria tany Loreto"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 11,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Volomparasy - Zoma amin'ny herinandro faharoa amin'ny Advento",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Damase I"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 12,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Volomparasy - Sabotsy amin'ny herinandro faharoa amin'ny Advento",
+                "2": "(Fahatsiarovana malalaka) - Masina Maria tany Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 13,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Volomparasy na Mavokely - Alahady fahatelo amin'ny Advento (Gaudete)"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 14,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Jean de la Croix, Pretra sy Mpampianatra"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 15,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Volomparasy - Talata amin'ny herinandro fahatelo amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 16,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alarobia amin'ny herinandro fahatelo amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 17,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Volomparasy - 17 Desambra"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 18,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Volomparasy - 18 Desambra"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 19,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Volomparasy - 19 Desambra"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 20,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Volomparasy - Alahady fahefatra amin'ny Advento"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 21,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Volomparasy - 21 Desambra",
+                "2": "(Fahatsiarovana) - Masindahy Pierre Canisius"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 22,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Volomparasy - 22 Desambra"
+            }
+        },
+        {
+            "tiempo": "Advento (Antifona 'O')",
+            "dia-num": 23,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Volomparasy - 23 Desambra",
+                "2": "(Fahatsiarovana) - Masindahy Jean de Kenty"
+            }
+        },
+        {
+            "tiempo": "Vigile de Noely",
+            "dia-num": 24,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Vigile de Noely (Andro iandrasana ny nahaterahan'ny Mpamonjy)"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 25,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Solemnità) - Loko: Fotsy - Noely: Nahaterahan'ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 26,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Etienne, Martira voalohany"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 27,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Fianakaviana Masina: Jesoa, Maria, Josefa"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 28,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Ireo Zaza tsy manan-tsiny, Martira"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 29,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Andro fahadimy amin'ny valo andron'ny Noely",
+                "2": "(Fahatsiarovana) - Masindahy Thomas Becket"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 30,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - Andro fahenina amin'ny valo andron'ny Noely"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 31,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Andro fahafito amin'ny valo andron'ny Noely",
+                "2": "(Fahatsiarovana) - Masindahy Sylvestre I, Papa"
+            }
+        }
+    ]
+}

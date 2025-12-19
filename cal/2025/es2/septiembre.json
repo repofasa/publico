@@ -14,7 +14,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XXII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Beato Bartolomé Gutiérrez, presbítero y mártir"
+                "2": "(Memoria facultativa) - Color: Rojo - Beato Bartolomé Gutiérrez, presbítero y mártir"
             }
         },
         {
@@ -22,7 +22,7 @@
             "dia-num": 3,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Gregorio Magno, papa y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Gregorio Magno, papa y doctor de la Iglesia"
             }
         },
         {
@@ -72,7 +72,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XXIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Claver, presbítero"
+                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Claver, presbítero"
             }
         },
         {
@@ -105,7 +105,7 @@
             "dia-num": 13,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Crisóstomo, obispo y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Crisóstomo, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -129,7 +129,7 @@
             "dia-num": 16,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cornelio, papa, y Cipriano, obispo, mártires"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cornelio, papa, y Cipriano, obispo, mártires"
             }
         },
         {
@@ -138,8 +138,8 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Verde - Miércoles de la XXIV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Roberto Belarmino, obispo y doctor de la Iglesia",
-                "3": "(Memoria facultativa) - Color: Blanco - Santa Hildegarda de Bingen, virgen y doctora de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Roberto Belarmino, obispo y doctor de la Iglesia",
+                "3": "(Memoria facultativa) - Color: Blanco - Santa Hildegarda de Bingen, virgen y doctora de la Iglesia"
             }
         },
         {
@@ -156,8 +156,8 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Verde - Viernes de la XXIV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - San Jenaro, obispo y mártir",
-                "3": "(Memoria facultativa) - Color: Blanco - San José Maria de Yermo y Parres, presbítero"
+                "2": "(Memoria facultativa) - Color: Rojo - San Jenaro, obispo y mártir",
+                "3": "(Memoria facultativa) - Color: Blanco - San José Maria de Yermo y Parres, presbítero"
             }
         },
         {
@@ -165,7 +165,7 @@
             "dia-num": 20,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang, y compañeros, mártires"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang, y compañeros, mártires"
             }
         },
         {
@@ -189,7 +189,7 @@
             "dia-num": 23,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Pío de Pietrelcina, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Pío de Pietrelcina, presbítero"
             }
         },
         {
@@ -214,7 +214,7 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Verde - Viernes de la XXV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santos Cosme y Damián, mártires"
+                "2": "(Memoria facultativa) - Color: Rojo - Santos Cosme y Damián, mártires"
             }
         },
         {
@@ -222,7 +222,7 @@
             "dia-num": 27,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Vicente de Paúl, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Vicente de Paúl, presbítero"
             }
         },
         {
@@ -238,7 +238,7 @@
             "dia-num": 29,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - Santos Miguel, Gabriel y Rafael, arcángeles"
+                "1": "(Fiesta) - Color: Blanco - Santos Miguel, Gabriel y Rafael, arcángeles"
             }
         },
         {
@@ -246,7 +246,7 @@
             "dia-num": 30,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Jerónimo, presbítero y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Jerónimo, presbítero y doctor de la Iglesia"
             }
         }
     ]

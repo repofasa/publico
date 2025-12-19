@@ -21,7 +21,7 @@
             "dia-num": 3,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Martín de Porres, religioso"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Martín de Porres, religioso"
             }
         },
         {
@@ -29,7 +29,7 @@
             "dia-num": 4,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Carlos Borromeo, obispo"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Carlos Borromeo, obispo"
             }
         },
         {
@@ -70,7 +70,7 @@
             "dia-num": 9,
             "dia-sem": "Domingo",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Dedicación de la Basílica de Letrán"
+                "1": "(Fiesta) - Color: Blanco - La Dedicación de la Basílica de Letrán"
             }
         },
         {
@@ -78,7 +78,7 @@
             "dia-num": 10,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San León el Magno, papa y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San León el Magno, papa y doctor de la Iglesia"
             }
         },
         {
@@ -86,7 +86,7 @@
             "dia-num": 11,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Martín de Tours, obispo"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Martín de Tours, obispo"
             }
         },
         {
@@ -94,7 +94,7 @@
             "dia-num": 12,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Josafat, obispo y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - San Josafat, obispo y mártir"
             }
         },
         {
@@ -119,7 +119,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Verde - Sábado de la XXXII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Alberto Magno, obispo y doctor de la Iglesia",
+                "2": "(Memoria facultativa) - Color: Blanco - San Alberto Magno, obispo y doctor de la Iglesia",
                 "3": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
             }
         },
@@ -136,7 +136,7 @@
             "dia-num": 17,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Isabel de Hungría, religiosa"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Isabel de Hungría, religiosa"
             }
         },
         {
@@ -145,7 +145,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XXXIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - La Dedicación de las Basílicas de los Santos Pedro y Pablo, apóstoles"
+                "2": "(Memoria facultativa) - Color: Blanco - La Dedicación de las Basílicas de los Santos Pedro y Pablo, apóstoles"
             }
         },
         {
@@ -177,7 +177,7 @@
             "dia-num": 22,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santa Cecilia, virgen y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Cecilia, virgen y mártir"
             }
         },
         {
@@ -193,7 +193,7 @@
             "dia-num": 24,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Andrés Dung-Lac, presbítero, y compañeros, mártires"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Andrés Dung-Lac, presbítero, y compañeros, mártires"
             }
         },
         {
@@ -202,7 +202,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XXXIV Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santa Catalina de Alejandría, virgen y mártir"
+                "2": "(Memoria facultativa) - Color: Rojo - Santa Catalina de Alejandría, virgen y mártir"
             }
         },
         {

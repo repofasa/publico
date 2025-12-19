@@ -1,0 +1,260 @@
+{
+    "maggio": [
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 1,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della IV settimana di Pasqua",
+                "2": "(Memoria facoltativa) - San Giuseppe Lavoratore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 2,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Sant'Atanasio, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 3,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - V Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 4,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 5,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 6,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 7,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 8,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 9,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della V settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 10,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - VI Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 11,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della VI settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 12,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della VI settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Santi Nereo e Achilleo, martiri",
+                "3": "(Memoria facoltativa) - San Pancrazio, martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 13,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della VI settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Beata Vergine Maria di Fatima"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 14,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Mattia, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 15,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della VI settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 16,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della VI settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 17,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - Ascensione del Signore"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 18,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della VII settimana di Pasqua",
+                "2": "(Memoria facoltativa) - San Giovanni I, papa e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 19,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della VII settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 20,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Bernardino da Siena, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 21,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della VII settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Santi Cristoforo Magallanes e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 22,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della VII settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Santa Rita da Cascia, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 23,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della VII settimana di Pasqua (Veglia di Pentecoste)"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pentecoste",
+            "dia-num": 24,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Rosso - Domenica di Pentecoste"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Beata Vergine Maria Madre della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Filippo Neri, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della VIII settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Sant'Agostino di Canterbury, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della VIII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Paolo VI, papa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della VIII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 31,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - Santissima Trinità"
+            }
+        }
+    ]
+}

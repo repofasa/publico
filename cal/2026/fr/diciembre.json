@@ -1,0 +1,261 @@
+{
+    "décembre": [
+        {
+            "tiempo": "Avent",
+            "dia-num": 1,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - Mardi de la 1ère semaine de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 2,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la 1ère semaine de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 3,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint François Xavier, prêtre"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 4,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la 1ère semaine de l'Avent",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Jean de Damas, prêtre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 5,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la 1ère semaine de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 6,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Violet - IIème Dimanche de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 7,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Ambroise, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 8,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - Immaculée Conception de la Bienheureuse Vierge Marie"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 9,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la 2ème semaine de l'Avent",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 10,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet - Jeudi de la 2ème semaine de l'Avent",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Notre-Dame de Lorette"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 11,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - Vendredi de la 2ème semaine de l'Avent",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Damase Ier, pape"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 12,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - Samedi de la 2ème semaine de l'Avent",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Notre-Dame de Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 13,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Violet ou Rose - IIIème Dimanche de l'Avent (Gaudete)"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 14,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Jean de la Croix, prêtre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 15,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - Mardi de la 3ème semaine de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent",
+            "dia-num": 16,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - Mercredi de la 3ème semaine de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 17,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet - 17 décembre"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 18,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Violet - 18 décembre"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 19,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Violet - 19 décembre"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 20,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Violet - IVème Dimanche de l'Avent"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 21,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Violet - 21 décembre",
+                "2": "(Mémoire) - Saint Pierre Canisius, prêtre et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 22,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Violet - 22 décembre"
+            }
+        },
+        {
+            "tiempo": "Avent (Grandes Antiennes Ô)",
+            "dia-num": 23,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Violet - 23 décembre",
+                "2": "(Mémoire) - Saint Jean de Kenty, prêtre"
+            }
+        },
+        {
+            "tiempo": "Avent (Vigile)",
+            "dia-num": 24,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Violet (Matin) / Blanc (Soir) - Veille de Noël"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 25,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - La Nativité du Seigneur (Noël)"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 26,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Saint Étienne, premier martyr"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 27,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Fête) - Couleur: Blanc - La Sainte Famille"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 28,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Fête) - Couleur: Rouge - Les Saints Innocents, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 29,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - 5ème jour dans l'Octave de Noël",
+                "2": "(Mémoire) - Saint Thomas Becket, évêque et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 30,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - 6ème jour dans l'Octave de Noël"
+            }
+        },
+        {
+            "tiempo": "Temps de Noël",
+            "dia-num": 31,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - 7ème jour dans l'Octave de Noël",
+                "2": "(Mémoire) - Saint Sylvestre Ier, pape"
+            }
+        }
+    ]
+}

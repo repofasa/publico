@@ -1,0 +1,252 @@
+{
+    "noviembre": [
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 1,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Allerheiligen"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 2,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Violett/Schwarz - Allerseelen"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 3,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Grün - Dienstag der 31. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Martin von Porres, Ordensmann"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 4,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Karl Borromäus, Bischof"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 5,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der 31. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 6,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 31. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 7,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der 31. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Willibrord, Bischof"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 8,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 32. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 9,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Weiß - Weihetag der Lateranbasilika"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 10,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Leo der Große, Papst und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 11,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Martin von Tours, Bischof"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 12,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Rot - Hl. Josaphat, Bischof und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 13,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 32. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 14,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der 32. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 15,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Grün - 33. Sonntag im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 16,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der 33. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Margareta von Schottland",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Gertrud von Helfta, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 17,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Elisabeth von Ungarn, Landgräfin"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 18,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 33. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Weihetag der Basiliken St. Peter und St. Paul zu Rom"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 19,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der 33. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 20,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 33. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 21,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Unsere Liebe Frau in Jerusalem (Gedenktag der Opferung Mariens)"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 22,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Christkönigssonntag (Unser Herr Jesus Christus, König des Universums)"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 23,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Grün - Montag der 34. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Clemens I., Papst und Märtyrer",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Kolumban, Abt"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 24,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Rot - Hl. Andreas Dung-Lac und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 25,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 34. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Katharina von Alexandrien, Jungfrau und Märtyrin"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 26,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der 34. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 27,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 34. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 28,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der 34. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 29,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Violett - 1. Adventssonntag (Beginn Lesejahr C)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 30,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Fest) - Farbe: Rot - Hl. Andreas, Apostel"
+            }
+        }
+    ]
+}

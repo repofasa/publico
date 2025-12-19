@@ -1,0 +1,261 @@
+{
+    "luglio": [
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XIII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XIII settimana del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Tommaso, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XIII settimana",
+                "2": "(Memoria facoltativa) - Colore: Bianco - Santa Elisabetta del Portogallo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XIV Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XIV settimana",
+                "2": "(Memoria facoltativa) - Colore: Rosso - Santa Maria Goretti, vergine e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XIV settimana",
+                "2": "(Memoria facoltativa) - Santi Agostino Zhao Rong e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - San Benedetto, abate (Patrono d'Europa)"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XV Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XV settimana",
+                "2": "(Memoria facoltativa) - Sant'Enrico"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Camillo de Lellis, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Bonaventura, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XV settimana",
+                "2": "(Memoria facoltativa) - Beata Vergine Maria del Monte Carmelo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XVI Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XVI settimana",
+                "2": "(Memoria facoltativa) - Sant'Apollinare, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XVI settimana",
+                "2": "(Memoria facoltativa) - San Lorenzo da Brindisi, sacerdote e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Santa Maria Maddalena"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Santa Brigida, religiosa (Patrona d'Europa)"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XVI settimana",
+                "2": "(Memoria facoltativa) - San Charbel Makhluf, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Giacomo, apostolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XVII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XVII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XVII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 29,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santi Marta, Maria e Lazzaro"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 30,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XVII settimana",
+                "2": "(Memoria facoltativa) - San Pietro Crisologo, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 31,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Sant'Ignazio di Loyola, sacerdote"
+            }
+        }
+    ]
+}

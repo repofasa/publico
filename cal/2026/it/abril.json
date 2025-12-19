@@ -1,0 +1,250 @@
+{
+    "aprile": [
+        {
+            "tiempo": "Settimana Santa",
+            "dia-num": 1,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Viola - Mercoledì della Settimana Santa"
+            }
+        },
+        {
+            "tiempo": "Triduo Pasquale",
+            "dia-num": 2,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì Santo (Messa nella Cena del Signore)"
+            }
+        },
+        {
+            "tiempo": "Triduo Pasquale",
+            "dia-num": 3,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Rosso - Venerdì Santo (Passione del Signore)"
+            }
+        },
+        {
+            "tiempo": "Triduo Pasquale",
+            "dia-num": 4,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato Santo (Veglia Pasquale)"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 5,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - Domenica di Pasqua (Risurrezione del Signore)"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 6,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì dell'Ottava di Pasqua (Lunedì dell'Angelo)"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 7,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì dell'Ottava di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 8,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì dell'Ottava di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 9,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì dell'Ottava di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 10,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì dell'Ottava di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Ottava di Pasqua",
+            "dia-num": 11,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato dell'Ottava di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 12,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - II Domenica di Pasqua (o della Divina Misericordia)"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 13,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della II settimana di Pasqua",
+                "2": "(Memoria facoltativa) - San Martino I, papa e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 14,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della II settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 15,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della II settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 16,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della II settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 17,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Bianco - Venerdì della II semana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 18,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Bianco - Sabato della II settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 19,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - III Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 20,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della III settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 21,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della III settimana di Pasqua",
+                "2": "(Memoria facoltativa) - Sant'Anselmo, vescovo e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 22,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Bianco - Mercoledì della III settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 23,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Bianco - Giovedì della III settimana di Pasqua",
+                "2": "(Memoria facoltativa) - San Giorgio, martire",
+                "3": "(Memoria facoltativa) - Sant'Adalberto, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 24,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - San Fedele da Sigmaringen, sacerdote e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 25,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - San Marco, evangelista"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 26,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Bianco - IV Domenica di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 27,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Bianco - Lunedì della IV settimana di Pasqua"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 28,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Bianco - Martedì della IV settimana di Pasqua",
+                "2": "(Memoria facoltativa) - San Pietro Chanel, sacerdote e martire",
+                "3": "(Memoria facoltativa) - San Luigi Maria Grignion de Montfort, sacerdote"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 29,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Santa Caterina da Siena, vergine e dottore della Chiesa (Patrona d'Italia e d'Europa)"
+            }
+        },
+        {
+            "tiempo": "Tempo di Pasqua",
+            "dia-num": 30,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Pio V, papa"
+            }
+        }
+    ]
+}

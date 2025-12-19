@@ -1,0 +1,261 @@
+{
+    "maio": [
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 1,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da 4ª semana de Páscoa",
+                "2": "(Memória facultativa) - São José Operário"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 2,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Atanásio, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 3,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - 5º Domingo de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 4,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 5,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 6,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 7,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quinta-feira da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 8,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 9,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da 5ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 10,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Branco - 6º Domingo de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 11,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira da 6ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 12,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da 6ª semana de Páscoa",
+                "2": "(Memória facultativa) - Santos Nereu e Aquileu, mártires ou São Pancrácio, mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 13,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quarta-feira da 6ª semana de Páscoa",
+                "2": "(Memória facultativa) - Nossa Senhora de Fátima"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 14,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Matias, Apóstolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 15,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da 6ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 16,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da 6ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 17,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - ASCENSÃO DO SENHOR"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 18,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Branco - Segunda-feira da 7ª semana de Páscoa",
+                "2": "(Memória facultativa) - São João I, papa e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 19,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - Terça-feira da 7ª semana de Páscoa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 20,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Bernardino de Sena, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 21,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Quinta-feira da 7ª semana de Páscoa",
+                "2": "(Memória facultativa) - Santos Cristóvão Magalhães e companheiros, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 22,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Branco - Sexta-feira da 7ª semana de Páscoa",
+                "2": "(Memória facultativa) - Santa Rita de Cássia, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo Pascal",
+            "dia-num": 23,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Branco - Sábado da 7ª semana de Páscoa (Vigília de Pentecostes)"
+            }
+        },
+        {
+            "tiempo": "Pentecostes",
+            "dia-num": 24,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Vermelho - DOMINGO DE PENTECOSTES"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Bem-aventurada Virgem Maria, Mãe da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Filipe Néri, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 8ª semana comum",
+                "2": "(Memória facultativa) - Santo Agostinho de Cantuária, bispo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 8ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 8ª semana comum",
+                "2": "(Memória facultativa) - São Paulo VI, papa"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Verde - Sábado da 8ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 31,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - SANTÍSSIMA TRINDADE",
+                "2": "Visitação de Nossa Senhora (omitida)"
+            }
+        }
+    ]
+}

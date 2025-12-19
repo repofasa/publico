@@ -1,0 +1,252 @@
+{
+    "abril": [
+        {
+            "tiempo": "Holy Week",
+            "dia-num": 1,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of Holy Week"
+            }
+        },
+        {
+            "tiempo": "Paschal Triduum",
+            "dia-num": 2,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - Holy Thursday (Mass of the Lord's Supper)"
+            }
+        },
+        {
+            "tiempo": "Paschal Triduum",
+            "dia-num": 3,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Red - Good Friday (Passion of the Lord)"
+            }
+        },
+        {
+            "tiempo": "Paschal Triduum",
+            "dia-num": 4,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: White - Holy Saturday (Easter Vigil)"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 5,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Easter Sunday of the Resurrection of the Lord"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 6,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Monday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 7,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Tuesday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 8,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Wednesday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 9,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Thursday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 10,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Friday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 11,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - Saturday within the Octave of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 12,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - II Sunday of Easter (or Sunday of Divine Mercy)"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 13,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: White - Monday of the II Week of Easter",
+                "2": "(Optional Memorial) - Color: Red - Saint Martin I, pope and martyr"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 14,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: White - Tuesday of the II Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 15,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: White - Wednesday of the II Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 16,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - Thursday of the II Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 17,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: White - Friday of the II Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 18,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: White - Saturday of the II Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 19,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: White - III Sunday of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 20,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: White - Monday of the III Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 21,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: White - Tuesday of the III Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Anselm, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 22,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: White - Wednesday of the III Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 23,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - Thursday of the III Week of Easter",
+                "2": "(Optional Memorial) - Color: Red - Saint George, martyr",
+                "3": "(Optional Memorial) - Color: Red - Saint Adalbert, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 24,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: White - Friday of the III Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Fidelis of Sigmaringen, priest and martyr"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 25,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Feast) - Color: Red - Saint Mark, evangelist"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 26,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: White - IV Sunday of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 27,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: White - Monday of the IV Week of Easter"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 28,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: White - Tuesday of the IV Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Peter Chanel, priest and martyr",
+                "3": "(Optional Memorial) - Color: White - Saint Louis Mary Grignion de Montfort, priest"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 29,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Catherine of Siena, virgin and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Easter Time",
+            "dia-num": 30,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - Thursday of the IV Week of Easter",
+                "2": "(Optional Memorial) - Color: White - Saint Pius V, pope"
+            }
+        }
+    ]
+}

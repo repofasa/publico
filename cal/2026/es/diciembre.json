@@ -1,0 +1,260 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Adviento",
+            "dia-num": 1,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 2,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 3,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco Javier, presbítero"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 4,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la I Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan Damasceno, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 5,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - Sábado de la I Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 6,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - II Domingo de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 7,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Ambrosio, obispo y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 8,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - La Inmaculada Concepción de la Bienaventurada Virgen María"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 9,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la II Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 10,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - Jueves de la II Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - Nuestra Señora de Loreto"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 11,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - Viernes de la II Semana de Adviento",
+                "2": "(Memoria facultativa) - Color: Blanco - San Dámaso I, papa"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 12,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - Nuestra Señora de Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 13,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado o Rosa - III Domingo de Adviento (Gaudete)"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 14,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan de la Cruz, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 15,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - Martes de la III Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 16,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - Miércoles de la III Semana de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 17,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - 17 de Diciembre"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 18,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "Color: Morado - 18 de Diciembre"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 19,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Color: Morado - 19 de Diciembre"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 20,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Color: Morado - IV Domingo de Adviento"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 21,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "Color: Morado - 21 de Diciembre",
+                "2": "(Memoria facultativa) - Color: Blanco - San Pedro Canisio, presbítero y doctor de la Iglesia"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 22,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Morado - 22 de Diciembre"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 23,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Morado - 23 de Diciembre",
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan de Sahagún, presbítero"
+            }
+        },
+        {
+            "tiempo": "Adviento",
+            "dia-num": 24,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Morado - 24 de Diciembre (Mañana)"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 25,
+            "dia-sem": "Viernes",
+            "festejo": {
+                "1": "(Solemnidad) - Color: Blanco - Natividad del Señor"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 26,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - San Esteban, protomártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 27,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Fiesta) - Color: Blanco - La Sagrada Familia de Jesús, María y José"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 28,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Fiesta) - Color: Rojo - Los Santos Inocentes, mártires"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 29,
+            "dia-sem": "Martes",
+            "festejo": {
+                "1": "Color: Blanco - V día de la Octava de Navidad",
+                "2": "(Memoria facultativa) - Color: Rojo - Santo Tomás Becket, obispo y mártir"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 30,
+            "dia-sem": "Miércoles",
+            "festejo": {
+                "1": "Color: Blanco - VI día de la Octava de Navidad"
+            }
+        },
+        {
+            "tiempo": "Tiempo de Navidad",
+            "dia-num": 31,
+            "dia-sem": "Jueves",
+            "festejo": {
+                "1": "Color: Blanco - VII día de la Octava de Navidad",
+                "2": "(Memoria facultativa) - Color: Blanco - San Silvestre I, papa"
+            }
+        }
+    ]
+}

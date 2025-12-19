@@ -1,0 +1,234 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 1,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - IV Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 2,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Feast) - Color: White - The Presentation of the Lord"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 3,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the IV Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saint Blase, bishop and martyr",
+                "3": "(Optional Memorial) - Color: White - Saint Ansgar, bishop"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 4,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the IV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 5,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saint Agatha, virgin and martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 6,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Paul Miki and Companions, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 7,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the IV Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 8,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - V Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 9,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the V Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 10,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Scholastica, virgin"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 11,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the V Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Lourdes"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 12,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the V Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 13,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the V Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 14,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saints Cyril, monk, and Methodius, bishop"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 15,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - VI Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 16,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the VI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 17,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the VI Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - The Seven Holy Founders of the Servite Order"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 18,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Ash Wednesday"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 19,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday after Ash Wednesday"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 20,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday after Ash Wednesday"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 21,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday after Ash Wednesday",
+                "2": "(Optional Memorial) - Color: White - Saint Peter Damian, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 22,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - I Sunday of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 23,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - Monday of the I Week of Lent",
+                "2": "(Optional Memorial) - Color: White - Saint Polycarp, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 24,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the I Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 25,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the I Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 26,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday of the I Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 27,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the I Week of Lent"
+            }
+        },
+        {
+            "tiempo": "Lent",
+            "dia-num": 28,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the I Week of Lent"
+            }
+        }
+    ]
+}

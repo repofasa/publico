@@ -1,0 +1,252 @@
+{
+    "wrzesien": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 22. tygodnia zwykłego",
+                "2": "(W Polsce) - Rocznica wybuchu II wojny światowej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 22. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Grzegorza Wielkiego, papieża i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 22. tygodnia zwykłego",
+                "2": "(W Polsce - Wspomnienie dowolne) - Bł. Marii Stelli i Towarzyszek, męczennic z Nowogródka"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 22. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 23. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Św. Melchiora Grodzieckiego, prezbitera i męczennika (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Narodzenie Najświętszej Maryi Panny (Matki Bożej Siewnej)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 23. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Piotra Klawera, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 23. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 23. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Najświętszego Imienia Maryi"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 24. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Jana Chryzostoma, biskupa i doktora Kościoła (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Podwyższenie Krzyża Świętego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Najświętszej Maryi Panny Bolesnej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - ŚŚ. męczenników Korneliusza, papieża, i Cypriana, biskupa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 24. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Roberta Bellarmina, biskupa i doktora Kościoła lub Św. Hildegardy z Bingen"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Święto w Polsce) - Kolor: Biały - Św. Stanisława Kostki, zakonnika, patrona Polski"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 24. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Januarego, biskupa i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 25. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Mateusza, Apostoła i Ewangelisty"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 25. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Ojca Pio z Pietrelciny, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 25. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Bł. Władysława z Gielniowa, prezbitera (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 25. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - ŚŚ. męczenników Kosmy i Damiana"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 26. Niedziela zwykła",
+                "2": "(Wspomnienie) - Św. Wincentego a Paulo, prezbitera (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Wacława, męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 29,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - ŚŚ. Archaniołów Michała, Gabriela i Rafała"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 30,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Hieronima, prezbitera i doktora Kościoła"
+            }
+        }
+    ]
+}

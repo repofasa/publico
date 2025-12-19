@@ -1,0 +1,258 @@
+{
+    "aogositra": [
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 1,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Alphonse de Liguori, Eveka sy Mpampianatra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 2,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-18 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 3,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro faha-18 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 4,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Jean-Marie Vianney, Pretra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 5,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro faha-18 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Fanokanana ny Bazilikan'i Masina Maria Lehibe"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 6,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Niovan'ny Tompo tarehy"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 7,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny herinandro faha-18 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Sixte II sy ny namany, Martira na Masindahy Gaétan"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 8,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Dominique, Pretra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 9,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-19 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 10,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Laurent, Diakra sy Martira"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 11,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masimbavy Claire, Virjiny"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 12,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro faha-19 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Masimbavy Jeanne-Françoise de Chantal"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 13,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro faha-19 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Pontien sy Hippolyte"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 14,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Mena - Masindahy Maximilien-Marie Kolbe, Pretra sy Martira"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 15,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Solemnità) - Loko: Fotsy - Ny nampakarana an'i Masina Maria ho any an-danitra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 16,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-20 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 17,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro faha-20 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 18,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro faha-20 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 19,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro faha-20 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Jean Eudes"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 20,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Bernard, Abata sy Mpampianatra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 21,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Pie X, Papa"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 22,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masina Maria Mpanjakavavy"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 23,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-21 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 24,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fety) - Loko: Mena - Masindahy Barthélemy, Apostoly"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 25,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro faha-21 mandavantaona",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Louis na Masindahy Joseph de Calasanz"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 26,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro faha-21 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 27,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masimbavy Monique"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 28,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Augustin, Eveka sy Mpampianatra"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 29,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Mena - Ny nampidirana am-ponja sy ny namonoana an'i Joany Batista"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 30,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faha-22 mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 31,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro faha-22 mandavantaona"
+            }
+        }
+    ]
+}

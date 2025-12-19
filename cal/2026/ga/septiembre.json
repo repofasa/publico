@@ -1,0 +1,245 @@
+{
+    "meán-fómhair": [
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 1,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Uaine - An Mháirt den 22ú seachtain sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 2,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Chéadaoin den 22ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 3,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Greagóir Mór, Pápa agus Dochtúir"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 4,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "(Cuimhneachán Roghnach) - Naomh Mac Nissi, Easpag (Éire)"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 5,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Uaine - An Satharn den 22ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 6,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Uaine - An 23ú Domhnach sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 7,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Uaine - An Luan den 23ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 8,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "(Féile) - Dath: Bán - Breith na Maighdine Beannaithe Muire"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 9,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Ciarán as Cluain Mhic Nóis, Abb (Éire)"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 10,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Déardaoin den 23ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 11,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Uaine - An Aoine den 23ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 12,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Ailbe, Easpag (Éire)"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 13,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Uaine - An 24ú Domhnach sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 14,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Féile) - Dath: Dearg - Ardú na Croise Naofa"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 15,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Muire na nDobrón"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 16,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Dearg - Naomh Coirnéal, Pápa, agus Naomh Ciprian, Easpag, Mairtírigh"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 17,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Déardaoin den 24ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 18,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Uaine - An Aoine den 24ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 19,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Uaine - An Satharn den 24ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 20,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Uaine - An 25ú Domhnach sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 21,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Féile) - Dath: Dearg - Naomh Maitiú, Aspal agus Soiscéalaí"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 22,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Uaine - An Mháirt den 25ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 23,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Pio as Pietrelcina (Padre Pio), Sagart"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 24,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Déardaoin den 25ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 25,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "(Cuimhneachán Roghnach) - Naomh Finbarr, Easpag (Éire)"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 26,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Uaine - An Satharn den 25ú seachtain",
+                "2": "(Cuimhneachán Roghnach) - Naomh Cosmas agus Naomh Damian, Mairtírigh"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 27,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Uaine - An 26ú Domhnach sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 28,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Uaine - An Luan den 26ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 29,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "(Féile) - Dath: Bán - Na Naomh-Archingil Mícheál, Gaibrial agus Rapaéil"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 30,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Iaróm, Sagart agus Dochtúir"
+            }
+        }
+    ]
+}

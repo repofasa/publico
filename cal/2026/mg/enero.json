@@ -1,0 +1,258 @@
+{
+    "tampolo": [
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 1,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "(Solemnità) - Loko: Fotsy - Masina Maria Renin'Andriamanitra"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 2,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Basily Lehibe sy Masindahy Gregorio Nazianzeno"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 3,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Sabotsy mialoha ny Epifania",
+                "2": "(Fahatsiarovana malalaka) - Anarana Masin'i Jesoa"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 4,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Solemnità) - Loko: Fotsy - Ny Epifania (Ny nisehoan'ny Tompo)"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 5,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alatsinainy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 6,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Fotsy - Talata aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 7,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Fotsy - Alarobia aorian'ny Epifania",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Raymundo de Peñafort"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 8,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Fotsy - Alakamisy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 9,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Fotsy - Zoma aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Fankalazana ny Noely",
+            "dia-num": 10,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "Loko: Fotsy - Sabotsy aorian'ny Epifania"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 11,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "(Fety) - Loko: Fotsy - Ny Batemin'ny Tompo"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 12,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro voalohany"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 13,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro voalohany",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Hilaire"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 14,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "Loko: Maitso - Alarobia amin'ny herinandro voalohany"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 15,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro voalohany"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 16,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny herinandro voalohany"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 17,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Antoine, Abata"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 18,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady faharoa mandavantaona"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 19,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "Loko: Maitso - Alatsinainy amin'ny herinandro faharoa"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 20,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro faharoa",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Fabien na Masindahy Sebastien"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 21,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Mena - Masimbavy Agnès, Virjiny sy Martira"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 22,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro faharoa",
+                "2": "(Fahatsiarovana malalaka) - Masindahy Vincent, Diakra sy Martira"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 23,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny herinandro faharoa"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 24,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy François de Sales, Eveka sy Mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 25,
+            "dia-sem": "Alahady",
+            "festejo": {
+                "1": "Loko: Maitso - Alahady fahatelo mandavantaona (Alahadin'ny Tenin'Andriamanitra)"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 26,
+            "dia-sem": "Alatsinainy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Timote sy Tite, Eveka"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 27,
+            "dia-sem": "Talata",
+            "festejo": {
+                "1": "Loko: Maitso - Talata amin'ny herinandro fahatelo",
+                "2": "(Fahatsiarovana malalaka) - Masimbavy Angèle Merici"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 28,
+            "dia-sem": "Alarobia",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Tomasy avy any Akwin, Mpampianatra ny Fiangonana"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 29,
+            "dia-sem": "Alakamisy",
+            "festejo": {
+                "1": "Loko: Maitso - Alakamisy amin'ny herinandro fahatelo"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 30,
+            "dia-sem": "Zoma",
+            "festejo": {
+                "1": "Loko: Maitso - Zoma amin'ny herinandro fahatelo"
+            }
+        },
+        {
+            "tiempo": "Andavanandro",
+            "dia-num": 31,
+            "dia-sem": "Sabotsy",
+            "festejo": {
+                "1": "(Fahatsiarovana) - Loko: Fotsy - Masindahy Jean Bosco, Pretra"
+            }
+        }
+    ]
+}

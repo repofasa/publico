@@ -1,0 +1,260 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Advent",
+            "dia-num": 1,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the I Week of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 2,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the I Week of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 3,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Francis Xavier, priest"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 4,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the I Week of Advent",
+                "2": "(Optional Memorial) - Color: White - Saint John Damascene, priest and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 5,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - Saturday of the I Week of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 6,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - II Sunday of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 7,
+            "dia-sem": "Lunes",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Ambrose, bishop and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 8,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Immaculate Conception of the Blessed Virgin Mary"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 9,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the II Week of Advent",
+                "2": "(Optional Memorial) - Color: White - Saint Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 10,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - Thursday of the II Week of Advent",
+                "2": "(Optional Memorial) - Color: White - Our Lady of Loreto"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 11,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - Friday of the II Week of Advent",
+                "2": "(Optional Memorial) - Color: White - Saint Damasus I, pope"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 12,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Feast) - Color: White - Our Lady of Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 13,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet or Rose - III Sunday of Advent (Gaudete Sunday)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 14,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint John of the Cross, priest and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 15,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - Tuesday of the III Week of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 16,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - Wednesday of the III Week of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 17,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - December 17"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 18,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Violet - December 18"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 19,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Violet - December 19"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 20,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Violet - IV Sunday of Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 21,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Violet - December 21",
+                "2": "(Optional Memorial) - Color: White - Saint Peter Canisius, priest and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 22,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Violet - December 22"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 23,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Violet - December 23",
+                "2": "(Optional Memorial) - Color: White - Saint John of Kanty, priest"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 24,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Violet - December 24 (Morning)"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 25,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Solemnity) - Color: White - The Nativity of the Lord (Christmas)"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 26,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Feast) - Color: Red - Saint Stephen, the First Martyr"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 27,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "(Feast) - Color: White - The Holy Family of Jesus, Mary and Joseph"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 28,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Feast) - Color: Red - The Holy Innocents, martyrs"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 29,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: White - V Day within the Octave of the Nativity of the Lord",
+                "2": "(Optional Memorial) - Color: Red - Saint Thomas Becket, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 30,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: White - VI Day within the Octave of the Nativity of the Lord"
+            }
+        },
+        {
+            "tiempo": "Christmas Time",
+            "dia-num": 31,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: White - VII Day within the Octave of the Nativity of the Lord",
+                "2": "(Optional Memorial) - Color: White - Saint Sylvester I, pope"
+            }
+        }
+    ]
+}

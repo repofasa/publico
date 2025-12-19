@@ -1,0 +1,259 @@
+{
+    "enero": [
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 1,
+             "dia-sem": "Thursday",
+             "festejo": {
+                 "1": "(Solemnity) - Color: White - Holy Mary, Mother of God"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 2,
+             "dia-sem": "Friday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saints Basil the Great and Gregory of Nazianzus, bishops and doctors of the Church"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 3,
+             "dia-sem": "Saturday",
+             "festejo": {
+                 "1": "Color: White - Saturday of the II Week of Christmas",
+                 "2": "(Optional Memorial) - Color: White - The Most Holy Name of Jesus"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 4,
+             "dia-sem": "Sunday",
+             "festejo": {
+                 "1": "(Solemnity) - Color: White - The Epiphany of the Lord"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 5,
+             "dia-sem": "Monday",
+             "festejo": {
+                 "1": "Color: White - Monday after the Epiphany"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 6,
+             "dia-sem": "Tuesday",
+             "festejo": {
+                 "1": "Color: White - Tuesday after the Epiphany"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 7,
+             "dia-sem": "Wednesday",
+             "festejo": {
+                 "1": "Color: White - Wednesday after the Epiphany",
+                 "2": "(Optional Memorial) - Color: White - Saint Raymond of Penyafort, priest"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 8,
+             "dia-sem": "Thursday",
+             "festejo": {
+                 "1": "Color: White - Thursday after the Epiphany"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 9,
+             "dia-sem": "Friday",
+             "festejo": {
+                 "1": "Color: White - Friday after the Epiphany"
+             }
+         },
+         {
+             "tiempo": "Christmas Time",
+             "dia-num": 10,
+             "dia-sem": "Saturday",
+             "festejo": {
+                 "1": "Color: White - Saturday after the Epiphany"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 11,
+             "dia-sem": "Sunday",
+             "festejo": {
+                 "1": "(Feast) - Color: White - The Baptism of the Lord"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 12,
+             "dia-sem": "Monday",
+             "festejo": {
+                 "1": "Color: Green - Monday of the I Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 13,
+             "dia-sem": "Tuesday",
+             "festejo": {
+                 "1": "Color: Green - Tuesday of the I Week of Ordinary Time",
+                 "2": "(Optional Memorial) - Color: White - Saint Hilary, bishop and doctor of the Church"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 14,
+             "dia-sem": "Wednesday",
+             "festejo": {
+                 "1": "Color: Green - Wednesday of the I Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 15,
+             "dia-sem": "Thursday",
+             "festejo": {
+                 "1": "Color: Green - Thursday of the I Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 16,
+             "dia-sem": "Friday",
+             "festejo": {
+                 "1": "Color: Green - Friday of the I Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 17,
+             "dia-sem": "Saturday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saint Anthony, abbot"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 18,
+             "dia-sem": "Sunday",
+             "festejo": {
+                 "1": "Color: Green - II Sunday of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 19,
+             "dia-sem": "Monday",
+             "festejo": {
+                 "1": "Color: Green - Monday of the II Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 20,
+             "dia-sem": "Tuesday",
+             "festejo": {
+                 "1": "Color: Green - Tuesday of the II Week of Ordinary Time",
+                 "2": "(Optional Memorial) - Color: Red - Saint Fabian, pope and martyr",
+                 "3": "(Optional Memorial) - Color: Red - Saint Sebastian, martyr"                
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 21,
+             "dia-sem": "Wednesday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: Red - Saint Agnes, virgin and martyr"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 22,
+             "dia-sem": "Thursday",
+             "festejo": {
+                 "1": "Color: Green - Thursday of the II Week of Ordinary Time",
+                 "2": "(Optional Memorial) - Color: Red - Saint Vincent, deacon and martyr"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 23,
+             "dia-sem": "Friday",
+             "festejo": {
+                 "1": "Color: Green - Friday of the II Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 24,
+             "dia-sem": "Saturday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saint Francis de Sales, bishop and doctor of the Church"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 25,
+             "dia-sem": "Sunday",
+             "festejo": {
+                 "1": "Color: Green - III Sunday of Ordinary Time (Sunday of the Word of God)"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 26,
+             "dia-sem": "Monday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saints Timothy and Titus, bishops"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 27,
+             "dia-sem": "Tuesday",
+             "festejo": {
+                 "1": "Color: Green - Tuesday of the III Week of Ordinary Time",
+                 "2": "(Optional Memorial) - Color: White - Saint Angela Merici, virgin"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 28,
+             "dia-sem": "Wednesday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saint Thomas Aquinas, priest and doctor of the Church"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 29,
+             "dia-sem": "Thursday",
+             "festejo": {
+                 "1": "Color: Green - Thursday of the III Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 30,
+             "dia-sem": "Friday",
+             "festejo": {
+                 "1": "Color: Green - Friday of the III Week of Ordinary Time"
+             }
+         },
+         {
+             "tiempo": "Ordinary Time",
+             "dia-num": 31,
+             "dia-sem": "Saturday",
+             "festejo": {
+                 "1": "(Obligatory Memorial) - Color: White - Saint John Bosco, priest"
+             }
+         }
+     ]
+ }

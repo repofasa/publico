@@ -1,0 +1,262 @@
+{
+    "agosto": [
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 1,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Afonso Maria de Ligório, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 2,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 18º Domingo do Tempo Comum",
+                "2": "(Memória facultativa) - Santo Eusébio de Vercelli, bispo ou São Pedro Juliano Eymard (omitidas)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 3,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 18ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 4,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São João Maria Vianney (Cura d'Ars), presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 5,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 18ª semana comum",
+                "2": "(Memória facultativa) - Dedicação da Basílica de Santa Maria Maior"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 6,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - Transfiguração do Senhor"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 7,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Sexta-feira da 18ª semana comum",
+                "2": "(Memória facultativa) - São Sisto II, papa, e companheiros, mártires ou São Caetano, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 8,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Domingos de Gusmão, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 9,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 19º Domingo do Tempo Comum",
+                "2": "(Memória) - Santa Teresa Benedita da Cruz (Edith Stein), virgem e mártir (omitida)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 10,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Lourenço, diácono e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 11,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santa Clara de Assis, virgem"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 12,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 19ª semana comum",
+                "2": "(Memória facultativa) - Santa Joana Francisca de Chantal, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 13,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quinta-feira da 19ª semana comum",
+                "2": "(Memória facultativa) - Santos Ponciano, papa, e Hipólito, presbítero, mártires"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 14,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - São Maximiliano Maria Kolbe, presbítero e mártir"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 15,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - ASSUNÇÃO DE NOSSA SENHORA"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 16,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 20º Domingo do Tempo Comum",
+                "2": "(Memória facultativa) - Santo Estêvão da Hungria (omitida)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 17,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 20ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 18,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 20ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 19,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 20ª semana común",
+                "2": "(Memória facultativa) - São João Eudes, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 20,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Bernardo, abade e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 21,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Pio X, papa"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 22,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Nossa Senhora Rainha"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 23,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 21º Domingo do Tempo Comum",
+                "2": "(Memória facultativa) - Santa Rosa de Lima, virgem (omitida)"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 24,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - São Bartolomeu, Apóstolo"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 25,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Verde - Terça-feira da 21ª semana comum",
+                "2": "(Memória facultativa) - São Luís ou São José de Calasanz, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 26,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Verde - Quarta-feira da 21ª semana comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 27,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santa Mónica"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 28,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Agostinho de Hipona, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 29,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Memória) - Cor: Vermelho - Martírio de São João Baptista"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 30,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Verde - 22º Domingo do Tempo Comum"
+            }
+        },
+        {
+            "tiempo": "Tempo Comum",
+            "dia-num": 31,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Verde - Segunda-feira da 22ª semana comum"
+            }
+        }
+    ]
+}

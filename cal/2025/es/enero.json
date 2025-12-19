@@ -13,7 +13,7 @@
             "dia-num": 2,
             "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santos Basilio Magno y Gregorio de Nacianzo, obispos y doctores de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santos Basilio Magno y Gregorio de Nacianzo, obispos y doctores de la Iglesia"
             }
         },
         {
@@ -55,7 +55,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Blanco - Martes después de la Epifanía",
-                "2": "(Memoria facultativa) - Color: Blanco - San Raimundo de Peñafort, presbítero"
+                "2": "(Memoria facultativa) - Color: Blanco - San Raimundo de Peñafort, presbítero"
             }
         },
         {
@@ -104,7 +104,7 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Verde - Lunes de la I Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Hilario, obispo y doctor de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Hilario, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -136,7 +136,7 @@
             "dia-num": 17,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Antonio, abad"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Antonio, abad"
             }
         },
         {
@@ -161,8 +161,8 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Verde - Lunes de la II Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - San Fabián, papa y mártir",
-                "3": "(Memoria facultativa) - Color: Rojo - San Sebastián, mártir"                
+                "2": "(Memoria facultativa) - Color: Rojo - San Fabián, papa y mártir",
+                "3": "(Memoria facultativa) - Color: Rojo - San Sebastián, mártir"                
             }
         },
         {
@@ -170,7 +170,7 @@
             "dia-num": 21,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santa Inés, virgen y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Inés, virgen y mártir"
             }
         },
         {
@@ -179,7 +179,7 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Verde - Miércoles de la II Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - San Vicente, diácono y mártir"
+                "2": "(Memoria facultativa) - Color: Rojo - San Vicente, diácono y mártir"
             }
         },
         {
@@ -195,7 +195,7 @@
             "dia-num": 24,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco de Sales, obispo y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco de Sales, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -203,7 +203,7 @@
             "dia-num": 25,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Conversión de San Pablo, apóstol"
+                "1": "(Fiesta) - Color: Blanco - La Conversión de San Pablo, apóstol"
             }
         },
         {
@@ -228,7 +228,7 @@
             "dia-num": 28,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santo Tomás de Aquino, presbítero y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santo Tomás de Aquino, presbítero y doctor de la Iglesia"
             }
         },
         {
@@ -252,7 +252,7 @@
             "dia-num": 31,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Bosco, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Bosco, presbítero"
             }
         }
     ]

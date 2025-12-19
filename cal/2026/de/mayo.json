@@ -1,0 +1,266 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 1,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der 4. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Josef der Arbeiter"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 2,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Athanasius, Bischof und Kirchenlehrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 3,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - 5. Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 4,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der 5. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Florian und Gefährten, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 5,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der 5. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 6,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der 5. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 7,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der 5. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 8,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der 5. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 9,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der 5. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 10,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - 6. Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 11,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der 6. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 12,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der 6. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Nereus und hl. Achilleus, Märtyrer",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Pankratius, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 13,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der 6. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Gedenktag Unserer Lieben Frau in Fatima"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 14,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Christi Himmelfahrt"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 15,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag nach Christi Himmelfahrt"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 16,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag nach Christi Himmelfahrt"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 17,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "Farbe: Weiß - 7. Sonntag der Osterzeit"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 18,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "Farbe: Weiß - Montag der 7. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Johannes I., Papst und Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 19,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Dienstag der 7. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 20,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Weiß - Mittwoch der 7. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Bernhardin von Siena, Priester"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 21,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Donnerstag der 7. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Rot - Hl. Christophorus Magallanes y companions, Märtyrer"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 22,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Weiß - Freitag der 7. Osterwoche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Rita von Cascia, Ordensfrau"
+            }
+        },
+        {
+            "tiempo": "Osterzeit",
+            "dia-num": 23,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Weiß - Samstag der 7. Osterwoche"
+            }
+        },
+        {
+            "tiempo": "Pfingsten",
+            "dia-num": 24,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Rot - Pfingstsonntag"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 25,
+            "dia-sem": "Montag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Maria, Mutter der Kirche",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Beda der Ehrwürdige, Priester",
+                "3": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Gregor VII., Papst",
+                "4": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Maria Magdalena von Pazzi, Jungfrau"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 26,
+            "dia-sem": "Dienstag",
+            "festejo": {
+                "1": "(Gebotener Gedenktag) - Farbe: Weiß - Hl. Philipp Neri, Priester"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 27,
+            "dia-sem": "Mittwoch",
+            "festejo": {
+                "1": "Farbe: Grün - Mittwoch der 8. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Augustinus von Canterbury, Bischof"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 28,
+            "dia-sem": "Donnerstag",
+            "festejo": {
+                "1": "Farbe: Grün - Donnerstag der 8. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 29,
+            "dia-sem": "Freitag",
+            "festejo": {
+                "1": "Farbe: Grün - Freitag der 8. Woche im Jahreskreis",
+                "2": "(Nichtgebotener Gedenktag) - Farbe: Weiß - Hl. Paul VI., Papst"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 30,
+            "dia-sem": "Samstag",
+            "festejo": {
+                "1": "Farbe: Grün - Samstag der 8. Woche im Jahreskreis"
+            }
+        },
+        {
+            "tiempo": "Jahreskreis",
+            "dia-num": 31,
+            "dia-sem": "Sonntag",
+            "festejo": {
+                "1": "(Hochfest) - Farbe: Weiß - Dreifaltigkeitssonntag"
+            }
+        }
+    ]
+}

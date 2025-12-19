@@ -1,0 +1,251 @@
+{
+    "novembre": [
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 1,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - Tutti i Santi"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 2,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Viola o Nero - Commemorazione di tutti i fedeli defunti"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 3,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "Colore: Verde - Martedì della XXXI settimana del Tempo Ordinario",
+                "2": "(Memoria facoltativa) - Colore: Bianco - San Martino de Porres, religioso"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 4,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Carlo Borromeo, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 5,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXXI settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 6,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXXI settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 7,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXXI settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 8,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXXII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 9,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Bianco - Dedicazione della Basilica Lateranense"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 10,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Leone Magno, papa e dottore della Chiesa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 11,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - San Martino di Tours, vescovo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 12,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - San Giosafat, vescovo e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 13,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXXII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 14,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXXII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 15,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Verde - XXXIII Domenica del Tempo Ordinario"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 16,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XXXIII settimana",
+                "2": "(Memoria facoltativa) - Santa Margherita di Scozia",
+                "3": "(Memoria facoltativa) - Santa Gertrude, vergine"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 17,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Santa Elisabetta d'Ungheria, religiosa"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 18,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XXXIII settimana",
+                "2": "(Memoria facoltativa) - Dedicazione delle Basiliche dei Santi Pietro e Paolo, apostoli"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 19,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXXIII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 20,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXXIII settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 21,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Bianco - Presentazione della Beata Vergine Maria"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 22,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "(Solennità) - Colore: Bianco - Gesù Cristo Re dell'Universo"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 23,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "Colore: Verde - Lunedì della XXXIV settimana",
+                "2": "(Memoria facoltativa) - San Clemente I, papa e martire",
+                "3": "(Memoria facoltativa) - San Colombano, abate"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 24,
+            "dia-sem": "Martedì",
+            "festejo": {
+                "1": "(Memoria obbligatoria) - Colore: Rosso - Santi Andrea Dung-Lac e compagni, martiri"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 25,
+            "dia-sem": "Mercoledì",
+            "festejo": {
+                "1": "Colore: Verde - Mercoledì della XXXIV settimana",
+                "2": "(Memoria facoltativa) - Santa Caterina d'Alessandria, vergine e martire"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 26,
+            "dia-sem": "Giovedì",
+            "festejo": {
+                "1": "Colore: Verde - Giovedì della XXXIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 27,
+            "dia-sem": "Venerdì",
+            "festejo": {
+                "1": "Colore: Verde - Venerdì della XXXIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo Ordinario",
+            "dia-num": 28,
+            "dia-sem": "Sabato",
+            "festejo": {
+                "1": "Colore: Verde - Sabato della XXXIV settimana"
+            }
+        },
+        {
+            "tiempo": "Tempo di Avvento",
+            "dia-num": 29,
+            "dia-sem": "Domenica",
+            "festejo": {
+                "1": "Colore: Viola - I Domenica di Avvento"
+            }
+        },
+        {
+            "tiempo": "Tempo di Avvento",
+            "dia-num": 30,
+            "dia-sem": "Lunedì",
+            "festejo": {
+                "1": "(Festa) - Colore: Rosso - Sant'Andrea, apostolo"
+            }
+        }
+    ]
+}

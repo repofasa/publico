@@ -1,0 +1,262 @@
+{
+    "mai": [
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 1,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la 4ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Joseph, artisan"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 2,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Athanase, évêque et docteur de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 3,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - Vème Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 4,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 5,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 6,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mercredi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 7,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 8,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 9,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi de la 5ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 10,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - VIème Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 11,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la 6ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 12,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la 6ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saints Nérée et Achillée, martyrs",
+                "3": "(Mémoire facultative) - Couleur: Rouge - Saint Pancrace, martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 13,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mercredi de la 6ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Notre-Dame de Fatima"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 14,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - L'Ascension du Seigneur"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 15,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi après l'Ascension"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 16,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi après l'Ascension"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 17,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "Couleur: Blanc - VIIème Dimanche de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 18,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "Couleur: Blanc - Lundi de la 7ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Jean Ier, pape et martyr"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 19,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mardi de la 7ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 20,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Mercredi de la 7ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Bernardin de Sienne, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 21,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Blanc - Jeudi de la 7ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Rouge - Saint Christophe Magallanes et ses compagnons, martyrs"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 22,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Blanc - Vendredi de la 7ème semaine de Pâques",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Sainte Rita de Cascia, religieuse"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 23,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Blanc - Samedi de la 7ème semaine de Pâques"
+            }
+        },
+        {
+            "tiempo": "Temps Pascal",
+            "dia-num": 24,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Rouge - Le Dimanche de la Pentecôte"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 25,
+            "dia-sem": "Lundi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - La Bienheureuse Vierge Marie, Mère de l'Église"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 26,
+            "dia-sem": "Mardi",
+            "festejo": {
+                "1": "(Mémoire obligatoire) - Couleur: Blanc - Saint Philippe Néri, prêtre"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 27,
+            "dia-sem": "Mercredi",
+            "festejo": {
+                "1": "Couleur: Vert - Mercredi de la 8ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Augustin de Cantorbéry, évêque"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 28,
+            "dia-sem": "Jeudi",
+            "festejo": {
+                "1": "Couleur: Vert - Jeudi de la 8ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 29,
+            "dia-sem": "Vendredi",
+            "festejo": {
+                "1": "Couleur: Vert - Vendredi de la 8ème semaine du Temps Ordinaire",
+                "2": "(Mémoire facultative) - Couleur: Blanc - Saint Paul VI, pape"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 30,
+            "dia-sem": "Samedi",
+            "festejo": {
+                "1": "Couleur: Vert - Samedi de la 8ème semaine du Temps Ordinaire"
+            }
+        },
+        {
+            "tiempo": "Temps Ordinaire",
+            "dia-num": 31,
+            "dia-sem": "Dimanche",
+            "festejo": {
+                "1": "(Solennité) - Couleur: Blanc - La Sainte Trinité"
+            }
+        }
+    ]
+}

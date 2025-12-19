@@ -1,0 +1,264 @@
+{
+    "octubre": [
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 1,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Thérèse of the Child Jesus, virgin and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 2,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Holy Guardian Angels"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 3,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the XXVI Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 4,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXVII Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 5,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XXVII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Faustina Kowalska, virgin",
+                "3": "(Optional Memorial) - Color: White - Blessed Francis Xavier Seelos, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 6,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXVII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Bruno, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 7,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Our Lady of the Rosary"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 8,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXVII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 9,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXVII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saint Denis, bishop, and companions, martyrs",
+                "3": "(Optional Memorial) - Color: White - Saint John Leonardi, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 10,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the XXVII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 11,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXVIII Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 12,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XXVIII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 13,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXVIII Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 14,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XXVIII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: Red - Saint Callistus I, pope and martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 15,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: White - Saint Teresa of Jesus, virgin and doctor of the Church"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 16,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXVIII Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Hedwig, religious",
+                "3": "(Optional Memorial) - Color: White - Saint Margaret Mary Alacoque, virgin"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 17,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saint Ignatius of Antioch, bishop and martyr"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 18,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXIX Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 19,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "(Obligatory Memorial) - Color: Red - Saints Isaac Jogues and John de Brébeuf, priests, and companions, martyrs"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 20,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXIX Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Paul of the Cross, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 21,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "Color: Green - Wednesday of the XXIX Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 22,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXIX Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint John Paul II, pope"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 23,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXIX Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint John of Capistrano, priest"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 24,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the XXIX Week of Ordinary Time",
+                "2": "(Optional Memorial) - Color: White - Saint Anthony Mary Claret, bishop"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 25,
+            "dia-sem": "Sunday",
+            "festejo": {
+                "1": "Color: Green - XXX Sunday of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 26,
+            "dia-sem": "Monday",
+            "festejo": {
+                "1": "Color: Green - Monday of the XXX Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 27,
+            "dia-sem": "Tuesday",
+            "festejo": {
+                "1": "Color: Green - Tuesday of the XXX Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 28,
+            "dia-sem": "Wednesday",
+            "festejo": {
+                "1": "(Feast) - Color: Red - Saints Simon and Jude, apostles"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 29,
+            "dia-sem": "Thursday",
+            "festejo": {
+                "1": "Color: Green - Thursday of the XXX Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 30,
+            "dia-sem": "Friday",
+            "festejo": {
+                "1": "Color: Green - Friday of the XXX Week of Ordinary Time"
+            }
+        },
+        {
+            "tiempo": "Ordinary Time",
+            "dia-num": 31,
+            "dia-sem": "Saturday",
+            "festejo": {
+                "1": "Color: Green - Saturday of the XXX Week of Ordinary Time"
+            }
+        }
+    ]
+}

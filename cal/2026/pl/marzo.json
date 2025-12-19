@@ -1,0 +1,258 @@
+{
+    "marzec": [
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 1,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - 2. Niedziela Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 2,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek 2. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 3,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek 2. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 4,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Kazimierza, królewicza"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 5,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek 2. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 6,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek 2. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 7,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota 2. tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Świętych męczennic Perpetuy i Felicyty"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 8,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - 3. Niedziela Wielkiego Postu",
+                "2": "(Wspomnienie) - Św. Jana Bożego, zakonnika (pominięte)"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 9,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek 3. tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Św. Franciszki Rzymianki, zakonnicy"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 10,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek 3. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 11,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa 3. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 12,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek 3. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 13,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek 3. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 14,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota 3. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 15,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy na Różowy - 4. Niedziela Wielkiego Postu (Laetare)"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 16,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek 4. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 17,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek 4. tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Św. Patryka, biskupa"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 18,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Środa 4. tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Św. Cyryla Jerozolimskiego, biskupa i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 19,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Św. Józefa, Oblubieńca Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 20,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek 4. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 21,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota 4. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 22,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - 5. Niedziela Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 23,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Poniedziałek 5. tygodnia Wielkiego Postu",
+                "2": "(Wspomnienie dowolne) - Św. Turybiusza z Mongrovejo, biskupa"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 24,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wtorek 5. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 25,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - Zwiastowanie Pańskie"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 26,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Czwartek 5. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 27,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Piątek 5. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 28,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Sobota 5. tygodnia Wielkiego Postu"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 29,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Niedziela Męki Pańskiej) - Kolor: Czerwony - Niedziela Palmowa"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 30,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wielki Poniedziałek"
+            }
+        },
+        {
+            "tiempo": "Wielki Post",
+            "dia-num": 31,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Fioletowy - Wielki Wtorek"
+            }
+        }
+    ]
+}

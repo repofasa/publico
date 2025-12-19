@@ -1,0 +1,253 @@
+{
+    "nollaig": [
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 1,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Corcra - An Mháirt den 1ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 2,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - An Chéadaoin den 1ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 3,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Proinsias Xavier, Sagart"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 4,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Corcra - An Aoine den 1ú seachtain den Aidbhint",
+                "2": "(Cuimhneachán Roghnach) - Naomh Eoin Damascéin, Sagart agus Dochtúir"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 5,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Corcra - An Satharn den 1ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 6,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Corcra - An 2ú Domhnach den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 7,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Ambrós, Easpag agus Dochtúir"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 8,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Coiniúint Gan Smál na Maighdine Beannaithe Muire"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 9,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - An Chéadaoin den 2ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 10,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Corcra - An Déardaoin den 2ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 11,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Corcra - An Aoine den 2ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 12,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "(Cuimhneachán Roghnach) - Naomh Finnian, Easpag (Éire)"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 13,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Corcra nó Bándearg - An 3ú Domhnach den Aidbhint (Domhnach Gaudete)"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 14,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Eoin na Croise, Sagart agus Dochtúir"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 15,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Corcra - An Mháirt den 3ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint",
+            "dia-num": 16,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - An Chéadaoin den 3ú seachtain den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 17,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Corcra - 17 Nollaig"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 18,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "(Cuimhneachán) - Naomh Flannán, Easpag (Éire)"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 19,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Corcra - 19 Nollaig"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 20,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Corcra - An 4ú Domhnach den Aidbhint"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 21,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Corcra - 21 Nollaig"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 22,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Corcra - 22 Nollaig"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Antifonaí O)",
+            "dia-num": 23,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Corcra - 23 Nollaig"
+            }
+        },
+        {
+            "tiempo": "An tAidbhint (Vigil)",
+            "dia-num": 24,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Bán - Oíche Nollag"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 25,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Lá Nollag (Navidad)"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 26,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "(Féile) - Dath: Dearg - Naomh Stiofán, an Chéad Mhairtíreach"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 27,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "(Féile) - Dath: Bán - An Teaghlach Naofa (La Sagrada Familia)"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 28,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Féile) - Dath: Dearg - Na Naomh-Leanbaí (Santos Inocentes)"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 29,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Bán - 5ú lá d'Ochtach na Nollag"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 30,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Bán - 6ú lá d'Ochtach na Nollag"
+            }
+        },
+        {
+            "tiempo": "An Nollaig",
+            "dia-num": 31,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Bán - 7ú lá d'Ochtach na Nollag"
+            }
+        }
+    ]
+}

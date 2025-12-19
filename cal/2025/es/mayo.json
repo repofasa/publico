@@ -6,7 +6,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Blanco - Jueves de la II Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San José Obrero"
+                "2": "(Memoria facultativa) - Color: Blanco - San José Obrero"
             }
         },
         {
@@ -14,7 +14,7 @@
             "dia-num": 2,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Atanasio, obispo y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Atanasio, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -79,7 +79,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Blanco - Sábado de la III Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Juan de Ávila, presbítero y doctor de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan de Ávila, presbítero y doctor de la Iglesia"
             }
         },
         {
@@ -96,8 +96,8 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Blanco - Lunes de la IV Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Rojo - San Pancracio, mártir",
-                "3": "(Memoria facultativa) - Color: Rojo - Santos Nereo y Aquileo, mártires"
+                "2": "(Memoria facultativa) - Color: Rojo - San Pancracio, mártir",
+                "3": "(Memoria facultativa) - Color: Rojo - Santos Nereo y Aquileo, mártires"
             }
         },
         {
@@ -114,7 +114,7 @@
             "dia-num": 14,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Matías, apóstol"
+                "1": "(Fiesta) - Color: Rojo - San Matías, apóstol"
             }
         },
         {
@@ -123,7 +123,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Blanco - Jueves de la IV Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Isidro Labrador"
+                "2": "(Memoria facultativa) - Color: Blanco - San Isidro Labrador"
             }
         },
         {
@@ -132,7 +132,7 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Blanco - Viernes de la IV Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Rojo - San Juan Nepomuceno, presbítero y mártir"
+                "2": "(Memoria facultativa) - Color: Rojo - San Juan Nepomuceno, presbítero y mártir"
             }
         },
         {
@@ -165,7 +165,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Blanco - Martes de la V Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Bernardino de Siena, presbítero"
+                "2": "(Memoria facultativa) - Color: Blanco - San Bernardino de Siena, presbítero"
             }
         },
         {
@@ -173,7 +173,7 @@
             "dia-num": 21,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cristóbal Magallanes, presbítero, y compañeros, mártires"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cristóbal Magallanes, presbítero, y compañeros, mártires"
             }
         },
         {
@@ -182,7 +182,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Blanco - Jueves de la V Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - Santa Rita de Casia, religiosa"
+                "2": "(Memoria facultativa) - Color: Blanco - Santa Rita de Casia, religiosa"
             }
         },
         {
@@ -214,7 +214,7 @@
             "dia-num": 26,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Felipe Neri, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Felipe Neri, presbítero"
             }
         },
         {
@@ -223,7 +223,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Blanco - Martes de la VI Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Agustín de Canterbury, obispo"
+                "2": "(Memoria facultativa) - Color: Blanco - San Agustín de Canterbury, obispo"
             }
         },
         {
@@ -240,7 +240,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Blanco - Jueves de la VI Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Paolo VI, papa"
+                "2": "(Memoria facultativa) - Color: Blanco - San Paolo VI, papa"
             }
         },
         {

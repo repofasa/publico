@@ -21,7 +21,7 @@
             "dia-num": 3,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco Javier, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Francisco Javier, presbítero"
             }
         },
         {
@@ -30,7 +30,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Morado - Jueves de la I Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Juan Damasceno, presbítero y doctor de la Iglesia"
+                "2": "(Memoria facultativa) - Color: Blanco - San Juan Damasceno, presbítero y doctor de la Iglesia"
             }
         },
         {
@@ -47,7 +47,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Morado - Sábado de la I Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Nicolás, obispo"
+                "2": "(Memoria facultativa) - Color: Blanco - San Nicolás, obispo"
             }
         },
         {
@@ -71,7 +71,7 @@
             "dia-num": 9,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Diego Cuauhtlatoatzin"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan Diego Cuauhtlatoatzin"
             }
         },
         {
@@ -89,7 +89,7 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Morado - Jueves de la II Semana de Adviento",
-                "2": "(Memoria facultativa) - Color: Blanco - San Dámaso I, papa"
+                "2": "(Memoria facultativa) - Color: Blanco - San Dámaso I, papa"
             }
         },
         {
@@ -105,7 +105,7 @@
             "dia-num": 13,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - Santa Lucía, virgen y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santa Lucía, virgen y mártir"
             }
         },
         {
@@ -186,7 +186,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Morado - Feria de Adviento (23 de diciembre)",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Cancio, presbítero"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Cancio, presbítero"
             }
         },
         {
@@ -210,7 +210,7 @@
             "dia-num": 26,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Esteban, protomártir"
+                "1": "(Fiesta) - Color: Rojo - San Esteban, protomártir"
             }
         },
         {
@@ -218,7 +218,7 @@
             "dia-num": 27,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - San Juan, apóstol y evangelista"
+                "1": "(Fiesta) - Color: Blanco - San Juan, apóstol y evangelista"
             }
         },
         {
@@ -226,7 +226,7 @@
             "dia-num": 28,
             "dia-sem": "Domingo",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Sagrada Familia de Jesús, María y José"
+                "1": "(Fiesta) - Color: Blanco - La Sagrada Familia de Jesús, María y José"
             }
         },
         {
@@ -235,7 +235,7 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Blanco - Día V dentro de la Octava de la Natividad del Señor",
-                "2": "(Conmemoración facultativa) - Color: Blanco - San Tomás Becket, obispo y mártir"
+                "2": "(Conmemoración facultativa) - Color: Blanco - San Tomás Becket, obispo y mártir"
             }
         },
         {
@@ -252,7 +252,7 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Blanco - Día VII dentro de la Octava de la Natividad del Señor",
-                "2": "(Conmemoración facultativa) - Color: Blanco - San Silvestre I, papa"
+                "2": "(Conmemoración facultativa) - Color: Blanco - San Silvestre I, papa"
             }
         }
     ]

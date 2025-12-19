@@ -14,7 +14,7 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Morado - Miércoles de la IV Semana de Cuaresma",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Francisco de Paula, ermitaño"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Francisco de Paula, ermitaño"
             }
         },
         {
@@ -31,7 +31,7 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Morado - Viernes de la IV Semana de Cuaresma",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Isidoro, obispo y doctor de la Iglesia"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Isidoro, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -40,7 +40,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Morado - Sábado de la IV Semana de Cuaresma",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Vicente Ferrer, presbítero"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Vicente Ferrer, presbítero"
             }
         },
         {
@@ -58,7 +58,7 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Morado - Lunes de la V Semana de Cuaresma",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Bautista de La Salle, presbítero"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Juan Bautista de La Salle, presbítero"
             }
         },
         {
@@ -91,7 +91,7 @@
             "dia-sem": "Viernes",
             "festejo": {
                 "1": "Color: Morado - Viernes de la V Semana de Cuaresma",
-                "2": "(Conmemoración facultativa) - Color: Morado - San Estanislao, obispo y mártir"
+                "2": "(Conmemoración facultativa) - Color: Morado - San Estanislao, obispo y mártir"
             }
         },
         {
@@ -228,8 +228,8 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Blanco - Lunes de la II Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Luis María Grignion de Montfort, presbítero",
-                "3": "(Memoria facultativa) - Color: Rojo - San Pedro Chanel, presbítero y mártir"
+                "2": "(Memoria facultativa) - Color: Blanco - San Luis María Grignion de Montfort, presbítero",
+                "3": "(Memoria facultativa) - Color: Rojo - San Pedro Chanel, presbítero y mártir"
             }
         },
         {
@@ -237,7 +237,7 @@
             "dia-num": 29,
             "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Catalina de Siena, virgen y doctora de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Catalina de Siena, virgen y doctora de la Iglesia"
             }
         },
         {
@@ -246,7 +246,7 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Blanco - Miércoles de la II Semana de Pascua",
-                "2": "(Memoria facultativa) - Color: Blanco - San Pío V, papa"
+                "2": "(Memoria facultativa) - Color: Blanco - San Pío V, papa"
             }
         }
     ]

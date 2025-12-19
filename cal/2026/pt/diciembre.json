@@ -1,0 +1,263 @@
+{
+    "dezembro": [
+        {
+            "tiempo": "Advento",
+            "dia-num": 1,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da 1ª semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 2,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da 1ª semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 3,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São Francisco Xavier, presbítero"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 4,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira da 1ª semana do Advento",
+                "2": "(Memória facultativa) - São João Damasceno, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 5,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado da 1ª semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 6,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo - 2º DOMINGO DO ADVENTO",
+                "2": "(Memória facultativa) - São Nicolau, bispo (omitida)"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 7,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - Santo Ambrósio, bispo e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 8,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - IMACULADA CONCEIÇÃO DA VIRGEM MARIA"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 9,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da 2ª semana do Advento",
+                "2": "(Memória facultativa) - São Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 10,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quinta-feira da 2ª semana do Advento",
+                "2": "(Memória facultativa) - Nossa Senhora de Loreto"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 11,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Sexta-feira da 2ª semana do Advento",
+                "2": "(Memória facultativa) - São Dâmaso I, papa"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 12,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - Sábado da 2ª semana do Advento",
+                "2": "(Memória facultativa) - Nossa Senhora de Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 13,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo ou Rosa - 3º DOMINGO DO ADVENTO (Gaudete)",
+                "2": "(Memória) - Santa Luzia, virgem e mártir (omitida)"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 14,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Memória) - Cor: Branco - São João da Cruz, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 15,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Terça-feira da 3ª semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento",
+            "dia-num": 16,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - Quarta-feira da 3ª semana do Advento"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 17,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - 17 de Dezembro"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 18,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - 18 de Dezembro"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 19,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "Cor: Roxo - 19 de Dezembro"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 20,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "Cor: Roxo - 4º DOMINGO DO ADVENTO"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 21,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "Cor: Roxo - 21 de Dezembro",
+                "2": "(Memória) - São Pedro Canísio, presbítero e doutor da Igreja"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 22,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Roxo - 22 de Dezembro"
+            }
+        },
+        {
+            "tiempo": "Advento (Antífonas do Ó)",
+            "dia-num": 23,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Roxo - 23 de Dezembro",
+                "2": "(Memória) - São João de Kanti, presbítero"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 24,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Roxo (Manhã) - Vigília de Natal (Noite) - Cor: Branco"
+            }
+        },
+        {
+            "tiempo": "Tempo do Natal",
+            "dia-num": 25,
+            "dia-sem": "Sexta-feira",
+            "festejo": {
+                "1": "(Solenidade) - Cor: Branco - NATAL DE NOSSO SENHOR JESUS CRISTO"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 26,
+            "dia-sem": "Sábado",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - Santo Estêvão, primeiro mártir"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 27,
+            "dia-sem": "Domingo",
+            "festejo": {
+                "1": "(Festa) - Cor: Branco - SAGRADA FAMÍLIA: JESUS, MARIA E JOSÉ"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 28,
+            "dia-sem": "Segunda-feira",
+            "festejo": {
+                "1": "(Festa) - Cor: Vermelho - Santos Inocentes, mártires"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 29,
+            "dia-sem": "Terça-feira",
+            "festejo": {
+                "1": "Cor: Branco - 5º dia da Oitava de Natal",
+                "2": "(Memória) - São Tomás Becket, bispo e mártir"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 30,
+            "dia-sem": "Quarta-feira",
+            "festejo": {
+                "1": "Cor: Branco - 6º dia da Oitava de Natal"
+            }
+        },
+        {
+            "tiempo": "Oitava de Natal",
+            "dia-num": 31,
+            "dia-sem": "Quinta-feira",
+            "festejo": {
+                "1": "Cor: Branco - 7º dia da Oitava de Natal",
+                "2": "(Memória) - São Silvestre I, papa"
+            }
+        }
+    ]
+}

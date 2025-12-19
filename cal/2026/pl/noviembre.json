@@ -1,0 +1,248 @@
+{
+    "listopad": [
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 1,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - WSZYSTKICH ŚWIĘTYCH"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 2,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Fioletowy lub Czarny - Wspomnienie wszystkich wiernych zmarłych (Dzień Zaduszny)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 3,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "Kolor: Zielony - Wtorek 31. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Marcina de Porres, zakonnika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 4,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Karola Boromeusza, biskupa"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 5,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 31. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 6,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 31. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 7,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 31. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 8,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 32. Niedziela zwykła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 9,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Biały - Rocznica poświęcenia Bazyliki Laterańskiej"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 10,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Leona Wielkiego, papieża i doktora Kościoła"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 11,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Marcina z Tours, biskupa",
+                "2": "(W Polsce) - Narodowe Święto Niepodległości"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 12,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - Św. Jozafata, biskupa i męczennika"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 13,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Czerwony - ŚŚ. Pierwszych Męczenników Polski (Benedykta, Jana, Mateusza, Izaaka i Krystyna)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 14,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 32. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 15,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Zielony - 33. Niedziela zwykła (Światowy Dzień Ubogich)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 16,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Św. Małgorzaty Szkockiej lub Św. Gertrudy, dziewicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 17,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Św. Elżbiety Węgierskiej, zakonnicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 18,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Czerwony - Bł. Karoliny Kózkówny, dziewicy i męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 19,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "(Wspomnienie dowolne) - Kolor: Biały - Bł. Salomei, zakonnicy (W Polsce)"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 20,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "(Wspomnienie w Polsce) - Kolor: Biały - Św. Rafała Kalinowskiego, prezbitera"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 21,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Biały - Ofiarowanie Najświętszej Maryi Panny"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 22,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "(Uroczystość) - Kolor: Biały - JEZUSA CHRYSTUSA KRÓLA WSZECHŚWIATA"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 23,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "Kolor: Zielony - Poniedziałek 34. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Klemensa I, papieża i męczennika lub Św. Kolumbana, opata"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 24,
+            "dia-sem": "Wtorek",
+            "festejo": {
+                "1": "(Wspomnienie) - Kolor: Czerwony - ŚŚ. męczenników Andrzeja Dung-Lac i Towarzyszy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 25,
+            "dia-sem": "Środa",
+            "festejo": {
+                "1": "Kolor: Zielony - Środa 34. tygodnia zwykłego",
+                "2": "(Wspomnienie dowolne) - Św. Katarzyny Aleksandryjskiej, dziewicy i męczennicy"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 26,
+            "dia-sem": "Czwartek",
+            "festejo": {
+                "1": "Kolor: Zielony - Czwartek 34. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 27,
+            "dia-sem": "Piątek",
+            "festejo": {
+                "1": "Kolor: Zielony - Piątek 34. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Okres Zwykły",
+            "dia-num": 28,
+            "dia-sem": "Sobota",
+            "festejo": {
+                "1": "Kolor: Zielony - Sobota 34. tygodnia zwykłego"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 29,
+            "dia-sem": "Niedziela",
+            "festejo": {
+                "1": "Kolor: Fioletowy - 1. Niedziela Adwentu"
+            }
+        },
+        {
+            "tiempo": "Adwent",
+            "dia-num": 30,
+            "dia-sem": "Poniedziałek",
+            "festejo": {
+                "1": "(Święto) - Kolor: Czerwony - Św. Andrzeja, Apostoła"
+            }
+        }
+    ]
+}

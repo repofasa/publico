@@ -5,7 +5,7 @@
             "dia-num": 1,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Alfonso María de Ligorio, obispo y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Alfonso María de Ligorio, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -14,8 +14,8 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Verde - Sábado de la XVII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Eusebio de Vercelli, obispo",
-                "3": "(Memoria facultativa) - Color: Blanco - San Pedro Julián Eymard, presbítero",
+                "2": "(Memoria facultativa) - Color: Blanco - San Eusebio de Vercelli, obispo",
+                "3": "(Memoria facultativa) - Color: Blanco - San Pedro Julián Eymard, presbítero",
                 "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
             }
         },
@@ -32,7 +32,7 @@
             "dia-num": 4,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan María Vianney, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Juan María Vianney, presbítero"
             }
         },
         {
@@ -41,7 +41,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XVIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - La Dedicación de la Basílica de Santa María"
+                "2": "(Memoria facultativa) - Color: Blanco - La Dedicación de la Basílica de Santa María"
             }
         },
         {
@@ -58,8 +58,8 @@
             "dia-sem": "Jueves",
             "festejo": {
                 "1": "Color: Verde - Jueves de la XVIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Cayetano, presbítero",
-                "3": "(Memoria facultativa) - Color: Rojo - Santos Sixto II, papa, y compañeros, mártires"
+                "2": "(Memoria facultativa) - Color: Blanco - San Cayetano, presbítero",
+                "3": "(Memoria facultativa) - Color: Rojo - Santos Sixto II, papa, y compañeros, mártires"
             }
         },
         {
@@ -67,7 +67,7 @@
             "dia-num": 8,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santo Domingo, presbítero"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santo Domingo, presbítero"
             }
         },
         {
@@ -76,7 +76,7 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Verde - Sábado de la XVIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santa Teresa Benedicta de la Cruz, virgen y mártir",
+                "2": "(Memoria facultativa) - Color: Rojo - Santa Teresa Benedicta de la Cruz, virgen y mártir",
                 "3": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
             }
         },
@@ -93,7 +93,7 @@
             "dia-num": 11,
             "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Clara, virgen"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Clara, virgen"
             }
         },
         {
@@ -102,7 +102,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XIX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Santa Juana Francisca de Chantal, religiosa"
+                "2": "(Memoria facultativa) - Color: Blanco - Santa Juana Francisca de Chantal, religiosa"
             }
         },
         {
@@ -111,7 +111,7 @@
             "dia-sem": "Miércoles",
             "festejo": {
                 "1": "Color: Verde - Miércoles de la XIX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santos Ponciano, papa, e Hipólito, presbítero, mártires"
+                "2": "(Memoria facultativa) - Color: Rojo - Santos Ponciano, papa, e Hipólito, presbítero, mártires"
             }
         },
         {
@@ -119,7 +119,7 @@
             "dia-num": 14,
             "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Maximiliano María Kolbe, presbítero y mártir"
+                "1": "(Memoria obligatoria) - Color: Rojo - San Maximiliano María Kolbe, presbítero y mártir"
             }
         },
         {
@@ -136,8 +136,8 @@
             "dia-sem": "Sábado",
             "festejo": {
                 "1": "Color: Verde - Sábado de la XIX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Beato Bartolomé Laurel, religioso y mártir",
-                "3": "(Memoria facultativa) - Color: Blanco - San Esteban de Hungría",
+                "2": "(Memoria facultativa) - Color: Rojo - Beato Bartolomé Laurel, religioso y mártir",
+                "3": "(Memoria facultativa) - Color: Blanco - San Esteban de Hungría",
                 "4": "(Memoria facultativa) - Color: Blanco - Santa María en sábado"
             }
         },
@@ -163,8 +163,8 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Beato Pedro Zúñiga y Beato Luis Flores, presbíteros y mártires",
-                "3": "(Memoria facultativa) - Color: Blanco - San Juan Eudes, presbítero"
+                "2": "(Memoria facultativa) - Color: Rojo - Beato Pedro Zúñiga y Beato Luis Flores, presbíteros y mártires",
+                "3": "(Memoria facultativa) - Color: Blanco - San Juan Eudes, presbítero"
             }
         },
         {
@@ -172,7 +172,7 @@
             "dia-num": 20,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Bernardo, abad y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Bernardo, abad y doctor de la Iglesia"
             }
         },
         {
@@ -180,7 +180,7 @@
             "dia-num": 21,
             "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Pío X, papa"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Pío X, papa"
             }
         },
         {
@@ -214,8 +214,8 @@
             "dia-sem": "Lunes",
             "festejo": {
                 "1": "Color: Verde - Lunes de la XXI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San José de Calasanz, presbítero",
-                "3": "(Memoria facultativa) - Color: Blanco - San Luis de Francia"
+                "2": "(Memoria facultativa) - Color: Blanco - San José de Calasanz, presbítero",
+                "3": "(Memoria facultativa) - Color: Blanco - San Luis de Francia"
             }
         },
         {
@@ -224,7 +224,7 @@
             "dia-sem": "Martes",
             "festejo": {
                 "1": "Color: Verde - Martes de la XXI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Junípero Serra, presbítero"
+                "2": "(Memoria facultativa) - Color: Blanco - San Junípero Serra, presbítero"
             }
         },
         {
@@ -232,7 +232,7 @@
             "dia-num": 27,
             "dia-sem": "Miércoles",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Mónica"
+                "1": "(Memoria obligatoria) - Color: Blanco - Santa Mónica"
             }
         },
         {
@@ -240,7 +240,7 @@
             "dia-num": 28,
             "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Agustín, obispo y doctor de la Iglesia"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Agustín, obispo y doctor de la Iglesia"
             }
         },
         {
@@ -248,7 +248,7 @@
             "dia-num": 29,
             "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - El Martirio de San Juan Bautista"
+                "1": "(Memoria obligatoria) - Color: Rojo - El Martirio de San Juan Bautista"
             }
         },
         {
@@ -256,7 +256,7 @@
             "dia-num": 30,
             "dia-sem": "Sábado",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - Santa Rosa de Lima, virgen"
+                "1": "(Fiesta) - Color: Blanco - Santa Rosa de Lima, virgen"
             }
         },
         {

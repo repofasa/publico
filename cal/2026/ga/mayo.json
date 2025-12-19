@@ -1,0 +1,257 @@
+{
+    "bealtaine": [
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 1,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Bán - An Aoine den 4ú seachtain den Cháisc",
+                "2": "(Cuimhneachán Roghnach) - Naomh Iósaef an tOibrí"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 2,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Atanás, Easpag agus Dochtúir"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 3,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Bán - An 5ú Domhnach den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 4,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Bán - An Luan den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 5,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Bán - An Mháirt den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 6,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Bán - An Chéadaoin den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 7,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Bán - An Déardaoin den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 8,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Bán - An Aoine den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 9,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Bán - An Satharn den 5ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 10,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Bán - An 6ú Domhnach den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 11,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Bán - An Luan den 6ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 12,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Bán - An Mháirt den 6ú seachtain den Cháisc",
+                "2": "(Cuimhneachán Roghnach) - Naomh Nereus agus Naomh Achilleus, Mairtírigh"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 13,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Bán - An Chéadaoin den 6ú seachtain den Cháisc",
+                "2": "(Cuimhneachán Roghnach) - Ár mBantiarna Fatima"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 14,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Deascabháil an Tiarna (Ascensión)"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 15,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Bán - An Aoine i ndiaidh na Deascabhála"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 16,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Bán - An Satharn i ndiaidh na Deascabhála",
+                "2": "(Cuimhneachán Roghnach) - Naomh Breandán, Abb (Éire)"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 17,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "Dath: Bán - An 7ú Domhnach den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 18,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "Dath: Bán - An Luan den 7ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 19,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "Dath: Bán - An Mháirt den 7ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 20,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Bán - An Chéadaoin den 7ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 21,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Bán - An Déardaoin den 7ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 22,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Bán - An Aoine den 7ú seachtain den Cháisc",
+                "2": "(Cuimhneachán Roghnach) - Naomh Rita as Cascia, Bean Rialta"
+            }
+        },
+        {
+            "tiempo": "Inid na Cásca",
+            "dia-num": 23,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Bán - An Satharn den 7ú seachtain den Cháisc"
+            }
+        },
+        {
+            "tiempo": "An Chincís",
+            "dia-num": 24,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Dearg - Domhnach na Cincíse (Pentecostés)"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 25,
+            "dia-sem": "An Luan",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - An Mhaighdean Bheannaithe Muire, Máthair na hEaglaise"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 26,
+            "dia-sem": "An Mháirt",
+            "festejo": {
+                "1": "(Cuimhneachán) - Dath: Bán - Naomh Pilib Neri, Sagart"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 27,
+            "dia-sem": "An Chéadaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Chéadaoin den 8ú seachtain sa Tréimhse Saolta"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 28,
+            "dia-sem": "Déardaoin",
+            "festejo": {
+                "1": "Dath: Uaine - An Déardaoin den 8ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 29,
+            "dia-sem": "An Aoine",
+            "festejo": {
+                "1": "Dath: Uaine - An Aoine den 8ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 30,
+            "dia-sem": "An Satharn",
+            "festejo": {
+                "1": "Dath: Uaine - An Satharn den 8ú seachtain"
+            }
+        },
+        {
+            "tiempo": "An Tréimhse Saolta",
+            "dia-num": 31,
+            "dia-sem": "An Domhnach",
+            "festejo": {
+                "1": "(Sollúntas) - Dath: Bán - Domhnach na Tríonóide Ró-Naofa"
+            }
+        }
+    ]
+}

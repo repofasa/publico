@@ -21,7 +21,7 @@
             "dia-num": 3,
             "dia-sem": "Mercredi",
             "festejo": {
-                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint François Xavier, prêtre"
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint François Xavier, prêtre"
             }
         },
         {
@@ -30,7 +30,7 @@
             "dia-sem": "Jeudi",
             "festejo": {
                 "1": "Couleur: Pourpre - Jeudi de la I Semaine de l'Avent",
-                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean Damascène, prêtre et docteur de l'Église"
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Jean Damascène, prêtre et docteur de l'Église"
             }
         },
         {
@@ -47,7 +47,7 @@
             "dia-sem": "Samedi",
             "festejo": {
                 "1": "Couleur: Pourpre - Samedi de la I Semaine de l'Avent",
-                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Nicolas, évêque"
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Nicolas, évêque"
             }
         },
         {
@@ -71,7 +71,7 @@
             "dia-num": 9,
             "dia-sem": "Mardi",
             "festejo": {
-                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint Jean Diego Cuauhtlatoatzin"
+                "1": "(Mémorie obligatoire) - Couleur: Blanc - Saint Jean Diego Cuauhtlatoatzin"
             }
         },
         {
@@ -89,7 +89,7 @@
             "dia-sem": "Jeudi",
             "festejo": {
                 "1": "Couleur: Pourpre - Jeudi de la II Semaine de l'Avent",
-                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Damas I, pape"
+                "2": "(Mémorie facultative) - Couleur: Blanc - Saint Damas I, pape"
             }
         },
         {
@@ -105,7 +105,7 @@
             "dia-num": 13,
             "dia-sem": "Samedi",
             "festejo": {
-                "1": "(Mémorie obligatoire) - Couleur: Rouge - Sainte Lucie, vierge et martyre"
+                "1": "(Mémorie obligatoire) - Couleur: Rouge - Sainte Lucie, vierge et martyre"
             }
         },
         {
@@ -186,7 +186,7 @@
             "dia-sem": "Mardi",
             "festejo": {
                 "1": "Couleur: Pourpre - Feria de l'Avent (23 décembre)",
-                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saint Jean Cancio, prêtre"
+                "2": "(Conmemoración facultativa) - Couleur: Pourpre - Saint Jean Cancio, prêtre"
             }
         },
         {
@@ -210,7 +210,7 @@
             "dia-num": 26,
             "dia-sem": "Vendredi",
             "festejo": {
-                "1": "(Fête) - Couleur: Rouge - Saint Étienne, protomartyr"
+                "1": "(Fête) - Couleur: Rouge - Saint Étienne, protomartyr"
             }
         },
         {
@@ -218,7 +218,7 @@
             "dia-num": 27,
             "dia-sem": "Samedi",
             "festejo": {
-                "1": "(Fête) - Couleur: Blanc - Saint Jean, apôtre et évangéliste"
+                "1": "(Fête) - Couleur: Blanc - Saint Jean, apôtre et évangéliste"
             }
         },
         {
@@ -226,7 +226,7 @@
             "dia-num": 28,
             "dia-sem": "Dimanche",
             "festejo": {
-                "1": "(Fête) - Couleur: Blanc - La Sainte Famille de Jésus, Marie et Joseph"
+                "1": "(Fête) - Couleur: Blanc - La Sainte Famille de Jésus, Marie et Joseph"
             }
         },
         {
@@ -235,7 +235,7 @@
             "dia-sem": "Lundi",
             "festejo": {
                 "1": "Couleur: Blanc - Jour V dans l'Octave de la Nativité du Seigneur",
-                "2": "(Conmemoración facultativa) - Couleur: Blanc - Saint Thomas Becket, évêque et martyr"
+                "2": "(Conmemoración facultativa) - Couleur: Blanc - Saint Thomas Becket, évêque et martyr"
             }
         },
         {
@@ -252,7 +252,7 @@
             "dia-sem": "Mercredi",
             "festejo": {
                 "1": "Couleur: Blanc - Jour VII dans l'Octave de la Nativité du Seigneur",
-                "2": "(Conmemoración facultativa) - Couleur: Blanc - Saint Sylvestre I, pape"
+                "2": "(Conmemoración facultativa) - Couleur: Blanc - Saint Sylvestre I, pape"
             }
         }
     ]
