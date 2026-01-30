@@ -1,259 +1,244 @@
 {
-    "agosto": [
+    "septiembre": [
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 1,
-            "dia-sem": "Sábado",
+            "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Alfonso María de Ligorio, obispo y doctor de la Iglesia"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 2,
-            "dia-sem": "Domingo",
+            "dia-sem": "Miércoles",
             "festejo": {
-                "1": "Color: Verde - XVIII Domingo del Tiempo Ordinario"
+                "1": "Color: Verde - Miércoles de la XXII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 3,
-            "dia-sem": "Lunes",
+            "dia-sem": "Jueves",
             "festejo": {
-                "1": "Color: Verde - Lunes de la XVIII Semana del Tiempo Ordinario"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Gregorio Magno, papa y doctor de la Iglesia"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 4,
-            "dia-sem": "Martes",
+            "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Juan María Vianney, presbítero"
+                "1": "Color: Verde - Viernes de la XXII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 5,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Sábado",
             "festejo": {
-                "1": "Color: Verde - Miércoles de la XVIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Dedicación de la Basílica de Santa María la Mayor"
+                "1": "Color: Verde - Sábado de la XXII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 6,
-            "dia-sem": "Jueves",
+            "dia-sem": "Domingo",
             "festejo": {
-                "1": "(Fiesta) - Color: Blanco - La Transfiguración del Señor"
+                "1": "Color: Verde - XXIII Domingo del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 7,
-            "dia-sem": "Viernes",
+            "dia-sem": "Lunes",
             "festejo": {
-                "1": "Color: Verde - Viernes de la XVIII Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santos Sixto II, papa, y compañeros, mártires",
-                "3": "(Memoria facultativa) - Color: Blanco - San Cayetano, presbítero"
+                "1": "Color: Verde - Lunes de la XXIII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 8,
-            "dia-sem": "Sábado",
+            "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santo Domingo de Guzmán, presbítero"
+                "1": "(Fiesta) - Color: Blanco - La Natividad de la Bienaventurada Virgen María"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 9,
-            "dia-sem": "Domingo",
+            "dia-sem": "Miércoles",
             "festejo": {
-                "1": "Color: Verde - XIX Domingo del Tiempo Ordinario"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Pedro Claver, presbítero"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 10,
-            "dia-sem": "Lunes",
+            "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Lorenzo, diácono y mártir"
+                "1": "Color: Verde - Jueves de la XXIII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 11,
-            "dia-sem": "Martes",
+            "dia-sem": "Viernes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Clara, virgen"
+                "1": "Color: Verde - Viernes de la XXIII Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 12,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Sábado",
             "festejo": {
-                "1": "Color: Verde - Miércoles de la XIX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - Santa Juana Francisca de Chantal, religiosa"
+                "1": "(Memoria facultativa) - Color: Blanco - El Santísimo Nombre de María"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 13,
-            "dia-sem": "Jueves",
+            "dia-sem": "Domingo",
             "festejo": {
-                "1": "Color: Verde - Jueves de la XIX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Rojo - Santos Ponciano, papa, e Hipólito, presbítero, mártires"
+                "1": "Color: Verde - XXIV Domingo del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 14,
-            "dia-sem": "Viernes",
+            "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - San Maximiliano María Kolbe, presbítero y mártir"
+                "1": "(Fiesta) - Color: Rojo - La Exaltación de la Santa Cruz"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 15,
-            "dia-sem": "Sábado",
+            "dia-sem": "Martes",
             "festejo": {
-                "1": "(Solemnidad) - Color: Blanco - La Asunción de la Bienaventurada Virgen María"
+                "1": "(Memoria obligatoria) - Color: Blanco - Nuestra Señora, la Virgen de los Dolores"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 16,
-            "dia-sem": "Domingo",
+            "dia-sem": "Miércoles",
             "festejo": {
-                "1": "Color: Verde - XX Domingo del Tiempo Ordinario"
+                "1": "(Memoria obligatoria) - Color: Rojo - Santos Cornelio, papa, y Cipriano, obispo, mártires"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 17,
-            "dia-sem": "Lunes",
+            "dia-sem": "Jueves",
             "festejo": {
-                "1": "Color: Verde - Lunes de la XX Semana del Tiempo Ordinario"
+                "1": "(Memoria facultativa) - Color: Blanco - San Roberto Belarmino, obispo y doctor de la Iglesia",
+                "2": "(Memoria facultativa) - Color: Blanco - Santa Hildegarda de Bingen, virgen y doctora de la Iglesia"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 18,
-            "dia-sem": "Martes",
+            "dia-sem": "Viernes",
             "festejo": {
-                "1": "Color: Verde - Martes de la XX Semana del Tiempo Ordinario"
+                "1": "Color: Verde - Viernes de la XXIV Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 19,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Sábado",
             "festejo": {
-                "1": "Color: Verde - Miércoles de la XX Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Juan Eudes, presbítero"
+                "1": "(Memoria facultativa) - Color: Rojo - San Jenaro, obispo y mártir"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 20,
-            "dia-sem": "Jueves",
+            "dia-sem": "Domingo",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Bernardo, abad y doctor de la Iglesia"
+                "1": "Color: Verde - XXV Domingo del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 21,
-            "dia-sem": "Viernes",
+            "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Pío X, papa"
+                "1": "(Fiesta) - Color: Rojo - San Mateo, apóstol y evangelista"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 22,
-            "dia-sem": "Sábado",
+            "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa María Virgen, Reina"
+                "1": "Color: Verde - Martes de la XXV Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 23,
-            "dia-sem": "Domingo",
+            "dia-sem": "Miércoles",
             "festejo": {
-                "1": "Color: Verde - XXI Domingo del Tiempo Ordinario"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Pío de Pietrelcina, presbítero"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 24,
-            "dia-sem": "Lunes",
+            "dia-sem": "Jueves",
             "festejo": {
-                "1": "(Fiesta) - Color: Rojo - San Bartolomé, apóstol"
+                "1": "Color: Verde - Jueves de la XXV Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 25,
-            "dia-sem": "Martes",
+            "dia-sem": "Viernes",
             "festejo": {
-                "1": "Color: Verde - Martes de la XXI Semana del Tiempo Ordinario",
-                "2": "(Memoria facultativa) - Color: Blanco - San Luis, rey de Francia",
-                "3": "(Memoria facultativa) - Color: Blanco - San José de Calasanz, presbítero"
+                "1": "Color: Verde - Viernes de la XXV Semana del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 26,
-            "dia-sem": "Miércoles",
+            "dia-sem": "Sábado",
             "festejo": {
-                "1": "Color: Verde - Miércoles de la XXI Semana del Tiempo Ordinario"
+                "1": "(Memoria facultativa) - Color: Rojo - Santos Cosme y Damián, mártires"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 27,
-            "dia-sem": "Jueves",
+            "dia-sem": "Domingo",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - Santa Mónica"
+                "1": "Color: Verde - XXVI Domingo del Tiempo Ordinario"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 28,
-            "dia-sem": "Viernes",
+            "dia-sem": "Lunes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Blanco - San Agustín, obispo y doctor de la Iglesia"
+                "1": "(Memoria facultativa) - Color: Rojo - San Lorenzo Ruiz y compañeros, mártires",
+                "2": "(Memoria facultativa) - Color: Blanco - San Wenceslao, mártir"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 29,
-            "dia-sem": "Sábado",
+            "dia-sem": "Martes",
             "festejo": {
-                "1": "(Memoria obligatoria) - Color: Rojo - El Martirio de San Juan Bautista"
+                "1": "(Fiesta) - Color: Blanco - Santos Arcángeles Miguel, Gabriel y Rafael"
             }
         },
         {
             "tiempo": "Tiempo Ordinario",
             "dia-num": 30,
-            "dia-sem": "Domingo",
+            "dia-sem": "Miércoles",
             "festejo": {
-                "1": "Color: Verde - XXII Domingo del Tiempo Ordinario"
-            }
-        },
-        {
-            "tiempo": "Tiempo Ordinario",
-            "dia-num": 31,
-            "dia-sem": "Lunes",
-            "festejo": {
-                "1": "Color: Verde - Lunes de la XXII Semana del Tiempo Ordinario"
+                "1": "(Memoria obligatoria) - Color: Blanco - San Jerónimo, presbítero y doctor de la Iglesia"
             }
         }
     ]
