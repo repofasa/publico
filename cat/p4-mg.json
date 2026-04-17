@@ -1,0 +1,506 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "Jaona 3:16",
+      "contenido": "Fa toy izany ny fitiavan'Andriamanitra ny tany, ka nanome ny Zanany tokana izy, mba izay rehetra mino azy dia tsy ho latsaka, fa hanana fiainana mandrakizay."
+    },
+    {
+      "id": "1",
+      "titulo": "Jeremia 29:11",
+      "contenido": "Fa fantatro tsara ny drafitra napetrak'Andriamanitra ho anareo — hoy ny Tompo —, drafitra hahasoa sy tsy ho fatiantoka, mba hanomezana anareo hoavy sy fanantenana."
+    },
+    {
+      "id": "2",
+      "titulo": "Romana 8:28",
+      "contenido": "Ary fantatsika fa Andriamanitra no mandamina ny zava-drehetra ho amin'ny soa ho an'izay tia Azy, izay antsoina araka ny tanjony."
+    },
+    {
+      "id": "3",
+      "titulo": "Filipianina 4:13",
+      "contenido": "Afaka manao zava-drehetra amin'ny alalan'i Kristy izay manamafy ahy aho."
+    },
+    {
+      "id": "4",
+      "titulo": "Genesisy 1:1",
+      "contenido": "Tamin'ny voalohany dia namorona ny lanitra sy ny tany Andriamanitra."
+    },
+    {
+      "id": "5",
+      "titulo": "Ohabolana 3:5",
+      "contenido": "Miantehitra amin'ny Tompo amin'ny fonao rehetra, ary aza mifototra amin'ny fahendrenao manokana."
+    },
+    {
+      "id": "6",
+      "titulo": "Ohabolana 3:6",
+      "contenido": "Aoka ho fantatrao amin'ny lalana rehetra, dia hamboarin'ny Tompo ny làlana rehetra."
+    },
+    {
+      "id": "7",
+      "titulo": "Romana 12:2",
+      "contenido": "Aza manaraka ny firenena amin'izao fotoana izao, fa aoka ho ovaina amin'ny fanavaozana ny sainareo. Amin'izay dia ho afaka hahita izay sitrapon'Andriamanitra, izay tsara, mahafinaritra ary tonga lafatra."
+    },
+    {
+      "id": "8",
+      "titulo": "Filipianina 4:6",
+      "contenido": "Aza manahy na inona na inona; fa amin'ny fotoana rehetra, amin'ny fivavahana sy fangatahana, atolory ny fangatahanao amin'ny Tompo ary misaora Azy."
+    },
+    {
+      "id": "9",
+      "titulo": "Matio 28:19",
+      "contenido": "Koa mandehana ary ataovy mpianatra ny firenena rehetra, manaova batisa azy ireo amin'ny anaran'ny Ray, ny Zanaka, ary ny Fanahy Masina."
+    },
+    {
+      "id": "10",
+      "titulo": "Efesiana 2:8",
+      "contenido": "Fa amin'ny alalan'ny fahasoavana no voavonjy ianareo amin'ny finoana; ary izany dia tsy avy aminareo, fa fanomezana avy amin'Andriamanitra;"
+    },
+    {
+      "id": "11",
+      "titulo": "Galatiana 5:22",
+      "contenido": "Fa ny voany avy amin'ny Fanahy dia fitiavana, fifaliana, fiadanana, faharetana, fahalemem-panahy, hatsaram-panahy, fahamarinana,"
+    },
+    {
+      "id": "12",
+      "titulo": "Romana 12:1",
+      "contenido": "Koa mankatò aho aminareo, ry rahalahy, noho ny famindrampon'Andriamanitra, mba hanolotra ny vatanao ho sorona velona, masina, ary mahafinaritra an'Andriamanitra, izay fanaonareo mahay saina."
+    },
+    {
+      "id": "13",
+      "titulo": "Jaona 10:10",
+      "contenido": "Ny mpangalatra dia tonga mba hangalatra, hamono, ary handrava; fa izaho tonga mba hanana fiainana izy ireo ary hanana izany amin'ny habe."
+    },
+    {
+      "id": "14",
+      "titulo": "Asa 18:10",
+      "contenido": "Fa miaraka aminao aho, ary tsy hisy hanjo anao ratsy, satria manana vahoaka maro eto amin'ity tanàna ity aho."
+    },
+    {
+      "id": "15",
+      "titulo": "Asa 18:9",
+      "contenido": "Nandritra ny alina iray dia nilaza tamin'i Paoly tamin'ny fahitana ny Tompo hoe: «Aza matahotra; tohizo ny firesahanao ary aza mivaha,"
+    },
+    {
+      "id": "16",
+      "titulo": "Asa 18:11",
+      "contenido": "Koa nihevitra tao amin'ny tanàna nandritra ny herintaona sy enim-bolana i Paoly, nampianatra ny teny Andriamanitra azy."
+    },
+    {
+      "id": "17",
+      "titulo": "Galatiana 2:20",
+      "contenido": "Voafaty miaraka amin'i Kristy aho, ary tsy izaho no velona, fa Kristy no velona ao amiko. Ary ny fiainako ankehitriny ao amin'ny nofo dia amin'ny finoana an'ny Zanak'Andriamanitra, izay tia ahy sy nanolotra ny tenany ho ahy."
+    },
+    {
+      "id": "18",
+      "titulo": "1 Jaona 1:9",
+      "contenido": "Raha manaiky ny heloky ny tenanay, dia mahatoky sy marina izy hanasitrana ny heloky ny tenanay, ary hanadio antsika amin'ny ratsy rehetra."
+    },
+    {
+      "id": "19",
+      "titulo": "Romana 3:23",
+      "contenido": "Satria ny olona rehetra dia nanota, ary very ny voninahitr'Andriamanitra,"
+    },
+    {
+      "id": "20",
+      "titulo": "Jaona 14:6",
+      "contenido": "Namaly Jesoa hoe: “Izaho no lalana, fahamarinana, ary fiainana. Tsy misy olona afaka mankany amin'ny Ray, afa-tsy amin'ny alalako.”"
+    },
+    {
+      "id": "21",
+      "titulo": "Matio 28:20",
+      "contenido": "ampianaro azy ireo hitandrina ny zavatra rehetra nandidian'ny tenako anareo. Ary indro, miaraka aminareo mandraka ny faran'izao tontolo izao aho."
+    },
+    {
+      "id": "22",
+      "titulo": "Romana 5:8",
+      "contenido": "Fa Andriamanitra mampiseho ny fitiavany ho antsika, amin'ny maha-olona mpanota antsika, dia maty tamin'ny antsika Kristy."
+    },
+    {
+      "id": "23",
+      "titulo": "Filipianina 4:8",
+      "contenido": "Farany, ry rahalahy, eritrereto tsara ny zavatra rehetra marina, ny zavatra rehetra mendrika, ny zavatra rehetra ara-drariny, ny zavatra rehetra madio, ny zavatra rehetra tiana, ny zavatra rehetra mendrika hehidrehina, dia ny zavatra rehetra tsara sy mendrika hasarana."
+    },
+    {
+      "id": "24",
+      "titulo": "Filipianina 4:7",
+      "contenido": "Ary ny fiadanam'Andriamanitra, izay mihoatra ny fahatakarana rehetra, dia hiaro ny fonao sy ny sainao ao amin'i Kristy Jesoa."
+    },
+    {
+      "id": "25",
+      "titulo": "Josoa 1:9",
+      "contenido": "Efa nampanantena anao aho: Mahereza sy manam-pahasahiana! Aza matahotra na mivaky loha! Fa ny Tompo Andriamanitrao dia ho miaraka aminao na aiza na aiza halehanao."
+    },
+    {
+      "id": "26",
+      "titulo": "Isaia 40:31",
+      "contenido": "Fa ny izay matoky an'ny Tompo no ho hery vaovao; hanafotra toy ny oriaman-dohasaha izy ireo: hiakatra ary tsy ho reraka, handeha ary tsy ho reraka."
+    },
+    {
+      "id": "27",
+      "titulo": "Efesiana 2:9",
+      "contenido": "Tsy amin'ny asa, mba tsy hisy hidera ny tenany."
+    },
+    {
+      "id": "28",
+      "titulo": "Romana 6:23",
+      "contenido": "Fa ny karaman'ny fahotana dia fahafatesana, fa ny fanomezana avy amin'ny Andriamanitra dia fiainana mandrakizay ao amin'i Kristy Jesosy Tompontsika."
+    },
+    {
+      "id": "29",
+      "titulo": "Galatianina 5:23",
+      "contenido": "fahalemem-panahy sy fanaraha-maso ny tena. Tsy misy lalàna manameloka ireo zavatra ireo."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaia 53:5",
+      "contenido": "Fa izy no voa noho ny fandikan-tenanay, nofohaza noho ny fahotantsika: ny sazy ny fandriam-pahalemana amin'ny tenanay dia tao aminy, ary noho ny ratra nataony dia nahasitrana antsika."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Petera 3:15",
+      "contenido": "Fa ampioho ao am-ponao ny Kristy ho Tompo. Miomàna hatrany hanome valiny amin'izay rehetra mangataka aminao ny antony ny fanantenana izay ao aminao."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timoty 3:16",
+      "contenido": "Ny Soratra Masina rehetra dia avy amin'Andriamanitra ary mahasoa amin'ny fampianarana, fananarana, fanitsiana, ary fanabeazana amin'ny fahamarinana,"
+    },
+    {
+      "id": "33",
+      "titulo": "Matio 6:33",
+      "contenido": "Fa tadiavo aloha ny fanjakan'Andriamanitra sy ny fahamarinany, ary ho ampiana amin'izany rehetra izany."
+    },
+    {
+      "id": "34",
+      "titulo": "Hebreo 12:2",
+      "contenido": "Hamarino amin'i Jesoa, ny mpanorina sy mpamita ny finoana, izay noho ny fifaliana apetraka eo anatrehany dia nandefitra ny hazo fijaliana, manakivy ny fiononana, ary nipetraka eo amin'ny ankavanan'ny seza fiandrianan'Andriamanitra."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Petera 5:7",
+      "contenido": "Avelao amin'ny Tompo ny rehetra amin'ny ahiahy, satria mihevitra ny aminareo izy."
+    },
+    {
+      "id": "36",
+      "titulo": "Efesiana 2:10",
+      "contenido": "Fa isika dia asan'ny Andriamanitra, voaova ao amin'i Kristy Jesosy ho amin'ny asa tsara, izay namboarin'Andriamanitra hatramin'ny niandohany mba handeha amin'izany."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Korintiana 10:13",
+      "contenido": "Tsy nisy fakam-panahy tonga taminao izay tsy iainana amin'ny olombelona. Fa mahatoky Andriamanitra, ary tsy avelany ho voatery hiatrika ny fakam-panahy mihoatra noho ny hery anananao ianao. Fa rehefa tonga ny fakam-panahy, dia hanome lalana koa izy mba ho afaka hifanaraka."
+    },
+    {
+      "id": "38",
+      "titulo": "Matio 11:28",
+      "contenido": "Avia amin'ny ahy ianareo rehetra izay mitondra entana sy sarotra, ary izaho hanome anareo fialan-tsasatra."
+    },
+    {
+      "id": "39",
+      "titulo": "Hebreo 11:1",
+      "contenido": "Ankehitriny, ny finoana dia antoka amin'ny zavatra antenaina, fahatokisana amin'ny zavatra tsy hita."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Korintiana 5:17",
+      "contenido": "Koa raha misy ao amin'i Kristy, dia zavatra vaovao izy, ny zavatra taloha dia lasa, indreto, ny zavatra rehetra dia vaovao!"
+    },
+    {
+      "id": "41",
+      "titulo": "Hebreo 13:5",
+      "contenido": "Aza avela ho lavo amin'ny fitiavan'ny vola, ary mifanaraka amin'ny zavatra anananao, satria hoy Andriamanitra: «Tsy handao anao mihitsy aho; tsy hialanao mihitsy.»"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Korintiana 12:9",
+      "contenido": "fa hoy izy tamiko: «Amin'ny fahasoavako dia ampy ho anao, satria ny heriko dia manam-pahendrena amin'ny fahantrana.» Koa amin'ny fifaliana, dia ho faly aho manambara ny fahantrana misy ahy, mba hitoetra amin'ny ahy ny herin'i Kristy."
+    },
+    {
+      "id": "43",
+      "titulo": "Romana 10:9",
+      "contenido": "izay raha manambara amin'ny vavanao fa “Jesosy no Tompo”, ary mino ao am-ponao fa Andriamanitra nampiakatra azy tamin'ny maty, dia hovonjena ianao."
+    },
+    {
+      "id": "44",
+      "titulo": "Isaia 41:10",
+      "contenido": "Koa aza matahotra, satria izaho miaraka aminao; aza mitoky, satria izaho no Andriamanitrao. Hampahery anao aho ary hanampy anao, eny, hitazona anao amin'ny tanana ankavanana ahy."
+    },
+    {
+      "id": "45",
+      "titulo": "Genesisy 1:26",
+      "contenido": "Dia hoy Andriamanitra: Hanao ny olombelona ho sary sy endrikanay, ary hifehy ny hazandrano amin'ny ranomasina sy ny vorona any amin'ny lanitra, ny biby sy ny tany rehetra, ary ny biby rehetra izay mihetsika amin'ny tany."
+    },
+    {
+      "id": "46",
+      "titulo": "Matio 11:29",
+      "contenido": "Mitondrà ny fitondrana amin'ny ahy ary mianara amiko, satria malefaka sy manetry tena am-ponao aho, ary hahita fialan-tsasatra ho an'ny fanahinao ianao."
+    },
+    {
+      "id": "47",
+      "titulo": "Jaona 16:33",
+      "contenido": "Niteny anareo aho ireo zavatra ireo mba hahazoanareo fiadanana ao amiko. Ao amin'ity tontolo ity dia hahita fakam-panahy ianareo. Fa aza manahy! Nahavita ny tontolo aho."
+    },
+    {
+      "id": "48",
+      "titulo": "Asan'ny Apostoly 1:8",
+      "contenido": "Fa hahazo hery ianareo rehefa tonga aminao ny Fanahy Masina, ary ho vavolombelona amin'ny anarako ianareo any Jerosalema, any Judea rehetra, any Samaria, ary hatrany amin'ny faran'ny tany."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timoty 1:7",
+      "contenido": "Fa Andriamanitra tsy nomeny anay fanahy be fona, fa fanahy hery, fitiavana ary fahamailo."
+    },
+    {
+      "id": "50",
+      "titulo": "Isaia 53:4",
+      "contenido": "Azo antoka fa izy no nitondra ny aretintsika ary nanao vahaolana ny fahasahiranantsika, fa izahay kosa nihevitra azy ho voa noho ny fahotana, ho voa nanomboka amin'Andriamanitra, ary niavaka."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Korintianina 5:21",
+      "contenido": "Andriamanitra nanao ota ilay tsy nanana ota ho antsika, mba hahazoantsika ny fahamarinana avy amin'Andriamanitra ao aminy."
+    },
+    {
+      "id": "52",
+      "titulo": "Romanina 15:13",
+      "contenido": "Aoka ny Andriamanitra amin'ny fanantenana hanome anareo fahafaliana sy fiadanana amin'ny finoana, mba ho be dia be amin'ny fanantenana amin'ny herin'ny Fanahy Masina."
+    },
+    {
+      "id": "53",
+      "titulo": "Jaona 11:25",
+      "contenido": "Hoy Jesoa: “Izaho no famelomana sy fiainana. Izay mino ahy dia hiaina, na dia maty aza;"
+    },
+    {
+      "id": "54",
+      "titulo": "Hebreo 11:6",
+      "contenido": "Ary tsy misy finoana dia tsy mety hahaliana an'Andriamanitra, satria izay manatona an'Andriamanitra dia tokony hino fa izy misy ary manome valisoa ireo mitady azy."
+    },
+    {
+      "id": "55",
+      "titulo": "Jaona 5:24",
+      "contenido": "Lazao aminareo ny marina: izay mandre ny teniko sy mino amin'izay nandefa ahy dia manana fiainana mandrakizay ary tsy ho fitsarana, fa efa nandalo ny fahafatesana ho amin'ny fiainana."
+    },
+    {
+      "id": "56",
+      "titulo": "Jakoba 1:2",
+      "contenido": "Mahafoy ho fifaliana lehibe, ry rahalahy, rehefa mitranga ny fitsapana isan-karazany aminareo,"
+    },
+    {
+      "id": "57",
+      "titulo": "Isaia 53:6",
+      "contenido": "Isika rehetra, tahaka ny ondrin'ny ondry, dia nandao ny lalana ratsy, samy niala amin'ny lalany: fa Jhave no nitondra ny ota taminay rehetra."
+    },
+    {
+      "id": "58",
+      "titulo": "Asan'ny Apostoly 2:38",
+      "contenido": "Hoy Petera: “Mifona ianareo, ary asio batisa avy amin'ny anaran'i Jesosy Kristy ho famelan-keloka. Ary hahazo ny fanomezam-pahasoavana avy amin'ny Fanahy Masina ianareo."
+    },
+    {
+      "id": "59",
+      "titulo": "Efesianina 3:20",
+      "contenido": "Ary ho an'izay afaka manao zavatra be dia be kokoa noho ny izay angatahintsika na takatsika, araka ny herin'ny asa ao amintsika,"
+    },
+    {
+      "id": "60",
+      "titulo": "Matio 11:30",
+      "contenido": "satria ny tandrokaiko dia mora ary ny enta-mavesatra ataoko dia maivana."
+    },
+    {
+      "id": "61",
+      "titulo": "Genesisy 1:27",
+      "contenido": "Ary Andriamanitra nanao ny olona ho endriky ny tenany, endriky ny Andriamanitra no nanao azy, lahy sy vavy no nanao azy."
+    },
+    {
+      "id": "62",
+      "titulo": "Kolosianina 3:12",
+      "contenido": "Koa, toy ny voafidimandry an'Andriamanitra, masina sy tiana, amin'ny fitiavana be, ny hatsaram-panahy, ny fahamendrehana, ny fahalemem-panahy, ny faharetana."
+    },
+    {
+      "id": "63",
+      "titulo": "Hebreo 12:1",
+      "contenido": "Koa, amin'ny fanananay ireo vavolombelona be dia be manodidina antsika, aoka isika hiala amin'ny enta-mavesatra rehetra sy ny ota izay manakivy antsika, ary handeha amin'ny faharetana amin'ny hazakazaka eo alohan'ny misy antsika."
+    },
+    {
+      "id": "64",
+      "titulo": "Jakoba 5:16",
+      "contenido": "Mamelà ny fahotana misy amin'ny tsirairay aminareo, ary mivavaha ho an'ny tsirairay mba ho sitrana ianareo. Ny vavaka ny marina dia mahery sy mahomby."
+    },
+    {
+      "id": "65",
+      "titulo": "Asan'ny Apostoly 17:11",
+      "contenido": "Ary ireo dia nanana soatoavina kokoa noho ny any Tesalonika, satria nandray ny teny tamin'ny fitiavana tanteraka izy ireo, nanadihady isan'andro ny Soratra mba hahitana raha tokoa izany zavatra izany."
+    },
+    {
+      "id": "66",
+      "titulo": "Filipianina 4:19",
+      "contenido": "Ary Andriamanitra aho dia hanome ny filàna rehetra aminareo, araka ny harena amin'ny voninahitra ao amin'i Kristy Jesosy."
+    },
+    {
+      "id": "67",
+      "titulo": "Jaona 1:1",
+      "contenido": "Tamin'ny voalohany dia ny Teny, ary ny Teny dia niaraka tamin'Andriamanitra, ary ny Teny dia Andriamanitra."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Korintianina 6:19",
+      "contenido": "Tsy hainareo ve fa ny vatanao dia tempolin'ny Fanahy Masina, izay ao aminao, izay azonao avy amin'Andriamanitra? Tsy anananareo ny tenanareo;"
+    },
+    {
+      "id": "69",
+      "titulo": "1 Jaona 3:16",
+      "contenido": "Izany no nampahafantarantsika ny fitiavana: satria nanolotra ny ainy ho antsika i Jesoa Kristy. Koa tahaka izany ihany isika dia tokony hanolotra ny aintsika ho an'ny rahalahy."
+    },
+    {
+      "id": "70",
+      "titulo": "Salamo 133:1",
+      "contenido": "Mahay sy mahafinaritra ny ahafahan'ny rahalahy miara-mitovy am-pilaminana!"
+    },
+    {
+      "id": "71",
+      "titulo": "Jaona 14:27",
+      "contenido": "Ny fiadanana omeko anareo, ny fiadanako no omeko anareo. Tsy toy ny fomban'ny tany no omeko anareo. Aza avela ho tory ny fonao, na mitady hatahotra."
+    },
+    {
+      "id": "72",
+      "titulo": "Hebreo 4:12",
+      "contenido": "Satria ny teny avy amin'Andriamanitra dia velona sy mahomby. Ary mihoatra noho ny tsipìka roa dia tena maranitra, ary mandalo hatrany amin'ny fanapahana ny fanahy sy ny saina, ny taolana sy ny atiny, ary manavaka ny eritreritra sy ny tanjon'ny fona."
+    },
+    {
+      "id": "73",
+      "titulo": "Jaona 15:13",
+      "contenido": "Tsy misy fitiavana lehibe noho izao, fa ny iray manolotra ny ainy ho an'ny namany."
+    },
+    {
+      "id": "74",
+      "titulo": "Mikaha 6:8",
+      "contenido": "Efa nampahafantatra anao, ry olona, izay tsara. Ary inona no angatahin'i Jhave aminao? Fotsiny ny manao ny marina, ny manam-pitiavana, ary ny manetsetra ny tenanao eo anatrehan'Andriamanitrao."
+    },
+    {
+      "id": "75",
+      "titulo": "Romanina 10:17",
+      "contenido": "Noho izany, ny finoana dia avy amin'ny fihainoana, ary ny fihainoana, amin'ny teny Kristy."
+    },
+    {
+      "id": "76",
+      "titulo": "Jaona 1:12",
+      "contenido": "Fa ho an'ireo rehetra nandray azy, izay mino ny anarany, dia nomeny fahefana ho tonga zanak'Andriamanitra."
+    },
+    {
+      "id": "77",
+      "titulo": "Jakoba 1:12",
+      "contenido": "Tena sambatra ny lehilahy izay mahazaka ny fitsapana, satria rehefa afaka nandresy ny fitsapana, dia hahazo ny satroboninahitra amin'ny fiainana izay nomehin'Andriamanitra ho an'ireo tia azy."
+    },
+    {
+      "id": "78",
+      "titulo": "Jakoba 1:3",
+      "contenido": "Satria fantatrao fa ny fitsapana ny finoanareo dia miteraka faharetana."
+    },
+    {
+      "id": "79",
+      "titulo": "Romanina 8:38",
+      "contenido": "Satria matoky aho fa na ny fahafatesana na ny fiainana, na ny anjely na ny demaona, na ny zavatra efa misy na ny ho avy, na ny fahefana,"
+    },
+    {
+      "id": "80",
+      "titulo": "Romanina 8:39",
+      "contenido": "na ny avo na ny lalina, na zavatra hafa rehetra amin'ny famoronana, dia tsy afaka manaisotra antsika amin'ny fitiavan'Andriamanitra izay ao amin'i Kristy Jesosy Tompontsika."
+    },
+    {
+      "id": "81",
+      "titulo": "Hebreo 10:25",
+      "contenido": "Aza avela tsy hifangaro, tahaka ny fomba fanaon'ny sasany, fa manoro hevitra ny tsirairay, ary hatrany amin'ny mahita fa manakaiky ny andro izany."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Petera 1:4",
+      "contenido": "Koa Andriamanitra dia nomeny antsika ny fanamby sarobidy sy lehibe, mba hahafahantsika mandray anjara amin'ny toetra masina, rehefa nandositra ny faharatsiana eto amin'ny tany noho ny filàna."
+    },
+    {
+      "id": "83",
+      "titulo": "Filipianina 1:6",
+      "contenido": "Matoky aho fa izay nanomboka ny asa tsara ao aminao dia hampisy fahatanterahana izany mandra-pahatongan'ny andro Kristy Jesosy."
+    },
+    {
+      "id": "84",
+      "titulo": "Salamo 133:3",
+      "contenido": "Tahaka ny orana avy any Hebrona, midina eo amin'ny tendrombohitra Siona. Satria ao no mandefa ny fitahian'i Jhave, sy ny fiainana mandrakizay."
+    },
+    {
+      "id": "85",
+      "titulo": "Hebreo 4:16",
+      "contenido": "Aoka isika hifandray amin'ny seza fiandrianana ny fahasoavana amin'ny fahatokiana, mba hahazoantsika ny famindram-po sy hahitana ny fahasoavana hanampy antsika amin'ny fotoana ilàna izany."
+    },
+    {
+      "id": "86",
+      "titulo": "Salamo 37:4",
+      "contenido": "Mifalia amin'i Jhave, ary homeny anao ny fangatahanao."
+    },
+    {
+      "id": "87",
+      "titulo": "Jaona 3:17",
+      "contenido": "Satria Andriamanitra tsy naniraka ny Zanany ho eto an-tany mba hanameloka ny tany, fa mba hamehy azy amin'ny alalàn'io."
+    },
+    {
+      "id": "88",
+      "titulo": "Asan'ny Apostoly 4:12",
+      "contenido": "Tsy misy famonjena hafa, satria tsy misy anarana hafa eto ambonin'ny lanitra nomena ny olona, amin'ny alalàn'izany no ahafahantsika voavonjy."
+    },
+    {
+      "id": "89",
+      "titulo": "Isaia 26:3",
+      "contenido": "Hotehirizinao amin'ny fiadanana tanteraka izay manan-kery aminao, satria matoky aminao izy."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Petera 2:24",
+      "contenido": "Izy mihitsy no nitondra ny fahotanay tamin'ny tenany teo amin'ny hazo, mba isika, efa maty amin'ny fahotana, hiaina amin'ny fahamarinana, satria tamin'ny ratra nataony dia efa sitrana isika rehetra."
+    },
+    {
+      "id": "91",
+      "titulo": "Joshua 1:8",
+      "contenido": "Aza avela hiala amin'ny vavanareo ity boky lalàna ity; mivavaha aminy amin'ny andro sy alina, mba hitandremanao ny fanaovana izay rehetra voasoratra ao. Dia ho tsara vintana sy mahomby ianao."
+    },
+    {
+      "id": "92",
+      "titulo": "Matio 28:18",
+      "contenido": "Ary Jesoa nanatona ary niteny taminy hoe: Ny fahefana rehetra any an-danitra sy eto an-tany dia nomena ahy."
+    },
+    {
+      "id": "93",
+      "titulo": "Kolosianina 3:23",
+      "contenido": "Na inona na inona ataonareo, miasa amin'ny fo feno fitiavana, ho an'ny Tompo fa tsy ho an'ny olona,"
+    },
+    {
+      "id": "94",
+      "titulo": "Matio 22:37",
+      "contenido": "Hoy Jesoa: “Homena ny Tomponao Andriamanitra amin'ny fo rehetra, amin'ny fanahy rehetra ary amin'ny eritreritra rehetra.”"
+    },
+    {
+      "id": "95",
+      "titulo": "Salamo 133:2",
+      "contenido": "Tahaka ny menaka sarobidy eo an-dohako, izay midina eo amin'ny baran'Airona, hatrany amin'ny faran'ny fitafiany."
+    },
+    {
+      "id": "96",
+      "titulo": "Matio 5:16",
+      "contenido": "Tahaka izany, aoka hihazona ny hazavana ao anatinao eo anatrehan'ny olona, mba hahitan'izy ireo ny asa tsara nataonareo ary hanome voninahitra amin'ny Ray any an-danitra."
+    },
+    {
+      "id": "97",
+      "titulo": "Isaia 55:8",
+      "contenido": "Satria ny eritreritrao dia tsy ny eritreritrao, na ny lalanao dia tsy ny lalako, hoy ny TOMPO."
+    },
+    {
+      "id": "98",
+      "titulo": "Hebreo 4:15",
+      "contenido": "Satria tsy manana mpisorona lehibe izahay izay tsy afaka mahatsiaro ny fahalemenao, fa manana iray izay niharan'ny fitsapana amin'ny zava-drehetra, tahaka antsika, nefa tsy nanao ota."
+    },
+    {
+      "id": "99",
+      "titulo": "Jaona 13:35",
+      "contenido": "Amin'izao fomba izao dia ho fantatry ny rehetra fa mpianatry ny tenako ianareo, raha mifankatia ianareo."
+    }
+  ]
+}

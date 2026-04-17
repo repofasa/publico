@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "idioma": "es",
+      "titulo": "Obras de Misericordia",
+      "imagen": "obras.jpg",
+      "subtitulo": "Obras de misericordia corporales y espirituales",
+      "contenidotemp": "<p><strong>Las siete obras de misericordia corporales</strong><br><br>1. Visitar y cuidar a los enfermos.<br>2. Dar de comer al hambriento.<br>3. Dar de beber al sediento.<br>4. Dar posada al peregrino.<br>5. Vestir al desnudo.<br>6. Redimir al cautivo.<br>7. Enterrar a los muertos.<br><br><strong>Las siete obras de misericordia espirituales</strong><br><br>1. Enseñar al que no sabe.<br>2. Dar buen consejo al que lo necesita.<br>3. Corregir al que yerra.<br>4. Perdonar las injurias.<br>5. Consolar al triste.<br>6. Sufrir con paciencia los defectos de los demás.<br>7. Rogar a Dios por vivos y difuntos.</p>"
+    },
+    {
+      "id": "1",
+      "idioma": "en",
+      "titulo": "Corporal and Spiritual Works of Mercy",
+      "imagen": "obras.jpg",
+      "subtitulo": "Corporal and spiritual works of mercy",
+      "contenidotemp": "<p><strong>The Seven Corporal Works of Mercy</strong><br><br>1. Visit the sick.<br>2. Feed the hungry.<br>3. Give drink to the thirsty.<br>4. Shelter the homeless.<br>5. Clothe the naked.<br>6. Ransom the captive.<br>7. Bury the dead.<br><br><strong>The Seven Spiritual Works of Mercy</strong><br><br>1. Teach the ignorant.<br>2. Give advice to the doubtful.<br>3. Correct sinners.<br>4. Forgive offenses.<br>5. Comfort the afflicted.<br>6. Bear wrongs patiently.<br>7. Pray for the living and the dead.</p>"
+    },
+    {
+      "id": "2",
+      "idioma": "fr",
+      "titulo": "Œuvres de Miséricorde",
+      "imagen": "obras.jpg",
+      "subtitulo": "Œuvres corporelles et spirituelles de miséricorde",
+      "contenidotemp": "<p><strong>Les sept œuvres corporelles de miséricorde</strong><br><br>1. Visiter les malades.<br>2. Donner à manger aux affamés.<br>3. Donner à boire à ceux qui ont soif.<br>4. Héberger les sans-abri.<br>5. Vêtir les nus.<br>6. Racheter les captifs.<br>7. Enterrer les morts.<br><br><strong>Les sept œuvres spirituelles de miséricorde</strong><br><br>1. Enseigner aux ignorants.<br>2. Conseiller ceux qui en ont besoin.<br>3. Corriger les pécheurs.<br>4. Pardonner les offenses.<br>5. Consoler les affligés.<br>6. Supporter patiemment les défauts des autres.<br>7. Prier pour les vivants et les morts.</p>"
+    },
+    {
+      "id": "3",
+      "idioma": "it",
+      "titulo": "Opere di Misericordia",
+      "imagen": "obras.jpg",
+      "subtitulo": "Opere di misericordia corporali e spirituali",
+      "contenidotemp": "<p><strong>Le sette opere di misericordia corporale</strong><br><br>1. Visitare gli ammalati.<br>2. Dare da mangiare agli affamati.<br>3. Dare da bere agli assetati.<br>4. Accogliere i forestieri.<br>5. Vestire gli ignudi.<br>6. Liberare i prigionieri.<br>7. Seppellire i morti.<br><br><strong>Le sette opere di misericordia spirituale</strong><br><br>1. Insegnare agli ignoranti.<br>2. Dare buoni consigli.<br>3. Correggere i peccatori.<br>4. Perdonare le offese.<br>5. Consolare gli afflitti.<br>6. Sopportare pazientemente le ingiurie.<br>7. Pregare per i vivi e i morti.</p>"
+    },
+    {
+      "id": "4",
+      "idioma": "pt",
+      "titulo": "Obras de Misericórdia",
+      "imagen": "obras.jpg",
+      "subtitulo": "Obras de misericórdia corporais e espirituais",
+      "contenidotemp": "<p><strong>As sete obras de misericórdia corporais</strong><br><br>1. Visitar os enfermos.<br>2. Dar de comer aos famintos.<br>3. Dar de beber aos sedentos.<br>4. Acolher os peregrinos.<br>5. Vestir os nus.<br>6. Redimir os cativos.<br>7. Enterrar os mortos.<br><br><strong>As sete obras de misericórdia espirituais</strong><br><br>1. Ensinar os que não sabem.<br>2. Dar bons conselhos.<br>3. Corrigir os que erram.<br>4. Perdoar as ofensas.<br>5. Consolar os que estão tristes.<br>6. Sofrer com paciência as falhas dos outros.<br>7. Rezar por vivos e mortos.</p>"
+    },
+    {
+      "id": "5",
+      "idioma": "la",
+      "titulo": "Opera Misericordiae",
+      "imagen": "obras.jpg",
+      "subtitulo": "Opera misericordiae corporalia et spiritualia",
+      "contenidotemp": "<p><strong>Septem opera misericordiae corporalia</strong><br><br>1. Visitare aegrotos.<br>2. Cibum famelicis dare.<br>3. Potum sitientibus praebere.<br>4. Hospites recipere.<br>5. Nudos vestire.<br>6. Captivos redimere.<br>7. Defunctos sepelire.<br><br><strong>Septem opera misericordiae spiritualia</strong><br><br>1. Ignorantes docere.<br>2. Dubitantibus consilium dare.<br>3. Peccatores corrigere.<br>4. Offensas condonare.<br>5. Tristes consolari.<br>6. Patientiam sufferre.<br>7. Vivorum et mortuorum animas orare.</p>"
+    },
+    {
+      "id": "6",
+      "idioma": "mg",
+      "titulo": "Asa Fito",
+      "imagen": "obras.jpg",
+      "subtitulo": "Asa fepetra ho an'ny Katolika rehetra",
+      "contenidotemp": "<p><strong>Ny asa fito:</strong><br><br>1. Mijery ny marary.<br>2. Mihinana ny noana.<br>3. Manome rano ny misento.<br>4. Mandray ny mpizahatany.<br>5. Miakanjo ny tsy manana.<br>6. Manavotra ny voafonja.<br>7. Mandatsaka ny maty.<br><br><strong>Ny asa fito manampy ara-panahy:</strong><br><br>1. Mampianatra ny tsy mahalala.<br>2. Manome torohevitra amin'ny tsy mahafantatra.<br>3. Manitsy ny meloka.<br>4. Mandoa ny heloka.<br>5. Mampionona ny malahelo.<br>6. Mahazaka ny tsy fahalalana.<br>7. Mivavaka ho an'ny velona sy maty.</p>"
+    }
+  ]
+}

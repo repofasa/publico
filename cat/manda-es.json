@@ -1,0 +1,61 @@
+{
+  "data":
+  [
+    {
+      "id": "0",
+      "idioma": "es",
+      "titulo": "Los 10 Mandamientos",
+      "imagen": "mandamientos.jpg",
+      "subtitulo": "Todo católico debe conocer los mandamientos de Dios",
+      "contenidotemp": "<p><strong>Yo soy el Señor tu Dios: </strong></p><p>1. Amarás a Dios sobre todas las cosas.</p><p>2. No tomarás el nombre de Dios en vano.</p><p>3. Santificarás las fiestas</p><p>4. Honrarás a tu padre y a tu madre.</p><p>5. No matarás.</p><p>6. No cometerás actos impuros.</p><p>7. No robarás.</p><p>8. No darás falso testimonio ni mentirás.</p><p>9. No consentirás pensamientos ni deseos impuros.</p><p>10. No codiciarás los bienes ajenos.</p>"
+    },{
+      "id": "1",
+      "idioma": "en",
+      "titulo": "The 10 Commandments",
+      "imagen": "mandamientos.jpg",
+      "subtitulo": "Every Catholic should know the commandments of God",
+      "contenidotemp": "<p><strong>I am the Lord your God: </strong></p><p>1. You shall love God above all things.</p><p>2. You shall not take the name of God in vain.</p><p>3. Remember to keep holy the Lord’s day.</p><p>4. Honor your father and your mother.</p><p>5. You shall not kill.</p><p>6. You shall not commit adultery.</p><p>7. You shall not steal.</p><p>8. You shall not bear false witness against your neighbor.</p><p>9. You shall not covet your neighbor’s wife.</p><p>10. You shall not covet your neighbor’s goods.</p>"
+    },{
+      "id": "2",
+      "idioma": "fr",
+      "titulo": "Les 10 Commandements",
+      "imagen": "mandamientos.jpg",
+      "subtitulo": "Tout catholique doit connaître les commandements de Dieu",
+      "contenidotemp": "<p><strong>Je suis le Seigneur ton Dieu: </strong></p><p>1. Tu aimeras Dieu par-dessus tout.</p><p>2. Tu ne prononceras pas le nom de Dieu en vain.</p><p>3. Tu sanctifieras les jours de fête.</p><p>4. Tu honoreras ton père et ta mère.</p><p>5. Tu ne tueras point.</p><p>6. Tu ne commettras pas d'adultère.</p><p>7. Tu ne voleras point.</p><p>8. Tu ne porteras pas de faux témoignage contre ton prochain.</p><p>9. Tu ne convoiteras pas la femme de ton prochain.</p><p>10. Tu ne convoiteras pas les biens de ton prochain.</p>"
+    },{
+      "id": "3",
+      "idioma": "it",
+      "titulo": "I 10 Comandamenti",
+      "imagen": "mandamientos.jpg",
+      "subtitulo": "Ogni cattolico dovrebbe conoscere i comandamenti di Dio",
+      "contenidotemp": "<p><strong>Io sono il Signore Dio tuo: </strong></p><p>1. Amerai Dio sopra ogni cosa.</p><p>2. Non nominare il nome di Dio invano.</p><p>3. Ricordati di santificare le feste.</p><p>4. Onora tuo padre e tua madre.</p><p>5. Non uccidere.</p><p>6. Non commettere atti impuri.</p><p>7. Non rubare.</p><p>8. Non dire falsa testimonianza.</p><p>9. Non desiderare la donna d’altri.</p><p>10. Non desiderare la roba d’altri.</p>"
+    },{
+    "id": "4",
+    "idioma": "pt",
+    "titulo": "Os 10 Mandamentos",
+    "imagen": "mandamientos.jpg",
+    "subtitulo": "Todo católico deve conhecer os mandamentos de Deus",
+    "contenidotemp": "<p><strong>Eu sou o Senhor teu Deus: </strong></p><p>1. Amarás a Deus sobre todas as coisas.</p><p>2. Não tomarás o nome de Deus em vão.</p><p>3. Guardarás os dias de festa.</p><p>4. Honrarás teu pai e tua mãe.</p><p>5. Não matarás.</p><p>6. Não pecarás contra a castidade.</p><p>7. Não furtarás.</p><p>8. Não levantarás falso testemunho.</p><p>9. Não consentirás pensamentos nem desejos impuros.</p><p>10. Não cobiçarás os bens alheios.</p>"
+  },{
+    "id": "5",
+    "idioma": "la",
+    "titulo": "Decem Praecepta",
+    "imagen": "mandamientos.jpg",
+    "subtitulo": "Omnis catholicus praecepta Dei cognoscere debet",
+    "contenidotemp": "<p><strong> Ego sum Dominus Deus tuus: </strong></p><p>1. Diliges Dominum Deum tuum super omnia.</p><p>2. Non assumes nomen Domini Dei tui in vanum.</p><p>3. Memento ut diem sabbati sanctifices.</p><p>4. Honora patrem tuum et matrem tuam.</p><p>5. Non occides.</p><p>6. Non moechaberis.</p><p>7. Non furtum facies.</p><p>8. Non loqueris contra proximum tuum falsum testimonium.</p><p>9. Non concupisces uxorem proximi tui.</p><p>10. Non concupisces res proximi tui.</p>"
+  },{
+    "id": "6",
+    "idioma": "mg",
+    "titulo": "Ny Didy Folo",
+    "imagen": "mandamientos.jpg",
+    "subtitulo": "Tokony ho fantatry ny Katolika rehetra ny didin'Andriamanitra",
+    "contenidotemp": "<p><strong>Izaho no Tompo Andriamanitrao: </strong></p><p>1. Tiava an'Andriamanitra mihoatra noho ny zava-drehetra.</p><p>2. Aza manonona foana ny anaran'Andriamanitra.</p><p>3. Manamasìna ny andro fialan-tsasatra.</p><p>4. Hajao ny ray aman-dreninao.</p><p>5. Aza mamono olona.</p><p>6. Aza mijangajanga.</p><p>7. Aza mangalatra.</p><p>8. Aza milaza lainga manohitra ny namanao.</p><p>9. Aza mitsiriritra ny vadin'ny namanao.</p><p>10. Aza mitsiriritra ny fananan'ny hafa.</p>"
+  }
+  ]
+}
+
+
+
+
+
+

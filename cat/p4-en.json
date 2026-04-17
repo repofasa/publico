@@ -1,0 +1,506 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "John 3:16",
+      "contenido": "For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life."
+    },
+    {
+      "id": "1",
+      "titulo": "Jeremiah 29:11",
+      "contenido": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+    },
+    {
+      "id": "2",
+      "titulo": "Romans 8:28",
+      "contenido": "And we know that in all things God works for the good of those who love Him, who have been called according to His purpose."
+    },
+    {
+      "id": "3",
+      "titulo": "Philippians 4:13",
+      "contenido": "I can do all things through Christ who strengthens me."
+    },
+    {
+      "id": "4",
+      "titulo": "Genesis 1:1",
+      "contenido": "In the beginning God created the heavens and the earth."
+    },
+    {
+      "id": "5",
+      "titulo": "Proverbs 3:5",
+      "contenido": "Trust in the Lord with all your heart and lean not on your own understanding."
+    },
+    {
+      "id": "6",
+      "titulo": "Proverbs 3:6",
+      "contenido": "In all your ways acknowledge Him, and He will make your paths straight."
+    },
+    {
+      "id": "7",
+      "titulo": "Romans 12:2",
+      "contenido": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—His good, pleasing, and perfect will."
+    },
+    {
+      "id": "8",
+      "titulo": "Philippians 4:6",
+      "contenido": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+    },
+    {
+      "id": "9",
+      "titulo": "Matthew 28:19",
+      "contenido": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+    },
+    {
+      "id": "10",
+      "titulo": "Ephesians 2:8",
+      "contenido": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God."
+    },
+    {
+      "id": "11",
+      "titulo": "Galatians 5:22",
+      "contenido": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness."
+    },
+    {
+      "id": "12",
+      "titulo": "Romans 12:1",
+      "contenido": "Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship."
+    },
+    {
+      "id": "13",
+      "titulo": "John 10:10",
+      "contenido": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
+    },
+    {
+      "id": "14",
+      "titulo": "Acts 18:10",
+      "contenido": "For I am with you, and no one is going to attack and harm you, because I have many people in this city."
+    },
+    {
+      "id": "15",
+      "titulo": "Acts 18:9",
+      "contenido": "One night the Lord spoke to Paul in a vision: 'Do not be afraid; keep on speaking, do not be silent.'"
+    },
+    {
+      "id": "16",
+      "titulo": "Acts 18:11",
+      "contenido": "So Paul stayed in Corinth for a year and a half, teaching them the word of God."
+    },
+    {
+      "id": "17",
+      "titulo": "Galatians 2:20",
+      "contenido": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."
+    },
+    {
+      "id": "18",
+      "titulo": "1 John 1:9",
+      "contenido": "If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+    },
+    {
+      "id": "19",
+      "titulo": "Romans 3:23",
+      "contenido": "For all have sinned and fall short of the glory of God."
+    },
+    {
+      "id": "20",
+      "titulo": "John 14:6",
+      "contenido": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+    },
+    {
+      "id": "21",
+      "titulo": "Matthew 28:20",
+      "contenido": "Teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."
+    },
+    {
+      "id": "22",
+      "titulo": "Romans 5:8",
+      "contenido": "But God demonstrates His own love for us in this: While we were still sinners, Christ died for us."
+    },
+    {
+      "id": "23",
+      "titulo": "Philippians 4:8",
+      "contenido": "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."
+    },
+    {
+      "id": "24",
+      "titulo": "Philippians 4:7",
+      "contenido": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+    },
+    {
+      "id": "25",
+      "titulo": "Joshua 1:9",
+      "contenido": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+    },
+    {
+      "id": "26",
+      "titulo": "Isaiah 40:31",
+      "contenido": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+    },
+    {
+      "id": "27",
+      "titulo": "Ephesians 2:9",
+      "contenido": "Not by works, so that no one can boast."
+    },
+    {
+      "id": "28",
+      "titulo": "Romans 6:23",
+      "contenido": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+    },
+    {
+      "id": "29",
+      "titulo": "Galatians 5:23",
+      "contenido": "Gentleness and self-control. Against such things there is no law."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaiah 53:5",
+      "contenido": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Peter 3:15",
+      "contenido": "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timothy 3:16",
+      "contenido": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness."
+    },
+    {
+      "id": "33",
+      "titulo": "Matthew 6:33",
+      "contenido": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+    },
+    {
+      "id": "34",
+      "titulo": "Hebrews 12:2",
+      "contenido": "Fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him, he endured the cross, scorning its shame, and sat down at the right hand of the throne of God."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Peter 5:7",
+      "contenido": "Cast all your anxiety on him because he cares for you."
+    },
+    {
+      "id": "36",
+      "titulo": "Ephesians 2:10",
+      "contenido": "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Corinthians 10:13",
+      "contenido": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it."
+    },
+    {
+      "id": "38",
+      "titulo": "Matthew 11:28",
+      "contenido": "Come to me, all you who are weary and burdened, and I will give you rest."
+    },
+    {
+      "id": "39",
+      "titulo": "Hebrews 11:1",
+      "contenido": "Now faith is confidence in what we hope for and assurance about what we do not see."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Corinthians 5:17",
+      "contenido": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
+    },
+    {
+      "id": "41",
+      "titulo": "Hebrews 13:5",
+      "contenido": "Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Corinthians 12:9",
+      "contenido": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore, I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me."
+    },
+    {
+      "id": "43",
+      "titulo": "Romans 10:9",
+      "contenido": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
+    },
+    {
+      "id": "44",
+      "titulo": "Isaiah 41:10",
+      "contenido": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+    },
+    {
+      "id": "45",
+      "titulo": "Genesis 1:26",
+      "contenido": "Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.'"
+    },
+    {
+      "id": "46",
+      "titulo": "Matthew 11:29",
+      "contenido": "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls."
+    },
+    {
+      "id": "47",
+      "titulo": "John 16:33",
+      "contenido": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."
+    },
+    {
+      "id": "48",
+      "titulo": "Acts 1:8",
+      "contenido": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timothy 1:7",
+      "contenido": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
+    },
+    {
+      "id": "50",
+      "titulo": "Isaiah 53:4",
+      "contenido": "Surely he took up our pain and bore our suffering, yet we considered him punished by God, stricken by him, and afflicted."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Corinthians 5:21",
+      "contenido": "God made him who had no sin to be sin for us, so that in him we might become the righteousness of God."
+    },
+    {
+      "id": "52",
+      "titulo": "Romans 15:13",
+      "contenido": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+    },
+    {
+      "id": "53",
+      "titulo": "John 11:25",
+      "contenido": "Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die.'"
+    },
+    {
+      "id": "54",
+      "titulo": "Hebrews 11:6",
+      "contenido": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him."
+    },
+    {
+      "id": "55",
+      "titulo": "John 5:24",
+      "contenido": "Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life."
+    },
+    {
+      "id": "56",
+      "titulo": "James 1:2",
+      "contenido": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds."
+    },
+    {
+      "id": "57",
+      "titulo": "Isaiah 53:6",
+      "contenido": "We all, like sheep, have gone astray, each of us has turned to our own way; and the Lord has laid on him the iniquity of us all."
+    },
+    {
+      "id": "58",
+      "titulo": "Acts 2:38",
+      "contenido": "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.'"
+    },
+    {
+      "id": "59",
+      "titulo": "Ephesians 3:20",
+      "contenido": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us."
+    },
+    {
+      "id": "60",
+      "titulo": "Matthew 11:30",
+      "contenido": "For my yoke is easy and my burden is light."
+    },
+    {
+      "id": "61",
+      "titulo": "Genesis 1:27",
+      "contenido": "So God created mankind in his own image, in the image of God he created them; male and female he created them."
+    },
+    {
+      "id": "62",
+      "titulo": "Colossians 3:12",
+      "contenido": "Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness, and patience."
+    },
+    {
+      "id": "63",
+      "titulo": "Hebrews 12:1",
+      "contenido": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us."
+    },
+    {
+      "id": "64",
+      "titulo": "James 5:16",
+      "contenido": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective."
+    },
+    {
+      "id": "65",
+      "titulo": "Acts 17:11",
+      "contenido": "Now the Bereans were of more noble character than those in Thessalonica, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true."
+    },
+    {
+      "id": "66",
+      "titulo": "Philippians 4:19",
+      "contenido": "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
+    },
+    {
+      "id": "67",
+      "titulo": "John 1:1",
+      "contenido": "In the beginning was the Word, and the Word was with God, and the Word was God."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Corinthians 6:19",
+      "contenido": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own."
+    },
+    {
+      "id": "69",
+      "titulo": "1 John 3:16",
+      "contenido": "This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters."
+    },
+    {
+      "id": "70",
+      "titulo": "Psalm 133:1",
+      "contenido": "How good and pleasant it is when God’s people live together in unity!"
+    },
+    {
+      "id": "71",
+      "titulo": "John 14:27",
+      "contenido": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+    },
+    {
+      "id": "72",
+      "titulo": "Hebrews 4:12",
+      "contenido": "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart."
+    },
+    {
+      "id": "73",
+      "titulo": "John 15:13",
+      "contenido": "Greater love has no one than this: to lay down one’s life for one’s friends."
+    },
+    {
+      "id": "74",
+      "titulo": "Micah 6:8",
+      "contenido": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."
+    },
+    {
+      "id": "75",
+      "titulo": "Romans 10:17",
+      "contenido": "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."
+    },
+    {
+      "id": "76",
+      "titulo": "John 1:12",
+      "contenido": "Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God."
+    },
+    {
+      "id": "77",
+      "titulo": "James 1:12",
+      "contenido": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him."
+    },
+    {
+      "id": "78",
+      "titulo": "James 1:3",
+      "contenido": "Because you know that the testing of your faith produces perseverance."
+    },
+    {
+      "id": "79",
+      "titulo": "Romans 8:38",
+      "contenido": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers."
+    },
+    {
+      "id": "80",
+      "titulo": "Romans 8:39",
+      "contenido": "Neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+    },
+    {
+      "id": "81",
+      "titulo": "Hebrews 10:25",
+      "contenido": "Not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Peter 1:4",
+      "contenido": "Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires."
+    },
+    {
+      "id": "83",
+      "titulo": "Philippians 1:6",
+      "contenido": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
+    },
+    {
+      "id": "84",
+      "titulo": "Psalm 133:3",
+      "contenido": "It is as if the dew of Hermon were falling on Mount Zion. For there the Lord bestows his blessing, even life forevermore."
+    },
+    {
+      "id": "85",
+      "titulo": "Hebrews 4:16",
+      "contenido": "Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+    },
+    {
+      "id": "86",
+      "titulo": "Psalm 37:4",
+      "contenido": "Take delight in the Lord, and he will give you the desires of your heart."
+    },
+    {
+      "id": "87",
+      "titulo": "John 3:17",
+      "contenido": "For God did not send his Son into the world to condemn the world, but to save the world through him."
+    },
+    {
+      "id": "88",
+      "titulo": "Acts 4:12",
+      "contenido": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."
+    },
+    {
+      "id": "89",
+      "titulo": "Isaiah 26:3",
+      "contenido": "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Peter 2:24",
+      "contenido": "He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed."
+    },
+    {
+      "id": "91",
+      "titulo": "Joshua 1:8",
+      "contenido": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful."
+    },
+    {
+      "id": "92",
+      "titulo": "Matthew 28:18",
+      "contenido": "Then Jesus came to them and said, 'All authority in heaven and on earth has been given to me.'"
+    },
+    {
+      "id": "93",
+      "titulo": "Colossians 3:23",
+      "contenido": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+    },
+    {
+      "id": "94",
+      "titulo": "Matthew 22:37",
+      "contenido": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind.'"
+    },
+    {
+      "id": "95",
+      "titulo": "Psalm 133:2",
+      "contenido": "It is like precious oil poured on the head, running down on the beard, running down on Aaron’s beard, down on the collar of his robe."
+    },
+    {
+      "id": "96",
+      "titulo": "Matthew 5:16",
+      "contenido": "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven."
+    },
+    {
+      "id": "97",
+      "titulo": "Isaiah 55:8",
+      "contenido": "For my thoughts are not your thoughts, neither are your ways my ways,' declares the Lord."
+    },
+    {
+      "id": "98",
+      "titulo": "Hebrews 4:15",
+      "contenido": "For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin."
+    },
+    {
+      "id": "99",
+      "titulo": "John 13:35",
+      "contenido": "By this everyone will know that you are my disciples, if you love one another."
+    }
+  ]
+}

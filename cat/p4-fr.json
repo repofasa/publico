@@ -1,0 +1,506 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "Jean 3:16",
+      "contenido": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse pas, mais ait la vie éternelle."
+    },
+    {
+      "id": "1",
+      "titulo": "Jérémie 29:11",
+      "contenido": "Car je connais les plans que j'ai pour vous — dit l'Éternel — des plans de paix et non de malheur, pour vous donner un avenir et de l'espérance."
+    },
+    {
+      "id": "2",
+      "titulo": "Romains 8:28",
+      "contenido": "Nous savons, en effet, que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein."
+    },
+    {
+      "id": "3",
+      "titulo": "Philippiens 4:13",
+      "contenido": "Je puis tout par celui qui me fortifie."
+    },
+    {
+      "id": "4",
+      "titulo": "Genèse 1:1",
+      "contenido": "Au commencement, Dieu créa les cieux et la terre."
+    },
+    {
+      "id": "5",
+      "titulo": "Proverbes 3:5",
+      "contenido": "Fie-toi de tout ton cœur à l'Éternel, et ne t'appuie pas sur ta propre intelligence."
+    },
+    {
+      "id": "6",
+      "titulo": "Proverbes 3:6",
+      "contenido": "Reconnaît-le dans toutes tes voies, et il aplanira tes sentiers."
+    },
+    {
+      "id": "7",
+      "titulo": "Romains 12:2",
+      "contenido": "Ne vous conformez pas au siècle présent, mais soyez transformés par le renouvellement de l'intelligence, pour que vous discerniez quelle est la volonté de Dieu, ce qui est bon, agréable et parfait."
+    },
+    {
+      "id": "8",
+      "titulo": "Philippiens 4:6",
+      "contenido": "Ne vous inquiétez de rien ; mais en toutes choses, faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces."
+    },
+    {
+      "id": "9",
+      "titulo": "Matthieu 28:19",
+      "contenido": "Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit."
+    },
+    {
+      "id": "10",
+      "titulo": "Éphésiens 2:8",
+      "contenido": "Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu ;"
+    },
+    {
+      "id": "11",
+      "titulo": "Galates 5:22",
+      "contenido": "Mais le fruit de l'Esprit est amour, joie, paix, patience, bonté, bienveillance, fidélité,"
+    },
+    {
+      "id": "12",
+      "titulo": "Romains 12:1",
+      "contenido": "Je vous exhorte donc, frères, par les compassions de Dieu, à offrir vos corps comme un sacrifice vivant, saint, agréable à Dieu, ce qui sera de votre part un culte raisonnable."
+    },
+    {
+      "id": "13",
+      "titulo": "Jean 10:10",
+      "contenido": "Le voleur ne vient que pour dérober, égorger et détruire ; moi, je suis venu afin que les brebis aient la vie, et qu'elles l'aient en abondance."
+    },
+    {
+      "id": "14",
+      "titulo": "Actes 18:10",
+      "contenido": "Car je suis avec toi, et personne ne te touchera pour te faire du mal, car j'ai un grand peuple dans cette ville."
+    },
+    {
+      "id": "15",
+      "titulo": "Actes 18:9",
+      "contenido": "Une nuit, le Seigneur dit à Paul en vision : « Ne crains pas, mais parle et ne te tais pas,"
+    },
+    {
+      "id": "16",
+      "titulo": "Actes 18:11",
+      "contenido": "Paul demeura donc un an et six mois à enseigner parmi eux la parole de Dieu."
+    },
+    {
+      "id": "17",
+      "titulo": "Galates 2:20",
+      "contenido": "J'ai été crucifié avec Christ, et si je vis, ce n'est plus moi qui vis, c'est Christ qui vit en moi. Ce que je vis maintenant dans la chair, je le vis dans la foi du Fils de Dieu, qui m'a aimé et s'est livré lui-même pour moi."
+    },
+    {
+      "id": "18",
+      "titulo": "1 Jean 1:9",
+      "contenido": "Si nous confessons nos péchés, il est fidèle et juste pour nous pardonner nos péchés, et nous purifier de toute iniquité."
+    },
+    {
+      "id": "19",
+      "titulo": "Romains 3:23",
+      "contenido": "Car tous ont péché et sont privés de la gloire de Dieu,"
+    },
+    {
+      "id": "20",
+      "titulo": "Jean 14:6",
+      "contenido": "Jésus lui dit : « Je suis le chemin, la vérité et la vie. Personne ne vient au Père que par moi. »"
+    },
+    {
+      "id": "21",
+      "titulo": "Matthieu 28:20",
+      "contenido": "Enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde."
+    },
+    {
+      "id": "22",
+      "titulo": "Romains 5:8",
+      "contenido": "Mais Dieu prouve son amour envers nous en ce que, lorsque nous étions encore pécheurs, Christ est mort pour nous."
+    },
+    {
+      "id": "23",
+      "titulo": "Philippiens 4:8",
+      "contenido": "Enfin, frères, que tout ce qui est vrai, tout ce qui est respectable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui est de bonne réputation, s'il y a quelque vertu et s'il y a quelque louange, que cela occupe vos pensées."
+    },
+    {
+      "id": "24",
+      "titulo": "Philippiens 4:7",
+      "contenido": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ."
+    },
+    {
+      "id": "25",
+      "titulo": "Josué 1:9",
+      "contenido": "Je te l'ordonne : sois fort et courageux ! Ne t'effraie point et ne t'effrayez pas, car l'Éternel, ton Dieu, est avec toi partout où tu iras."
+    },
+    {
+      "id": "26",
+      "titulo": "Isaïe 40:31",
+      "contenido": "Mais ceux qui se confient en l'Éternel renouvellent leurs forces ; ils prennent leur envol comme des aigles ; ils courent et ne se fatiguent pas, ils marchent et ne se lassent pas."
+    },
+    {
+      "id": "27",
+      "titulo": "Éphésiens 2:9",
+      "contenido": "Non par les œuvres, afin que personne ne se glorifie."
+    },
+    {
+      "id": "28",
+      "titulo": "Romains 6:23",
+      "contenido": "Car le salaire du péché, c'est la mort ; mais le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ notre Seigneur."
+    },
+    {
+      "id": "29",
+      "titulo": "Galates 5:23",
+      "contenido": "la douceur et la maîtrise de soi. Il n'y a pas de loi contre ces choses."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaïe 53:5",
+      "contenido": "Mais il était blessé pour nos péchés, brisé pour nos iniquités ; le châtiment qui nous donne la paix est tombé sur lui, et c'est par ses blessures que nous sommes guéris."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Pierre 3:15",
+      "contenido": "Honorez plutôt Christ comme Seigneur dans vos cœurs. Soyez toujours prêts à répondre à quiconque vous demande raison de l'espérance qui est en vous."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timothée 3:16",
+      "contenido": "Toute Écriture est inspirée de Dieu et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice,"
+    },
+    {
+      "id": "33",
+      "titulo": "Matthieu 6:33",
+      "contenido": "Mais cherchez d'abord le royaume de Dieu et sa justice, et toutes ces choses vous seront données par-dessus."
+    },
+    {
+      "id": "34",
+      "titulo": "Hébreux 12:2",
+      "contenido": "Fixons les yeux sur Jésus, auteur et consommateur de la foi, qui, pour la joie qui lui était réservée, a enduré la croix, méprisant l'ignominie, et s'est assis à la droite du trône de Dieu."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Pierre 5:7",
+      "contenido": "Déchargez-vous sur lui de toutes vos inquiétudes, car lui-même prend soin de vous."
+    },
+    {
+      "id": "36",
+      "titulo": "Éphésiens 2:10",
+      "contenido": "Car nous sommes son ouvrage, créés en Christ Jésus pour de bonnes œuvres, que Dieu a préparées d'avance pour que nous marchions en elles."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Corinthiens 10:13",
+      "contenido": "Aucune tentation ne vous est survenue qui ne soit humaine. Dieu est fidèle, il ne permettra pas que vous soyez tentés au-delà de vos forces ; mais avec la tentation, il donnera aussi le moyen d'en sortir, afin que vous puissiez la supporter."
+    },
+    {
+      "id": "38",
+      "titulo": "Matthieu 11:28",
+      "contenido": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos."
+    },
+    {
+      "id": "39",
+      "titulo": "Hébreux 11:1",
+      "contenido": "Or la foi est la garantie des choses qu'on espère, la conviction de celles qu'on ne voit pas."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Corinthiens 5:17",
+      "contenido": "Si quelqu'un est en Christ, il est une nouvelle créature ; les choses anciennes sont passées, voici toutes choses sont devenues nouvelles !"
+    },
+    {
+      "id": "41",
+      "titulo": "Hébreux 13:5",
+      "contenido": "Que votre conduite ne soit pas motivée par l'amour de l'argent, soyez contents de ce que vous avez, car Dieu a dit : « Je ne te laisserai pas, je ne t'abandonnerai pas. »"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Corinthiens 12:9",
+      "contenido": "Mais il m'a dit : « Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse. » C'est pourquoi je me glorifie bien plutôt de mes faiblesses, afin que la puissance de Christ repose sur moi."
+    },
+    {
+      "id": "43",
+      "titulo": "Romains 10:9",
+      "contenido": "Si tu confesses de ta bouche que « Jésus est Seigneur », et que tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé."
+    },
+    {
+      "id": "44",
+      "titulo": "Ésaïe 41:10",
+      "contenido": "Ne crains rien, car je suis avec toi ; ne sois pas inquiet, car je suis ton Dieu. Je te fortifie, je viens à ton secours, je te soutiens de ma main droite."
+    },
+    {
+      "id": "45",
+      "titulo": "Genèse 1:26",
+      "contenido": "Puis Dieu dit : Faisons l'homme à notre image, selon notre ressemblance ; qu'il domine sur les poissons de la mer, les oiseaux du ciel, le bétail, toute la terre et tous les reptiles qui rampent sur la terre."
+    },
+    {
+      "id": "46",
+      "titulo": "Matthieu 11:29",
+      "contenido": "Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de cœur, et vous trouverez le repos pour vos âmes."
+    },
+    {
+      "id": "47",
+      "titulo": "Jean 16:33",
+      "contenido": "Je vous ai dit ces choses afin que vous ayez la paix en moi. Vous aurez des tribulations dans le monde. Mais prenez courage ! J'ai vaincu le monde."
+    },
+    {
+      "id": "48",
+      "titulo": "Actes 1:8",
+      "contenido": "Mais vous recevrez une puissance lorsque le Saint-Esprit viendra sur vous ; et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu'aux extrémités de la terre."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timothée 1:7",
+      "contenido": "Car Dieu ne nous a pas donné un esprit de timidité, mais un esprit de puissance, d'amour et de maîtrise de soi."
+    },
+    {
+      "id": "50",
+      "titulo": "Ésaïe 53:4",
+      "contenido": "En effet, il a porté nos maladies et supporté nos douleurs ; et nous l'avons considéré comme puni, frappé de Dieu et affligé."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Corinthiens 5:21",
+      "contenido": "Celui qui n'a pas connu le péché, Dieu l'a fait péché pour nous, afin que nous devenions en lui justice de Dieu."
+    },
+    {
+      "id": "52",
+      "titulo": "Romains 15:13",
+      "contenido": "Que le Dieu de l'espérance vous remplisse de toute joie et paix dans la foi, pour que vous abondiez en espérance par la puissance du Saint-Esprit."
+    },
+    {
+      "id": "53",
+      "titulo": "Jean 11:25",
+      "contenido": "Jésus lui dit : « Je suis la résurrection et la vie. Celui qui croit en moi vivra, même s'il meurt ;"
+    },
+    {
+      "id": "54",
+      "titulo": "Hébreux 11:6",
+      "contenido": "Or, sans la foi, il est impossible de plaire à Dieu ; car il faut que celui qui s'approche de Dieu croie qu'il existe et qu'il récompense ceux qui le cherchent."
+    },
+    {
+      "id": "55",
+      "titulo": "Jean 5:24",
+      "contenido": "En vérité, en vérité, je vous le dis, celui qui entend ma parole et croit en celui qui m'a envoyé a la vie éternelle et ne vient pas en jugement, mais il est passé de la mort à la vie."
+    },
+    {
+      "id": "56",
+      "titulo": "Jacques 1:2",
+      "contenido": "Considérez comme une grande joie, mes frères, les diverses épreuves auxquelles vous pouvez être confrontés,"
+    },
+    {
+      "id": "57",
+      "titulo": "Ésaïe 53:6",
+      "contenido": "Nous étions tous comme des brebis égarées, chacun suivait sa propre voie ; et l'Éternel a fait retomber sur lui l'iniquité de nous tous."
+    },
+    {
+      "id": "58",
+      "titulo": "Actes 2:38",
+      "contenido": "Pierre leur dit : « Repentez-vous, et que chacun de vous soit baptisé au nom de Jésus-Christ pour le pardon de vos péchés ; et vous recevrez le don du Saint-Esprit."
+    },
+    {
+      "id": "59",
+      "titulo": "Éphésiens 3:20",
+      "contenido": "À celui qui peut faire infiniment au-delà de tout ce que nous demandons ou pensons, selon la puissance qui agit en nous,"
+    },
+    {
+      "id": "60",
+      "titulo": "Matthieu 11:30",
+      "contenido": "car mon joug est facile et mon fardeau léger."
+    },
+    {
+      "id": "61",
+      "titulo": "Genèse 1:27",
+      "contenido": "Et Dieu créa l'homme à son image, à l'image de Dieu il le créa, mâle et femelle il les créa."
+    },
+    {
+      "id": "62",
+      "titulo": "Colossiens 3:12",
+      "contenido": "Ainsi donc, comme les élus de Dieu, saints et bien-aimés, revêtez-vous de sentiments de miséricorde, de bonté, d'humilité, de douceur, de patience."
+    },
+    {
+      "id": "63",
+      "titulo": "Hébreux 12:1",
+      "contenido": "Nous aussi, donc, ayant autour de nous une si grande nuée de témoins, dépouillons-nous de tout poids et du péché qui nous assiège, et courons avec persévérance la course qui est devant nous."
+    },
+    {
+      "id": "64",
+      "titulo": "Jacques 5:16",
+      "contenido": "Confessez-vous vos fautes les uns aux autres, et priez les uns pour les autres, afin que vous soyez guéris. La prière du juste est efficace et puissante."
+    },
+    {
+      "id": "65",
+      "titulo": "Actes 17:11",
+      "contenido": "Ces gens étaient plus nobles que ceux de Thessalonique, car ils reçurent la parole avec beaucoup de zèle, en examinant chaque jour les Écritures pour voir si ces choses étaient bien ainsi."
+    },
+    {
+      "id": "66",
+      "titulo": "Philippiens 4:19",
+      "contenido": "Et mon Dieu pourvoira à tous vos besoins selon sa richesse avec gloire en Jésus-Christ."
+    },
+    {
+      "id": "67",
+      "titulo": "Jean 1:1",
+      "contenido": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Corinthiens 6:19",
+      "contenido": "Ne savez-vous pas que votre corps est le temple du Saint-Esprit, qui est en vous, que vous avez reçu de Dieu ? Vous n'êtes pas à vous-mêmes ;"
+    },
+    {
+      "id": "69",
+      "titulo": "1 Jean 3:16",
+      "contenido": "Voici comment nous avons connu l'amour : en ce que Jésus-Christ a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour les frères."
+    },
+    {
+      "id": "70",
+      "titulo": "Psaume 133:1",
+      "contenido": "Voici, oh ! qu'il est bon et agréable pour des frères de demeurer ensemble dans l'unité !"
+    },
+    {
+      "id": "71",
+      "titulo": "Jean 14:27",
+      "contenido": "Je vous laisse la paix, je vous donne ma paix. Je ne vous la donne pas comme le monde la donne. Que votre cœur ne se trouble point, et ne s'alarme point."
+    },
+    {
+      "id": "72",
+      "titulo": "Hébreux 4:12",
+      "contenido": "Car la parole de Dieu est vivante et efficace. Elle est plus tranchante qu'une épée à deux tranchants, pénétrant jusqu'à diviser l'âme et l'esprit, les articulations et les moelles, et elle discerne les pensées et les intentions du cœur."
+    },
+    {
+      "id": "73",
+      "titulo": "Jean 15:13",
+      "contenido": "Il n'y a pas de plus grand amour que de donner sa vie pour ses amis."
+    },
+    {
+      "id": "74",
+      "titulo": "Michée 6:8",
+      "contenido": "On t'a fait connaître, ô homme, ce qui est bien. Et que demande l'Éternel de toi ? Seulement faire justice, aimer la miséricorde, et marcher humblement avec ton Dieu."
+    },
+    {
+      "id": "75",
+      "titulo": "Romains 10:17",
+      "contenido": "Ainsi la foi vient de ce qu'on entend, et ce qu'on entend vient de la parole de Christ."
+    },
+    {
+      "id": "76",
+      "titulo": "Jean 1:12",
+      "contenido": "Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le droit de devenir enfants de Dieu."
+    },
+    {
+      "id": "77",
+      "titulo": "Jacques 1:12",
+      "contenido": "Heureux l'homme qui endure la tentation, car après avoir été éprouvé, il recevra la couronne de vie que Dieu a promise à ceux qui l'aiment."
+    },
+    {
+      "id": "78",
+      "titulo": "Jacques 1:3",
+      "contenido": "Sachant que l'épreuve de votre foi produit la patience."
+    },
+    {
+      "id": "79",
+      "titulo": "Romains 8:38",
+      "contenido": "Car je suis persuadé que ni la mort ni la vie, ni les anges ni les dominations, ni les choses présentes ni les choses à venir, ni les puissances,"
+    },
+    {
+      "id": "80",
+      "titulo": "Romains 8:39",
+      "contenido": "ni la hauteur ni la profondeur, ni aucune autre chose dans toute la création, ne pourra nous séparer de l'amour de Dieu qui est en Jésus-Christ notre Seigneur."
+    },
+    {
+      "id": "81",
+      "titulo": "Hébreux 10:25",
+      "contenido": "Ne cessons pas de nous réunir, comme c'est la coutume de certains, mais exhortons-nous les uns les autres, et cela d'autant plus que vous voyez que le jour approche."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Pierre 1:4",
+      "contenido": "Ainsi Dieu nous a donné ses précieuses et très grandes promesses, afin que par elles vous deveniez participants de la nature divine, ayant fui la corruption qui est dans le monde à cause de la convoitise."
+    },
+    {
+      "id": "83",
+      "titulo": "Philippiens 1:6",
+      "contenido": "Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la perfectionnera jusqu'au jour de Jésus-Christ."
+    },
+    {
+      "id": "84",
+      "titulo": "Psaume 133:3",
+      "contenido": "C'est comme le rosée de l'Hermon, qui descend sur les montagnes de Sion. Car là l'Éternel envoie la bénédiction, la vie éternelle."
+    },
+    {
+      "id": "85",
+      "titulo": "Hébreux 4:16",
+      "contenido": "Approchons-nous donc avec assurance du trône de la grâce, afin que nous recevions miséricorde et trouvions grâce pour être secourus dans nos besoins."
+    },
+    {
+      "id": "86",
+      "titulo": "Psaume 37:4",
+      "contenido": "Fais de l'Éternel tes délices, et il te donnera ce que ton cœur désire."
+    },
+    {
+      "id": "87",
+      "titulo": "Jean 3:17",
+      "contenido": "Car Dieu n'a pas envoyé son Fils dans le monde pour condamner le monde, mais pour que le monde soit sauvé par lui."
+    },
+    {
+      "id": "88",
+      "titulo": "Actes 4:12",
+      "contenido": "Il n'y a de salut en aucun autre, car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés."
+    },
+    {
+      "id": "89",
+      "titulo": "Ésaïe 26:3",
+      "contenido": "Tu garderas dans une paix parfaite celui dont l'esprit s'appuie sur toi, parce qu'il se confie en toi."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Pierre 2:24",
+      "contenido": "Lui-même a porté nos péchés dans son corps sur le bois, afin que, morts aux péchés, nous vivions pour la justice ; c'est par ses blessures que vous avez été guéris."
+    },
+    {
+      "id": "91",
+      "titulo": "Josué 1:8",
+      "contenido": "Que ce livre de la loi ne s'éloigne point de ta bouche ; médite-le jour et nuit, afin de veiller à faire tout ce qui est écrit dans ce livre. Alors tu réussiras et tu prospéreras."
+    },
+    {
+      "id": "92",
+      "titulo": "Matthieu 28:18",
+      "contenido": "Et Jésus s'approcha et leur parla, disant : Toute autorité m'a été donnée dans le ciel et sur la terre."
+    },
+    {
+      "id": "93",
+      "titulo": "Colossiens 3:23",
+      "contenido": "Tout ce que vous faites, faites-le de bon cœur, comme pour le Seigneur et non pour des hommes,"
+    },
+    {
+      "id": "94",
+      "titulo": "Matthieu 22:37",
+      "contenido": "Jésus lui dit : Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée."
+    },
+    {
+      "id": "95",
+      "titulo": "Psaume 133:2",
+      "contenido": "C'est comme l'huile précieuse sur la tête, qui descend sur la barbe, la barbe d'Aaron, jusqu'au bord de ses vêtements."
+    },
+    {
+      "id": "96",
+      "titulo": "Matthieu 5:16",
+      "contenido": "Que votre lumière brille ainsi devant les hommes, afin qu'ils voient vos bonnes œuvres et glorifient votre Père qui est dans les cieux."
+    },
+    {
+      "id": "97",
+      "titulo": "Ésaïe 55:8",
+      "contenido": "Car mes pensées ne sont pas vos pensées, et vos chemins ne sont pas mes chemins, dit l'Éternel."
+    },
+    {
+      "id": "98",
+      "titulo": "Hébreux 4:15",
+      "contenido": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses, mais un qui a été tenté en toutes choses comme nous, sans péché."
+    },
+    {
+      "id": "99",
+      "titulo": "Jean 13:35",
+      "contenido": "À ceci tous connaîtront que vous êtes mes disciples, si vous avez de l'amour les uns pour les autres."
+    }
+  ]
+}

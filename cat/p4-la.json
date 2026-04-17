@@ -1,0 +1,506 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "Ioannis 3:16",
+      "contenido": "Sic Deus dilexit mundum ut Filium suum unigenitum daret, ut omnis qui credit in ipsum non pereat, sed habeat vitam aeternam."
+    },
+    {
+      "id": "1",
+      "titulo": "Jeremiae 29:11",
+      "contenido": "Quoniam ego scio cogitationes quas cogito de vobis, dicit Dominus, cogitationes pacis et non mali, ut dem vobis finem et spem."
+    },
+    {
+      "id": "2",
+      "titulo": "Romani 8:28",
+      "contenido": "Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, his qui secundum propositum vocati sunt sancti."
+    },
+    {
+      "id": "3",
+      "titulo": "Philippenses 4:13",
+      "contenido": "Omnia possum in eo qui me confortat."
+    },
+    {
+      "id": "4",
+      "titulo": "Genesis 1:1",
+      "contenido": "In principio creavit Deus caelum et terram."
+    },
+    {
+      "id": "5",
+      "titulo": "Proverbia 3:5",
+      "contenido": "Confide in Domino ex toto corde tuo, et ne innitaris prudentiae tuae."
+    },
+    {
+      "id": "6",
+      "titulo": "Proverbia 3:6",
+      "contenido": "In omnibus viis tuis cogita eum, et ipse diriget semitas tuas."
+    },
+    {
+      "id": "7",
+      "titulo": "Romani 12:2",
+      "contenido": "Et nolite conformari huic saeculo, sed transformamini renovatione sensus vestri, ut probetis quae sit voluntas Dei, bona et beneplacens et perfecta."
+    },
+    {
+      "id": "8",
+      "titulo": "Philippenses 4:6",
+      "contenido": "Nihil solliciti sitis, sed in omni oratione et supplicatione cum gratiarum actione petitiones vestrae innotescant apud Deum."
+    },
+    {
+      "id": "9",
+      "titulo": "Matthaei 28:19",
+      "contenido": "Euntes ergo docete omnes gentes, baptizantes eos in nomine Patris, et Filii, et Spiritus Sancti."
+    },
+    {
+      "id": "10",
+      "titulo": "Ephesii 2:8",
+      "contenido": "Gratia enim estis salvati per fidem; et hoc non ex vobis, Dei donum est."
+    },
+    {
+      "id": "11",
+      "titulo": "Galatae 5:22",
+      "contenido": "Fructus autem Spiritus est caritas, gaudium, pax, patientia, benignitas, bonitas, fides,"
+    },
+    {
+      "id": "12",
+      "titulo": "Romani 12:1",
+      "contenido": "Rogo ergo vos, fratres, per misericordias Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, placentem Deo, rationabile obsequium vestrum."
+    },
+    {
+      "id": "13",
+      "titulo": "Ioannis 10:10",
+      "contenido": "Fur non venit nisi ut furetur, et mactet, et perdat; ego veni ut vitam habeant, et abundantius habeant."
+    },
+    {
+      "id": "14",
+      "titulo": "Actuum 18:10",
+      "contenido": "Ego enim tecum sum, et nemo te laedet; quoniam populum multum habeo in civitate hac."
+    },
+    {
+      "id": "15",
+      "titulo": "Actuum 18:9",
+      "contenido": "Nocte autem Dominus dixit Paulo in visione: Ne timeas; loquere et ne taceas,"
+    },
+    {
+      "id": "16",
+      "titulo": "Actuum 18:11",
+      "contenido": "Permansit autem Paulus annos et sex menses, docens inter eos verbum Dei."
+    },
+    {
+      "id": "17",
+      "titulo": "Galatae 2:20",
+      "contenido": "Cum Christo crucifixus sum; vivo autem, iam non ego, vivit vero in me Christus. Quod autem nunc vivo in carne, in fide vivo Filii Dei, qui dilexit me et seipsum tradidit pro me."
+    },
+    {
+      "id": "18",
+      "titulo": "1 Ioannis 1:9",
+      "contenido": "Si confiteamur peccata nostra, fidelis est et iustus, ut dimittat nobis peccata nostra et mundet nos ab omni iniquitate."
+    },
+    {
+      "id": "19",
+      "titulo": "Romani 3:23",
+      "contenido": "Omnes enim peccaverunt, et egent gloria Dei,"
+    },
+    {
+      "id": "20",
+      "titulo": "Ioannis 14:6",
+      "contenido": "Dicit ei Iesus: Ego sum via, veritas et vita. Nemo venit ad Patrem, nisi per me."
+    },
+    {
+      "id": "21",
+      "titulo": "Matthaei 28:20",
+      "contenido": "Docentes eos servare omnia quaecumque mandavi vobis. Et ecce ego vobiscum sum omnes dies usque ad consummationem saeculi."
+    },
+    {
+      "id": "22",
+      "titulo": "Romani 5:8",
+      "contenido": "Deus autem suum demonstrat caritatem in nobis, quoniam cum adhuc peccatores essemus, Christus pro nobis mortuus est."
+    },
+    {
+      "id": "23",
+      "titulo": "Philippenses 4:8",
+      "contenido": "Denique fratres, quaequaecumque vera, quaequaecumque pudica, quaequaecumque iusta, quaequaecumque pura, quaequaecumque amabilia, quaequaecumque digna laude, si qua virtus, si qua laus, haec cogitate."
+    },
+    {
+      "id": "24",
+      "titulo": "Philippenses 4:7",
+      "contenido": "Et pax Dei, quae exsuperat omnem sensum, custodiet corda vestra et intelligentias vestras in Christo Iesu."
+    },
+    {
+      "id": "25",
+      "titulo": "Iosue 1:9",
+      "contenido": "Praecepit tibi: Fortis esto et robustus! Noli timere neque formidare; quia Dominus Deus tuus tecum est quocumque perveneris."
+    },
+    {
+      "id": "26",
+      "titulo": "Isaiae 40:31",
+      "contenido": "Qui autem sperant in Domino renovabunt vires suas; sicut aquilae ascendent; current et non laborabunt, ambulabunt et non deficient."
+    },
+    {
+      "id": "27",
+      "titulo": "Ephesii 2:9",
+      "contenido": "Non ex operibus, ut ne quis glorietur."
+    },
+    {
+      "id": "28",
+      "titulo": "Romani 6:23",
+      "contenido": "Stipendia enim peccati mors; gratia autem Dei vita aeterna in Christo Iesu Domino nostro."
+    },
+    {
+      "id": "29",
+      "titulo": "Galatae 5:23",
+      "contenido": "Humilitas et continentia. Contra eiusmodi non est lex."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaiae 53:5",
+      "contenido": "Ipse vero vulneratus est propter iniquitates nostras, confractus est propter scelera nostra: disciplina pacis nostrae super eum, et livore eius sanati sumus."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Petri 3:15",
+      "contenido": "Dominum autem Christum sanctificate in cordibus vestris. Parati semper ad defensionem rationis in vobis spei, quae est in vobis."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timothei 3:16",
+      "contenido": "Omnis Scriptura divinitus inspirata est et utilis ad docendum, ad arguentum, ad corrigendum, ad erudiendum in iustitia,"
+    },
+    {
+      "id": "33",
+      "titulo": "Matthaei 6:33",
+      "contenido": "Sed quaerite primum regnum Dei et iustitiam eius, et haec omnia adicientur vobis."
+    },
+    {
+      "id": "34",
+      "titulo": "Hebraei 12:2",
+      "contenido": "Intuemur Iesum, auctorem et consummatorem fidei, qui pro gaudio posito ante se sustinuit crucem, despiciens opprobrium, et sedit ad dexteram throni Dei."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Petri 5:7",
+      "contenido": "Omnem curam vestram in eum infundentes, quoniam ipsi cura est de vobis."
+    },
+    {
+      "id": "36",
+      "titulo": "Ephesii 2:10",
+      "contenido": "Ipsius enim sumus factio, creati in Christo Iesu ad bona opera, quae praeparavit Deus ut in illis ambulemus."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Corinthii 10:13",
+      "contenido": "Tentatio vos non apprehendit nisi humana. Fidelis autem Deus, qui non patietur vos tentari supra id quod potestis, sed faciet ut cum tentatione etiam exitum faciat, ut possitis sustinere."
+    },
+    {
+      "id": "38",
+      "titulo": "Matthaei 11:28",
+      "contenido": "Venite ad me omnes qui laboratis et onerati estis, et ego reficiam vos."
+    },
+    {
+      "id": "39",
+      "titulo": "Hebraei 11:1",
+      "contenido": "Fides est autem substantia sperandarum rerum, argumentum non apparentium."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Corinthii 5:17",
+      "contenido": "Si ergo quis in Christo est, nova creatura; vetera transierunt; ecce facta sunt omnia nova."
+    },
+    {
+      "id": "41",
+      "titulo": "Hebraeorum 13:5",
+      "contenido": "Averto vos ab amore pecuniae, contenti sitis iis quae habetis; ipse enim dixit: «Numquam te deseram; nec derelinquam te.»"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Corinthii 12:9",
+      "contenido": "Dixit autem mihi: «Sufficit tibi gratia mea, nam virtus in infirmitate perficitur.» Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi."
+    },
+    {
+      "id": "43",
+      "titulo": "Romani 10:9",
+      "contenido": "Quod si confitearis in ore tuo Iesum Dominum esse, et credideris in corde tuo quod Deus illum suscitavit a mortuis, salvus eris."
+    },
+    {
+      "id": "44",
+      "titulo": "Isaiae 41:10",
+      "contenido": "Noli timere, quia ego tecum sum; noli formidare, quia ego sum Deus tuus. Confirmabo te et adiuvo te, et sustentabo te cum dextera iustitiae meae."
+    },
+    {
+      "id": "45",
+      "titulo": "Genesis 1:26",
+      "contenido": "Dixitque Deus: Faciamus hominem ad imaginem nostram, secundum similitudinem nostram; et praesit piscibus maris, et avibus caeli, et bestiis, universae terrae, omnique reptili quod movetur super terram."
+    },
+    {
+      "id": "46",
+      "titulo": "Matthaei 11:29",
+      "contenido": "Accipite iugum meum super vos et discite a me, quia mitis sum et humilis corde; et invenietis requiem animabus vestris."
+    },
+    {
+      "id": "47",
+      "titulo": "Ioannis 16:33",
+      "contenido": "Haec locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis; sed confidite, ego vici mundum."
+    },
+    {
+      "id": "48",
+      "titulo": "Actus Apostolorum 1:8",
+      "contenido": "Sed accipietis virtutem, cum venerit Spiritus Sanctus super vos, et eritis mihi testes in Hierusalem, et in omni Judaea, et Samaria, usque ad extremum terrae."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timothei 1:7",
+      "contenido": "Non enim dedit nobis Deus spiritum timoris, sed virtutis et dilectionis et sobrietatis."
+    },
+    {
+      "id": "50",
+      "titulo": "Isaiae 53:4",
+      "contenido": "Ipse vere tulit infirmitates nostras et dolores nostros portavit; nos autem aestimavimus eum percusum a Deo, percussum et afflictum."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Corinthii 5:21",
+      "contenido": "Qui non noverat peccatum, pro nobis peccatum fecit, ut nos iustitia Dei in ipso essemus."
+    },
+    {
+      "id": "52",
+      "titulo": "Romani 15:13",
+      "contenido": "Deus autem spei impleat vos omni gaudio et pace in credendo, ut abundetis in spe, per virtutem Spiritus Sancti."
+    },
+    {
+      "id": "53",
+      "titulo": "Ioannis 11:25",
+      "contenido": "Dixit ei Iesus: «Ego sum resurrectio et vita; qui credit in me, etiam si mortuus fuerit, vivet.»"
+    },
+    {
+      "id": "54",
+      "titulo": "Hebraeorum 11:6",
+      "contenido": "Sine fide autem impossibile est placere Deo; oportet enim eum qui accedit ad Deum credere quod sit, et remunerator sit eorum qui quaerunt eum."
+    },
+    {
+      "id": "55",
+      "titulo": "Ioannis 5:24",
+      "contenido": "Amen, amen dico vobis: Qui audit sermonem meum et credit ei qui misit me, habet vitam aeternam et in iudicium non venit, sed transiit a morte in vitam."
+    },
+    {
+      "id": "56",
+      "titulo": "Iacobi 1:2",
+      "contenido": "Omne gaudium existimate, fratres mei, cum in variis tentationibus incideritis,"
+    },
+    {
+      "id": "57",
+      "titulo": "Isaiae 53:6",
+      "contenido": "Omnes nos quasi oves erravimus; unusquisque in viam suam declinavit: et Dominus in eum impetum omnium nostrorum peccatorum posuit."
+    },
+    {
+      "id": "58",
+      "titulo": "Actus Apostolorum 2:38",
+      "contenido": "Petrus autem dixit eis: «Poenitentiam agite, et baptizetur unusquisque vestrum in nomine Iesu Christi in remissionem peccatorum; et accipietis donum Spiritus Sancti.»"
+    },
+    {
+      "id": "59",
+      "titulo": "Ephesii 3:20",
+      "contenido": "Ei autem, qui potest superabundare omnibus, quae petimus aut intelligimus, secundum virtutem quae operatur in nobis,"
+    },
+    {
+      "id": "60",
+      "titulo": "Matthaei 11:30",
+      "contenido": "Iugum enim meum suave est et onus meum leve."
+    },
+    {
+      "id": "61",
+      "titulo": "Genesis 1:27",
+      "contenido": "Creavit ergo Deus hominem ad imaginem suam, ad imaginem Dei creavit eum, masculum et feminam creavit eos."
+    },
+    {
+      "id": "62",
+      "titulo": "Colossenses 3:12",
+      "contenido": "Itaque sicut electi Dei, sancti et dilecti, misericordia affectu, benignitate, humilitate, mansuetudine, patientia."
+    },
+    {
+      "id": "63",
+      "titulo": "Hebraeorum 12:1",
+      "contenido": "Itaque, habentes circum nos tot tanta testium nube, deponamus omne pondus et peccatum quod nos obsidet, et per patientiam cursum nobis proponendum curramus."
+    },
+    {
+      "id": "64",
+      "titulo": "Iacobi 5:16",
+      "contenido": "Confitemini alterutrum peccata vestra, et orate pro invicem, ut sanemini. Multum valet deprecatio iusti, operans perficienter."
+    },
+    {
+      "id": "65",
+      "titulo": "Actus Apostolorum 17:11",
+      "contenido": "Isti autem erant nobiles magis quam illi Thessalonicenses, qui receperunt verbum cum omni alacritate, scrutantes quotidie Scripturas, si haec ita se haberent."
+    },
+    {
+      "id": "66",
+      "titulo": "Philippenses 4:19",
+      "contenido": "Et Deus meus omnem necessitatem vestram implement secundum divitias suas in gloria in Christo Iesu."
+    },
+    {
+      "id": "67",
+      "titulo": "Ioannis 1:1",
+      "contenido": "In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Corinthii 6:19",
+      "contenido": "Nescitis quia corpus vestrum templum est Spiritus Sancti qui in vobis est, quem habetis a Deo? Non estis vosmet ipsi."
+    },
+    {
+      "id": "69",
+      "titulo": "1 Ioannis 3:16",
+      "contenido": "In hoc cognovimus caritatem: quia Christus pro nobis animam suam posuit. Et nos debemus pro fratribus animas nostras ponere."
+    },
+    {
+      "id": "70",
+      "titulo": "Psalmi 133:1",
+      "contenido": "Ecce quam bonum et iucundum habitare fratres in unum."
+    },
+    {
+      "id": "71",
+      "titulo": "Ioannis 14:27",
+      "contenido": "Pax relinquo vobis, pacem meam do vobis. Non sicut mundus dat, ego do vobis. Non turbetur cor vestrum, neque formidet."
+    },
+    {
+      "id": "72",
+      "titulo": "Hebraeorum 4:12",
+      "contenido": "Vivens enim est sermo Dei et efficax et penetrabilior omni gladio ancipiti, et pertingens usque ad divisionem animae et spiritus, compagum et medullarum, et discretor cogitationum et intentionum cordis."
+    },
+    {
+      "id": "73",
+      "titulo": "Ioannis 15:13",
+      "contenido": "Maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis."
+    },
+    {
+      "id": "74",
+      "titulo": "Michaeae 6:8",
+      "contenido": "Indicavit tibi, homo, quid sit bonum; et quid postulat Dominus a te, nisi ut iustitiam facias, et diligat misericordiam, et humiliter ambules cum Deo tuo?"
+    },
+    {
+      "id": "75",
+      "titulo": "Romani 10:17",
+      "contenido": "Ita fides ex auditu, auditus autem per verbum Christi."
+    },
+    {
+      "id": "76",
+      "titulo": "Ioannis 1:12",
+      "contenido": "Quantos autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui credunt in nomine eius,"
+    },
+    {
+      "id": "77",
+      "titulo": "Iacobi 1:12",
+      "contenido": "Beatus vir qui suffert temptationem, quoniam cum probatus fuerit accipiet coronam vitae, quam promisit Deus his qui diligunt eum."
+    },
+    {
+      "id": "78",
+      "titulo": "Iacobi 1:3",
+      "contenido": "Scientes quoniam probatio fidei vestrae patientiam operatur."
+    },
+    {
+      "id": "79",
+      "titulo": "Romani 8:38",
+      "contenido": "Certus sum enim quoniam neque mors, neque vita, neque angeli, neque principatus, neque potestas, neque futura, neque alta, neque profunda,"
+    },
+    {
+      "id": "80",
+      "titulo": "Romani 8:39",
+      "contenido": "nec ullum creaturae, poterit nos separare a dilectione Dei, quae est in Christo Iesu Domino nostro."
+    },
+    {
+      "id": "81",
+      "titulo": "Hebraeorum 10:25",
+      "contenido": "Non deseramus congregationes nostras, sicut est consuetudo aliorum, sed exhortemur invicem, et tanto magis quanto videtis diem illam appropinquare."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Petrus 1:4",
+      "contenido": "Quas autem pretiosas et magnas promissiones donavit nobis Deus, ut per eas fieremus consortes divinae naturae, fugientes corruptelam quae in mundo est in concupiscentia."
+    },
+    {
+      "id": "83",
+      "titulo": "Philippenses 1:6",
+      "contenido": "Confidens hoc ipsum, quia qui coepit in vobis bonum opus, perficiet usque in diem Christi Iesu."
+    },
+    {
+      "id": "84",
+      "titulo": "Psalmi 133:3",
+      "contenido": "Sicut ros Hermon, qui descendit super montem Sion. Ibi enim mandavit Dominus benedictionem, vitam usque in aeternum."
+    },
+    {
+      "id": "85",
+      "titulo": "Hebraeorum 4:16",
+      "contenido": "Accedamus ergo cum fiducia ad thronum gratiae, ut misericordiam consequamur et gratiam inveniendum ad auxilium opportunum."
+    },
+    {
+      "id": "86",
+      "titulo": "Psalmi 37:4",
+      "contenido": "Delectare in Domino, et dabit tibi petitiones cordis tui."
+    },
+    {
+      "id": "87",
+      "titulo": "Ioannis 3:17",
+      "contenido": "Non enim misit Deus Filium suum in mundum ut iudicet mundum, sed ut salvetur mundus per ipsum."
+    },
+    {
+      "id": "88",
+      "titulo": "Actus Apostolorum 4:12",
+      "contenido": "Et non est in aliquo alio salus, nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri."
+    },
+    {
+      "id": "89",
+      "titulo": "Isaias 26:3",
+      "contenido": "Tu servabis in pace perfecta animam, cui est intentio tua, quia in te speravit."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Petrus 2:24",
+      "contenido": "Ipse peccata nostra in corpore suo ad lignum tulit, ut nos peccatis mortui, iustitiae vivamus, cuius plagis sanati estis."
+    },
+    {
+      "id": "91",
+      "titulo": "Iosue 1:8",
+      "contenido": "Non discedat liber legis huius ex ore tuo, sed meditaberis in eo die ac nocte, ut custodiatur faciendum omnia quae scripta sunt in eo. Tunc eris prosperus et sapiens."
+    },
+    {
+      "id": "92",
+      "titulo": "Matthaeus 28:18",
+      "contenido": "Et accedens Iesus locutus est eis dicens: Data est mihi omnis potestas in caelo et in terra."
+    },
+    {
+      "id": "93",
+      "titulo": "Colossenses 3:23",
+      "contenido": "Omnia quaecumque facitis, ex animo facite, quasi Domino et non hominibus,"
+    },
+    {
+      "id": "94",
+      "titulo": "Matthaeus 22:37",
+      "contenido": "Iesus autem dixit ei: Diliges Dominum Deum tuum ex toto corde tuo et ex tota anima tua et ex tota mente tua."
+    },
+    {
+      "id": "95",
+      "titulo": "Psalmi 133:2",
+      "contenido": "Sicut oleum pretiosum in capite, quod descendit in barbam, barbam Aaron, quod descendit in oram vestimentorum eius."
+    },
+    {
+      "id": "96",
+      "titulo": "Matthaeus 5:16",
+      "contenido": "Sic luceat lux vestra coram hominibus, ut videant opera vestra bona et glorificent Patrem vestrum qui in caelis est."
+    },
+    {
+      "id": "97",
+      "titulo": "Isaias 55:8",
+      "contenido": "Quoniam non sunt cogitationes meae cogitationes vestrae, neque viae meae viae vestrae, dicit Dominus."
+    },
+    {
+      "id": "98",
+      "titulo": "Hebraeorum 4:15",
+      "contenido": "Non enim habemus pontificem qui non possit compati infirmitatibus nostris, sed tentatum per omnia pro nobis, absque peccato."
+    },
+    {
+      "id": "99",
+      "titulo": "Ioannis 13:35",
+      "contenido": "In hoc cognoscent omnes quia mei discipuli estis, si dilexeritis invicem."
+    }
+  ]
+}

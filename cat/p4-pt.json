@@ -1,0 +1,511 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "João 3:16",
+      "contenido": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+    },
+    {
+      "id": "1",
+      "titulo": "Jeremias 29:11",
+      "contenido": "Porque eu sei bem os planos que tenho para vocês — afirma o Senhor — planos de bem-estar e não de calamidade, para dar-lhes um futuro e uma esperança."
+    },
+    {
+      "id": "2",
+      "titulo": "Romanos 8:28",
+      "contenido": "Sabemos que Deus faz todas as coisas cooperarem para o bem daqueles que o amam, dos que foram chamados segundo o seu propósito."
+    },
+    {
+      "id": "3",
+      "titulo": "Filipenses 4:13",
+      "contenido": "Tudo posso naquele que me fortalece."
+    },
+    {
+      "id": "4",
+      "titulo": "Gênesis 1:1",
+      "contenido": "No princípio Deus criou os céus e a terra."
+    },
+    {
+      "id": "5",
+      "titulo": "Provérbios 3:5",
+      "contenido": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."
+    },
+    {
+      "id": "6",
+      "titulo": "Provérbios 3:6",
+      "contenido": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+    },
+    {
+      "id": "7",
+      "titulo": "Romanos 12:2",
+      "contenido": "Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente. Assim vocês serão capazes de experimentar e comprovar qual é a boa, agradável e perfeita vontade de Deus."
+    },
+    {
+      "id": "8",
+      "titulo": "Filipenses 4:6",
+      "contenido": "Não andem ansiosos por coisa alguma; antes, em tudo, pela oração e súplica, apresentem seus pedidos a Deus, e a paz de Deus, que excede todo entendimento, guardará o coração e a mente de vocês em Cristo Jesus."
+    },
+    {
+      "id": "9",
+      "titulo": "Mateus 28:19",
+      "contenido": "Portanto, ide e fazei discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo."
+    },
+    {
+      "id": "10",
+      "titulo": "Efésios 2:8",
+      "contenido": "Porque pela graça sois salvos, mediante a fé; e isto não vem de vós, é dom de Deus;"
+    },
+    {
+      "id": "11",
+      "titulo": "Gálatas 5:22",
+      "contenido": "Mas o fruto do Espírito é amor, alegria, paz, paciência, benignidade, bondade, fidelidade,"
+    },
+    {
+      "id": "12",
+      "titulo": "Romanos 12:1",
+      "contenido": "Portanto, irmãos, rogo-vos pelas misericórdias de Deus que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+    },
+    {
+      "id": "13",
+      "titulo": "João 10:10",
+      "contenido": "O ladrão vem apenas para roubar, matar e destruir; eu vim para que tenham vida e a tenham em abundância."
+    },
+    {
+      "id": "14",
+      "titulo": "Atos 18:10",
+      "contenido": "Porque eu estou contigo, e ninguém te fará mal, porque tenho muito povo nesta cidade."
+    },
+    {
+      "id": "15",
+      "titulo": "Atos 18:9",
+      "contenido": "Uma noite, o Senhor falou a Paulo em uma visão: “Não temas, continua a falar e não te cales,"
+    },
+    {
+      "id": "16",
+      "titulo": "Atos 18:11",
+      "contenido": "E Paulo ficou ali um ano e seis meses, ensinando entre eles a palavra de Deus."
+    },
+    {
+      "id": "17",
+      "titulo": "Gálatas 2:20",
+      "contenido": "Fui crucificado com Cristo e já não sou eu quem vive, mas Cristo vive em mim. E a vida que agora vivo na carne, vivo-a na fé do Filho de Deus, que me amou e se entregou por mim."
+    },
+    {
+      "id": "18",
+      "titulo": "1 João 1:9",
+      "contenido": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
+    },
+    {
+      "id": "19",
+      "titulo": "Romanos 3:23",
+      "contenido": "Pois todos pecaram e carecem da glória de Deus,"
+    },
+    {
+      "id": "20",
+      "titulo": "João 14:6",
+      "contenido": "Respondeu Jesus: “Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim."
+    },
+    {
+      "id": "21",
+      "titulo": "Mateus 28:20",
+      "contenido": "ensinando-os a guardar todas as coisas que vos tenho ordenado. E eis que estou convosco todos os dias, até o fim do mundo."
+    },
+    {
+      "id": "22",
+      "titulo": "Romanos 5:8",
+      "contenido": "Mas Deus demonstra seu amor por nós, em que Cristo morreu por nós, sendo nós ainda pecadores."
+    },
+    {
+      "id": "23",
+      "titulo": "Filipenses 4:8",
+      "contenido": "Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude e se há algum louvor, nisso pensai."
+    },
+    {
+      "id": "24",
+      "titulo": "Filipenses 4:7",
+      "contenido": "E a paz de Deus, que excede todo entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus."
+    },
+    {
+      "id": "25",
+      "titulo": "Josué 1:9",
+      "contenido": "Não te ordenei eu? Sê forte e corajoso! Não temas, nem te espantes, porque o Senhor teu Deus é contigo por onde quer que andares.”"
+    },
+    {
+      "id": "26",
+      "titulo": "Isaías 40:31",
+      "contenido": "Mas os que esperam no Senhor renovarão as suas forças; subirão com asas como as águias; correrão, e não se cansarão; caminharão e não se fatigarão."
+    },
+    {
+      "id": "27",
+      "titulo": "Efésios 2:9",
+      "contenido": "Não por obras, para que ninguém se glorie."
+    },
+    {
+      "id": "28",
+      "titulo": "Romanos 6:23",
+      "contenido": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor."
+    },
+    {
+      "id": "29",
+      "titulo": "Gálatas 5:23",
+      "contenido": "mansidão e domínio próprio. Contra essas coisas não há lei."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaías 53:5",
+      "contenido": "Mas ele foi ferido pelas nossas transgressões, moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas feridas fomos sarados."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Pedro 3:15",
+      "contenido": "Antes, santificai a Cristo, como Senhor, em vossos corações, estando sempre prontos para responder a todo aquele que vos pedir a razão da esperança que há em vós."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timóteo 3:16",
+      "contenido": "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a instrução em justiça,"
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timóteo 3:16",
+      "contenido": "Toda a Escritura é inspirada por Deus e útil para ensinar, para repreender, para corrigir e para instruir na justiça."
+    },
+    {
+      "id": "33",
+      "titulo": "Mateus 6:33",
+      "contenido": "Mas, buscai primeiro o reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas."
+    },
+    {
+      "id": "34",
+      "titulo": "Hebreus 12:2",
+      "contenido": "Fixemos os olhos em Jesus, o autor e consumador da fé, o qual, pela alegria que lhe fora proposta, suportou a cruz, desprezando a vergonha, e assentou-se à direita do trono de Deus."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Pedro 5:7",
+      "contenido": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+    },
+    {
+      "id": "36",
+      "titulo": "Efésios 2:10",
+      "contenido": "Porque somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus preparou de antemão para que andássemos nelas."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Coríntios 10:13",
+      "contenido": "Vocês não passaram por nenhuma tentação que não seja comum aos homens. Mas Deus é fiel, e não permitirá que vocês sejam tentados além do que podem suportar. Pelo contrário, quando forem tentados, ele providenciará um escape para que o possam suportar."
+    },
+    {
+      "id": "38",
+      "titulo": "Mateus 11:28",
+      "contenido": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei."
+    },
+    {
+      "id": "39",
+      "titulo": "Hebreus 11:1",
+      "contenido": "Ora, a fé é a certeza de que haveremos de receber o que esperamos e a prova das coisas que não vemos."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Coríntios 5:17",
+      "contenido": "Portanto, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram, eis que tudo se fez novo!"
+    },
+    {
+      "id": "41",
+      "titulo": "Hebreus 13:5",
+      "contenido": "Conservem-se livres do amor ao dinheiro e contentem-se com o que vocês têm, porque Deus disse: «Nunca te deixarei; jamais te abandonarei.»"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Coríntios 12:9",
+      "contenido": "Mas ele me disse: «A minha graça te basta, pois o meu poder se aperfeiçoa na fraqueza.» Portanto, de bom grado me gloriarei nas minhas fraquezas, para que o poder de Cristo repouse em mim."
+    },
+    {
+      "id": "43",
+      "titulo": "Romanos 10:9",
+      "contenido": "Se você confessar com a sua boca que 'Jesus é Senhor' e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo."
+    },
+    {
+      "id": "44",
+      "titulo": "Isaías 41:10",
+      "contenido": "Não temas, pois eu estou contigo; não te assombres, porque eu sou o teu Deus. Eu te fortalecerei e te ajudarei; eu te sustentarei com a destra da minha justiça."
+    },
+    {
+      "id": "45",
+      "titulo": "Gênesis 1:26",
+      "contenido": "Então disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; domine ele sobre os peixes do mar, sobre as aves dos céus, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra."
+    },
+    {
+      "id": "46",
+      "titulo": "Mateus 11:29",
+      "contenido": "Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e encontrareis descanso para as vossas almas."
+    },
+    {
+      "id": "47",
+      "titulo": "João 16:33",
+      "contenido": "Eu vos disse essas coisas para que em mim vocês tenham paz. Neste mundo vocês terão aflições. Mas animem-se! Eu venci o mundo."
+    },
+    {
+      "id": "48",
+      "titulo": "Atos 1:8",
+      "contenido": "Mas vocês receberão poder ao descer sobre vós o Espírito Santo, e serão minhas testemunhas em Jerusalém, em toda a Judeia, em Samaria, e até os confins da terra."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timóteo 1:7",
+      "contenido": "Porque Deus não nos deu um espírito de covardia, mas de poder, de amor e de moderação."
+    },
+    {
+      "id": "50",
+      "titulo": "Isaías 53:4",
+      "contenido": "Certamente ele tomou sobre si as nossas enfermidades e sobre si levou as nossas dores, contudo nós o consideramos castigado por Deus, por ele atingido e afligido."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Coríntios 5:21",
+      "contenido": "Deus tornou pecado aquele que não tinha pecado por nós, para que nele nos tornássemos justiça de Deus."
+    },
+    {
+      "id": "52",
+      "titulo": "Romanos 15:13",
+      "contenido": "Que o Deus da esperança vos encha de toda alegria e paz por crerdes, para que transbordeis em esperança pelo poder do Espírito Santo."
+    },
+    {
+      "id": "53",
+      "titulo": "João 11:25",
+      "contenido": "Disse-lhe Jesus: 'Eu sou a ressurreição e a vida. Aquele que crê em mim viverá, mesmo que morra.'"
+    },
+    {
+      "id": "54",
+      "titulo": "Hebreus 11:6",
+      "contenido": "Ora, sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam."
+    },
+    {
+      "id": "55",
+      "titulo": "João 5:24",
+      "contenido": "Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não será julgado, mas passou da morte para a vida."
+    },
+    {
+      "id": "56",
+      "titulo": "Tiago 1:2",
+      "contenido": "Meus irmãos, tende por motivo de grande alegria o fato de passardes por várias provações,"
+    },
+    {
+      "id": "57",
+      "titulo": "Isaías 53:6",
+      "contenido": "Todos nós, tal como ovelhas, nos desviamos, cada um se voltou para o seu próprio caminho; e o Senhor fez cair sobre ele a iniquidade de todos nós."
+    },
+    {
+      "id": "58",
+      "titulo": "Atos 2:38",
+      "contenido": "Pedro respondeu: 'Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para o perdão dos pecados, e recebereis o dom do Espírito Santo.'"
+    },
+    {
+      "id": "59",
+      "titulo": "Efésios 3:20",
+      "contenido": "Ora, àquele que é capaz de fazer infinitamente mais do que tudo o que pedimos ou pensamos, de acordo com o seu poder que opera em nós,"
+    },
+    {
+      "id": "60",
+      "titulo": "Mateus 11:30",
+      "contenido": "Pois o meu jugo é suave e o meu fardo é leve."
+    },
+    {
+      "id": "61",
+      "titulo": "Gênesis 1:27",
+      "contenido": "Assim Deus criou o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou."
+    },
+    {
+      "id": "62",
+      "titulo": "Colossenses 3:12",
+      "contenido": "Portanto, como eleitos de Deus, santos e amados, revesti-vos de compaixão, bondade, humildade, mansidão e paciência."
+    },
+    {
+      "id": "63",
+      "titulo": "Hebreus 12:1",
+      "contenido": "Portanto, também nós, uma vez que estamos rodeados de tão grande nuvem de testemunhas, deixemos de lado todo peso e o pecado que tão firmemente nos prende, e corramos com perseverança a corrida que nos está proposta."
+    },
+    {
+      "id": "64",
+      "titulo": "Tiago 5:16",
+      "contenido": "Confessai os vossos pecados uns aos outros, e orai uns pelos outros, para que sejais curados. A oração de um justo é poderosa e eficaz."
+    },
+    {
+      "id": "65",
+      "titulo": "Atos 17:11",
+      "contenido": "Os bereanos eram mais nobres do que os tessalonicenses, pois receberam a palavra com grande interesse, examinando as Escrituras todos os dias para ver se tudo era assim mesmo."
+    },
+    {
+      "id": "66",
+      "titulo": "Filipenses 4:19",
+      "contenido": "O meu Deus suprirá todas as vossas necessidades, de acordo com as suas riquezas em glória, em Cristo Jesus."
+    },
+    {
+      "id": "67",
+      "titulo": "João 1:1",
+      "contenido": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Coríntios 6:19",
+      "contenido": "Não sabeis que o vosso corpo é templo do Espírito Santo, que está em vós e que recebestes de Deus? Vocês não são de vocês mesmos;"
+    },
+    {
+      "id": "69",
+      "titulo": "1 João 3:16",
+      "contenido": "Nisto conhecemos o que é o amor: Jesus Cristo deu a sua vida por nós; e devemos dar a nossa vida pelos irmãos."
+    },
+    {
+      "id": "70",
+      "titulo": "Salmo 133:1",
+      "contenido": "Como é bom e agradável quando os irmãos vivem em união!"
+    },
+    {
+      "id": "71",
+      "titulo": "João 14:27",
+      "contenido": "Deixo-vos a paz; a minha paz vos dou. Eu não a dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize."
+    },
+    {
+      "id": "72",
+      "titulo": "Hebreus 4:12",
+      "contenido": "Pois a palavra de Deus é viva e eficaz, e mais afiada que qualquer espada de dois gumes, penetrando até ao ponto de dividir alma e espírito, juntas e medulas, e é apta para discernir os pensamentos e intenções do coração."
+    },
+    {
+      "id": "73",
+      "titulo": "João 15:13",
+      "contenido": "Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos."
+    },
+    {
+      "id": "74",
+      "titulo": "Miquéias 6:8",
+      "contenido": "Ele te declarou, ó homem, o que é bom. E o que o Senhor requer de ti? Somente que pratiques a justiça, ames a misericórdia e andes humildemente com o teu Deus."
+    },
+    {
+      "id": "75",
+      "titulo": "Romanos 10:17",
+      "contenido": "Assim, a fé vem pelo ouvir, e o ouvir, pela palavra de Cristo."
+    },
+    {
+      "id": "76",
+      "titulo": "João 1:12",
+      "contenido": "Mas a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que crêem no seu nome."
+    },
+    {
+      "id": "77",
+      "titulo": "Tiago 1:12",
+      "contenido": "Bem-aventurado o homem que suporta a tentação, porque, quando for provado, receberá a coroa da vida, que o Senhor prometeu aos que o amam."
+    },
+    {
+      "id": "78",
+      "titulo": "Tiago 1:3",
+      "contenido": "Sabendo que a prova da vossa fé produz paciência."
+    },
+    {
+      "id": "79",
+      "titulo": "Romanos 8:38",
+      "contenido": "Porque estou certo de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,"
+    },
+    {
+      "id": "80",
+      "titulo": "Romanos 8:39",
+      "contenido": "nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus, nosso Senhor."
+    },
+    {
+      "id": "81",
+      "titulo": "Hebreus 10:25",
+      "contenido": "Não deixemos de nos congregar, como é costume de alguns, mas exortemo-nos uns aos outros, tanto mais quanto vedes que o dia se aproxima."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Pedro 1:4",
+      "contenido": "Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas vos torneis participantes da natureza divina, tendo escapado da corrupção que há no mundo pela concupiscência."
+    },
+    {
+      "id": "83",
+      "titulo": "Filipenses 1:6",
+      "contenido": "Estou certo disto: que aquele que começou a boa obra em vós há de completá-la até ao dia de Cristo Jesus."
+    },
+    {
+      "id": "84",
+      "titulo": "Salmo 133:3",
+      "contenido": "É como o orvalho de Hermom, que desce sobre os montes de Sião; porque ali o Senhor ordena a bênção e a vida para sempre."
+    },
+    {
+      "id": "85",
+      "titulo": "Hebreus 4:16",
+      "contenido": "Cheguemo-nos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno."
+    },
+    {
+      "id": "86",
+      "titulo": "Salmo 37:4",
+      "contenido": "Deleita-te também no Senhor, e ele te concederá os desejos do teu coração."
+    },
+    {
+      "id": "87",
+      "titulo": "João 3:17",
+      "contenido": "Porque Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo fosse salvo por ele."
+    },
+    {
+      "id": "88",
+      "titulo": "Atos 4:12",
+      "contenido": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos."
+    },
+    {
+      "id": "89",
+      "titulo": "Isaías 26:3",
+      "contenido": "Tu conservarás em perfeita paz aquele cuja mente está firme em ti, porque confia em ti."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Pedro 2:24",
+      "contenido": "Ele mesmo levou os nossos pecados no seu corpo sobre o madeiro, para que nós, mortos para os pecados, vivamos para a justiça; pelas suas feridas fostes curados."
+    },
+    {
+      "id": "91",
+      "titulo": "Josué 1:8",
+      "contenido": "Não se aparte da tua boca o livro desta lei; medita nele dia e noite, para que tenhas o cuidado de fazer conforme tudo o que nele está escrito; então farás prosperar o teu caminho, e serás bem-sucedido."
+    },
+    {
+      "id": "92",
+      "titulo": "Mateus 28:18",
+      "contenido": "E, chegando-se Jesus, falou-lhes, dizendo: É-me dado todo o poder no céu e na terra."
+    },
+    {
+      "id": "93",
+      "titulo": "Colossenses 3:23",
+      "contenido": "E tudo quanto fizerdes, fazei-o de coração, como ao Senhor e não aos homens,"
+    },
+    {
+      "id": "94",
+      "titulo": "Mateus 22:37",
+      "contenido": "E Jesus lhe disse: Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento."
+    },
+    {
+      "id": "95",
+      "titulo": "Salmo 133:2",
+      "contenido": "É como o óleo precioso sobre a cabeça, que desce sobre a barba, a barba de Arão, que desce até à orla das suas vestes."
+    },
+    {
+      "id": "96",
+      "titulo": "Mateus 5:16",
+      "contenido": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus."
+    },
+    {
+      "id": "97",
+      "titulo": "Isaías 55:8",
+      "contenido": "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor."
+    },
+    {
+      "id": "98",
+      "titulo": "Hebreus 4:15",
+      "contenido": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas, porém um que, como nós, em tudo foi tentado, mas sem pecado."
+    },
+    {
+      "id": "99",
+      "titulo": "João 13:35",
+      "contenido": "Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros."
+    }
+  ]
+}

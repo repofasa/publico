@@ -1,0 +1,506 @@
+{
+  "inicia": "0",
+  "final": "99",
+  "data": [
+    {
+      "id": "0",
+      "titulo": "Giovanni 3:16",
+      "contenido": "Poiché Dio ha tanto amato il mondo da dare il suo unico Figlio, affinché chiunque crede in lui non perisca, ma abbia vita eterna."
+    },
+    {
+      "id": "1",
+      "titulo": "Geremia 29:11",
+      "contenido": "Poiché io conosco i pensieri che ho verso di voi — dice il Signore — pensieri di pace e non di male, per darvi un avvenire e una speranza."
+    },
+    {
+      "id": "2",
+      "titulo": "Romani 8:28",
+      "contenido": "Sappiamo infatti che tutte le cose cooperano al bene di quelli che amano Dio, i quali sono stati chiamati secondo il suo progetto."
+    },
+    {
+      "id": "3",
+      "titulo": "Filippesi 4:13",
+      "contenido": "Io posso ogni cosa in colui che mi fortifica."
+    },
+    {
+      "id": "4",
+      "titulo": "Genesi 1:1",
+      "contenido": "Nel principio Dio creò il cielo e la terra."
+    },
+    {
+      "id": "5",
+      "titulo": "Proverbi 3:5",
+      "contenido": "Confida nel Signore con tutto il tuo cuore e non ti appoggiare alla tua intelligenza."
+    },
+    {
+      "id": "6",
+      "titulo": "Proverbi 3:6",
+      "contenido": "Riconoscilo in tutte le tue vie, ed egli appianerà i tuoi sentieri."
+    },
+    {
+      "id": "7",
+      "titulo": "Romani 12:2",
+      "contenido": "Non conformatevi a questo secolo, ma trasformatevi mediante il rinnovamento della vostra mente, affinché possiate verificare quale sia la volontà di Dio, quella buona, gradita e perfetta."
+    },
+    {
+      "id": "8",
+      "titulo": "Filippesi 4:6",
+      "contenido": "Non angustiatevi per nulla, ma in ogni cosa, mediante la preghiera e la supplica, con ringraziamento, presentate le vostre richieste a Dio."
+    },
+    {
+      "id": "9",
+      "titulo": "Matteo 28:19",
+      "contenido": "Andate dunque e fate discepoli tutte le nazioni, battezzandole nel nome del Padre, del Figlio e dello Spirito Santo."
+    },
+    {
+      "id": "10",
+      "titulo": "Efesini 2:8",
+      "contenido": "Poiché siete salvati per grazia mediante la fede; e ciò non viene da voi, è il dono di Dio;"
+    },
+    {
+      "id": "11",
+      "titulo": "Galati 5:22",
+      "contenido": "Ma il frutto dello Spirito è amore, gioia, pace, pazienza, benevolenza, bontà, fedeltà,"
+    },
+    {
+      "id": "12",
+      "titulo": "Romani 12:1",
+      "contenido": "Vi esorto dunque, fratelli, per le misericordie di Dio, a offrire i vostri corpi in sacrificio vivente, santo e gradito a Dio, che è il vostro culto ragionevole."
+    },
+    {
+      "id": "13",
+      "titulo": "Giovanni 10:10",
+      "contenido": "Il ladro non viene se non per rubare, uccidere e distruggere; io sono venuto affinché abbiano vita e l'abbiano in abbondanza."
+    },
+    {
+      "id": "14",
+      "titulo": "Atti 18:10",
+      "contenido": "Perché io sono con te, e nessuno ti farà del male, perché ho un popolo numeroso in questa città."
+    },
+    {
+      "id": "15",
+      "titulo": "Atti 18:9",
+      "contenido": "Una notte il Signore disse a Paolo in una visione: «Non temere; continua a parlare e non tacere,"
+    },
+    {
+      "id": "16",
+      "titulo": "Atti 18:11",
+      "contenido": "Così Paolo si trattenne un anno e sei mesi, insegnando loro la parola di Dio."
+    },
+    {
+      "id": "17",
+      "titulo": "Galati 2:20",
+      "contenido": "Sono stato crocifisso con Cristo e non sono più io che vivo, ma Cristo vive in me. E quello che ora vivo nella carne, lo vivo nella fede del Figlio di Dio, che mi ha amato e ha dato se stesso per me."
+    },
+    {
+      "id": "18",
+      "titulo": "1 Giovanni 1:9",
+      "contenido": "Se confessiamo i nostri peccati, egli è fedele e giusto da perdonare i nostri peccati e purificarci da ogni iniquità."
+    },
+    {
+      "id": "19",
+      "titulo": "Romani 3:23",
+      "contenido": "Poiché tutti hanno peccato e sono privi della gloria di Dio,"
+    },
+    {
+      "id": "20",
+      "titulo": "Giovanni 14:6",
+      "contenido": "Gesù disse: «Io sono la via, la verità e la vita. Nessuno viene al Padre se non per mezzo di me.»"
+    },
+    {
+      "id": "21",
+      "titulo": "Matteo 28:20",
+      "contenido": "insegnando loro a osservare tutto ciò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo.»"
+    },
+    {
+      "id": "22",
+      "titulo": "Romani 5:8",
+      "contenido": "Ma Dio mostra il suo amore verso di noi, in quanto, mentre eravamo ancora peccatori, Cristo è morto per noi."
+    },
+    {
+      "id": "23",
+      "titulo": "Filippesi 4:8",
+      "contenido": "Infine, fratelli, considerate tutto ciò che è vero, tutto ciò che è onorevole, tutto ciò che è giusto, tutto ciò che è puro, tutto ciò che è amabile, tutto ciò che è di buona fama, se c'è qualche virtù e se c'è qualche lode."
+    },
+    {
+      "id": "24",
+      "titulo": "Filippesi 4:7",
+      "contenido": "E la pace di Dio, che supera ogni intelligenza, custodirà i vostri cuori e le vostre menti in Cristo Gesù."
+    },
+    {
+      "id": "25",
+      "titulo": "Giosué 1:9",
+      "contenido": "Non te l'ho forse comandato io? Sii forte e coraggioso! Non temere né ti spaventare, perché il Signore tuo Dio è con te dovunque tu vada.»"
+    },
+    {
+      "id": "26",
+      "titulo": "Isaia 40:31",
+      "contenido": "Ma quelli che sperano nel Signore riacquisteranno forza; saliranno con ali come le aquile; correranno e non si stancheranno, cammineranno e non si affaticheranno."
+    },
+    {
+      "id": "27",
+      "titulo": "Efesini 2:9",
+      "contenido": "Non per opere, affinché nessuno si vanti."
+    },
+    {
+      "id": "28",
+      "titulo": "Romani 6:23",
+      "contenido": "Poiché il salario del peccato è morte, ma il dono di Dio è vita eterna in Cristo Gesù nostro Signore."
+    },
+    {
+      "id": "29",
+      "titulo": "Galati 5:23",
+      "contenido": "gentilezza e dominio di sé. Contro tali cose non c'è legge."
+    },
+    {
+      "id": "30",
+      "titulo": "Isaia 53:5",
+      "contenido": "Ma egli è stato trafitto per le nostre trasgressioni, schiacciato per le nostre iniquità; il castigo che ci dà la pace è stato su di lui, e per le sue lividure siamo stati guariti."
+    },
+    {
+      "id": "31",
+      "titulo": "1 Pietro 3:15",
+      "contenido": "Ma onorate nel vostro cuore Cristo come Signore. Siate sempre pronti a rispondere a chiunque vi chieda ragione della speranza che è in voi."
+    },
+    {
+      "id": "32",
+      "titulo": "2 Timoteo 3:16",
+      "contenido": "Tutta la Scrittura è ispirata da Dio ed è utile per insegnare, per riprendere, per correggere e per istruire nella giustizia,"
+    },
+    {
+      "id": "33",
+      "titulo": "Matteo 6:33",
+      "contenido": "Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta."
+    },
+    {
+      "id": "34",
+      "titulo": "Ebrei 12:2",
+      "contenido": "Fissiamo lo sguardo su Gesù, l'autore e il compitore della fede, il quale per la gioia che gli era posta davanti soffrì la croce, disprezzando l'infamia, e si sedette alla destra del trono di Dio."
+    },
+    {
+      "id": "35",
+      "titulo": "1 Pietro 5:7",
+      "contenido": "Gettando su di lui ogni vostra preoccupazione, perché egli ha cura di voi."
+    },
+    {
+      "id": "36",
+      "titulo": "Efesini 2:10",
+      "contenido": "Poiché siamo opera sua, creati in Cristo Gesù per le buone opere, che Dio ha preparato in anticipo affinché camminassimo in esse."
+    },
+    {
+      "id": "37",
+      "titulo": "1 Corinzi 10:13",
+      "contenido": "Non vi è venuta sopra nessuna tentazione che non sia stata umana. Ma Dio è fedele, e non permetterà che voi siate tentati al di sopra delle vostre forze. Ma con la tentazione fornirà anche la via di uscita, affinché possiate resistere."
+    },
+    {
+      "id": "38",
+      "titulo": "Matteo 11:28",
+      "contenido": "Venite a me tutti voi che siete travagliati e oppressi, e io vi darò ristoro."
+    },
+    {
+      "id": "39",
+      "titulo": "Ebrei 11:1",
+      "contenido": "Ora, la fede è certezza delle cose che si sperano, dimostrazione di quelle che non si vedono."
+    },
+    {
+      "id": "40",
+      "titulo": "2 Corinzi 5:17",
+      "contenido": "Perciò, se uno è in Cristo, egli è una nuova creatura; le cose vecchie sono passate, ecco, sono diventate nuove!"
+    },
+    {
+      "id": "41",
+      "titulo": "Ebrei 13:5",
+      "contenido": "Mantieniti libero dall'amore per il denaro e sii contento di quello che hai, perché Dio ha detto: «Non ti lascerò mai; non ti abbandonerò mai.»"
+    },
+    {
+      "id": "42",
+      "titulo": "2 Corinzi 12:9",
+      "contenido": "Ma egli mi disse: «Ti basta la mia grazia, poiché la mia potenza si manifesta nella debolezza.» Perciò mi glorierò ancor più volentieri delle mie debolezze, affinché rimanga su di me la potenza di Cristo."
+    },
+    {
+      "id": "43",
+      "titulo": "Romani 10:9",
+      "contenido": "Se confessi con la tua bocca che “Gesù è il Signore” e credi nel tuo cuore che Dio lo ha risuscitato dai morti, sarai salvato."
+    },
+    {
+      "id": "44",
+      "titulo": "Isaia 41:10",
+      "contenido": "Non temere, perché io sono con te; non ti sgomentare, perché io sono il tuo Dio. Ti fortificherò e ti aiuterò, sì, ti sosterrò con la destra della mia giustizia."
+    },
+    {
+      "id": "45",
+      "titulo": "Genesi 1:26",
+      "contenido": "Poi Dio disse: Facciamo l'uomo a nostra immagine, conforme alla nostra somiglianza; e domini sui pesci del mare, sugli uccelli del cielo, sul bestiame, su tutta la terra e su tutti gli animali che strisciano sulla terra."
+    },
+    {
+      "id": "46",
+      "titulo": "Matteo 11:29",
+      "contenido": "Prendete su di voi il mio giogo e imparate da me, che sono mansueto e umile di cuore, e troverete riposo per le vostre anime."
+    },
+    {
+      "id": "47",
+      "titulo": "Giovanni 16:33",
+      "contenido": "Vi ho detto queste cose affinché abbiate pace in me. Nel mondo avrete tribolazione, ma fatevi coraggio! Io ho vinto il mondo."
+    },
+    {
+      "id": "48",
+      "titulo": "Atti 1:8",
+      "contenido": "Ma riceverete potenza quando lo Spirito Santo verrà su di voi, e mi sarete testimoni in Gerusalemme, in tutta la Giudea, in Samaria e fino all'estremità della terra."
+    },
+    {
+      "id": "49",
+      "titulo": "2 Timoteo 1:7",
+      "contenido": "Dio infatti non ci ha dato uno spirito di timidezza, ma di potenza, di amore e di autocontrollo."
+    },
+    {
+      "id": "50",
+      "titulo": "Isaia 53:4",
+      "contenido": "Certamente egli ha portato le nostre infermità e ha sopportato i nostri dolori, ma noi lo consideravamo percosso da Dio, colpito da lui e umiliato."
+    },
+    {
+      "id": "51",
+      "titulo": "2 Corinzi 5:21",
+      "contenido": "Dio ha fatto diventare peccato colui che non conosceva peccato, per noi, affinché noi diventassimo giustizia di Dio in lui."
+    },
+    {
+      "id": "52",
+      "titulo": "Romani 15:13",
+      "contenido": "Che il Dio della speranza vi riempia di ogni gioia e pace nella fede, affinché abbondiate nella speranza per la potenza dello Spirito Santo."
+    },
+    {
+      "id": "53",
+      "titulo": "Giovanni 11:25",
+      "contenido": "Gesù le disse: «Io sono la resurrezione e la vita. Chi crede in me vivrà, anche se muore;"
+    },
+    {
+      "id": "54",
+      "titulo": "Ebrei 11:6",
+      "contenido": "Senza fede è impossibile piacere a Dio, perché chi si avvicina a Dio deve credere che egli esiste e che ricompensa quelli che lo cercano."
+    },
+    {
+      "id": "55",
+      "titulo": "Giovanni 5:24",
+      "contenido": "Vi dico in verità: chi ascolta la mia parola e crede in colui che mi ha mandato, ha vita eterna e non sarà giudicato, ma è passato dalla morte alla vita."
+    },
+    {
+      "id": "56",
+      "titulo": "Giacomo 1:2",
+      "contenido": "Considerate come una grande gioia, fratelli miei, quando vi trovate ad affrontare varie prove,"
+    },
+    {
+      "id": "57",
+      "titulo": "Isaia 53:6",
+      "contenido": "Tutti noi, come pecore, siamo andati fuori strada, ciascuno si è allontanato per la propria via; ma il Signore ha fatto ricadere su di lui il peccato di tutti noi."
+    },
+    {
+      "id": "58",
+      "titulo": "Atti 2:38",
+      "contenido": "Pietro disse loro: «Pentitevi e ciascuno di voi sia battezzato nel nome di Gesù Cristo per il perdono dei peccati. E riceverete il dono dello Spirito Santo.»"
+    },
+    {
+      "id": "59",
+      "titulo": "Efesini 3:20",
+      "contenido": "Ora a colui che può fare infinitamente più di quanto chiediamo o pensiamo, secondo il potere che opera in noi,"
+    },
+    {
+      "id": "60",
+      "titulo": "Matteo 11:30",
+      "contenido": "perché il mio giogo è dolce e il mio carico è leggero."
+    },
+    {
+      "id": "61",
+      "titulo": "Genesi 1:27",
+      "contenido": "E Dio creò l'uomo a sua immagine, a immagine di Dio lo creò, maschio e femmina li creò."
+    },
+    {
+      "id": "62",
+      "titulo": "Colossesi 3:12",
+      "contenido": "Quindi, come eletti di Dio, santi e amati, rivestitevi di sentimenti di misericordia, bontà, umiltà, mansuetudine e pazienza."
+    },
+    {
+      "id": "63",
+      "titulo": "Ebrei 12:1",
+      "contenido": "Perciò, avendo intorno a noi una così grande folla di testimoni, depongiamo ogni peso e il peccato che ci assedia, e corriamo con perseveranza la corsa che ci è proposta."
+    },
+    {
+      "id": "64",
+      "titulo": "Giacomo 5:16",
+      "contenido": "Confessatevi a vicenda le vostre colpe e pregate gli uni per gli altri, affinché siate guariti. La preghiera del giusto è potente ed efficace."
+    },
+    {
+      "id": "65",
+      "titulo": "Atti 17:11",
+      "contenido": "Questi erano più nobili di quelli di Tessalonica, poiché ricevettero la parola con tutta disponibilità, esaminando ogni giorno le Scritture per vedere se queste cose erano così."
+    },
+    {
+      "id": "66",
+      "titulo": "Filippesi 4:19",
+      "contenido": "E il mio Dio provvederà a tutte le vostre necessità, secondo le sue ricchezze in gloria in Cristo Gesù."
+    },
+    {
+      "id": "67",
+      "titulo": "Giovanni 1:1",
+      "contenido": "Nel principio era la Parola, e la Parola era con Dio, e la Parola era Dio."
+    },
+    {
+      "id": "68",
+      "titulo": "1 Corinzi 6:19",
+      "contenido": "Non sapete che il vostro corpo è tempio dello Spirito Santo che è in voi, che avete ricevuto da Dio? Non siete i vostri padroni;"
+    },
+    {
+      "id": "69",
+      "titulo": "1 Giovanni 3:16",
+      "contenido": "In questo abbiamo conosciuto l'amore: che Gesù Cristo ha dato la sua vita per noi. Anche noi dobbiamo dare la nostra vita per i fratelli."
+    },
+    {
+      "id": "70",
+      "titulo": "Salmo 133:1",
+      "contenido": "Ecco, com’è buono e piacevole che i fratelli abitino insieme in armonia!"
+    },
+    {
+      "id": "71",
+      "titulo": "Giovanni 14:27",
+      "contenido": "Vi lascio la pace, vi do la mia pace. Non ve la do come il mondo la dà. Non sia turbato il vostro cuore, né abbia paura."
+    },
+    {
+      "id": "72",
+      "titulo": "Ebrei 4:12",
+      "contenido": "Poiché la parola di Dio è viva ed efficace. E più affilata di qualsiasi spada a doppio taglio, e penetra fino a dividere l'anima e lo spirito, le giunture e le midolla, e discerne i pensieri e le intenzioni del cuore."
+    },
+    {
+      "id": "73",
+      "titulo": "Giovanni 15:13",
+      "contenido": "Nessuno ha amore più grande di questo, che dare la propria vita per i propri amici."
+    },
+    {
+      "id": "74",
+      "titulo": "Michea 6:8",
+      "contenido": "Ti è stato detto, o uomo, cosa sia buono. E che cosa chiede JHWH da te? Solo fare giustizia, e amare la misericordia, e umiliarti davanti al tuo Dio."
+    },
+    {
+      "id": "75",
+      "titulo": "Romani 10:17",
+      "contenido": "Dunque, la fede viene dall'udire, e l'udire viene dalla parola di Cristo."
+    },
+    {
+      "id": "76",
+      "titulo": "Giovanni 1:12",
+      "contenido": "Ma a tutti quelli che lo hanno ricevuto, a quelli che credono nel suo nome, ha dato il diritto di diventare figli di Dio."
+    },
+    {
+      "id": "77",
+      "titulo": "Giacomo 1:12",
+      "contenido": "Beato l'uomo che sopporta la tentazione, perché quando sarà stato provato, riceverà la corona della vita che Dio ha promesso a quelli che lo amano."
+    },
+    {
+      "id": "78",
+      "titulo": "Giacomo 1:3",
+      "contenido": "Sapendo che la prova della vostra fede produce pazienza."
+    },
+    {
+      "id": "79",
+      "titulo": "Romani 8:38",
+      "contenido": "Sono infatti persuaso che né morte né vita, né angeli né demoni, né cose presenti né future, né poteri,"
+    },
+    {
+      "id": "80",
+      "titulo": "Romani 8:39",
+      "contenido": "né altezza né profondità, né altra creatura potrà separarci dall'amore di Dio che è in Cristo Gesù, Signore nostro."
+    },
+    {
+      "id": "81",
+      "titulo": "Ebrei 10:25",
+      "contenido": "Non abbandoniamo la nostra riunione, come alcuni hanno l'abitudine di fare, ma esortiamoci a vicenda, e tanto più quanto vediamo avvicinarsi quel giorno."
+    },
+    {
+      "id": "82",
+      "titulo": "2 Pietro 1:4",
+      "contenido": "Così Dio ci ha donato le sue preziose e magnifiche promesse, affinché per mezzo di esse possiate diventare partecipi della natura divina, avendo fuggito la corruzione che è nel mondo a causa della concupiscenza."
+    },
+    {
+      "id": "83",
+      "titulo": "Filippesi 1:6",
+      "contenido": "Sono persuaso di questo: che colui che ha iniziato in voi una buona opera la porterà a compimento fino al giorno di Cristo Gesù."
+    },
+    {
+      "id": "84",
+      "titulo": "Salmo 133:3",
+      "contenido": "È come il rugiada di Ermon, che scende sul monte Sion. Perché lì JHWH manda benedizione e vita eterna."
+    },
+    {
+      "id": "85",
+      "titulo": "Ebrei 4:16",
+      "contenido": "Accostiamoci dunque con piena fiducia al trono della grazia, affinché riceviamo misericordia e troviamo grazia per un aiuto tempestivo."
+    },
+    {
+      "id": "86",
+      "titulo": "Salmo 37:4",
+      "contenido": "Rallegrati pure in JHWH, ed egli esaudirà i desideri del tuo cuore."
+    },
+    {
+      "id": "87",
+      "titulo": "Giovanni 3:17",
+      "contenido": "Poiché Dio non ha mandato il suo Figlio nel mondo per condannare il mondo, ma affinché il mondo fosse salvato per mezzo di lui."
+    },
+    {
+      "id": "88",
+      "titulo": "Atti 4:12",
+      "contenido": "In nessun altro c'è salvezza, perché non c'è altro nome sotto il cielo dato agli uomini, nel quale possiamo essere salvati."
+    },
+    {
+      "id": "89",
+      "titulo": "Isaia 26:3",
+      "contenido": "Tu manterrai in pace perfetta colui il cui pensiero rimane fisso su di te, perché in te confida."
+    },
+    {
+      "id": "90",
+      "titulo": "1 Pietro 2:24",
+      "contenido": "Egli stesso ha portato i nostri peccati nel suo corpo sul legno, affinché noi, essendo morti ai peccati, viviamo alla giustizia, perché per le sue ferite siamo stati guariti."
+    },
+    {
+      "id": "91",
+      "titulo": "Giosuè 1:8",
+      "contenido": "Non allontanare questo libro della legge dalla tua bocca; meditalo giorno e notte, affinché tu possa osservare di fare tutto ciò che è scritto in esso. Allora avrai successo e prosperità."
+    },
+    {
+      "id": "92",
+      "titulo": "Matteo 28:18",
+      "contenido": "E Gesù si avvicinò e disse loro: Ogni autorità in cielo e sulla terra mi è stata data."
+    },
+    {
+      "id": "93",
+      "titulo": "Colossesi 3:23",
+      "contenido": "Qualunque cosa facciate, lavorate di buon animo, come per il Signore e non per gli uomini,"
+    },
+    {
+      "id": "94",
+      "titulo": "Matteo 22:37",
+      "contenido": "Gesù gli disse: Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente."
+    },
+    {
+      "id": "95",
+      "titulo": "Salmo 133:2",
+      "contenido": "È come l'olio prezioso sulla testa, che scende sulla barba, sulla barba di Aronne, fino al bordo delle sue vesti."
+    },
+    {
+      "id": "96",
+      "titulo": "Matteo 5:16",
+      "contenido": "Così risplenda la vostra luce davanti agli uomini, affinché vedano le vostre buone opere e glorifichino il vostro Padre che è nei cieli."
+    },
+    {
+      "id": "97",
+      "titulo": "Isaia 55:8",
+      "contenido": "Poiché i miei pensieri non sono i vostri pensieri, né i vostri cammini i miei cammini, dice il SIGNORE."
+    },
+    {
+      "id": "98",
+      "titulo": "Ebrei 4:15",
+      "contenido": "Poiché non abbiamo un sommo sacerdote che non possa compatirci nelle nostre debolezze, ma abbiamo uno che è stato tentato in ogni cosa, come noi, senza peccato."
+    },
+    {
+      "id": "99",
+      "titulo": "Giovanni 13:35",
+      "contenido": "Da questo tutti sapranno che siete miei discepoli, se vi amate gli uni gli altri."
+    }
+  ]
+}
