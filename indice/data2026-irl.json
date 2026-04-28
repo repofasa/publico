@@ -34,9 +34,9 @@
         },
         {
             "titulo": "Bealtaine",
-            "subtitulo": "Non Disponibile",
+            "subtitulo": "Ar Fáil",
             "contenido": "2026/mayo2026-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "mayo",
             "id": "5"
         },

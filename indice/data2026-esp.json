@@ -34,9 +34,9 @@
         },
         {
             "titulo": "Mayo de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/mayo2026",
-            "activo": "no",
+            "activo": "si",
             "imagen": "mayo",
             "id": "5"
         },
