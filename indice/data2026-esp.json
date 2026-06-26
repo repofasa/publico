@@ -50,9 +50,9 @@
         },
         {
             "titulo": "Julio de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/julio2026",
-            "activo": "no",
+            "activo": "si",
             "imagen": "julio",
             "id": "7"
         },

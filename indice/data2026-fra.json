@@ -50,9 +50,9 @@
         },
         {
             "titulo": "Juillet",
-            "subtitulo": "Pas Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/julio2026-fra",
-            "activo": "no",
+            "activo": "si",
             "imagen": "julio",
             "id": "7"
         },
