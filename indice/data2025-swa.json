@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "titulo": "Januari",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/enero2025-swa",
+            "activo": "no",
+            "imagen": "enero",
+            "id": "1"
+        },
+        {
+            "titulo": "Februari",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/febrero2025-swa",
+            "activo": "no",
+            "imagen": "febrero",
+            "id": "2"
+        },
+        {
+            "titulo": "Machi",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/marzo2025-swa",
+            "activo": "no",
+            "imagen": "marzo",
+            "id": "3"
+        },
+        {
+            "titulo": "Aprili",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/abril2025-swa",
+            "activo": "no",
+            "imagen": "abril",
+            "id": "4"
+        },
+        {
+            "titulo": "Mei",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/mayo2025-swa",
+            "activo": "no",
+            "imagen": "mayo",
+            "id": "5"
+        },
+        {
+            "titulo": "Juni",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/junio2025-swa",
+            "activo": "no",
+            "imagen": "junio",
+            "id": "6"
+        },
+        {
+            "titulo": "Julai",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/julio2025-swa",
+            "activo": "no",
+            "imagen": "julio",
+            "id": "7"
+        },
+        {
+            "titulo": "Agosti",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/agosto2025-swa",
+            "activo": "no",
+            "imagen": "agosto",
+            "id": "8"
+        },
+        {
+            "titulo": "Septemba",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2025/septiembre2025-swa",
+            "activo": "no",
+            "imagen": "septiembre",
+            "id": "9"
+        },
+        {
+            "titulo": "Oktoba",
+            "subtitulo": "Inapatikana",
+            "contenido": "2025/octubre2025-swa",
+            "activo": "si",
+            "imagen": "octubre",
+            "id": "10"
+        },
+        {
+            "titulo": "Novemba",
+            "subtitulo": "Inapatikana",
+            "contenido": "2025/noviembre2025-swa",
+            "activo": "si",
+            "imagen": "noviembre",
+            "id": "11"
+        },
+        {
+            "titulo": "Desemba",
+            "subtitulo": "Inapatikana",
+            "contenido": "2025/diciembre2025-swa",
+            "activo": "si",
+            "imagen": "diciembre",
+            "id": "12"
+        }
+    ]
+}

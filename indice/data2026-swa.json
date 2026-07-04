@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "titulo": "Januari",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/enero2026-swa",
+            "activo": "si",
+            "imagen": "enero",
+            "id": "1"
+        },
+        {
+            "titulo": "Februari",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/febrero2026-swa",
+            "activo": "si",
+            "imagen": "febrero",
+            "id": "2"
+        },
+        {
+            "titulo": "Machi",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/marzo2026-swa",
+            "activo": "si",
+            "imagen": "marzo",
+            "id": "3"
+        },
+        {
+            "titulo": "Aprili",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/abril2026-swa",
+            "activo": "si",
+            "imagen": "abril",
+            "id": "4"
+        },
+        {
+            "titulo": "Mei",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/mayo2026-swa",
+            "activo": "si",
+            "imagen": "mayo",
+            "id": "5"
+        },
+        {
+            "titulo": "Juni",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/junio2026-swa",
+            "activo": "si",
+            "imagen": "junio",
+            "id": "6"
+        },
+        {
+            "titulo": "Julai",
+            "subtitulo": "Inapatikana",
+            "contenido": "2026/julio2026-swa",
+            "activo": "si",
+            "imagen": "julio",
+            "id": "7"
+        },
+        {
+            "titulo": "Agosti",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2026/agosto2026-swa",
+            "activo": "no",
+            "imagen": "agosto",
+            "id": "8"
+        },
+        {
+            "titulo": "Septemba",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2026/septiembre2026-swa",
+            "activo": "no",
+            "imagen": "septiembre",
+            "id": "9"
+        },
+        {
+            "titulo": "Oktoba",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2026/octubre2026-swa",
+            "activo": "no",
+            "imagen": "octubre",
+            "id": "10"
+        },
+        {
+            "titulo": "Novemba",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2026/noviembre2026-swa",
+            "activo": "no",
+            "imagen": "noviembre",
+            "id": "11"
+        },
+        {
+            "titulo": "Desemba",
+            "subtitulo": "Bado Haijapatikana",
+            "contenido": "2026/diciembre2026-swa",
+            "activo": "no",
+            "imagen": "diciembre",
+            "id": "12"
+        }
+    ]
+}

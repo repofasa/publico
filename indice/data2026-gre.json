@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "titulo": "Ιανουάριος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/enero2026-gre",
+            "activo": "si",
+            "imagen": "enero",
+            "id": "1"
+        },
+        {
+            "titulo": "Φεβρουάριος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/febrero2026-gre",
+            "activo": "si",
+            "imagen": "febrero",
+            "id": "2"
+        },
+        {
+            "titulo": "Μάρτιος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/marzo2026-gre",
+            "activo": "si",
+            "imagen": "marzo",
+            "id": "3"
+        },
+        {
+            "titulo": "Απρίλιος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/abril2026-gre",
+            "activo": "si",
+            "imagen": "abril",
+            "id": "4"
+        },
+        {
+            "titulo": "Μάιος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/mayo2026-gre",
+            "activo": "si",
+            "imagen": "mayo",
+            "id": "5"
+        },
+        {
+            "titulo": "Ιούνιος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/junio2026-gre",
+            "activo": "si",
+            "imagen": "junio",
+            "id": "6"
+        },
+        {
+            "titulo": "Ιούλιος",
+            "subtitulo": "Διαθέσιμο",
+            "contenido": "2026/julio2026-gre",
+            "activo": "si",
+            "imagen": "julio",
+            "id": "7"
+        },
+        {
+            "titulo": "Αύγουστος",
+            "subtitulo": "εν είναι ακόμα διαθέσιμο",
+            "contenido": "2026/agosto2026-gre",
+            "activo": "no",
+            "imagen": "agosto",
+            "id": "8"
+        },
+        {
+            "titulo": "Σεπτέμβριος",
+            "subtitulo": "εν είναι ακόμα διαθέσιμο",
+            "contenido": "2026/septiembre2026-gre",
+            "activo": "no",
+            "imagen": "septiembre",
+            "id": "9"
+        },
+        {
+            "titulo": "Οκτώβριος",
+            "subtitulo": "εν είναι ακόμα διαθέσιμο",
+            "contenido": "2026/octubre2026-gre",
+            "activo": "no",
+            "imagen": "octubre",
+            "id": "10"
+        },
+        {
+            "titulo": "Νοέμβριος",
+            "subtitulo": "Δεν είναι ακόμα διαθέσιμο",
+            "contenido": "2026/noviembre2026-gre",
+            "activo": "no",
+            "imagen": "noviembre",
+            "id": "11"
+        },
+        {
+            "titulo": "Δεκέμβριος",
+            "subtitulo": "Δεν είναι ακόμα διαθέσιμο",
+            "contenido": "2026/diciembre2026-gre",
+            "activo": "no",
+            "imagen": "diciembre",
+            "id": "12"
+        }
+    ]
+}
