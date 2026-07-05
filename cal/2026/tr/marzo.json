@@ -1,0 +1,258 @@
+{
+    "marzo": [
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 1,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 2,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 3,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 4,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Çarşamba Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Casimir"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 5,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 6,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 7,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz II. Haftasının Cumartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Azize Perpetua ve Felicity, şehitler"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 8,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 9,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Pazartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Azize Frances of Rome, dindar"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 10,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 11,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 12,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 13,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 14,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz III. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 15,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor veya Pembe - Büyük Perhiz IV. Pazarı (Laetare Pazarı)"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 16,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz IV. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 17,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz IV. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Patrick, piskopos"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 18,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz IV. Haftasının Çarşamba Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Cyril of Jerusalem, piskopos ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 19,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Aziz Joseph, Kutsal Bakire Meryem'in Nişanlısı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 20,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz IV. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 21,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz IV. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 22,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 23,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Haftasının Pazartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Turibius of Mogrovejo, piskopos"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 24,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 25,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Rab'bin Müjdesi"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 26,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 27,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 28,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz V. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Kutsal Hafta",
+            "dia-num": 29,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Kırmızı - Rab'bin Çilesi Palmiye Pazarı"
+            }
+        },
+        {
+            "tiempo": "Kutsal Hafta",
+            "dia-num": 30,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Hafta Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Kutsal Hafta",
+            "dia-num": 31,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Hafta Salı"
+            }
+        }
+    ]
+}

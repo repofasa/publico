@@ -1,0 +1,252 @@
+{
+    "abril": [
+        {
+            "tiempo": "Kutsal Hafta",
+            "dia-num": 1,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Hafta Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 2,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Beyaz - Kutsal Perşembe (Rab'bin Son Akşam Yemeği Ayini)"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 3,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Kırmızı - Kutsal Cuma (Rab'bin Çilesi)"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 4,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Kutsal Cumartesi (Paskalya Nöbeti)"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 5,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Rab'bin Dirilişi Paskalya Pazarı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 6,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 7,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Salı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 8,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 9,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Perşembe"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 10,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Cuma"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 11,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya Oktavı İçindeki Cumartesi"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 12,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Paskalya II. Pazarı (veya İlahi Merhamet Pazarı)"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 13,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Pazartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Martin I, papa ve şehit"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 14,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 15,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 16,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 17,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 18,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 19,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 20,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 21,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Anselm, piskopos ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 22,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 23,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Haftasının Perşembe Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz George, şehit",
+                "3": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Adalbert, piskopos ve şehit"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 24,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya III. Haftasının Cuma Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Fidelis of Sigmaringen, rahip ve şehit"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 25,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Yortu - Renk: Kırmızı - Aziz Mark, müjdeci"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 26,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya IV. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 27,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya IV. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 28,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya IV. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Peter Chanel, rahip ve şehit",
+                "3": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Louis Mary Grignion de Montfort, rahip"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 29,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Beyaz - Azize Catherine of Siena, bakire ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 30,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya IV. Haftasının Perşembe Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Pius V, papa"
+            }
+        }
+    ]
+}

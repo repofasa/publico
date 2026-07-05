@@ -1,0 +1,252 @@
+{
+    "junio": [
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 1,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Aziz Justin, şehit"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 2,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IX. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Marcellinus ve Peter, şehitler"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 3,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Aziz Charles Lwanga ve Arkadaşları, şehitler"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 4,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IX. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 5,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Aziz Boniface, piskopos ve şehit"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 6,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IX. Haftasının Cumartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Norbert, piskopos"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 7,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - İsa'nın Kutsal Bedeni ve Kanı (Corpus Christi)"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 8,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman X. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 9,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman X. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Ephrem, diyakoz ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 10,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman X. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 11,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Aziz Barnabas, havari"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 12,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - İsa'nın Kutsal Kalbi"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 13,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Beyaz - Kutsal Bakire Meryem'in Lekesiz Kalbi"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 14,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 15,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 16,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 17,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 18,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 19,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Cuma Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Romuald, başrahip"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 20,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XI. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 21,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 22,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Haftasının Pazartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Paulinus of Nola, piskopos",
+                "3": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz John Fisher, piskopos ve Thomas More, şehitler"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 23,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 24,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Beyaz - Vaftizci Aziz Yahya'nın Doğuşu"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 25,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 26,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 27,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XII. Haftasının Cumartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Cyril of Alexandria, piskopos ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 28,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XIII. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 29,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Bayram (Tören) - Renk: Kırmızı - Aziz Petrus ve Pavlus, havariler"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 30,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman XIII. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Kutsal Roma Kilisesi'nin İlk Şehitleri"
+            }
+        }
+    ]
+}

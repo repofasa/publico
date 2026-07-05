@@ -1,0 +1,262 @@
+{
+    "mayo": [
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 1,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Ijumaa ya Wiki IV ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Joseph Mfanyakazi"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 2,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Athanasius, askofu na daktari wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 3,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumapili V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 4,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatatu ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 5,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumanne ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 6,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatano ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 7,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Alhamisi ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 8,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Ijumaa ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 9,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumamosi ya Wiki V ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 10,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumapili VI ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 11,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatatu ya Wiki VI ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 12,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumanne ya Wiki VI ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Watakatifu Nereo na Achilleus, wafiadini",
+                "3": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Pancras, mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 13,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatano ya Wiki VI ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Bikira Maria wa Fatima"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 14,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyekundu - Mtakatifu Mathias, mtume"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 15,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Ijumaa ya Wiki VI ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 16,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumamosi ya Wiki VI ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 17,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Kupaa kwa Bwana"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 18,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatatu ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu John I, papa na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 19,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumanne ya Wiki VII ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 20,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatano ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Bernardine wa Siena, padre"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 21,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Alhamisi ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Christopher Magallanes, padre, na wenzake, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 22,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Ijumaa ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Rita wa Cascia, mtawa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 23,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumamosi ya Wiki VII ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 24,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyekundu - Jumapili ya Pentekoste"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 25,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Bikira Maria Mtakatifu, Mama wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 26,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Philip Neri, padre"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 27,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki VIII ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Augustine wa Canterbury, askofu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 28,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki VIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 29,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki VIII ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Paul VI, papa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 30,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki VIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 31,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Utatu Mtakatifu Zaidi"
+            }
+        }
+    ]
+}

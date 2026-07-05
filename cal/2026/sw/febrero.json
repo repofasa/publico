@@ -1,0 +1,234 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 1,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili IV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 2,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Uwasilishaji wa Bwana Hekaluni"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 3,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki IV ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Blase, askofu na mfiadini",
+                "3": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Ansgar, askofu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 4,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki IV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 5,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Mtakatifu Agatha, bikira na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 6,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Watakatifu Paul Miki na Wenzake, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 7,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki IV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 8,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili V ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 9,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki V ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 10,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Scholastica, bikira"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 11,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki V ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Bikira Maria wa Lourdes"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 12,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki V ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 13,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki V ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 14,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Watakatifu Cyril, mtawa, na Methodius, askofu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 15,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili VI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 16,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki VI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 17,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki VI ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Waanzilishi Saba Watakatifu wa Shirika la Watumwa"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 18,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Majivu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 19,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi baada ya Jumatano ya Majivu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 20,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa baada ya Jumatano ya Majivu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 21,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi baada ya Jumatano ya Majivu",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Peter Damian, askofu na daktari wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 22,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili I ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 23,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki I ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Polycarp, askofu na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 24,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki I ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 25,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Wiki I ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 26,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki I ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 27,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki I ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 28,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki I ya Kwaresima"
+            }
+        }
+    ]
+}

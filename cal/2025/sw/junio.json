@@ -1,0 +1,249 @@
+{
+    "junio": [
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 1,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Kupaa kwa Bwana"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 2,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatatu ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Watakatifu Marcelinus na Petro, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 3,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Watakatifu Charles Lwanga na wenzake, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 4,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumatano ya Wiki VII ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 5,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Mtakatifu Boniface, askofu na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 6,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Ijumaa ya Wiki VII ya Pasaka",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Norbert, askofu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 7,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Jumamosi ya Wiki VII ya Pasaka"
+            }
+        },
+        {
+            "tiempo": "Muda wa Pasaka",
+            "dia-num": 8,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyekundu - Jumapili ya Pentekoste"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 9,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Bikira Maria Mtakatifu, Mama wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 10,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki X ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 11,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Mtakatifu Barnaba, mtume"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 12,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Mwili na Damu Takatifu Zaidi ya Kristo"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 13,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Anthony wa Padua, padri na mwalimu wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 14,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki X ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Maria Mtakatifu Jumamosi"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 15,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Utatu Mtakatifu Zaidi"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 16,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki XI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 17,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki XI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 18,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki XI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 19,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Moyo Mtakatifu Zaidi wa Yesu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 20,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki XI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 21,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Aloysius Gonzaga, tawa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 22,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili XII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 23,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki XII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 24,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Kuzaliwa kwa Mtakatifu Yohana Mbatizaji"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 25,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki XII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 26,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki XII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 27,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Moyo Mtakatifu wa Yesu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 28,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Moyo Safi wa Maria",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Irenaeus, askofu, mfiadini, na mwalimu wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 29,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyekundu - Watakatifu Petro na Paulo, mitume"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 30,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki XIII ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Wafiadini wa Kwanza wa Kanisa la Roma"
+            }
+        }
+    ]
+}

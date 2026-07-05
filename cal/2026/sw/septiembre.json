@@ -1,0 +1,251 @@
+{
+    "septiembre": [
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 1,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki XXII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 2,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatano ya Wiki XXII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 3,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Gregory Mkuu, papa na daktari wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 4,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki XXII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 5,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki XXII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 6,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili XXIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 7,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki XXIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 8,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Kuzaliwa kwa Bikira Maria Mtakatifu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 9,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Peter Claver, padre"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 10,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki XXIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 11,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki XXIII ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 12,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki XXIII ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Jina Mtakatifu Zaidi la Maria"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 13,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili XXIV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 14,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyekundu - Kutukuzwa kwa Msalaba Mtakatifu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 15,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Bikira Maria wa Huzuni"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 16,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Watakatifu Cornelius, papa, na Cyprian, askofu, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 17,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki XXIV ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Robert Bellarmine, askofu na daktari wa Kanisa",
+                "3": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Hildegard wa Bingen, bikira na daktari wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 18,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki XXIV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 19,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki XXIV ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Januarius, askofu na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 20,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili XXV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 21,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyekundu - Mtakatifu Mathayo, mtume na mwinjilisti"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 22,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumanne ya Wiki XXV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 23,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Pius wa Pietrelcina (Padre Pio), padre"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 24,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Kijani - Alhamisi ya Wiki XXV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 25,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Kijani - Ijumaa ya Wiki XXV ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 26,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumamosi ya Wiki XXV ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Watakatifu Cosmas na Damian, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 27,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumapili XXVI ya Muda wa Kawaida"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 28,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Kijani - Jumatatu ya Wiki XXVI ya Muda wa Kawaida",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Wenceslaus, mfiadini",
+                "3": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Mtakatifu Lawrence Ruiz na wenzake, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 29,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Watakatifu Mikaeli, Gabrieli na Rafaeli, malaika wakuu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Kawaida",
+            "dia-num": 30,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mtakatifu Jerome, padre na daktari wa Kanisa"
+            }
+        }
+    ]
+}

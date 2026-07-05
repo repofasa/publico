@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Advent",
+            "dia-num": 1,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Advent I. Haftası Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 2,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Advent I. Haftası Salı"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 3,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Beyaz - Rahip Aziz Francis Xavier"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 4,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Advent I. Haftası Perşembe",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Kilise Doktoru ve Rahip Şamlı Aziz Yuhanna"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 5,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Advent I. Haftası Cuma"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 6,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Advent I. Haftası Cumartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Piskopos Aziz Nikola"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 7,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Advent II. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 8,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Kutsal Bakire Meryem'in Lekesiz Gebeliği"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 9,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Beyaz - Aziz Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 10,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Advent II. Haftası Çarşamba",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Loreto Meryem Ana"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 11,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Advent II. Haftası Perşembe",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Papa Aziz I. Damasus"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 12,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Guadalupe Meryem Ana"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 13,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Kırmızı - Bakire ve Şehit Azize Lucia"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 14,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Pembe, Mor - Advent III. Pazarı «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 15,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Advent III. Haftası Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 16,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Advent III. Haftası Salı"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 17,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (17 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 18,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (18 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 19,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (19 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 20,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (20 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 21,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Advent IV. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 22,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (22 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 23,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (23 Aralık)",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - Rahip Aziz John Cantius"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 24,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Advent Feriası (24 Aralık)"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 25,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Rab'bin Doğuşu"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 26,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "(Yortu) - Renk: Kırmızı - İlk Şehit Aziz Istefanos"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 27,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "(Yortu) - Renk: Beyaz - Havari ve İncil Yazarı Aziz Yuhanna"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 28,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "(Yortu) - Renk: Beyaz - İsa, Meryem ve Yusuf'un Kutsal Ailesi"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 29,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Doğuşu Oktavı İçinde V. Gün",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Piskopos ve Şehit Aziz Thomas Becket"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 30,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Doğuşu Oktavı İçinde VI. Gün"
+            }
+        },
+        {
+            "tiempo": "Noel Zamanı",
+            "dia-num": 31,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Doğuşu Oktavı İçinde VII. Gün",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Papa Aziz I. Sylvester"
+            }
+        }
+    ]
+}

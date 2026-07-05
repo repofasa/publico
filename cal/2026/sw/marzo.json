@@ -1,0 +1,258 @@
+{
+    "marzo": [
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 1,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili II ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 2,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki II ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 3,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki II ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 4,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Wiki II ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Casimir"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 5,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki II ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 6,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki II ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 7,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki II ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyekundu - Watakatifu Perpetua na Felicity, wafiadini"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 8,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 9,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki III ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Frances wa Roma, mtawa"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 10,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 11,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Wiki III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 12,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 13,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 14,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki III ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 15,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau au Waridi - Jumapili IV ya Kwaresima (Jumapili ya Laetare)"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 16,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki IV ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 17,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki IV ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Patrick, askofu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 18,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Wiki IV ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Cyril wa Yerusalemu, askofu na daktari wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 19,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Mtakatifu Joseph, Mchumba wa Bikira Maria Mtakatifu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 20,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki IV ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 21,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki IV ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 22,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili V ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 23,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki V ya Kwaresima",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mtakatifu Turibius wa Mogrovejo, askofu"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 24,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki V ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 25,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Kutangazwa kwa Bwana"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 26,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki V ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 27,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki V ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Kwaresima",
+            "dia-num": 28,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki V ya Kwaresima"
+            }
+        },
+        {
+            "tiempo": "Wiki Takatifu",
+            "dia-num": 29,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Nyekundu - Jumapili ya Matawi ya Mateso ya Bwana"
+            }
+        },
+        {
+            "tiempo": "Wiki Takatifu",
+            "dia-num": 30,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki Takatifu"
+            }
+        },
+        {
+            "tiempo": "Wiki Takatifu",
+            "dia-num": 31,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki Takatifu"
+            }
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 1,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman III. Haftası Cumartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Cumartesi Günü Kutsal Meryem"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 2,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Rab'bin Takdimi"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 3,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftası Pazartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Kırmızı - Piskopos ve Şehit Aziz Blaise",
+                "3": "(İsteğe Bağlı Anma) - Renk: Beyaz - Piskopos Aziz Oscar"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 4,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Kırmızı - Bakire ve Şehit Azize Agatha"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 5,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Kırmızı - Şehit Aziz Philip of Jesus"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 6,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Kırmızı - Şehitler Aziz Pavlus Miki ve Arkadaşları"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 7,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftası Cuma"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 8,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftası Cumartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Aziz Jerome Emiliani",
+                "3": "(İsteğe Bağlı Anma) - Renk: Beyaz - Bakire Azize Josephine Bakhita",
+                "4": "(İsteğe Bağlı Anma) - Renk: Beyaz - Cumartesi Günü Kutsal Meryem"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 9,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 10,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Beyaz - Bakire Azize Scholastica"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 11,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftası Salı",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Lourdes Meryem Ana"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 12,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftası Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 13,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftası Perşembe"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 14,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Beyaz - Rahip Aziz Kiril ve Piskopos Aziz Metodius"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 15,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftası Cumartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Cumartesi Günü Kutsal Meryem"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 16,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 17,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftası Pazartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Servite Tarikatı'nın Yedi Kutsal Kurucusu"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 18,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftası Salı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 19,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftası Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 20,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftası Perşembe"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 21,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftası Cuma",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Kilise Doktoru ve Piskopos Aziz Petrus Damian"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 22,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Havari Aziz Petrus'un Makamı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 23,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 24,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Haftası Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 25,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Haftası Salı",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Kutsanmış Aparicio'lu Sebastian, tarikat mensubu"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 26,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Haftası Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 27,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Haftası Perşembe",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Kilise Doktoru ve Başrahip Narekli Aziz Gregorius"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 28,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VII. Haftası Cuma"
+            }
+        }
+    ]
+}

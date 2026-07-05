@@ -1,0 +1,234 @@
+{
+    "febrero": [
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 1,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 2,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Yortu - Renk: Beyaz - Rab'bin Sunumu"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 3,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Blase, piskopos ve şehit",
+                "3": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Ansgar, piskopos"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 4,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 5,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Azize Agatha, bakire ve şehit"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 6,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Kırmızı - Aziz Pavlus Miki ve Arkadaşları, şehitler"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 7,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman IV. Haftasının Cumartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 8,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 9,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 10,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Beyaz - Azize Scholastica, bakire"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 11,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftasının Çarşamba Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Meryem Ana (Lourdes)"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 12,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 13,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman V. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 14,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Zorunlu Anma - Renk: Beyaz - Aziz Kiril, keşiş, ve Methodius, piskopos"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 15,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 16,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftasının Pazartesi Günü"
+            }
+        },
+        {
+            "tiempo": "Olağan Zaman",
+            "dia-num": 17,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Yeşil - Olağan Zaman VI. Haftasının Salı Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Servite Tarikatı'nın Yedi Kutsal Kurucusu"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 18,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Kül Çarşambası"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 19,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Kül Çarşambası'ndan Sonra Perşembe"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 20,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Kül Çarşambası'ndan Sonra Cuma"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 21,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Kül Çarşambası'ndan Sonra Cumartesi",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Peter Damian, piskopos ve Kilise Doktoru"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 22,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Pazarı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 23,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Pazartesi Günü",
+                "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Polycarp, piskopos ve şehit"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 24,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Salı Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 25,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Çarşamba Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 26,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Perşembe Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 27,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Cuma Günü"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 28,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Büyük Perhiz I. Haftasının Cumartesi Günü"
+            }
+        }
+    ]
+}

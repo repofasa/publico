@@ -1,0 +1,253 @@
+{
+    "abril": [
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 1,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz IV. Haftası Salı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 2,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz IV. Haftası Çarşamba",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - İnzivacı Aziz Francis of Paula"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 3,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz IV. Haftası Perşembe"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 4,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz IV. Haftası Cuma",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - Kilise Doktoru ve Piskopos Aziz Isidore"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 5,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz IV. Haftası Cumartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - Rahip Aziz Vincent Ferrer"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 6,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Pazarı",
+                "2": "-"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 7,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Pazartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - Rahip Aziz John Baptist de La Salle"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 8,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Salı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 9,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 10,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Perşembe"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 11,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Cuma",
+                "2": "(İsteğe Bağlı Anma) - Renk: Mor - Piskopos ve Şehit Aziz Stanislaus"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 12,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Mor - Perhiz V. Haftası Cumartesi"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 13,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Kırmızı - Rab'bin Çilesi'nin Palmiye Pazarı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 14,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 15,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Salı"
+            }
+        },
+        {
+            "tiempo": "Büyük Perhiz",
+            "dia-num": 16,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Mor - Kutsal Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 17,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Sofrası'nda Kutsal Perşembe"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 18,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "Renk: Kırmızı - Rab'bin Çilesi'nde Hayırlı Cuma"
+            }
+        },
+        {
+            "tiempo": "Paskalya Üç Günü",
+            "dia-num": 19,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Gömülüşü Kutsal Cumartesi"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 20,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Beyaz - Rab'bin Dirilişi Paskalya Pazarı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 21,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Pazartesi"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 22,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Salı"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 23,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Çarşamba"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 24,
+            "dia-sem": "Perşembe",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Perşembe"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 25,
+            "dia-sem": "Cuma",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Cuma"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 26,
+            "dia-sem": "Cumartesi",
+            "festejo": {
+                "1": "(Bayram (Tören)) - Renk: Beyaz - Paskalya Oktavı Cumartesi"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 27,
+            "dia-sem": "Pazar",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Pazarı veya İlahi Merhamet"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 28,
+            "dia-sem": "Pazartesi",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftası Pazartesi",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Rahip Aziz Louis Mary Grignion de Montfort",
+                "3": "(İsteğe Bağlı Anma) - Renk: Kırmızı - Rahip ve Şehit Aziz Peter Chanel"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 29,
+            "dia-sem": "Salı",
+            "festejo": {
+                "1": "(Zorunlu Anma) - Renk: Beyaz - Bakire ve Kilise Doktoru Sienalı Azize Katerina"
+            }
+        },
+        {
+            "tiempo": "Paskalya Zamanı",
+            "dia-num": 30,
+            "dia-sem": "Çarşamba",
+            "festejo": {
+                "1": "Renk: Beyaz - Paskalya II. Haftası Çarşamba",
+                "2": "(İsteğe Bağlı Anma) - Renk: Beyaz - Papa Aziz V. Pius"
+            }
+        }
+    ]
+}

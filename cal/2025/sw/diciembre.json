@@ -1,0 +1,259 @@
+{
+    "diciembre": [
+        {
+            "tiempo": "Advent",
+            "dia-num": 1,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki I ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 2,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki I ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 3,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mt. Francis Xavier, padri"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 4,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki I ya Advent",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mt. John Damascene, padri na mwalimu wa Kanisa"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 5,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Ijumaa ya Wiki I ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 6,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumamosi ya Wiki I ya Advent",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mt. Nicholas, askofu"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 7,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili II ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 8,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Mimba Safi ya Bikira Maria Mtakatifu"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 9,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyeupe - Mt. Juan Diego Cuauhtlatoatzin"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 10,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatano ya Wiki II ya Advent",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Bikira Maria wa Loreto"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 11,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Alhamisi ya Wiki II ya Advent",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mt. Damasus I, papa"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 12,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Bikira Maria wa Guadalupe"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 13,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Kumbukumbu ya Lazima) - Rangi: Nyekundu - Mt. Lucy, bikira na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 14,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Waridi, Zambarau - Jumapili III ya Advent «Gaudete»"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 15,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumatatu ya Wiki III ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 16,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumanne ya Wiki III ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 17,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (17 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 18,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (18 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 19,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (19 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 20,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (20 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 21,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "Rangi: Zambarau - Jumapili IV ya Advent"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 22,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (22 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 23,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (23 de diciembre)",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Zambarau - Mt. John Cantius, padri"
+            }
+        },
+        {
+            "tiempo": "Advent",
+            "dia-num": 24,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Zambarau - Feria ya Advent (24 de diciembre)"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 25,
+            "dia-sem": "Alhamisi",
+            "festejo": {
+                "1": "(Sherehe Kuu) - Rangi: Nyeupe - Kuzaliwa kwa Bwana"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 26,
+            "dia-sem": "Ijumaa",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyekundu - Mt. Stefano, mfiadini wa kwanza"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 27,
+            "dia-sem": "Jumamosi",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Mt. Yohana, mtume na mwinjili"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 28,
+            "dia-sem": "Jumapili",
+            "festejo": {
+                "1": "(Sikukuu) - Rangi: Nyeupe - Familia Takatifu ya Yesu, Maria, na Yosefu"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 29,
+            "dia-sem": "Jumatatu",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Siku V ndani ya Oktava ya Kuzaliwa kwa Bwana",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mt. Thomas Becket, askofu na mfiadini"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 30,
+            "dia-sem": "Jumanne",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Siku VI ndani ya Oktava ya Kuzaliwa kwa Bwana"
+            }
+        },
+        {
+            "tiempo": "Muda wa Krismasi",
+            "dia-num": 31,
+            "dia-sem": "Jumatano",
+            "festejo": {
+                "1": "Rangi: Nyeupe - Siku VII ndani ya Oktava ya Kuzaliwa kwa Bwana",
+                "2": "(Kumbukumbu ya Hiari) - Rangi: Nyeupe - Mt. Sylvester I, papa"
+            }
+        }
+    ]
+}

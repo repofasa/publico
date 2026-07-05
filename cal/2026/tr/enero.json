@@ -1,0 +1,259 @@
+{
+    "enero": [
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 1,
+             "dia-sem": "Perşembe",
+             "festejo": {
+                 "1": "Bayram (Tören) - Renk: Beyaz - Kutsal Meryem, Tanrı'nın Annesi"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 2,
+             "dia-sem": "Cuma",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz Büyük Basil ve Nazianzuslu Gregor, piskoposlar ve Kilise Doktorları"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 3,
+             "dia-sem": "Cumartesi",
+             "festejo": {
+                 "1": "Renk: Beyaz - Noel II. Haftasının Cumartesi Günü",
+                 "2": "İsteğe Bağlı Anma - Renk: Beyaz - İsa'nın Kutsal Adı"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 4,
+             "dia-sem": "Pazar",
+             "festejo": {
+                 "1": "Bayram (Tören) - Renk: Beyaz - Rab'bin Epifanisi"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 5,
+             "dia-sem": "Pazartesi",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Pazartesi"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 6,
+             "dia-sem": "Salı",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Salı"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 7,
+             "dia-sem": "Çarşamba",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Çarşamba",
+                 "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Raymond of Penyafort, rahip"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 8,
+             "dia-sem": "Perşembe",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Perşembe"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 9,
+             "dia-sem": "Cuma",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Cuma"
+             }
+         },
+         {
+             "tiempo": "Noel Zamanı",
+             "dia-num": 10,
+             "dia-sem": "Cumartesi",
+             "festejo": {
+                 "1": "Renk: Beyaz - Epifani'den Sonra Cumartesi"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 11,
+             "dia-sem": "Pazar",
+             "festejo": {
+                 "1": "Yortu - Renk: Beyaz - Rab'bin Vaftizi"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 12,
+             "dia-sem": "Pazartesi",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman I. Haftasının Pazartesi Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 13,
+             "dia-sem": "Salı",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman I. Haftasının Salı Günü",
+                 "2": "İsteğe Bağlı Anma - Renk: Beyaz - Aziz Hilary, piskopos ve Kilise Doktoru"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 14,
+             "dia-sem": "Çarşamba",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman I. Haftasının Çarşamba Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 15,
+             "dia-sem": "Perşembe",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman I. Haftasının Perşembe Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 16,
+             "dia-sem": "Cuma",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman I. Haftasının Cuma Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 17,
+             "dia-sem": "Cumartesi",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz Anthony, başrahip"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 18,
+             "dia-sem": "Pazar",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman II. Pazarı"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 19,
+             "dia-sem": "Pazartesi",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman II. Haftasının Pazartesi Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 20,
+             "dia-sem": "Salı",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman II. Haftasının Salı Günü",
+                 "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Fabian, papa ve şehit",
+                 "3": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Sebastian, şehit"                
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 21,
+             "dia-sem": "Çarşamba",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Kırmızı - Azize Agnes, bakire ve şehit"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 22,
+             "dia-sem": "Perşembe",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman II. Haftasının Perşembe Günü",
+                 "2": "İsteğe Bağlı Anma - Renk: Kırmızı - Aziz Vincent, diyakoz ve şehit"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 23,
+             "dia-sem": "Cuma",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman II. Haftasının Cuma Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 24,
+             "dia-sem": "Cumartesi",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz Francis de Sales, piskopos ve Kilise Doktoru"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 25,
+             "dia-sem": "Pazar",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman III. Pazarı (Tanrı Sözü Pazarı)"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 26,
+             "dia-sem": "Pazartesi",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz Timoteos ve Titus, piskoposlar"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 27,
+             "dia-sem": "Salı",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman III. Haftasının Salı Günü",
+                 "2": "İsteğe Bağlı Anma - Renk: Beyaz - Azize Angela Merici, bakire"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 28,
+             "dia-sem": "Çarşamba",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz Thomas Aquinas, rahip ve Kilise Doktoru"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 29,
+             "dia-sem": "Perşembe",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman III. Haftasının Perşembe Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 30,
+             "dia-sem": "Cuma",
+             "festejo": {
+                 "1": "Renk: Yeşil - Olağan Zaman III. Haftasının Cuma Günü"
+             }
+         },
+         {
+             "tiempo": "Olağan Zaman",
+             "dia-num": 31,
+             "dia-sem": "Cumartesi",
+             "festejo": {
+                 "1": "Zorunlu Anma - Renk: Beyaz - Aziz John Bosco, rahip"
+             }
+         }
+     ]
+ }
