@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Agosto de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/agosto2026-esp",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Août",
-            "subtitulo": "Pas Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/agosto2026-fra",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

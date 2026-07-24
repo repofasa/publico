@@ -58,9 +58,9 @@
         },
         {
             "titulo": "August",
-            "subtitulo": "Not Available Yet",
+            "subtitulo": "Available",
             "contenido": "2026/agosto2026-eng",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

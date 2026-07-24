@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Sierpnia",
-            "subtitulo": "Niedostępne",
+            "subtitulo": "Dostępny",
             "contenido": "2026/agosto2026-pol",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

@@ -58,9 +58,9 @@
         },
         {
             "titulo": "August",
-            "subtitulo": "Nicht Verfügbar",
+            "subtitulo": "Verfügbar",
             "contenido": "2026/agosto2026-ale",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

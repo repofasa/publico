@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Agosto",
-            "subtitulo": "Não Disponível",
+            "subtitulo": "Acessível",
             "contenido": "2026/agosto2026-por",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

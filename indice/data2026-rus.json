@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Август",
-            "subtitulo": "Ещё не доступно",
+            "subtitulo": "Доступно",
             "contenido": "2026/agosto2026-rus",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },

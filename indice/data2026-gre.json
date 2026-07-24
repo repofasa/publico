@@ -58,9 +58,9 @@
         },
         {
             "titulo": "Αύγουστος",
-            "subtitulo": "εν είναι ακόμα διαθέσιμο",
+            "subtitulo": "Διαθέσιμο",
             "contenido": "2026/agosto2026-gre",
-            "activo": "no",
+            "activo": "si",
             "imagen": "agosto",
             "id": "8"
         },
