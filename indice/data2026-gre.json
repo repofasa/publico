@@ -66,9 +66,9 @@
         },
         {
             "titulo": "Σεπτέμβριος",
-            "subtitulo": "εν είναι ακόμα διαθέσιμο",
+            "subtitulo": "Διαθέσιμο",
             "contenido": "2026/septiembre2026-gre",
-            "activo": "no",
+            "activo": "si",
             "imagen": "septiembre",
             "id": "9"
         },
