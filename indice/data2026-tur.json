@@ -66,9 +66,9 @@
         },
         {
             "titulo": "Eylül",
-            "subtitulo": "Kullanım dışı",
+            "subtitulo": "Mevcut",
             "contenido": "2026/septiembre2026-tur",
-            "activo": "no",
+            "activo": "si",
             "imagen": "septiembre",
             "id": "9"
         },

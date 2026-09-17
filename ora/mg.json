@@ -1,156 +1,156 @@
 {
-	"data": [
-		{
-			"id": "1",
-			"nombre": "Sign Of The Cross",
-      "icono":"cruz",
-			"subtitulo": "It is the sign of the Christians, where Jesus died for us. It is customary to recite other prayers before or after reading the Gospel.",
-			"contenido": "By the sign of the Holy<br>Cross,<br>from our enemies deliver us<br>Oh Lord our God.<br>In the name of The Father,<br>The Son and The Holy<br>Spirit.<br>Amen",
-			"imagen": "signocruz"
-		},
-		{
-			"id": "2",
-			"nombre": "The Our Father",
-      "icono":"padre",
-			"subtitulo": "This is one of the most important prayers. This prayer was given to us by Jesus Christ Himself. Can be prayed at any time needed.",
-			"contenido": "Our Father, who art in<br>heaven,<br>hallowed be Thy name.<br>Thy kingdom come;<br>Thy will be done on earth as it is in heaven.<br>Give us this day our daily bread, and forgive us our<br>trespasses<br>as we forgive those who trespass against us.<br>And lead us not into temptation but deliver us from evil.<br>Amen.",
-			"imagen": "padrenuestro"
-		},
-		{
-			"id": "3",
-			"nombre": "Hail Mary",
-      "icono":"ave",
-			"subtitulo": "Here we repeat the words our Mother heard from the Angel. Every time we pray this, is like giving a rose to our Mother, the Virgin Mary.",
-			"contenido": "Hail Mary, full of grace,<br>the Lord is with you.<br>Blessed art you among<br>women,<br>and blessed is the Fruit of your womb, Jesus.<br>Holy Mary, Mother of God,<br>pray for us sinners, now, and at the hour of our death.<br>Amen. ",
-			"imagen": "avemaria"
-		},
-		{
-			"id": "4",
-			"nombre": "Glory Be To The Father",
-      "icono":"bible",
-			"subtitulo": "Catholic prayer praising the Holy Trinity. It is customary to pray to conclude other prayers.",
-			"contenido": "Glory be to the Father,<br>and to the Son,<br>and to the Holy Spirit.<br>As it was in the beginning, is now, and ever shall be,<br>world without end.<br>Amen.",
-			"imagen": "gloria"
-		},
-		{
-			"id": "5",
-			"nombre": "Hail Holy Queen",
-      "icono":"rosary",
-			"subtitulo": "It is a supply to our Mother, who can do everything. We ask her protection.",
-			"contenido": "Hail Holy Queen, Mother of<br>Mercy; our life,<br>our sweetness and our<br>hope! To you do we<br>cry, poor banished children<br>of Eve. To you<br>do we send up our sighs,<br>mourning and weeping<br>in this vale of tears. Turn then, most gracious<br>advocate, your eyes of mercy toward<br>us; and after this our exile, show unto us the<br>blessed fruit of your womb, Jesus. O clement, O loving, O<br>sweet Virgin Mary.<br>V. Pray for us, O holy Mother of God,<br>R. that we may be made worthy of the promises of Christ.<br>Amen.",
-			"imagen": "regina"
-		},
-		{
-			"id": "6",
-			"nombre": "My Lord Jesus Christ",
-      "icono":"jesus",
-			"subtitulo": "We ask our Lord to forgive us, because we regret any offense, and to help us for not to sin again.",
-			"contenido": "My Lord Jesus Christ,<br>God and true man,<br>Creator, Father and my<br>redeemer.<br>As you who you are, and because I love above all things,<br>I regret with all my heart for having offended.<br>I firmly resolve never to sin,<br>turn away from all occasions of offending you,<br>confess it, and meet me outside the penance imposed.<br>Amen.",
-			"imagen": "signore"
-		},
-		{
-			"id": "7",
-			"nombre": "I Confess to You",
-      "icono":"confieso",
-			"subtitulo": "General confession to pray in Sunday Mass and at any time we want to apologize for venial sins.",
-			"contenido": "I confess to almighty God,<br>and to you, my brothers and sisters,<br>that I have sinned through my own fault,<br>in my thoughts and in my words,<br>in what I have done,<br>and in what I have failed to do;<br>and I ask blessed Mary, ever virgin,<br>all the angels and saints, and you,<br>my brothers and sisters,<br>to pray for me to the Lord our God.<br>Amen.",
-			"imagen": "confesso"
-		},
-		{
-			"id": "8",
-			"nombre": "The Nicene-Constantinopolitan Creed",
-      "icono":"credo2",
-			"subtitulo": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
-			"contenido": "We believe in God, the Father, the<br>Almighty, maker of heaven and<br>earth, and all that is seen and<br>unseen.<br>We believe in one Lord, Jesus<br>Christ, the only Son of God,<br>eternally begotten of the Father,<br>God from God, Light from Light, true<br>God from true God, begotten, not<br>made, consubstantial<br>one in Being with the Father.<br>Through him all things were made.<br>For us men and for our salvation he<br>came down from heaven: and by the<br>Holy Spirit was incarnate he was<br>born of the Virgin Mary, and became<br>man. For our sake he was crucified<br>under Pontius Pilate; he suffered,<br>died, and was buried. On the third<br>day he rose again in fulfilment of the<br>Scriptures; he ascended into heaven<br>and is seated<br>at the right<br>hand of the<br>Father. He will<br>come again in glory to judge the<br>living and the dead, and His<br>kingdom will have no end.<br>We believe in the Holy Spirit, the<br>Lord, the giver of life, who proceeds<br>from the Father and the Son. With<br>the Father and the Son he is<br>worshipped and glorified. He has<br>spoken through the Prophets.<br>We believe in one holy catholic and<br>apostolic Church. We acknowledge<br>one baptism for the forgiveness of<br>sins. We look for the resurrection of<br>the dead, and the life of the world to<br>come.<br>Amen.",
-			"imagen": "niceno"
-		},
-		{
-			"id": "9",
-			"nombre": "Apostles’ Creed",
-      "icono":"credo",
-			"subtitulo": "We remember our baptism, confessing our faith. We pray it at Sunday Mass.",
-			"contenido": "I believe in God, the Father<br>almighty, Creator of heaven<br>and earth, and in Jesus<br>Christ, his only Son, our<br>Lord, who<br>was conceived by the Holy<br>Spirit, born of the Virgin Mary,<br>suffered under Pontius Pilate,<br>was crucified, died and was<br>buried; he descended into<br>hell; on the third day he rose<br>again from the dead; he<br>ascended into heaven, and is<br>seated at the right hand of<br>God the Father almighty;<br>from there he will come to<br>judge the living and the dead.<br>I believe in the Holy Spirit, the<br>holy catholic Church, the<br>communion of saints, the<br>forgiveness of sins, the<br>resurrection<br>of the body, and life<br>everlasting.<br>Amen.",
-			"imagen": "apostolico"
-		},
-		{
-			"id": "10",
-			"nombre": "Act of Spiritual Communion",
-      "icono":"scroll",
-			"subtitulo": "Beautiful prayer when we go to receive Holy Communion. Also to conclude the visit to the exposition of the Blessed Sacrament or any other blessing.",
-			"contenido": "My Jesus, I believe that<br>You are in the Blessed<br>Sacrament. I love You<br>above all things, and I long for You in my soul. Since I<br>cannot now receive You sacramentally, come at least<br>spiritually into my heart. As though You have already<br>come, I embrace You and unite myself entirely to You;<br>never permit me to be separated from You.",
-			"imagen": "comunione"
-		},
-		{
-			"id": "11",
-			"nombre": "Angelus",
-      "icono":"angel",
-			"subtitulo": " Is prayed at noon (12:00) all year except Easter time.",
-			"contenido": "V. The Angel of the Lord<br>declared to Mary:<br>R. And she conceived of the Holy<br>Spirit.<br>Hail Mary…<br>V. Behold the handmaid of the Lord:<br>R. Be it done unto me according to Thy word.<br>Hail Mary…<br>V. And the Word was made Flesh:<br>R. And dwelt among us.<br>Hail Mary…<br>V. Pray for us, O Holy Mother of God,<br>R. that we may be made worthy of the promises of Christ.<br>Let us pray:<br>Pour forth, we beseech Thee, O Lord, Thy grace into our hearts;<br>that we, to whom the incarnation of Christ, Thy Son, was made<br>known by the message of an angel, may by His Passion and<br>Cross be brought to the glory of His Resurrection, through the<br>same Christ Our Lord.<br>R. Amen.",
-			"imagen": "angelus"
-		},
-		{
-			"id": "12",
-			"nombre": "Regina Coeli",
-      "icono":"holy-ghost",
-			"subtitulo": " Is prayed at noon (12:00) at Easter time instead of the Angelus.",
-			"contenido": "V. Queen of heaven, rejoice.<br>Alleluia.<br>R. For He whom thou didst<br>deserve to bear, Alleluia.<br>V. Hath risen as He said, Alleluia.<br>R. Pray for us to God, Alleluia.<br>V. Rejoice and be glad, O Virgin<br>Mary, Alleluia.<br>R. Because Our Lord is truly risen, Alleluia.<br>Let us pray<br>O God, who by the resurrection of Thy Son, Our Lord Jesus<br>Christ, hast vouchsafed to make glad the whole world, great, we<br>beseech Thee, that, through the intercession of the Virgin Mary,<br>His Mother, we may attain the joys of eternal life.<br>Through the same Christ Our Lord.<br>R. Amen.",
-			"imagen": "coeli"
-		},
-		{
-			"id": "13",
-			"nombre": "Blessed Be Your Purity",
-      "icono":"pureza",
-			"subtitulo": "A poem to our Mother Virgin Mary.",
-			"contenido": "Blessed be your purity,<br>may it be blessed forever,<br>for no less than God takes<br>delight, in such exalted beauty.<br>To you, heavenly Princess,<br>Holy Virgin Mary,<br>I offer on this day my whole<br>heart, life and soul.<br>Look upon me with compassion,<br>do not leave me, my Mother.<br>Amen.",
-			"imagen": "virgen"
-		},
-		{
-			"id": "14",
-			"nombre": "Memorare",
-      "icono":"goblet",
-			"subtitulo": "We put our trust in the Virgin and ask something for us or for someone in particular",
-			"contenido": "Remember, O most gracious<br>Virgin Mary,<br>that never was it known that<br>anyone who fled to thy<br>protection,<br>implored thy help, or sought<br>thine intercession was left unaided.<br>Inspired by this confidence, I fly unto thee, O Virgin of<br>virgins, my mother;<br>to thee do I come, before thee I stand, sinful and<br>sorrowful.<br>O Mother of the Word Incarnate, despise not my petitions,<br>but in thy mercy hear and answer me.<br>Amen. ",
-			"imagen": "memorare"
-		},
-		{
-			"id": "15",
-			"nombre": "Soul of Christ (Anima Christi)",
-      "icono":"espiri",
-			"subtitulo": "Very beautiful prayer after Communion.",
-			"contenido": "Soul of Christ, sanctify me.<br>Body of Christ, save me.<br>Blood of Christ, inebriate<br>me.<br>Water from the side of<br>Christ, wash me.<br>Passion of Christ, strengthen me.<br>O Good Jesus, hear me.<br>Within your wounds hide me.<br>Permit me not to be separated from you.<br>From the wicked foe, defend me.<br>At the hour of my death, call me<br>and bid me come to you<br>That with your saints I may praise you<br>For ever and ever.<br>Amen.",
-			"imagen": "anima"
-		},
-		{
-			"id": "16",
-			"nombre": "Oh my Lady",
-      "icono":"marie",
-			"subtitulo": "Wake up, overcome laziness and offer day our Mother.",
-			"contenido": "Oh my Lady, O my<br>Mother, I offer<br>myself entirely to<br>you, and in proof of<br>my filial affection I offer to you this day my eyes, my ears,<br>my tongue, my heart, in a word, my whole self. Now that I<br>am entirely yours Mother of goodness, keep me and<br>defend me as your own property and possession.<br>Amen.",
-			"imagen": "maria"
-		},
-		{
-			"id": "17",
-			"nombre": "Prayer To My Guardian Angel",
-      "icono":"guardian",
-			"subtitulo": "We pray just before going to bed and at any time we can ask our Guardian Angel for protection",
-			"contenido": "Angel of God, my<br>guardian dear, to whom<br>His love commits<br>me here, ever this day<br>be at my side, to light<br>and to guard,<br>to rule and to guide.<br>Amen.",
-			"imagen": "angelo"
-		},
-		{
-			"id": "18",
-			"nombre": "Travel Prayer",
-      "icono":"bendi",
-			"subtitulo": "Before any travel this prayer may be useful.",
-			"contenido": "My holy Angel Guardian, ask<br>the Lord to bless the journey<br>which I undertake, that it<br>may profit the health of my soul and body; that I may<br>reach its end, and that, returning safe and sound, I may<br>find my family in good health. Do thou guard, guide and<br>preserve us.<br>Amen.",
-			"imagen": "viajero"
-		},
-		{
-			"id": "19",
-			"nombre": "Blessing Before Meals",
-      "icono":"vino",
-			"subtitulo": "We pray before every meal to thank God for the food.",
-			"contenido": "V. Bless us, O Lord, and<br>these your gifts, which we are about to receive from your<br>bounty, through Christ our Lord.<br>R. Amen.<br>V. May the King of everlasting glory make us partakers of<br>the heavenly table.<br>R. Amen.",
-			"imagen": "mesa"
-		}
-	]
+  "data": [
+    {
+      "id": "1",
+      "nombre": "Ny famantarana ny hazo fijaliana",
+      "icono": "cruz",
+      "subtitulo": "Izany no famantarana ny Kristianina, satria teo amboniny no maty i Jesoa. Fanao ny manao izany alohan'ny vavaka hafa na alohan'ny famakiana ny Evanjely.",
+      "contenido": "Amin'ny famantarana ny Hazo<br>Fijaliana Masina,<br>afaho amin'ny fahavalonay<br>izahay, ry Tompo,<br>Andriamanitray.<br>Amin'ny anaran'ny Ray sy<br>ny Zanaka ary ny Fanahy Masina. Amena.",
+      "imagen": "signocruz"
+    },
+    {
+      "id": "2",
+      "nombre": "Rainay",
+      "icono": "padre",
+      "subtitulo": "Vavaka lehibe indrindra izany. I Jesoa Kristy tenany no nampianatra izany antsika ary azo atao matetika isan'andro",
+      "contenido": "Rainay izay any an-danitra,<br>hohamasinina anie ny Anaranao;<br>ho tonga anie ny Fanjakanao;<br>ho tanteraka anie ny sitraponao<br>ety an-tany tahaka ny any an-danitra.<br>Omeo anay anio<br>ny hanina sahaza anay;<br>ary avelao ny helokay,<br>tahaka ny amelanay<br>izay nanao ratsy taminay;<br>ary aza avelanao ho resin'ny fakam-panahy izahay,<br>fa manafaha anay amin'ny ratsy.<br><br>Amena.",
+      "imagen": "padrenuestro"
+    },
+    {
+      "id": "3",
+      "nombre": "Arahaba ry Maria",
+      "icono": "ave",
+      "subtitulo": "Averinay ao aminy ny teny renin'i Virjiny tamin'ny Anjely. Isaky ny manao izany isika dia toy ny manolotra raozy ho an'ny Renintsika.",
+      "contenido": "Arahaba ry Maria,<br>feno hasoavana,<br>ny Tompo ao aminao.<br>Nosoavina ianao mihoatra<br>ny vehivavy rehetra,<br>ary nosoavina i Jesoa ateraky ny kibonao.<br>Masina Maria, Renin'Andriamanitra,<br>mivavaha ho anay mpanota,<br>ankehitriny sy amin'ny ora hahafatesanay.<br>Amena",
+      "imagen": "avemaria"
+    },
+    {
+      "id": "4",
+      "nombre": "Voninahitra",
+      "icono": "bible",
+      "subtitulo": "Hira fiderana ho an'ny Trinite Masina. Fanao ny manao izany hamaranana vavaka hafa.",
+      "contenido": "Voninahitra ho an'ny Ray,<br>sy ny Zanaka,<br>ary ny Fanahy Masina.<br>Tahaka ny tamin'ny voalohany,<br>ankehitriny sy mandrakizay, ho mandrakizay mandrakizay.<br>Amena.",
+      "imagen": "gloria"
+    },
+    {
+      "id": "5",
+      "nombre": "Salve Regina",
+      "icono": "rosary",
+      "subtitulo": "Fitalahoana amin'ny Renintsika, izay mahay ny zavatra rehetra. Mangataka ny fiarovany sy ny fiahiany isika",
+      "contenido": "Arahaba ry Mpanjakavavy<br>Renin'ny famindram-po,<br>fiainanay, fahafinaretanay sy fanantenanay;<br>arahaba.<br>Aminao no antsoinay<br>izahay zanak'i Eva voaroaka;<braminao no misento, mitoloko sy mitomany<br>aty amin'ity lohasahan-dranomaso ity izahay.<br>Koa ry Tompovavy, Mpanalalana anay,<br>atodiho aminay ireo masonao<br>feno famindram-po;<br>ary rehefa afaka ity sesitany ity,<br>asehoy anay i Jesoa,<br>voatahy ateraky ny kibonao.<br><br>Ry tsara fo, ry mpiantra,<br>ry Maria Virjiny mamy!Mivavaha ho anay,<br>ry Renin'Andriamanitra masina,<br>mba ho mendrika hahazo ny teny fikasan'i Jesoa Kristy Tompontsika.<br>Amena",
+      "imagen": "regina"
+    },
+    {
+      "id": "6",
+      "nombre": "Fibebahana",
+      "icono": "jesus",
+      "subtitulo": "Fomba fangatahana famelan-keloka amin'i Jesoa noho ny fahotantsika.",
+      "contenido": "Andriamanitro, <br>manenina amin'ny foko manontolo aho <br>noho ny fahotako rehetra <br>ary halako izany, <br>satria tamin'ny fanotana dia tsy ny sazy napetrakao <br>araka ny rariny ihany no mendrika ahy <br>fa indrindra satria nanafintohina Anao aho, <br>Ry Tsara indrindra sy mendrika ho tiavina <br>mihoatra ny zavatra rehetra. <br>Koa mikasa mafy aho, <br>amin'ny fanampian'ny fahasoavanao, <br>tsy hanota intsony <br>sy handositra ny loza rehetra mitarika amin'ny ota. <br>Amena",
+      "imagen": "signore"
+    },
+    {
+      "id": "7",
+      "nombre": "Miaiky aho...",
+      "icono": "confieso",
+      "subtitulo": "Fiaiken-keloka ankapobeny ataontsika amin'ny lamesa Alahady sy amin'ny fotoana rehetra tian-tsika hangataka famelan-keloka noho ny fahotana madinika.",
+      "contenido": "Miaiky aho amin'Andriamanitra Tsitoha, <br>ary aminareo ry rahalahy <br>fa nanota mafy aho <br>tamin'ny eritreritra, tamin'ny teny, tamin'ny asa ary tamin'ny tsy fanaovana. <br>Ako, ako, ako tokoa nohelokaiko.<br>Koa mangataka amin'i Masina Maria Virjiny mandrakizay, <br>amin'ny anjely, amin'ny olo-masina ary aminareo ry rahalahy, <br>hivavaka ho ahy amin'Andriamanitra Tompontsika. <br><br>Amena.",
+      "imagen": "confesso"
+    },
+    {
+      "id": "8",
+      "nombre": "Fanekem-pinoana Nikea-Konstantinopla",
+      "icono": "credo2",
+      "subtitulo": "Tsarovana ny batemisintsika, amin'ny fanekena ny finoantsika. Ataontsika izany amin'ny Lamesa Alahady.",
+      "contenido": "Mino an'Andriamanitra tokana aho, Ray tsitoha,<br>Mpahary ny lanitra sy ny tany,<br>ny zavatra hita rehetra sy ny tsy hita.<br><br>Mino an'i Jesoa Kristy Tompo tokana, Zanan'Andriamanitra Lahitokana,<br>nateraky ny Ray talohan'ny taona rehetra:<br>Andriamanitra avy amin'Andriamanitra, Fahazavana avy amin'ny Fahazavana,<br>Andriamanitra marina avy amin'Andriamanitra marina,<br>nateraka fa tsy natao,<br>iray fomba amin'ny Ray,<br>ary tamin'ny alalany no natao ny zavatra rehetra;<br>izay nidina avy any an-danitra noho isika olombelona,<br>sy noho ny famonjena antsika,<br>ary naka nofo tamin'ny Fanahy Masina<br>avy amin'i Maria Virjiny ka tonga olombelona;<br>ary nohomboana tamin'ny hazo fijaliana noho isika<br>tamin'ny andron'i Ponsa Pilaty;<br>nijaly sy nalevina,<br>ary nitsangan-ko velona tamin'ny andro fahatelo, araka ny Soratra Masina,<br>niakatra any an-danitra, mipetraka eo ankavanan'ny Ray;<br>ary ho avy amim-boninahitra indray<br>hitsara ny velona sy ny maty,<br>ary tsy hanam-pahataperana ny fanjakany.<br><br>Mino ny Fanahy Masina, Tompo sy Mpamelona,<br>izay avy amin'ny Ray sy ny Zanaka, miaraka amin'ny Ray sy ny Zanaka<br>no ivavahana sy omem-boninahitra,<br>ary niteny tamin'ny alalan'ny mpaminany.<br>Mino ny Eglizy,<br>tokana, masina, katolika, apôstôlika.<br>Manaiky ny batisa tokana ho famelan'ny fahotana aho.<br>Miandry ny fitsanganan'ny maty sy ny fiainan'ny tontolo ho avy.<br><br>Amena.",
+      "imagen": "niceno"
+    },
+    {
+      "id": "9",
+      "nombre": "Fanekem-pinoana apôstôlika",
+      "icono": "credo",
+      "subtitulo": "Tsarovana ny batemisintsika, amin'ny fanekena ny finoantsika. Ataontsika izany amin'ny Lamesa Alahady.",
+      "contenido": "Mino an'Andriamanitra, Ray tsitoha,<br>Mpahary ny lanitra sy ny tany aho.<br><br>Mino an'i Jesoa Kristy, Zanany Lahitokana, Tompontsika,<br>izay notorontoronina tamin'ny herin'ny Fanahy Masina,<br>naterak'i Masina Maria Virjiny,<br>nijaly tamin'ny andron'i Ponsa Pilaty, nohomboana tamin'ny hazo fijaliana, maty ary nalevina,<br>nidina tany amin'ny fiainan-tsi-hita,<br>nitsangan-ko velona tamin'ny andro fahatelo,<br>niakatra any an-danitra<br>mipetraka eo ankavanan'Andriamanitra, Ray tsitoha.<br>Ho avy avy any Izy hitsara ny velona sy ny maty.<br><br>Mino ny Fanahy Masina aho,<br>ny Eglizy katolika masina,<br>ny fiombonan'ny olo-masina,<br>ny famelan'ny fahotana,<br>ny fitsanganan'ny nofo<br>sy ny fiainana mandrakizay.<br><br>Amena.",
+      "imagen": "apostolico"
+    },
+    {
+      "id": "10",
+      "nombre": "Kominio ara-panahy",
+      "icono": "scroll",
+      "subtitulo": "Vavaka sarobidy rehefa handray ny Kominio Masina. Atao ihany koa hamaranana ny fitsidihana ny Sakramenta Masina na ny Fitsofan-drano.",
+      "contenido": "Mino aho, ry Jesoako,<br>fa tena ary marina tokoa ny fisianao any an-danitra<br>sy ao amin'ny Sakramenta Masina eo ambony ôtely.<br>Tiako mihoatra ny zavatra rehetra Ianao<br>ary maniry fatratra ny handray Anao ao am-poko,<br>saingy satria tsy afaka manao izany ara-tsakramenta ankehitriny aho,<br>midira fara-fahakeliny ara-panahy ao am-poko.<br>Ary toy ny efa noraisiko Ianao,<br>dia mamihina Anao aho ary manolo-tena manontolo aminao.<br>Ry Tompo, aza avela hisaraka aminao mandrakizay aho. <br><br>Amena.",
+      "imagen": "comunione"
+    },
+    {
+      "id": "11",
+      "nombre": "Anjelosy",
+      "icono": "angel",
+      "subtitulo": "Tononina amin'ny mitataovovonana (12:00) mandritra ny taona manontolo, afa-tsy amin'ny fotoanan'ny Paka.",
+      "contenido": "(Andininy)<br>Nanambara tamin'i Maria ny Anjelin'ny Tompo.<br>(Valiny)<br>Ary notorontoronina<br>tamin'ny herin'ny Fanahy Masina Izy.<br>Arahaba ry Maria,<br>feno hasoavana;<br>ny Tompo ao aminao.<br>Nosoavina ianao<br>mihoatra ny vehivavy rehetra,<br>ary nosoavina i Jesoa ateraky ny kibonao.<br>Masina Maria, Renin'Andriamanitra,<br>mivavaha ho anay mpanota,<br>ankehitriny sy amin'ny ora hahafatesanay.<br>Amena.<br><br>(Andininy)<br>Inty ny ankizivavin'ny Tompo.<br>(Valiny)<br>Honga amiko araka ny teninao anie.<br>Arahaba ry Maria...<br><br>(Andininy)<br>Ary ny Tenin'Andriamanitra tonga nofo.<br>(Valiny)<br>Ary nonina teo aminay.<br>Arahaba ry Maria...<br><br>(Andininy)<br>Mivavaha ho anay,<br>ry Renin'Andriamanitra masina,<br>(Valiny)<br>mba ho mendrika hahazo<br>ny teny fikasan'i Jesoa Kristy.<br><br>Andao hivavaka:<br>Aidino, ry Tompo,<br>ny fahasoavanao ao am-panahinay,<br>fa izahay izay nahalala, tamin'ny fanambaran'ny Anjely,<br>ny Fahatongavan'ny Zanakao Jesoa Kristy ho nofo,<br>dia ho tonga amin'ny voninahitry ny Fitsanganana amin'ny maty,<br>tamin'ny alalan'ny Fahamendrehan'ny Fijaliany sy ny Hazofijaliany.<br>Tamin'ny alalan'i Jesoa Kristy Tompontsika.<br>Amena.<br><br>Voninahitra ho an'ny Ray...",
+      "imagen": "angelus"
+    },
+    {
+      "id": "12",
+      "nombre": "Regina Coeli",
+      "icono": "holy-ghost",
+      "subtitulo": "Tononina amin'ny mitataovovonana (12:00) amin'ny fotoanan'ny Paka ho solon'ny Anjelosy.",
+      "contenido": "F: Mifalia ry Mpanjakan'ny lanitra, aleloia.<br>V: Fa ny Tompo izay nentinao tao an-kibonao, aleloia.<br><br>F: Nitsangana araka ny teniny, aleloia.<br>V: Mivavaha amin'ny Tompo ho anay, aleloia.<br><br>F: Mifalia sy ravoravoa ry Virjiny Maria, aleloia. <br>V: Fa marina tokoa fa nitsangan-ko velona ny Tompo, aleloia. <br><br>Andao hivavaka:<br>Ry Andriamanitra, izay tamin'ny fitsanganan'ny Zanakao, i Jesoa Kristy Tompontsika, no nameno fifaliana izao tontolo izao, omeo anay, amin'ny fitalahoan'ny Reniny, ny Virjiny Maria, ny ho tonga amin'ny fifaliana mandrakizay. Tamin'ny alalan'i Jesoa Kristy Tompontsika. Amena.<br><br>Voninahitra ho an'ny Ray sy ny Zanaka ary ny Fanahy Masina, tahaka ny tamin'ny voalohany ankehitriny sy mandrakizay ho mandrakizay mandrakizay. Amena. (intelo)",
+      "imagen": "coeli"
+    },
+    {
+      "id": "13",
+      "nombre": "Isaorana anie ny fahadiovanao",
+      "icono": "pureza",
+      "subtitulo": "Tononkalo ho an'ny Renintsika Virjiny.",
+      "contenido": "Isaorana anie ny fahadiovanao,<br>ary ho mandrakizay anie izany,<br>fa Andriamanitra manontolo no ravoravo<br>amin'ny hatsarana mahafatifaty toy izany.<br>Aminao ry Andriana an-danitra,<br>Ry Virjiny Maria masina!<br>Atolotro Anao amin'ity andro ity,<br>ny fanahy, ny aina ary ny foko.<br>Tazano amim-fangorahana aho.<br>Aza foizako ry Reniko.",
+      "imagen": "virgen"
+    },
+    {
+      "id": "14",
+      "nombre": "Tsarovy",
+      "icono": "goblet",
+      "subtitulo": "Apetratsika amin'i Virjiny ny fitokiantsika ary mangataka ho anay na ho an'olona hafa mila izany.",
+      "contenido": "Tsarovy, <br>ry Virjiny Maria mpiantra indrindra, <br>fa tsy mbola re akory <br>fa nafoina izay nialoka <br>tamin'ny fiarovanao, <br>nangataka ny fanampianao <br>sy niantso ny vonjinao. <br>Sahirana amin'izany fitokiana izany, <br>manatona Anao koa aho, ry Reny, <br>Virjinin'ny virjiny, <br>ary na dia misento <br>ambany vesatry ny fahotako aza, <br>dia sahy miseho <br>eo anatrehan'ny fiandriananao. <br>Aza lavinao ny fifonako ambany, <br>ry Renin'ny Teny Andriamanitra, <br>fa henoy kosa <br>sy raiso amim-pahasoavana. Amena",
+      "imagen": "memorare"
+    },
+    {
+      "id": "15",
+      "nombre": "Fanahin'i Kristy",
+      "icono": "espiri",
+      "subtitulo": "Vavaka tsara tarehy atao aorian'ny kominio",
+      "contenido": "Ry Fanahin'i Kristy, manamasìna ahy.<br>Ry Tenan'i Kristy, vonjeo aho.<br>Ry Ràn'i Kristy, mamò ahy.<br>Ry Ranom-péla niavian'i Kristy, sasao aho.<br>Ry Fijalìan'i Kristy, ankaherezo aho.<br>Ry Jesoa tsara fo ô, henoy aho.<br>Afeno ahy ao amin'ny ferinao.<br>Aza avelanao hisaraka aminao aho.<br>Amin'ny fahavalo ratsy, arovy aho.<br>Amin'ny ora hahafatesako, antsoy aho.<br>Ary asaovy hanatona Anao aho.<br>Mba hiara-midera Anao amin'ny olo-masinao.<br>Ho mandrakizay mandrakizay. Amena",
+      "imagen": "anima"
+    },
+    {
+      "id": "16",
+      "nombre": "Fanolorana ny asa",
+      "icono": "marie",
+      "subtitulo": "Vao mifoha maraina, reseo ny hakamoana ary atolory ho an'ny Renintsika ny andro.",
+      "contenido": "Ry Tompovaviko! Ry Reniko!<br><br>Manolo-tena manontolo aminao aho.<br>Ary ho porofon'ny fitiavako zanaka,<br>manokana ho Anao amin'ity andro ity ny masoko,<br>ny sofiko, ny lelako, ny foko:<br>amin'ny teny iray, ny tenako manontolo.<br><br>Satria Anao manontolo aho,<br>ry Renin'ny fahasoavana,<br>ambeno sy arovy aho<br>tahaka ny fanananao sy anjaranao.<br><br>Amena.",
+      "imagen": "maria"
+    },
+    {
+      "id": "17",
+      "nombre": "Anjelin'ny Mpiambina",
+      "icono": "guardian",
+      "subtitulo": "Tononina alohan'ny hatory sy amin'ny fotoana rehetra angatahantsika fiarovana amin'ny Anjely Mpiambina antsika",
+      "contenido": "Anjelin'ny mpiambina ahy,<br>mpiara-dia mamy,<br>aza mahafoy ahy,<br>na alina na andro,<br>aza avela irery aho, fa ho very,<br>mandra-pametrahanao ahy, am-piadanana sy fifaliana,<br>miaraka amin'ny olo-masina rehetra, i Jesoa sy i Maria,<br>manolotra Anao ny foko sy ny fanahiko<br>izay Anao mihoatra noho ny ahy.<br>Amena.",
+      "imagen": "angelo"
+    },
+    {
+      "id": "18",
+      "nombre": "Fitsofan-drano alohan'ny dia",
+      "icono": "bendi",
+      "subtitulo": "Alohan'ny hanaovana dia tsy maninona ny manao vavaka toy izao.",
+      "contenido": "Amin'ny fitalahoan'i<br>Masina Maria dia mba hanana<br>(hanana, hanana, hanana) dia tsara anie izahay:<br>ny Tompo anie ho eo amin'ny lalantsika (lalako, lalanao, lalantsika)<br>ary ny Anjeliny hanaraka anay (ahy, anao, anareo).<br>Amin'ny anaran'ny Ray sy ny Zanaka ary ny Fanahy Masina.<br>Amena.",
+      "imagen": "viajero"
+    },
+    {
+      "id": "19",
+      "nombre": "Fitsofan-drano ny latabatra",
+      "icono": "vino",
+      "subtitulo": "Tononina alohan'ny sakafo tsirairay hisaorana an'Andriamanitra noho ny hanina.",
+      "contenido": "Tahio izahay, ry Tompo,<br>ary tahio izao hanina<br>izay tamin'ny fahasoavanao<br>no horaisinay.<br>Tamin'ny alalan'i Jesoa Kristy Tompontsika.<br>Amena<br>V. Ny Mpanjakan'ny voninahitra mandrakizay anie hampandray anay amin'ny<br>latabatra an-danitra.<br>R. Amena.<br>V. Amin'ny anaran'ny Ray, ny Zanaka ary ny Fanahy Masina.<br>R. Amena.",
+      "imagen": "mesa"
+    }
+  ]
 }
