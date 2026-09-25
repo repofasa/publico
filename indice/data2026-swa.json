@@ -74,9 +74,9 @@
         },
         {
             "titulo": "Oktoba",
-            "subtitulo": "Bado Haijapatikana",
+            "subtitulo": "Inapatikana",
             "contenido": "2026/octubre2026-swa",
-            "activo": "no",
+            "activo": "si",
             "imagen": "octubre",
             "id": "10"
         },

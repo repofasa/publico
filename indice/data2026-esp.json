@@ -74,9 +74,9 @@
         },
         {
             "titulo": "Octubre de",
-            "subtitulo": "No Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/octubre2026",
-            "activo": "no",
+            "activo": "si",
             "imagen": "octubre",
             "id": "10"
         },

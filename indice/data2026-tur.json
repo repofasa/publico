@@ -74,9 +74,9 @@
         },
         {
             "titulo": "Ekim",
-            "subtitulo": "Kullanım dışı",
+            "subtitulo": "Mevcut",
             "contenido": "2026/octubre2026-tur",
-            "activo": "no",
+            "activo": "si",
             "imagen": "octubre",
             "id": "10"
         },

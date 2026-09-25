@@ -74,9 +74,9 @@
         },
         {
             "titulo": "Deireadh Fómhair",
-            "subtitulo": "Non Disponibile",
+            "subtitulo": "Ar Fáil",
             "contenido": "2026/octubre2026-irl",
-            "activo": "no",
+            "activo": "si",
             "imagen": "octubre",
             "id": "10"
         },
