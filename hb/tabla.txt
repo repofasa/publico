@@ -1,0 +1,115 @@
+ada       Dangme
+af        Afrikaans
+am        አማርኛ
+as        অসমীয়া
+az-cyrl   Aзәрбајҹан (кирил әлифбасы)
+bcl       Bicol
+bem       Cibemba
+bn        বাংলা
+cat       català
+ceb       Cebuano
+cjk       Chokwe
+cmn-hant  中文繁體（國語）
+crs       Kreol Seselwa
+cv        чӑвашла
+de        Deutsch
+dhv       Drehu
+dyu       Jula
+ee        Eʋegbe
+efi       Efịk
+en        English
+es        español
+et        eesti
+fa        فارسی
+fi        suomi
+fj        vakaViti
+fo        Føroyskt
+fr        Français
+guc       Wayuunaiki
+gug       guarani
+guw       Gungbe
+hi        हिंदी
+hil       Hiligaynon
+hmn       Hmoob Dawb
+ho        Hiri Motu
+ht        Kreyòl ayisyen
+id        Indonesia
+ig        Igbo
+ilo       Iloko
+iso       Isoko
+it        Italiano
+ka        ქართული
+kek       q’eqchi’
+ki        Gĩkũyũ
+kj        Oshikwanyama
+kk        қазақ
+kl        Kalaallisut
+kln       Kalenjin
+kn        ಕನ್ನಡ
+ko        한국어
+kqn       Kikaonde
+kss       Kisiei
+ksw       ကညီ(စှီၤ)ကျိာ်
+kwy       Kikongo
+lu        Kiluba
+luo       Dholuo
+lus       Mizo
+lv        latviešu
+mam       mam
+mco       ayuk
+men       Mɛnde
+mk        македонски
+ml        മലയാളം
+mos       Moore
+mr        मराठी
+ms        Melayu
+my        မြန်မာ
+ne        नेपाली
+ng        Oshindonga
+niu       Faka-Niue
+nl        Nederlands
+ny        Chichewa
+nyk       Nyaneka
+nzi       Nzema
+om        Afaan Oromoo
+pag       Pangasinan
+pis       Solomon Islands Pidgin
+pt        Português (Brasil)
+quz       quechua (Cusco)
+rar       Kuki Airani
+run       Ikirundi
+rw        Ikinyarwanda
+sg        Sango
+si        සිංහල
+sid       Sidaamu Afoo
+sm        Faa-Samoa
+sq        shqip
+sr-cyrl   српски (ћирилица)
+srn       Sranantongo
+st        Sesotho (Lesotho)
+sv        slovenščina
+sw        Kiswahili
+ta        தமிழ்
+te        తెలుగు
+tg        тоҷикӣ
+th        ไทย
+tiv       Tiv
+tl        Tagalog
+tn        Setswana
+to        Faka-Tonga
+tpi       Tok Pisin
+tr        Türkçe
+tsc       ciTshwa
+ttj       Rutoro
+tum       Chitumbuka
+tw        Twi
+tyv       тыва
+ug-cyrl   Уйғур (кирилл йезиғи)
+umb       Umbundu
+uz-cyrl   ўзбекча
+war       Waray-Waray
+wls       Faka'uvea
+wo        Wolof
+yao       Chiyao
+yo        Yorùbá
+zu        IsiZulu
