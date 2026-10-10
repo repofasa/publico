@@ -77,5 +77,6 @@
   "76": "Downloading audio...",
   "77": "You need a connection to download",
   "78": "Delete download",
-  "79": "Press back again to exit"
+  "79": "Press back again to exit",
+  "80": "Language changed to %s."
 }
