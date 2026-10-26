@@ -82,9 +82,9 @@
         },
         {
             "titulo": "Novembre",
-            "subtitulo": "Pas Disponible",
+            "subtitulo": "Disponible",
             "contenido": "2026/noviembre2026-fra",
-            "activo": "no",
+            "activo": "si",
             "imagen": "noviembre",
             "id": "11"
         },

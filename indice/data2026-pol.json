@@ -82,9 +82,9 @@
         },
         {
             "titulo": "Listopada",
-            "subtitulo": "Niedostępne",
+            "subtitulo": "Dostępny",
             "contenido": "2026/noviembre2026-pol",
-            "activo": "no",
+            "activo": "si",
             "imagen": "noviembre",
             "id": "11"
         },

@@ -82,9 +82,9 @@
         },
         {
             "titulo": "Novambra",
-            "subtitulo": "Tsy Misy",
+            "subtitulo": "Available",
             "contenido": "2026/noviembre2026-mal",
-            "activo": "no",
+            "activo": "si",
             "imagen": "noviembre",
             "id": "11"
         },
